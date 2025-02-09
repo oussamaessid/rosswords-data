@@ -1,0 +1,218 @@
+{
+  "levels": [
+    [
+      {
+        "answer": "OSTEO",
+        "hint": "Relatif aux os.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+          "answer": "DOS",
+          "hint": "Partie postérieure du tronc.",
+          "startx": 3,
+          "starty": 2,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "ATOME",
+          "hint": "Unité de base de la matière.",
+          "startx": 5,
+          "starty": 2,
+          "orientation": "down",
+          "position": 3
+        },
+        {
+          "answer": "FONGUS",
+          "hint": "Champignon microscopique.",
+          "startx": 7,
+          "starty": 2,
+          "orientation": "down",
+          "position": 4
+        }
+      ],
+      [
+        {
+          "answer": "PRUR",
+          "hint": "Prurit, démangeaison.",
+          "startx": 3,
+          "starty": 4,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "TREMOR",
+          "hint": "Mouvements involontaires et rythmiques.",
+          "startx": 4,
+          "starty": 3,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "MYALGIE",
+          "hint": "Douleur musculaire.",
+          "startx": 4,
+          "starty": 6,
+          "orientation": "across",
+          "position": 3
+        }
+    ],
+    [
+        {
+          "answer": "EMET",
+          "hint": "Qui provoque le vomissement.",
+          "startx": 2,
+          "starty": 4,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "STÉNO",
+          "hint": "Rétrécissement d'un conduit ou d'un vaisseau.",
+          "startx": 5,
+          "starty": 3,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "OLFACT",
+          "hint": "Relatif à l'odorat.",
+          "startx": 5,
+          "starty": 7,
+          "orientation": "across",
+          "position": 3
+        },
+        {
+          "answer": "PLÂTRE",
+          "hint": "Matériau utilisé pour immobiliser une fracture.",
+          "startx": 10,
+          "starty": 4,
+          "orientation": "down",
+          "position": 4
+        }
+      ],
+      [
+        {
+          "answer": "CUTANE",
+          "hint": "Relatif à la peau.",
+          "startx": 4,
+          "starty": 4,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "PLACEN",
+          "hint": "Organe assurant les échanges entre la mère et le fœtus.",
+          "startx": 7,
+          "starty": 2,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "CALCI",
+          "hint": "Minéral essentiel pour la formation des os et la contraction musculaire.",
+          "startx": 4,
+          "starty": 4,
+          "orientation": "down",
+          "position": 3
+        }
+      ],
+      [
+        {
+          "answer": "BANDAGE",
+          "hint": "Dispositif servant à maintenir un pansement ou immobiliser une partie du corps.",
+          "startx": 4,
+          "starty": 4,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "ANTIBIO",
+          "hint": "Médicament contre les infections bactériennes.",
+          "startx": 5,
+          "starty": 4,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "CHOC",
+          "hint": "Défaillance circulatoire aiguë.",
+          "startx": 3,
+          "starty": 10,
+          "orientation": "across",
+          "position": 3
+        }
+      ],
+      [
+        {
+          "answer": "MUSCLE",
+          "hint": "Tissu contractile permettant le mouvement.",
+          "startx": 4,
+          "starty": 2,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "UTERUS",
+          "hint": "Organe de la gestation.",
+          "startx": 5,
+          "starty": 2,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "PARASIT",
+          "hint": "Organisme vivant aux dépens d'un autre organisme.",
+          "startx": 3,
+          "starty": 5,
+          "orientation": "across",
+          "position": 3
+        },
+        {
+          "answer": "OTO",
+          "hint": "Relatif à l'oreille.",
+          "startx": 9,
+          "starty": 4,
+          "orientation": "down",
+          "position": 4
+        }
+      ],
+      [
+        {
+          "answer": "GANGL",
+          "hint": "Nœud du système lymphatique.",
+          "startx": 3,
+          "starty": 2,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "GLAUCO",
+          "hint": "Maladie de l'œil pouvant entraîner la cécité.",
+          "startx": 3,
+          "starty": 2,
+          "orientation": "down",
+          "position": 2
+        },
+        {
+          "answer": "VOMITO",
+          "hint": "Rejet du contenu de l'estomac.",
+          "startx": 2,
+          "starty": 7,
+          "orientation": "across",
+          "position": 3
+        },
+        {
+          "answer": "AMPLE",
+          "hint": "De grande étendue.",
+          "startx": 3,
+          "starty": 4,
+          "orientation": "across",
+          "position": 4
+        }
+      ]
+  ]
+}
