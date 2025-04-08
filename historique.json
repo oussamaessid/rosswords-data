@@ -2,8 +2,176 @@
   "levels": [
     [
       {
-        "answer": "ADENOÏDE",
-        "hint": "Végétations lymphoïdes situées dans le nasopharynx.",
+        "answer": "AZOTE",
+        "hint": "Élément chimique essentiel, composant des acides aminés et des bases azotées.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "THÉRAPIE",
+        "hint": "Traitement d'une maladie.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ENTORSE",
+        "hint": "Lésion des ligaments d'une articulation.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SIDA",
+        "hint": "Syndrome d'immunodéficience acquise, causé par le VIH.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "IRM",
+        "hint": "Imagerie par résonance magnétique, technique d'imagerie médicale utilisant les champs magnétiques.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "URGENCE",
+        "hint": "Situation médicale critique.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ESTOMAC",
+        "hint": "Organe de la digestion mécanique et chimique des aliments.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AREOLE",
+        "hint": "Zone pigmentée autour du mamelon.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "COQUE",
+        "hint": "Enveloppe rigide de certaines bactéries.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DOULEU",
+        "hint": "Sensation physique désagréable.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "INSULINE",
+        "hint": "Hormone régulant la glycémie.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "URINE",
+        "hint": "Liquide excrété par les reins contenant les déchets de l'organisme.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NÉPHRITE",
+        "hint": "Inflammation du rein.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NEPHRON",
+        "hint": "Unité fonctionnelle du rein, responsable de la filtration du sang et de la production d'urine.",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "GENE",
+        "hint": "Unité d'information héréditaire.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "NEVRITE",
+        "hint": "Inflammation d'un nerf.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ERUPTION",
+        "hint": "Apparition soudaine de lésions cutanées.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TRAUMA",
+        "hint": "Blessure physique ou psychologique.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "DROGUE",
+        "hint": "Substance psychoactive ou toxicomanogène.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "PULPE",
+        "hint": "Tissu mou à l'intérieur de la dent.",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RYTHME",
+        "hint": "Fréquence ou cadence régulière.",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
@@ -13,29 +181,29 @@
         "answer": "TENESME",
         "hint": "Besoin impérieux et douloureux d'aller à la selle ou d'uriner.",
         "startx": 3,
-        "starty": 0,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "URETERE",
-        "hint": "Conduit excréteur reliant le rein à la vessie.",
-        "startx": 1,
+        "answer": "NEURONE",
+        "hint": "Cellule nerveuse, unité fonctionnelle du système nerveux.",
+        "startx": 3,
         "starty": 3,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "MUSCLES",
-        "hint": "Tissus contractiles permettant le mouvement.",
-        "startx": 3,
+        "answer": "OSSEUX",
+        "hint": "Relatif aux os.",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "BRULUR",
-        "hint": "Lésion cutanée thermique.",
+        "answer": "PYLOR",
+        "hint": "Sphincter musculaire entre l'estomac et le duodénum.",
         "startx": 2,
         "starty": 2,
         "orientation": "down",
@@ -44,210 +212,294 @@
     ],
     [
       {
-        "answer": "THERAPIE",
-        "hint": "Traitement d'une maladie.",
+        "answer": "DRAIN",
+        "hint": "Dispositif pour évacuer un liquide organique.",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MACULE",
-        "hint": "Lésion cutanée plane et colorée.",
-        "startx": 5,
-        "starty": 0,
+        "answer": "ANXIÉTÉ",
+        "hint": "État émotionnel de nervosité, d'inquiétude ou de peur.",
+        "startx": 3,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AGENT",
-        "hint": "Substance ou facteur provoquant une réaction biologique.",
-        "startx": 3,
+        "answer": "SÉVÈRE",
+        "hint": "Grave, important.",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "COEUR",
-        "hint": "Organe musculaire central de la circulation sanguine.",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
+        "answer": "DERME",
+        "hint": "Couche profonde de la peau, sous l'épiderme.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "THYMIE",
-        "hint": "Humeur (préfixe).",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CHRONE",
-        "hint": "Qui dure longtemps, persistant (maladie chronique).",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COLIQUE",
-        "hint": "Douleur abdominale spasmodique.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INCISE",
-        "hint": "Couper avec un instrument tranchant.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CICATRI",
-        "hint": "Cicatrisation, processus de réparation tissulaire après une lésion.",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CLONE",
-        "hint": "Copie génétiquement identique d'une cellule ou d'un organisme.",
-        "startx": 0,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "RENAL",
-        "hint": "Relatif au rein.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MEDICAMENT",
-        "hint": "Substance ou composition destinée à prévenir, traiter ou soulager une maladie ou un symptôme.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BIOCHIMIE",
-        "hint": "Chimie du vivant, étude des molécules et réactions biologiques.",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "VÉSICULE",
-        "hint": "Petite ampoule remplie de liquide sur la peau.",
+        "answer": "RADIUS",
+        "hint": "Os de l'avant-bras.",
         "startx": 6,
-        "starty": 0,
+        "starty": 5,
         "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "TUMEUR",
-        "hint": "Masse anormale de tissu.",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
         "position": 5
       }
     ],
     [
       {
-        "answer": "NAUSEE",
-        "hint": "Envie de vomir.",
+        "answer": "PSYCHÉ",
+        "hint": "Ensemble des phénomènes mentaux conscients et inconscients.",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "HEPATITE",
-        "hint": "Inflammation du foie.",
+        "answer": "HORMO",
+        "hint": "Hormone, substance chimique messagère.",
         "startx": 5,
-        "starty": 0,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PLAQUETTE",
-        "hint": "Cellule sanguine intervenant dans la coagulation.",
-        "startx": 0,
+        "answer": "FIBRE",
+        "hint": "Filament constituant les tissus.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "OVULE",
+        "hint": "Cellule reproductrice féminine.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RESINE",
+        "hint": "Substance solide ou semi-solide sécrétée par des plantes.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "IMPLANT",
+        "hint": "Dispositif médical inséré dans le corps.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POLYPE",
+        "hint": "Excroissance anormale d'une muqueuse.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EXOCRI",
+        "hint": "Relatif aux glandes exocrines et à leurs sécrétions.",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SÉPSIS",
+        "hint": "Réaction inflammatoire généralisée sévère à une infection.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "LYSE",
+        "hint": "Destruction cellulaire.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "SYMPTOME",
+        "hint": "Manifestation subjective ou objective d'une maladie.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SERUM",
+        "hint": "Partie liquide du sang débarrassée des éléments figurés et du fibrinogène.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ECZEMA",
+        "hint": "Dermatose inflammatoire non contagieuse.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GLANDES",
+        "hint": "Organes sécrétant des substances comme les hormones ou les enzymes.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "PHLEBO",
+        "hint": "Veine (préfixe).",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CARDIAQUE",
+        "hint": "Relatif au cœur.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "INFECTIEUX",
+        "hint": "Provoqué par une infection.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LOBE",
+        "hint": "Partie d'un organe (poumon, cerveau, etc.).",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "NEVRALG",
+        "hint": "Névralgie, douleur siégeant sur le trajet d'un nerf.",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ANTICOR",
+        "hint": "Protéine neutralisant un antigène.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "AMPUTER",
+        "hint": "Retirer chirurgicalement un membre ou une partie de celui-ci.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TUBERCULE",
+        "hint": "Maladie infectieuse bactérienne chronique affectant principalement les poumons.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ŒDÈME",
+        "hint": "Gonflement des tissus dû à une accumulation de liquide.",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "AMIBE",
+        "hint": "Protozoaire unicellulaire parasite ou libre.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CARDIAC",
+        "hint": "Relatif au cœur.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "HEPATIQ",
+        "hint": "Relatif au foie.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TOXIQUE",
+        "hint": "Qui est nuisible ou mortel par son action chimique.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NEF",
+        "hint": "Reins (terme anatomique).",
+        "startx": 4,
         "starty": 7,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "NEF",
-        "hint": "Reins (terme anatomique).",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "VIRUS",
-        "hint": "Agent infectieux microscopique nécessitant une cellule hôte pour se répliquer.",
+        "answer": "VISCERE",
+        "hint": "Organe interne situé dans les cavités abdominale, thoracique ou pelvienne.",
         "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "NEVRALGIE",
-        "hint": "Douleur nerveuse.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PRONE",
-        "hint": "Position allongée sur le ventre.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ABCES",
-        "hint": "Collection de pus dans une cavité ou un tissu organique.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SANG",
-        "hint": "Liquide biologique rouge circulant dans les vaisseaux sanguins.",
-        "startx": 5,
-        "starty": 5,
+        "starty": 4,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "GLAUCOM",
-        "hint": "Glaucome, maladie oculaire affectant le nerf optique.",
-        "startx": 6,
-        "starty": 3,
+        "answer": "AVC",
+        "hint": "Accident vasculaire cérébral, interruption de la circulation sanguine cérébrale.",
+        "startx": 4,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       }
@@ -262,1504 +514,76 @@
         "position": 1
       },
       {
-        "answer": "FECAL",
-        "hint": "Relatif aux matières fécales.",
-        "startx": 7,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GENOU",
-        "hint": "Articulation entre la cuisse et la jambe.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "DOME",
-        "hint": "Structure anatomique arrondie et saillante.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RECTUM",
-        "hint": "Portion terminale du gros intestin, avant l'anus.",
-        "startx": 0,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "INFARCTUS",
-        "hint": "Nécrose d'un tissu due à un manque d'apport sanguin.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GANGLION",
-        "hint": "Nœud lymphatique.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PHAGE",
-        "hint": "Qui mange, qui détruit (suffixe).",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ANTIGE",
-        "hint": "Substance reconnue par le système immunitaire.",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ALVÉOLE",
-        "hint": "Petite cavité, notamment les sacs aériens des poumons.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BIPOLAIRE",
-        "hint": "Trouble mental caractérisé par des variations de l'humeur extrêmes.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "VALVE",
-        "hint": "Structure contrôlant le flux d'un liquide.",
-        "startx": 6,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ARN",
-        "hint": "Acide ribonucléique, impliqué dans la synthèse des protéines.",
-        "startx": 8,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GLAUCOME",
-        "hint": "Maladie oculaire affectant le nerf optique.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PEDIATRIE",
-        "hint": "Spécialité médicale s'intéressant à l'enfant.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PSYCHO",
-        "hint": "Relatif à la psychologie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FOIE",
-        "hint": "Glande volumineuse assurant des fonctions vitales, notamment métaboliques et de détoxification.",
-        "startx": 6,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GONADE",
-        "hint": "Glande sexuelle (testicule ou ovaire).",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MARQUE",
-        "hint": "Nom commercial d'un médicament.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "VULVE",
-        "hint": "Organes génitaux externes féminins.",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "COTE",
-        "hint": "Os plat et arqué formant la cage thoracique.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CHIRUR",
-        "hint": "Branche médicale opératoire.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SERUM",
-        "hint": "Partie liquide du sang débarrassée des éléments figurés et du fibrinogène.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ARTICULE",
-        "hint": "Jonction entre deux ou plusieurs os, permettant le mouvement.",
-        "startx": 0,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ERITEME",
-        "hint": "Rougeur de la peau.",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BOULIMIE",
-        "hint": "Trouble du comportement alimentaire caractérisé par des crises de boulimie et des comportements compensatoires.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OESOPHAGE",
-        "hint": "Conduit musculaire reliant le pharynx à l'estomac, permettant la progression des aliments.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PHARYNGITE",
-        "hint": "Inflammation du pharynx (gorge).",
-        "startx": 0,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BACTÉ",
-        "hint": "Abréviation courante de bactérie. Micro-organisme unicellulaire procaryote.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "AGEUSIE",
-        "hint": "Perte ou diminution du goût.",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "EMPYÈME",
-        "hint": "Accumulation de pus dans une cavité naturelle du corps.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SYMPTO",
-        "hint": "Manifestation subjective d'une maladie.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHOLÉRA",
-        "hint": "Infection intestinale bactérienne aiguë provoquant une diarrhée sévère.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "VERTIGO",
-        "hint": "Vertige.",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RHINO",
-        "hint": "Nez (préfixe).",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "DIGITE",
-        "hint": "Doigt ou orteil.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DENDRITE",
-        "hint": "Prolongement d'un neurone recevant les informations.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TESTICULE",
-        "hint": "Glande génitale masculine produisant les spermatozoïdes et les hormones sexuelles.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ZIKA",
-        "hint": "Arbovirose virale transmise par les moustiques, dangereuse pour les femmes enceintes.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "OBESE",
-        "hint": "Surpoids important.",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ISCHÉMIE",
-        "hint": "Diminution de l'apport sanguin à un tissu ou un organe.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "THYMUS",
-        "hint": "Organe lymphoïde situé dans le thorax, important pour la maturation des lymphocytes T.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DIALYSE",
-        "hint": "Séparation des substances dissoutes dans un liquide par membrane.",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "AUTISME",
-        "hint": "Trouble du développement neurologique affectant la communication et les interactions sociales.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "NERF",
-        "hint": "Structure transmettant les informations nerveuses.",
-        "startx": 8,
-        "starty": 0,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CLAVICULE",
-        "hint": "Os allongé reliant le sternum à l'omoplate.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EDEME",
-        "hint": "Gonflement dû à l'accumulation de liquide dans les tissus.",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "XANTHO",
-        "hint": "Jaune (préfixe).",
-        "startx": 3,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FLORE",
-        "hint": "Ensemble des micro-organismes vivant dans un milieu donné.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CŒUR",
-        "hint": "Organe musculaire central de la circulation sanguine, pompant le sang dans tout le corps.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "HÉPATITE",
-        "hint": "Inflammation du foie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TENIA",
-        "hint": "Bandelette fibreuse ou musculaire.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CRÂNE",
-        "hint": "Boîte osseuse protégeant le cerveau.",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NAUSÉE",
-        "hint": "Envie de vomir.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MAIN",
-        "hint": "Extrémité du bras permettant la préhension.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "DEXTRE",
-        "hint": "Qui est situé à droite.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ODONTO",
-        "hint": "Relatif aux dents (préfixe).",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ANESTHESIE",
-        "hint": "Perte de sensibilité, notamment à la douleur.",
-        "startx": 0,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "INFECTIEUX",
-        "hint": "Provoqué par une infection.",
-        "startx": 9,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RÉCIDIVE",
-        "hint": "Réapparition d'une maladie après une période de rémission.",
-        "startx": 8,
-        "starty": 0,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "RESPIRAT",
-        "hint": "Relatif à la respiration.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PYROSIS",
-        "hint": "Sensation de brûlure derrière le sternum, remontée acide.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INFLUX",
-        "hint": "Impulsion nerveuse ou électrique.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "STOMIE",
-        "hint": "Abouchement chirurgical d'un organe creux à la peau.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ANALE",
-        "hint": "Relatif à l'anus.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ASEPSIE",
-        "hint": "Ensemble des mesures pour prévenir l'infection.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PAPILLA",
-        "hint": "Petite éminence ou projection.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INTESTIN",
-        "hint": "Partie du tube digestif entre l'estomac et l'anus.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RADIUS",
-        "hint": "Os de l'avant-bras.",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "OREILL",
-        "hint": "Organe de l'ouïe et de l'équilibre.",
-        "startx": 0,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "DERMITE",
-        "hint": "Inflammation de la peau.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "METATARSE",
-        "hint": "Os du milieu du pied, entre le tarse et les phalanges.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHEVILLE",
-        "hint": "Articulation reliant la jambe au pied.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "PNEUMONIE",
-        "hint": "Infection des poumons.",
-        "startx": 9,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DIABETE",
-        "hint": "Trouble de la régulation de la glycémie par l'insuline.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "SIDA",
-        "hint": "Syndrome d'immunodéficience acquise, causé par le VIH.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GASTRO",
-        "hint": "Relatif à l'estomac.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INFLAMMER",
-        "hint": "Provoquer une inflammation.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "AILE",
-        "hint": "Partie anatomique en forme d'aile.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "UTERUS",
-        "hint": "Organe de la gestation chez la femme.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MALLEOLE",
-        "hint": "Saillie osseuse à la cheville.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DEMENTIA",
-        "hint": "Démence, détérioration progressive des fonctions cognitives.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ÉTHIQUE",
-        "hint": "Ensemble de principes moraux guidant la pratique médicale.",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SOMAT",
-        "hint": "Corps (préfixe).",
-        "startx": 6,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HUMERUS",
-        "hint": "Os du bras, reliant l'épaule au coude.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CALCANEUM",
-        "hint": "Os du talon.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NÉCROSE",
-        "hint": "Mort des cellules ou des tissus.",
+        "answer": "STERNUM",
+        "hint": "Os plat situé au milieu de la poitrine.",
         "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AIGU",
-        "hint": "Apparition soudaine et de courte durée (maladie).",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GLYCEMIE",
-        "hint": "Taux de glucose dans le sang.",
+        "answer": "JAUNISSE",
+        "hint": "Voir ICTÈRE.",
         "startx": 3,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ENTORSE",
-        "hint": "Lésion des ligaments d'une articulation.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "HEPATIQ",
-        "hint": "Relatif au foie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SEBUM",
-        "hint": "Sécrétion grasse de la peau.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TEMPORAL",
-        "hint": "Relatif à la tempe ou au temps.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ZONE",
-        "hint": "Région anatomique spécifique.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CANINE",
-        "hint": "Dent pointue, située entre les incisives et les prémolaires.",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PROGNO",
-        "hint": "Pronostic, prévision de l'évolution d'une maladie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OBESITE",
-        "hint": "Excès de poids corporel dû à une accumulation de graisse.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PSORIASIS",
-        "hint": "Maladie inflammatoire chronique de la peau caractérisée par des plaques rouges et squameuses.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GLAUCO",
-        "hint": "Couleur bleu-vert (préfixe).",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ILÉUS",
-        "hint": "Arrêt du transit intestinal.",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MYOCARDE",
-        "hint": "Muscle cardiaque.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "VARUS",
-        "hint": "Déviation d'un membre vers l'intérieur.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HORMO",
-        "hint": "Hormone, substance chimique messagère.",
-        "startx": 3,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "NEVRAL",
-        "hint": "Relatif aux nerfs.",
-        "startx": 8,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SYSTEM",
-        "hint": "Ensemble d'organes coordonnés.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ENDOCRI",
-        "hint": "Relatif aux glandes endocrines et aux hormones.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SINUSITE",
-        "hint": "Inflammation des sinus paranasaux.",
-        "startx": 7,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BACTER",
-        "hint": "Micro-organisme unicellulaire procaryote.",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NEVROSE",
-        "hint": "Trouble mental moins grave que la psychose, n'altérant pas fondamentalement la perception de la réalité.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "VARICELLE",
-        "hint": "Maladie infantile contagieuse causée par le virus varicelle-zona.",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PHASE",
-        "hint": "Étape d'un processus ou maladie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MELANOME",
-        "hint": "Cancer de la peau développé à partir des mélanocytes.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "OLEO",
-        "hint": "Relatif à l'huile (préfixe).",
-        "startx": 5,
         "starty": 5,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "OSSEUX",
-        "hint": "Relatif aux os.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HEMATOSE",
-        "hint": "Processus d'échange gazeux entre l'air alvéolaire et le sang.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "DÉLIRE",
-        "hint": "Trouble de la pensée caractérisé par des idées fausses et incohérentes.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TIA",
-        "hint": "Accident ischémique transitoire, interruption temporaire de la circulation sanguine cérébrale.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SÉDATION",
-        "hint": "Diminution de l'activité nerveuse, apaisement.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CAL",
-        "hint": "Tissu osseux réparateur après une fracture.",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "COR",
-        "hint": "Excroissance dure de la peau, souvent sur les pieds.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "NEPHRO",
-        "hint": "Relatif au rein (préfixe).",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "URINAIRE",
-        "hint": "Relatif à l'appareil urinaire.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MENINGE",
+        "answer": "MÉNINGE",
         "hint": "Membrane enveloppant le cerveau et la moelle épinière.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "URGENCE",
-        "hint": "Situation médicale critique.",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BASE",
-        "hint": "Substance au pH supérieur à 7.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ANTICORP",
-        "hint": "Protéine du système immunitaire neutralisant les antigènes.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PELVIS",
-        "hint": "Bassin osseux.",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COMA",
-        "hint": "État de perte de conscience profonde et prolongée.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LEUCEMIE",
-        "hint": "Cancer des cellules sanguines, en particulier des globules blancs.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ARTERES",
-        "hint": "Vaisseaux sanguins transportant le sang du cœur vers les organes.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "TISSU",
-        "hint": "Ensemble de cellules de même nature remplissant une fonction.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DIPHTÉRIE",
-        "hint": "Infection bactérienne grave des voies respiratoires supérieures.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CILIAIRE",
-        "hint": "Relatif aux cils ou aux corps ciliaires de l'œil.",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MYALGIE",
-        "hint": "Douleur musculaire.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "COECUM",
-        "hint": "Première partie du côlon.",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "VERTIGE",
-        "hint": "Sensation de rotation ou de déséquilibre.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ESTOMAC",
-        "hint": "Organe de la digestion mécanique et chimique des aliments.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EPILEPS",
-        "hint": "Épilepsie, affection neurologique caractérisée par des crises convulsives.",
         "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "VOMER",
-        "hint": "Os du nez.",
-        "startx": 1,
-        "starty": 1,
+        "starty": 2,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "MÉLOME",
-        "hint": "Tumeur maligne de la peau développée à partir des mélanocytes.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CARTILAG",
-        "hint": "Cartilage, tissu conjonctif souple et résistant présent dans les articulations.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "IRIS",
-        "hint": "Partie colorée de l'œil.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CATABO",
-        "hint": "Processus de dégradation moléculaire.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ALVEOLE",
-        "hint": "Petite cavité, notamment pulmonaire, où se font les échanges gazeux.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RESPIRA",
-        "hint": "Relatif à la respiration.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "RAPHE",
-        "hint": "Ligne de jonction de deux parties anatomiques.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CERVEAU",
-        "hint": "Centre de contrôle du système nerveux.",
-        "startx": 5,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BULLE",
-        "hint": "Lésion cutanée remplie de liquide.",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MALADIE",
-        "hint": "Altération de la santé.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "STERNO",
-        "hint": "Relatif au sternum (préfixe).",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CARTILAGE",
-        "hint": "Tissu conjonctif souple et résistant.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LUXATION",
-        "hint": "Déplacement anormal des surfaces articulaires d'une articulation.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GLOME",
-        "hint": "Structure anatomique arrondie.",
+        "answer": "SYSTÈME",
+        "hint": "Ensemble d'organes concourant à une fonction.",
         "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "STADE",
-        "hint": "Degré d'avancement d'une maladie, notamment cancéreuse.",
-        "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "AMPUTER",
-        "hint": "Retirer chirurgicalement un membre ou une partie de celui-ci.",
-        "startx": 2,
-        "starty": 1,
+        "starty": 3,
         "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "SÉQUELLE",
-        "hint": "Conséquence à long terme d'une maladie ou d'un traumatisme.",
+        "answer": "MIGRAI",
+        "hint": "Céphalée intense récurrente.",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ÉPINE",
-        "hint": "Processus osseux pointu ou petite structure pointue.",
-        "startx": 2,
+        "answer": "ADENOIDE",
+        "hint": "Végétations lymphoïdes du nasopharynx.",
+        "startx": 5,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "GLANDE",
-        "hint": "Organe sécrétant des substances.",
-        "startx": 6,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CRANE",
-        "hint": "Boîte osseuse protégeant le cerveau.",
-        "startx": 4,
+        "answer": "ABDOMEN",
+        "hint": "Partie du corps contenant les organes digestifs.",
+        "startx": 3,
         "starty": 2,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "OSMOSE",
-        "hint": "Processus de diffusion de l'eau à travers une membrane semi-perméable.",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "LESION",
-        "hint": "Altération pathologique d'un tissu ou d'un organe.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CECAL",
-        "hint": "Relatif au caecum.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SYNCOPE",
-        "hint": "Perte de conscience brutale et brève.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "RISQUE",
-        "hint": "Probabilité d'un événement néfaste.",
+        "answer": "ANODE",
+        "hint": "Électrode positive.",
         "startx": 4,
-        "starty": 0,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ULCERE",
-        "hint": "Lésion de la peau ou d'une muqueuse avec perte de substance.",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ANTIBIO",
-        "hint": "Médicament antibactérien.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ANATOMIE",
-        "hint": "Étude de la structure du corps.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PARO",
-        "hint": "Accouchement (préfixe).",
-        "startx": 0,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MYOME",
-        "hint": "Tumeur bénigne du muscle, souvent utérin.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ENTERO",
-        "hint": "Relatif à l'intestin.",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "URTICAIRE",
-        "hint": "Réaction cutanée allergique caractérisée par des plaques rouges et des démangeaisons.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ERYTHEME",
-        "hint": "Rougeur de la peau.",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PAPULE",
-        "hint": "Lésion cutanée en relief, petite et solide.",
-        "startx": 6,
-        "starty": 0,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HÉMATOME",
-        "hint": "Collection de sang dans les tissus suite à une rupture de vaisseaux.",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "AURICULE",
-        "hint": "Pavillon de l'oreille externe.",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "FONTE",
-        "hint": "Diminution de la masse musculaire ou osseuse.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ROUGEOLE",
-        "hint": "Maladie infantile virale très contagieuse avec éruption cutanée.",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DOSAGE",
-        "hint": "Quantité de médicament administrée.",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NEPHRON",
-        "hint": "Unité fonctionnelle du rein, responsable de la filtration du sang et de la production d'urine.",
-        "startx": 1,
         "starty": 4,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "ORL",
-        "hint": "Oto-rhino-laryngologie, spécialité médicale s'intéressant à l'oreille, au nez et à la gorge.",
-        "startx": 1,
-        "starty": 0,
+        "answer": "TENDON",
+        "hint": "Cordon fibreux reliant un muscle à un os.",
+        "startx": 4,
+        "starty": 3,
         "orientation": "across",
         "position": 5
       }
