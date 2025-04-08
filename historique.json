@@ -2,40 +2,40 @@
   "levels": [
     [
       {
-        "answer": "Quelle langue parlaient les Romains de l'Antiquité ?",
-        "hint": "Latin",
+        "answer": "Constantin",
+        "hint": "Quel empereur romain a mis fin aux persécutions des chrétiens?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Comment s'appelaient les guerres entre chrétiens et musulmans pour la Terre sainte ?",
-        "hint": "Les Croisades",
+        "answer": "Rome",
+        "hint": "Quel était le nom de la capitale de l'Empire romain ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale ?",
-        "hint": "Franklin D. Roosevelt",
+        "answer": "Vespasien",
+        "hint": "Quel empereur romain a fait construire le Colisée de Rome?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Dans quelle ville se trouve la Tour Eiffel ?",
-        "hint": "Paris",
+        "answer": "Aristote",
+        "hint": "Qui était le philosophe grec, maître d'Alexandre le Grand ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quelle civilisation antique a construit le Colisée?",
-        "hint": "Les Romains",
+        "answer": "Auguste",
+        "hint": "Qui fut le premier empereur romain?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -44,40 +44,40 @@
     ],
     [
       {
-        "answer": "Quel célèbre homme politique a lutté contre l'apartheid en Afrique du Sud?",
-        "hint": "Nelson Mandela",
+        "answer": "Magellan",
+        "hint": "Quel célèbre explorateur a fait le tour du monde en bateau?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était le premier roi des Francs?",
-        "hint": "Clovis",
+        "answer": "1969",
+        "hint": "En quelle année le premier homme a-t-il marché sur la Lune ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel roi anglais a signé la Magna Carta?",
-        "hint": "Jean sans Terre",
+        "answer": "Socrate",
+        "hint": "Quel est le nom du célèbre philosophe grec connu pour sa méthode de questionnement?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était le roi des Francs couronné empereur en l'an 800?",
-        "hint": "Charlemagne",
+        "answer": "Socrate",
+        "hint": "Comment s'appelait le plus célèbre philosophe grec ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui a été le premier homme sur la lune?",
-        "hint": "Neil Armstrong",
+        "answer": "Socrate",
+        "hint": "Quel philosophe grec est connu pour sa méthode de questionnement?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -86,40 +86,40 @@
     ],
     [
       {
-        "answer": "Quel est le nom de la célèbre bataille en 1815 qui a marqué la fin du règne de Napoléon ?",
-        "hint": "Waterloo",
+        "answer": "Auguste",
+        "hint": "Comment s'appelait le premier empereur romain ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui a inventé l'imprimerie?",
-        "hint": "Johannes Gutenberg",
+        "answer": "Cléopâtre",
+        "hint": "Comment s'appelait une reine d'Égypte célèbre?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qu'est-ce que la Déclaration des droits de l'homme?",
-        "hint": "Un texte important sur les droits humains",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte connue pour sa beauté?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "En quelle année le mur de Berlin est-il tombé ?",
-        "hint": "1989",
+        "answer": "1989",
+        "hint": "En quelle année est tombé le mur de Berlin?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel empereur français a été vaincu à Waterloo ?",
-        "hint": "Napoléon Bonaparte",
+        "answer": "Hitler",
+        "hint": "Qui était le chef nazi pendant la Seconde Guerre mondiale?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -128,40 +128,40 @@
     ],
     [
       {
-        "answer": "Quel type de guerres ont été les Croisades ?",
-        "hint": "Religieuses",
+        "answer": "France",
+        "hint": "Dans quel pays se trouve la Tour Eiffel ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui a marché sur la Lune en premier ?",
-        "hint": "Neil Armstrong",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte, célèbre pour sa beauté?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quelle civilisation antique a construit les pyramides d'Égypte ?",
-        "hint": "Les Égyptiens",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte célèbre pour sa beauté et sa relation avec Jules César et Marc Antoine ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a construit la Grande Muraille de Chine?",
-        "hint": "La Chine",
+        "answer": "Waterloo",
+        "hint": "Quel est le nom de la célèbre bataille en 1815 qui a marqué la fin du règne de Napoléon ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel événement marquant de 1789 s'est passé en France ?",
-        "hint": "La Révolution française",
+        "answer": "Galilée",
+        "hint": "Quel scientifique a observé les étoiles avec une lunette astronomique ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -170,40 +170,40 @@
     ],
     [
       {
-        "answer": "En quel siècle a eu lieu la Révolution française ?",
-        "hint": "XVIIIe siècle",
+        "answer": "1789",
+        "hint": "En quelle année a commencé la Révolution française ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel était le nom de la dernière reine d'Égypte ?",
-        "hint": "Cléopâtre",
+        "answer": "Rome",
+        "hint": "Quelle était la capitale de l'Empire romain ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quelle invention marque la Révolution industrielle?",
-        "hint": "La machine à vapeur",
+        "answer": "1989",
+        "hint": "En quelle année a eu lieu la chute du Mur de Berlin ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel célèbre scientifique a formulé la théorie de la relativité ?",
-        "hint": "Albert Einstein",
+        "answer": "1789",
+        "hint": "En quelle année la Bastille a-t-elle été prise, marquant le début de la Révolution française ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel artiste a peint la Joconde ?",
-        "hint": "Léonard de Vinci",
+        "answer": "Internet",
+        "hint": "Comment s'appelle le réseau mondial d'ordinateurs ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -212,40 +212,40 @@
     ],
     [
       {
-        "answer": "Quel siècle a vu la Révolution industrielle?",
-        "hint": "Le 19ème siècle",
+        "answer": "Clovis",
+        "hint": "Quel roi franc s'est converti au christianisme ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Comment s'appelaient les routes construites par les Romains?",
-        "hint": "Voies romaines",
+        "answer": "1066",
+        "hint": "En quelle année a eu lieu la bataille d'Hastings ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Au cours de quel siècle s'est déroulée la Révolution française?",
-        "hint": "XVIIIe siècle",
+        "answer": "Égypte",
+        "hint": "Dans quel pays se trouvent les pyramides de Gizeh ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était la dernière reine d'Égypte?",
-        "hint": "Cléopâtre",
+        "answer": "Clovis",
+        "hint": "Comment s'appelait le roi des Francs qui s'est fait baptiser?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Comment s'appelait le célèbre chevalier de la Table Ronde ?",
-        "hint": "Lancelot",
+        "answer": "Vespasien",
+        "hint": "Quel célèbre empereur romain a fait construire le Colisée?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -254,40 +254,40 @@
     ],
     [
       {
-        "answer": "Comment s'appelait le bateau de Christophe Colomb lors de son premier voyage?",
-        "hint": "Santa Maria",
+        "answer": "Internet",
+        "hint": "Quel réseau mondial relie les ordinateurs entre eux?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel explorateur a découvert la route maritime vers l'Inde en contournant l'Afrique ?",
-        "hint": "Vasco de Gama",
+        "answer": "Platon",
+        "hint": "Quel philosophe grec était l'élève de Socrate?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel événement a marqué la fin de la Seconde Guerre Mondiale en 1945 en Europe?",
-        "hint": "Capitulation de l'Allemagne",
+        "answer": "1914",
+        "hint": "En quelle année a débuté la Première Guerre mondiale ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Comment s'appelait le mur qui séparait Berlin pendant la Guerre froide ?",
-        "hint": "Le Mur de Berlin",
+        "answer": "Grèce",
+        "hint": "Dans quel pays antique se déroulaient les Jeux Olympiques?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était la reine d'Égypte antique connue pour sa beauté?",
-        "hint": "Cléopâtre",
+        "answer": "1989",
+        "hint": "En quelle année le Mur de Berlin est-il tombé ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -296,40 +296,40 @@
     ],
     [
       {
-        "answer": "Où se sont déroulés les premiers Jeux Olympiques ?",
-        "hint": "En Grèce",
+        "answer": "1969",
+        "hint": "En quelle année l'homme a-t-il marché pour la première fois sur la Lune?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui dirigeait l'Union Soviétique pendant la Seconde Guerre mondiale ?",
-        "hint": "Staline",
+        "answer": "Mayflower",
+        "hint": "Quel était le nom du navire des Pèlerins vers l'Amérique?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Dans quelle ville se trouve le Colisée ?",
-        "hint": "Rome",
+        "answer": "Napoléon",
+        "hint": "Quel empereur français a perdu à Waterloo ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Comment s'appelaient les guerriers scandinaves qui ont exploré et pillé l'Europe ?",
-        "hint": "Les Vikings",
+        "answer": "Chevaliers",
+        "hint": "Comment appelait-on les guerriers à cheval au Moyen-Âge?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel célèbre empereur romain a construit un mur en Grande-Bretagne?",
-        "hint": "Hadrien",
+        "answer": "Staline",
+        "hint": "Qui était le dirigeant de l'Union soviétique pendant la Seconde Guerre mondiale ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -338,40 +338,40 @@
     ],
     [
       {
-        "answer": "Quel événement a marqué la fin de la Préhistoire et le début de l'Histoire?",
-        "hint": "L'invention de l'écriture",
+        "answer": "Homère",
+        "hint": "Qui a écrit l'Iliade et l'Odyssée ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel était le roi de France pendant la Révolution française ?",
-        "hint": "Louis XVI",
+        "answer": "Platon",
+        "hint": "Quel philosophe grec célèbre a été enseigné par Socrate?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel continent a créé l'Union Européenne?",
-        "hint": "L'Europe",
+        "answer": "Cléopâtre",
+        "hint": "Quel est le nom de la reine égyptienne connue pour sa beauté?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a lutté pour les droits civiques aux États-Unis ?",
-        "hint": "Martin Luther King",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la dernière reine d'Égypte?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel peuple construisait des aqueducs?",
-        "hint": "Les Romains",
+        "answer": "Magellan",
+        "hint": "Quel navigateur a réalisé le premier tour du monde ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -380,40 +380,40 @@
     ],
     [
       {
-        "answer": "Qui a été vaincu à Waterloo ?",
-        "hint": "Napoléon",
+        "answer": "Rome",
+        "hint": "Dans quelle ville se trouve le Colisée ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel navigateur a fait le premier tour du monde ?",
-        "hint": "Magellan",
+        "answer": "Gutenberg",
+        "hint": "Qui a inventé l'imprimerie à caractères mobiles ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel explorateur a découvert l'Amérique?",
-        "hint": "Christophe Colomb",
+        "answer": "1989",
+        "hint": "En quelle année est tombé le mur de Berlin ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel était le mur symbolique qui divisait Berlin?",
-        "hint": "Le Mur de Berlin",
+        "answer": "France",
+        "hint": "Dans quel pays se trouve la Tour Eiffel?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quelle invention a permis de conserver et transmettre l'information à travers le temps ?",
-        "hint": "L'écriture",
+        "answer": "Roosevelt",
+        "hint": "Qui était le président des États-Unis pendant la Seconde Guerre mondiale?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -422,40 +422,40 @@
     ],
     [
       {
-        "answer": "Quel philosophe grec était le maître d'Alexandre le Grand?",
-        "hint": "Aristote",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte la plus célèbre?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui a découvert l'Amérique en 1492 ?",
-        "hint": "Christophe Colomb",
+        "answer": "Auguste",
+        "hint": "Quel est le nom du premier empereur romain?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel roi de France a été exécuté pendant la Révolution française ?",
-        "hint": "Louis XVI",
+        "answer": "Général",
+        "hint": "Quel était le métier de Jules César?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel est le nom de la célèbre muraille chinoise construite pour se défendre des envahisseurs?",
-        "hint": "Grande Muraille de Chine",
+        "answer": "1969",
+        "hint": "En quelle année les hommes ont marché sur la Lune?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quand le mur de Berlin est-il tombé ?",
-        "hint": "En 1989",
+        "answer": "476",
+        "hint": "En quelle année est tombé l'Empire romain ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -464,40 +464,40 @@
     ],
     [
       {
-        "answer": "Comment s'appelaient les guerres entre chrétiens et musulmans pour la Terre Sainte ?",
-        "hint": "Les croisades",
+        "answer": "1889",
+        "hint": "Quand a été construite la Tour Eiffel ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était le général romain devenu empereur?",
-        "hint": "Jules César",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte célèbre pour sa beauté?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui était Leif Erikson ?",
-        "hint": "Un explorateur viking",
+        "answer": "Socrate",
+        "hint": "Qui était le célèbre philosophe grec qui a enseigné à Platon?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quelle reine d'Égypte était célèbre pour sa beauté?",
-        "hint": "Cléopâtre",
+        "answer": "Napoléon",
+        "hint": "Quel empereur français a mené de grandes campagnes militaires en Europe?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel monument célèbre a été construit à Rome ?",
-        "hint": "Le Colisée",
+        "answer": "1066",
+        "hint": "En quelle année a eu lieu la bataille d'Hastings?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -506,40 +506,40 @@
     ],
     [
       {
-        "answer": "Qui a fait le premier tour du monde ?",
-        "hint": "Magellan",
+        "answer": "1789",
+        "hint": "En quelle année a débuté la Révolution Française ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était la reine d'Angleterre à l'époque élisabéthaine?",
-        "hint": "Élisabeth Ire",
+        "answer": "Pompéi",
+        "hint": "Quelle cité antique a été détruite par une éruption volcanique ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quelle guerre mondiale a pris fin en 1945?",
-        "hint": "La Seconde Guerre mondiale",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la dernière reine d'Égypte ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel célèbre navigateur a fait le premier tour du monde ?",
-        "hint": "Magellan",
+        "answer": "1789",
+        "hint": "En quelle année a débuté la Révolution Française?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était le premier empereur romain?",
-        "hint": "Auguste",
+        "answer": "L'écriture",
+        "hint": "Quelle invention a permis de conserver et transmettre l'information à travers le temps ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -548,40 +548,40 @@
     ],
     [
       {
-        "answer": "Quel général français a dirigé la France pendant la Seconde Guerre mondiale et est devenu président ?",
-        "hint": "Charles de Gaulle",
+        "answer": "Colisée",
+        "hint": "Comment s'appelait le célèbre amphithéâtre romain ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était le dirigeant de l'Union Soviétique pendant la Seconde Guerre mondiale?",
-        "hint": "Joseph Staline",
+        "answer": "L'euro",
+        "hint": "Quelle est la monnaie de l'Union Européenne ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel événement marque traditionnellement la fin de l'Antiquité et le début du Moyen Âge ?",
-        "hint": "Chute de l'Empire romain d'Occident",
+        "answer": "Magellan",
+        "hint": "Qui a fait le premier tour du monde ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qu'est-ce que la Renaissance?",
-        "hint": "Une période artistique",
+        "answer": "1789",
+        "hint": "En quelle année a débuté la Révolution française?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Où se déroulaient les Jeux olympiques antiques?",
-        "hint": "En Grèce",
+        "answer": "Napoléon",
+        "hint": "Quel empereur et général français a conquis une grande partie de l'Europe ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -590,40 +590,40 @@
     ],
     [
       {
-        "answer": "Dans quel pays se trouve la Tour Eiffel ?",
-        "hint": "France",
+        "answer": "Victoria",
+        "hint": "Qui était la reine britannique au XIXe siècle?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel est le nom de l'amphithéâtre romain célèbre pour les combats de gladiateurs?",
-        "hint": "Colisée",
+        "answer": "Rome",
+        "hint": "Comment s'appelait la capitale de l'Empire romain ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel réseau mondial relie les ordinateurs entre eux?",
-        "hint": "Internet",
+        "answer": "1989",
+        "hint": "En quelle année le mur de Berlin est-il tombé?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui étaient les guerriers scandinaves qui ont pillé l'Europe?",
-        "hint": "Les Vikings",
+        "answer": "1789",
+        "hint": "En quelle année a commencé la Révolution française?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel artiste a peint la Joconde?",
-        "hint": "Léonard de Vinci",
+        "answer": "Cléopâtre",
+        "hint": "Comment s'appelait la reine égyptienne célèbre pour sa relation avec Jules César et Marc Antoine?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -632,40 +632,40 @@
     ],
     [
       {
-        "answer": "Qui a écrit la Déclaration des droits de l'homme et du citoyen ?",
-        "hint": "Les révolutionnaires français",
+        "answer": "1945",
+        "hint": "En quelle année la Seconde Guerre mondiale s'est-elle terminée ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel célèbre empereur romain a fait construire le Colisée?",
-        "hint": "Vespasien",
+        "answer": "Khéops",
+        "hint": "Qui a construit les pyramides de Gizeh?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "En quelle année le mur de Berlin est-il tombé?",
-        "hint": "1989",
+        "answer": "Napoléon",
+        "hint": "Qui était l'empereur des Français après la Révolution ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "En quelle année la Bastille a-t-elle été prise, marquant le début de la Révolution française ?",
-        "hint": "1789",
+        "answer": "Hadrien",
+        "hint": "Quel célèbre empereur romain a construit un mur en Angleterre ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel grand empire a été fondé par Alexandre le Grand?",
-        "hint": "L'empire grec",
+        "answer": "Berlin",
+        "hint": "Quelle ville allemande était divisée par un mur pendant la Guerre froide ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -674,40 +674,40 @@
     ],
     [
       {
-        "answer": "Quel est le nom de la période de la renaissance artistique et intellectuelle en Europe?",
-        "hint": "La Renaissance",
+        "answer": "Hitler",
+        "hint": "Comment s'appelait le chef de l'Allemagne pendant la Seconde Guerre mondiale?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Comment s'appelait le premier homme à voyager dans l'espace?",
-        "hint": "Youri Gagarine",
+        "answer": "Colisée",
+        "hint": "Quel est le nom du célèbre amphithéâtre romain?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Au 19ème siècle, quel type de révolution a transformé l'industrie ?",
-        "hint": "La révolution industrielle",
+        "answer": "Auguste",
+        "hint": "Quel était le nom du premier empereur romain ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel est le nom du célèbre amphithéâtre romain ?",
-        "hint": "Colisée",
+        "answer": "Aristote",
+        "hint": "Quel philosophe grec célèbre a enseigné à Alexandre le Grand?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Que sont la Première et la Seconde Guerre mondiale ?",
-        "hint": "Des guerres mondiales",
+        "answer": "Al-Qaïda",
+        "hint": "Quel est le nom du groupe terroriste responsable des attentats du 11 septembre ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -716,40 +716,40 @@
     ],
     [
       {
-        "answer": "Comment s'appelait la jeune héroïne française qui a combattu les Anglais?",
-        "hint": "Jeanne d'Arc",
+        "answer": "Socrate",
+        "hint": "Quel philosophe grec célèbre disait Je sais que je ne sais rien ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était le roi d'Angleterre pendant la Seconde Guerre mondiale?",
-        "hint": "George VI",
+        "answer": "Croisades",
+        "hint": "Comment s'appelaient les guerres pour reprendre la Terre sainte?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui fut le premier empereur romain?",
-        "hint": "Auguste",
+        "answer": "Avignon",
+        "hint": "Quelle ville française a été le siège de la papauté au XIVe siècle ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a écrit l'Odyssée et l'Iliade?",
-        "hint": "Homère",
+        "answer": "Khéops",
+        "hint": "Qui a construit les grandes pyramides de Gizeh?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qu'est-ce que l'Union Européenne?",
-        "hint": "Une organisation de pays",
+        "answer": "Einstein",
+        "hint": "Qui était le scientifique célèbre pour la théorie de la relativité?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -758,40 +758,40 @@
     ],
     [
       {
-        "answer": "Quelle guerre mondiale a pris fin en 1945 ?",
-        "hint": "La Seconde Guerre mondiale",
+        "answer": "1914",
+        "hint": "En quelle année a débuté la Première Guerre mondiale?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
-        "hint": "1492",
+        "answer": "Auguste",
+        "hint": "Qui a été le premier empereur romain?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel événement a marqué le début de la Révolution française?",
-        "hint": "La prise de la Bastille",
+        "answer": "Cléopâtre",
+        "hint": "Quelle reine d'Égypte était connue pour sa beauté?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui fut le premier homme à marcher sur la lune ?",
-        "hint": "Neil Armstrong",
+        "answer": "Hadrien",
+        "hint": "Quel célèbre empereur romain a construit un mur en Grande-Bretagne?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui a été le premier empereur romain ?",
-        "hint": "Auguste",
+        "answer": "Hitler",
+        "hint": "Qui était le chef de l'Allemagne pendant la Seconde Guerre mondiale ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -800,40 +800,40 @@
     ],
     [
       {
-        "answer": "Comment s'appelait la grande épidémie du XIVe siècle?",
-        "hint": "La Peste Noire",
+        "answer": "Magellan",
+        "hint": "Quel explorateur a fait le premier tour du monde en bateau?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui a mené les Gaulois contre les Romains?",
-        "hint": "Vercingétorix",
+        "answer": "Deux",
+        "hint": "Combien y a-t-il eu de Guerres Mondiales au 20ème siècle ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui a écrit l'Odyssée?",
-        "hint": "Homère",
+        "answer": "L'Europe",
+        "hint": "Quel continent a créé l'Union Européenne?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était la 'Pucelle d'Orléans'?",
-        "hint": "Jeanne d'Arc",
+        "answer": "Hannibal",
+        "hint": "Quel célèbre général carthaginois a traversé les Alpes avec des éléphants ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Au 19e siècle, quel grand changement industriel a eu lieu ?",
-        "hint": "La Révolution industrielle",
+        "answer": "Staline",
+        "hint": "Qui dirigeait l'Union soviétique pendant la Seconde Guerre mondiale ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -842,40 +842,40 @@
     ],
     [
       {
-        "answer": "Qu'est-ce que la Révolution française ?",
-        "hint": "Une révolution en France",
+        "answer": "1945",
+        "hint": "Quand s'est terminée la Seconde Guerre mondiale ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Comment appelle-t-on les guerres pour reprendre la Terre Sainte?",
-        "hint": "Les croisades",
+        "answer": "1969",
+        "hint": "En quelle année les hommes ont-ils marché sur la Lune pour la première fois?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui a écrit Roméo et Juliette ?",
-        "hint": "William Shakespeare",
+        "answer": "Colisée",
+        "hint": "Quel est le nom de l'amphithéâtre romain célèbre pour les combats de gladiateurs?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était le chef de l'Union Soviétique pendant la Seconde Guerre Mondiale?",
-        "hint": "Joseph Staline",
+        "answer": "Jérusalem",
+        "hint": "Les Croisades étaient des guerres pour quelle ville sainte?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel type de bâtiment était courant au Moyen Âge pour la défense ?",
-        "hint": "Château fort",
+        "answer": "1914",
+        "hint": "En quelle année a commencé la Première Guerre mondiale ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -884,40 +884,40 @@
     ],
     [
       {
-        "answer": "Quelle guerre mondiale a suivi celle de 1914-1918 ?",
-        "hint": "La Seconde Guerre Mondiale",
+        "answer": "Grèce",
+        "hint": "Où se déroulaient les Jeux Olympiques antiques?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel célèbre mur a été construit en Chine pour se défendre des envahisseurs?",
-        "hint": "La Grande Muraille de Chine",
+        "answer": "Poséidon",
+        "hint": "Quel dieu grec régnait sur la mer?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Comment s'appelait le bateau de Christophe Colomb ?",
-        "hint": "La Santa Maria",
+        "answer": "Cléopâtre",
+        "hint": "Quel était le nom de la dernière reine d'Égypte ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel roi de France a fait construire le château de Versailles?",
-        "hint": "Louis XIV",
+        "answer": "Socrate",
+        "hint": "Qui était le philosophe grec connu pour sa méthode de questionnement?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était le tsar russe au début de la Première Guerre mondiale?",
-        "hint": "Nicolas II",
+        "answer": "Waterloo",
+        "hint": "Quel est le nom de la célèbre bataille perdue par Napoléon en 1815?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -926,40 +926,40 @@
     ],
     [
       {
-        "answer": "Qui était le premier homme sur la lune?",
-        "hint": "Neil Armstrong",
+        "answer": "Socrate",
+        "hint": "Quel philosophe grec est connu pour avoir été le maître de Platon ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qu'est-ce que la Guerre froide?",
-        "hint": "Une période de tensions",
+        "answer": "1914",
+        "hint": "En quelle année a commencé la Première Guerre mondiale?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Comment s'appelait le célèbre amphithéâtre romain ?",
-        "hint": "Colisée",
+        "answer": "L'URSS",
+        "hint": "Contre qui les États-Unis se sont-ils opposés durant la Guerre Froide?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "En quelle année a commencé la Seconde Guerre mondiale ?",
-        "hint": "1939",
+        "answer": "1492",
+        "hint": "Quand Christophe Colomb a-t-il découvert l'Amérique ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Au Moyen Âge, qui étaient les chevaliers ?",
-        "hint": "Des guerriers à cheval",
+        "answer": "Caravelles",
+        "hint": "Quel est le nom des navires à voile utilisés par Colomb?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -968,40 +968,40 @@
     ],
     [
       {
-        "answer": "Qui fut le premier empereur romain ?",
-        "hint": "Auguste",
+        "answer": "1945",
+        "hint": "En quelle année s'est terminée la Seconde Guerre mondiale ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qu'est-ce que l'Empire romain?",
-        "hint": "Un ancien empire",
+        "answer": "1914",
+        "hint": "Quand a débuté la Première Guerre mondiale?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Comment appelait-on les routes construites par les Romains ?",
-        "hint": "Les voies romaines",
+        "answer": "Homère",
+        "hint": "Qui a écrit l'Odyssée?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel siècle a vu le début de la Première Guerre mondiale ?",
-        "hint": "XXe siècle",
+        "answer": "Hadrien",
+        "hint": "Quel empereur romain a construit un mur en Grande-Bretagne?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Comment s'appelait la période de la préhistoire où l'homme chassait et cueillait?",
-        "hint": "Paléolithique",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte antique connue pour sa beauté?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1010,40 +1010,40 @@
     ],
     [
       {
-        "answer": "Qui étaient les gladiateurs ?",
-        "hint": "Des combattants romains",
+        "answer": "1789",
+        "hint": "En quelle année la Révolution française a-t-elle commencé ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel est le nom du célèbre amphithéâtre romain?",
-        "hint": "Colisée",
+        "answer": "Staline",
+        "hint": "Qui était le chef de l'URSS pendant la Seconde Guerre mondiale ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui a été le premier président des États-Unis?",
-        "hint": "George Washington",
+        "answer": "Pharaons",
+        "hint": "Comment s'appelaient les rois de l'Égypte ancienne?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était le philosophe grec connu pour sa méthode de questionnement?",
-        "hint": "Socrate",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte célèbre pour sa beauté et ses relations avec les Romains ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Où a commencé la Renaissance?",
-        "hint": "En Italie",
+        "answer": "Cléopâtre",
+        "hint": "Comment s'appelait la reine d'Égypte très célèbre pour sa beauté ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1052,40 +1052,40 @@
     ],
     [
       {
-        "answer": "Quel dictateur allemand était à la tête du régime nazi pendant la Seconde Guerre mondiale ?",
-        "hint": "Adolf Hitler",
+        "answer": "Waterloo",
+        "hint": "Quelle célèbre bataille a opposé les Français et les Anglais en 1815 ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel général français est devenu empereur au début du 19e siècle?",
-        "hint": "Napoléon Bonaparte",
+        "answer": "Magellan",
+        "hint": "Qui a fait le premier tour du monde en bateau ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quelle était la Première Guerre mondiale?",
-        "hint": "Une guerre",
+        "answer": "1989",
+        "hint": "En quelle année le mur de Berlin est-il tombé ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Pour quelle raison la Bastille est-elle célèbre dans l'histoire de France ?",
-        "hint": "Prise de la Bastille",
+        "answer": "Pompéi",
+        "hint": "Quelle ville romaine a été détruite par l'éruption du Vésuve en 79 ap. J.-C. ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel roi franc est devenu empereur ?",
-        "hint": "Charlemagne",
+        "answer": "1989",
+        "hint": "En quelle année est tombé le Mur de Berlin ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1094,40 +1094,40 @@
     ],
     [
       {
-        "answer": "Quel est le symbole de la Révolution française ?",
-        "hint": "Le drapeau tricolore",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte connue pour sa beauté ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel était le nom du bateau de Christophe Colomb lors de sa première traversée de l'Atlantique ?",
-        "hint": "Santa Maria",
+        "answer": "Victoria",
+        "hint": "Quelle reine anglaise a régné au 19e siècle?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qu'était l'Empire Romain?",
-        "hint": "Un empire de l'Antiquité",
+        "answer": "Beagle",
+        "hint": "Quel est le nom du navire sur lequel Charles Darwin a navigué ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "En quelle année Christophe Colomb a-t-il atteint l'Amérique ?",
-        "hint": "1492",
+        "answer": "Khéops",
+        "hint": "Comment s'appelait le pharaon connu pour sa pyramide à Gizeh?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Comment appelle-t-on la période de tension entre les USA et l'URSS?",
-        "hint": "La Guerre froide",
+        "answer": "Italie",
+        "hint": "Dans quel pays se trouve le Colisée ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1136,40 +1136,40 @@
     ],
     [
       {
-        "answer": "Quel chef gaulois a mené la résistance contre les Romains?",
-        "hint": "Vercingétorix",
+        "answer": "L'ONU",
+        "hint": "Comment s'appelle l'organisation créée après la Seconde Guerre mondiale pour la paix ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui étaient les guerriers à cheval au Moyen Âge ?",
-        "hint": "Les chevaliers",
+        "answer": "Athènes",
+        "hint": "Dans quelle ville antique est née la démocratie ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel livre célèbre a écrit Cervantes ?",
-        "hint": "Don Quichotte",
+        "answer": "1914",
+        "hint": "En quelle année a commencé la Première Guerre Mondiale?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel long mur a été construit en Chine pour se défendre ?",
-        "hint": "La Grande Muraille de Chine",
+        "answer": "1492",
+        "hint": "En quelle année Christophe Colomb a-t-il atteint l'Amérique ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui a écrit Don Quichotte?",
-        "hint": "Miguel de Cervantes",
+        "answer": "Clovis",
+        "hint": "Qui fut le premier roi de France ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1178,40 +1178,40 @@
     ],
     [
       {
-        "answer": "Quel était le nom de la civilisation qui a construit le Colisée?",
-        "hint": "Les Romains",
+        "answer": "Colisée",
+        "hint": "Quel est le nom du célèbre amphithéâtre romain ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel est le nom des navires à voile utilisés par Colomb?",
-        "hint": "Caravelles",
+        "answer": "L'histoire",
+        "hint": "Quelle est la science qui étudie le passé ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui est Alexandre le Grand?",
-        "hint": "Un célèbre conquérant",
+        "answer": "1914",
+        "hint": "Quand a commencé la Première Guerre mondiale ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a construit les grandes pyramides de Gizeh?",
-        "hint": "Khéops",
+        "answer": "Homère",
+        "hint": "Qui a écrit l'Odyssée et l'Iliade?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était l'empereur français après la Révolution française?",
-        "hint": "Napoléon Bonaparte",
+        "answer": "Waterloo",
+        "hint": "Quelle célèbre bataille a eu lieu en 1815 ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1220,40 +1220,40 @@
     ],
     [
       {
-        "answer": "Quel roi de France a été guillotiné pendant la Révolution française?",
-        "hint": "Louis XVI",
+        "answer": "Lancelot",
+        "hint": "Comment s'appelait le célèbre chevalier de la Table Ronde ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui est l'héroïne française de la guerre de Cent Ans?",
-        "hint": "Jeanne d'Arc",
+        "answer": "Aristote",
+        "hint": "Quel philosophe grec célèbre fut le professeur d'Alexandre le Grand?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui était le dirigeant de l'Union soviétique pendant la Seconde Guerre mondiale ?",
-        "hint": "Staline",
+        "answer": "476",
+        "hint": "En quelle année a débuté le Moyen Âge ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "En quelle année est tombé le Mur de Berlin ?",
-        "hint": "1989",
+        "answer": "Constantin",
+        "hint": "Quel empereur romain a légalisé le christianisme?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était le leader du mouvement des droits civiques aux États-Unis dans les années 1960?",
-        "hint": "Martin Luther King Jr.",
+        "answer": "Sphinx",
+        "hint": "Comment s'appelle le monument égyptien avec un corps de lion et une tête humaine ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1262,40 +1262,40 @@
     ],
     [
       {
-        "answer": "Quel artiste a peint le plafond de la chapelle Sixtine?",
-        "hint": "Michel-Ange",
+        "answer": "Socrate",
+        "hint": "Comment s'appelait un philosophe grec célèbre?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel président américain a aboli l'esclavage?",
-        "hint": "Abraham Lincoln",
+        "answer": "Khéops",
+        "hint": "Comment s'appelait le pharaon connu pour la pyramide de Gizeh?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel événement symbolique a marqué la fin de la Guerre froide ?",
-        "hint": "La Chute du Mur de Berlin",
+        "answer": "Magellan",
+        "hint": "Quel explorateur portugais a mené la première circumnavigation du globe ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel grand explorateur portugais a contourné l'Afrique pour aller en Inde ?",
-        "hint": "Vasco de Gama",
+        "answer": "1789",
+        "hint": "En quelle année a débuté la Révolution française ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était la reine d'Égypte, célèbre pour sa beauté?",
-        "hint": "Cléopâtre",
+        "answer": "Cléopâtre",
+        "hint": "Quelle reine d'Égypte était célèbre pour sa beauté et son intelligence?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1304,40 +1304,40 @@
     ],
     [
       {
-        "answer": "Quel événement de 1789 marque le début de la Révolution Française ?",
-        "hint": "Prise de la Bastille",
+        "answer": "1945",
+        "hint": "En quelle année la Seconde Guerre mondiale a-t-elle pris fin?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel explorateur a découvert l'Amérique en 1492?",
-        "hint": "Christophe Colomb",
+        "answer": "Homère",
+        "hint": "Qui a écrit l'Iliade et l'Odyssée?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui était le chef de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
-        "hint": "Hitler",
+        "answer": "Gutenberg",
+        "hint": "Qui a inventé l'imprimerie moderne ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a inventé l'ampoule électrique?",
-        "hint": "Thomas Edison",
+        "answer": "Mayas",
+        "hint": "Quelle civilisation ancienne a construit des pyramides au Mexique?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était Martin Luther King?",
-        "hint": "Un leader des droits civiques aux États-Unis",
+        "answer": "Cléopâtre",
+        "hint": "Quel est le nom de la reine d'Égypte la plus célèbre?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1346,40 +1346,40 @@
     ],
     [
       {
-        "answer": "Qui était la reine d'Égypte célèbre pour sa beauté et sa relation avec Jules César et Marc Antoine ?",
-        "hint": "Cléopâtre",
+        "answer": "Napoléon",
+        "hint": "Qui a été vaincu à Waterloo ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel célèbre monument de Paris a été construit par Napoléon pour célébrer ses victoires?",
-        "hint": "Arc de Triomphe",
+        "answer": "Auguste",
+        "hint": "Qui a été le premier empereur romain ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel célèbre explorateur a fait le tour du monde en bateau?",
-        "hint": "Magellan",
+        "answer": "Victoria",
+        "hint": "Comment s'appelait la reine d'Angleterre à l'époque victorienne ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel événement marque traditionnellement le début du Moyen Âge?",
-        "hint": "La chute de l'Empire romain d'Occident",
+        "answer": "Paris",
+        "hint": "Dans quelle ville se trouve la Tour Eiffel?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qu'est-ce que le Moyen Âge ?",
-        "hint": "Une période de l'histoire",
+        "answer": "Staline",
+        "hint": "Qui était le dirigeant de l'Union soviétique pendant la Seconde Guerre mondiale?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1388,40 +1388,40 @@
     ],
     [
       {
-        "answer": "Contre qui Rome s'est-elle battue durant les guerres puniques?",
-        "hint": "Carthage",
+        "answer": "Hitler",
+        "hint": "Quel dictateur allemand a déclenché la Seconde Guerre Mondiale?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était Léonard de Vinci ?",
-        "hint": "Un artiste de la Renaissance",
+        "answer": "Auguste",
+        "hint": "Comment s'appelait le premier empereur romain?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel roi de France était connu pour les croisades ?",
-        "hint": "Saint Louis (Louis IX)",
+        "answer": "L'euro",
+        "hint": "Quelle monnaie est utilisée dans de nombreux pays européens ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Comment appelle-t-on la période de renouveau artistique et intellectuel en Europe?",
-        "hint": "La Renaissance",
+        "answer": "1914",
+        "hint": "En quelle année la Première Guerre mondiale a-t-elle commencé ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était le premier empereur des Français ?",
-        "hint": "Napoléon Bonaparte",
+        "answer": "Clovis",
+        "hint": "Qui était le premier roi des Francs?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1430,40 +1430,40 @@
     ],
     [
       {
-        "answer": "Quel événement marque le début de la Première Guerre mondiale?",
-        "hint": "L'assassinat de l'archiduc François-Ferdinand",
+        "answer": "Victoria",
+        "hint": "Quel était le nom de la reine d'Angleterre à l'époque victorienne ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "À quels siècles se situe la Renaissance?",
-        "hint": "XVème et XVIème siècles",
+        "answer": "1945",
+        "hint": "En quelle année la Seconde Guerre mondiale s'est-elle terminée?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "En quelle année est tombé le mur de Berlin ?",
-        "hint": "1989",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte célèbre pour César et Antoine?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Comment s'appelait le célèbre amphithéâtre romain?",
-        "hint": "Le Colisée",
+        "answer": "Chevalier",
+        "hint": "Quel type de personnage combattait au Moyen Âge avec une armure?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel président américain a aboli l'esclavage aux États-Unis ?",
-        "hint": "Abraham Lincoln",
+        "answer": "Aristote",
+        "hint": "Quel philosophe grec est connu pour avoir été le maître d'Alexandre le Grand ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1472,40 +1472,40 @@
     ],
     [
       {
-        "answer": "Qu'est-ce qu'un château?",
-        "hint": "Une résidence fortifiée",
+        "answer": "1789",
+        "hint": "En quelle année la Révolution française a-t-elle commencé?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui est connue comme l'héroïne française qui a combattu les Anglais ?",
-        "hint": "Jeanne d'Arc",
+        "answer": "Auguste",
+        "hint": "Qui était le premier empereur romain?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui était Martin Luther King Jr.?",
-        "hint": "Un militant",
+        "answer": "Cléopâtre",
+        "hint": "Qui était la reine d'Égypte la plus célèbre ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel événement de 1989 a symbolisé la fin du communisme en Europe?",
-        "hint": "La chute du mur de Berlin",
+        "answer": "Cléopâtre",
+        "hint": "Comment s'appelait la reine d'Égypte célèbre pour sa beauté ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quelle révolution a transformé l'industrie au 19e siècle ?",
-        "hint": "La Révolution industrielle",
+        "answer": "Spartacus",
+        "hint": "Quel gladiateur romain célèbre a mené une révolte d'esclaves?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1514,40 +1514,40 @@
     ],
     [
       {
-        "answer": "Quel événement a marqué la fin de la Guerre froide ?",
-        "hint": "La chute du mur de Berlin",
+        "answer": "Carthage",
+        "hint": "Quel grand empire a été vaincu par les Romains lors des guerres puniques?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quelle période suit le Moyen Âge ?",
-        "hint": "La Renaissance",
+        "answer": "Pompéi",
+        "hint": "Quelle ville antique a été détruite par une éruption volcanique en 79 après J.-C. ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel événement de 1989 symbolise la fin de la Guerre Froide?",
-        "hint": "La chute du Mur de Berlin",
+        "answer": "Gutenberg",
+        "hint": "Qui a inventé l'imprimerie ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a écrit Hamlet?",
-        "hint": "William Shakespeare",
+        "answer": "Cléopâtre",
+        "hint": "Comment s'appelait la reine d'Égypte très célèbre ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Comment s'appelait l'écriture égyptienne antique ?",
-        "hint": "Les hiéroglyphes",
+        "answer": "Magellan",
+        "hint": "Quel navigateur a fait le premier tour du monde ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1556,40 +1556,40 @@
     ],
     [
       {
-        "answer": "Qui était Marie Curie?",
-        "hint": "Une scientifique",
+        "answer": "1945",
+        "hint": "En quelle année s'est terminée la Seconde Guerre mondiale?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel roi anglais a signé la Magna Carta ?",
-        "hint": "Jean sans Terre",
+        "answer": "1789",
+        "hint": "Quelle est l'année du début de la Révolution française?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quelle civilisation ancienne a construit le Parthénon ?",
-        "hint": "Les Grecs",
+        "answer": "Pharaons",
+        "hint": "Comment s'appelaient les rois de l'Égypte ancienne ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel était le nom du navire de Christophe Colomb lors de sa première traversée de l'Atlantique?",
-        "hint": "La Santa Maria",
+        "answer": "Paris",
+        "hint": "Dans quelle ville se trouve la Tour Eiffel ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel était le nom du navire de Christophe Colomb lors de son premier voyage ?",
-        "hint": "La Santa Maria",
+        "answer": "Auguste",
+        "hint": "Qui était le premier empereur romain ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1598,40 +1598,40 @@
     ],
     [
       {
-        "answer": "Quel est le nom du temple grec dédié à Athéna à Athènes?",
-        "hint": "Le Parthénon",
+        "answer": "1989",
+        "hint": "En quelle année le Mur de Berlin est-il tombé?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Shakespeare était un écrivain anglais célèbre pour quel type d'œuvres ?",
-        "hint": "Pièces de théâtre",
+        "answer": "Magellan",
+        "hint": "Quel célèbre navigateur portugais a fait le tour du monde?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qu'est-ce que le Colisée ?",
-        "hint": "Un amphithéâtre romain",
+        "answer": "Socrate",
+        "hint": "Quel philosophe grec est connu pour la phrase 'Je sais que je ne sais rien'?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quelle guerre a opposé le Nord et le Sud des États-Unis au XIXe siècle?",
-        "hint": "La guerre de Sécession",
+        "answer": "1969",
+        "hint": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel grand changement a marqué le 19e siècle avec les machines?",
-        "hint": "La révolution industrielle",
+        "answer": "Auguste",
+        "hint": "Quel était le nom du premier empereur romain?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1640,40 +1640,40 @@
     ],
     [
       {
-        "answer": "Qui était le roi d'Angleterre pendant la Seconde Guerre mondiale ?",
-        "hint": "George VI",
+        "answer": "1789",
+        "hint": "En quelle année a commencé la Révolution Française ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Comment appelle-t-on la période historique entre l'Antiquité et la Renaissance?",
-        "hint": "Le Moyen Âge",
+        "answer": "1969",
+        "hint": "En quelle année les hommes ont-ils marché sur la Lune pour la première fois ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel était le nom du plus célèbre empereur romain?",
-        "hint": "Jules César",
+        "answer": "Staline",
+        "hint": "Qui dirigeait l'Union Soviétique pendant la Seconde Guerre mondiale ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était Napoléon Bonaparte ?",
-        "hint": "Un empereur français",
+        "answer": "Cléopâtre",
+        "hint": "Quel était le nom de la reine d'Égypte célèbre pour sa beauté?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel empereur romain a fait construire le Colisée de Rome?",
-        "hint": "Vespasien",
+        "answer": "Latin",
+        "hint": "Quelle langue parlaient les Romains de l'Antiquité ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1682,40 +1682,40 @@
     ],
     [
       {
-        "answer": "Comment s'appelait la reine d'Égypte très célèbre pour sa beauté ?",
-        "hint": "Cléopâtre",
+        "answer": "Parthénon",
+        "hint": "Quel est le nom du célèbre temple grec à Athènes?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Où sont nés les Jeux Olympiques ?",
-        "hint": "En Grèce",
+        "answer": "1492",
+        "hint": "En quelle année Christophe Colomb a-t-il découvert l'Amérique?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Comment s'appelait l'héroïne française qui a combattu pendant la guerre de Cent Ans?",
-        "hint": "Jeanne d'Arc",
+        "answer": "Aristote",
+        "hint": "Qui était le célèbre philosophe grec et précepteur d'Alexandre le Grand ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel gladiateur romain célèbre a mené une révolte d'esclaves?",
-        "hint": "Spartacus",
+        "answer": "1969",
+        "hint": "En quelle année l'homme a-t-il marché sur la Lune pour la première fois ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était l'empereur de France pendant la Révolution française et les guerres napoléoniennes?",
-        "hint": "Napoléon Bonaparte",
+        "answer": "Deux",
+        "hint": "Combien y a-t-il eu de Guerres mondiales au XXe siècle?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1724,40 +1724,40 @@
     ],
     [
       {
-        "answer": "Quel est le nom de la grande muraille construite en Chine?",
-        "hint": "La Grande Muraille de Chine",
+        "answer": "Grèce",
+        "hint": "Où se déroulaient les Jeux olympiques antiques ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel explorateur portugais a mené la première circumnavigation du globe ?",
-        "hint": "Magellan",
+        "answer": "Pharaons",
+        "hint": "Comment s'appelaient les rois de l'Égypte antique ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui était le Roi-Soleil?",
-        "hint": "Louis XIV",
+        "answer": "Magellan",
+        "hint": "Quel célèbre navigateur a fait le premier tour du monde?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quand s'est terminée la Seconde Guerre mondiale?",
-        "hint": "En 1945",
+        "answer": "1945",
+        "hint": "En quelle année s'est terminée la Seconde Guerre mondiale en Europe ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quelle terrible maladie a ravagé l'Europe au Moyen Âge ?",
-        "hint": "La Peste Noire",
+        "answer": "Hannibal",
+        "hint": "Quel général carthaginois a traversé les Alpes?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1766,40 +1766,40 @@
     ],
     [
       {
-        "answer": "En quelle année a commencé la Révolution française ?",
-        "hint": "1789",
+        "answer": "Cléopâtre",
+        "hint": "Quelle reine d'Égypte était célèbre pour sa beauté ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "En quelle année les États-Unis ont-ils déclaré leur indépendance ?",
-        "hint": "1776",
+        "answer": "Pharaons",
+        "hint": "Comment s'appelaient les anciens dirigeants d'Égypte ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel est le nom du célèbre philosophe grec connu pour sa méthode de questionnement?",
-        "hint": "Socrate",
+        "answer": "Internet",
+        "hint": "Qu'est-ce qui a révolutionné la communication à la fin du 20ème siècle ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui fut le premier roi de France ?",
-        "hint": "Clovis",
+        "answer": "Auguste",
+        "hint": "Qui fut le premier empereur romain ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui a marché le premier sur la Lune?",
-        "hint": "Neil Armstrong",
+        "answer": "1492",
+        "hint": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1808,40 +1808,40 @@
     ],
     [
       {
-        "answer": "Comment s'appelait la reine de France pendant la Révolution ?",
-        "hint": "Marie Antoinette",
+        "answer": "Khéops",
+        "hint": "Quel célèbre pharaon a ordonné la construction de la Grande Pyramide de Gizeh?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quelle reine d'Égypte était célèbre pour sa beauté et son intelligence ?",
-        "hint": "Cléopâtre",
+        "answer": "1776",
+        "hint": "En quelle année les États-Unis ont-ils déclaré leur indépendance ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel scientifique français a découvert la pasteurisation ?",
-        "hint": "Louis Pasteur",
+        "answer": "Égypte",
+        "hint": "Dans quel pays peut-on voir les pyramides de Gizeh ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était l'empereur français qui a conquis une grande partie de l'Europe?",
-        "hint": "Napoléon Bonaparte",
+        "answer": "Socrate",
+        "hint": "Quel célèbre philosophe grec a enseigné à Platon ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Comment s'appelait le pharaon connu pour sa pyramide à Gizeh?",
-        "hint": "Khéops",
+        "answer": "L'Égypte",
+        "hint": "Quel pays régnait Cléopâtre?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1850,40 +1850,40 @@
     ],
     [
       {
-        "answer": "Quelle reine d'Égypte était célèbre pour sa beauté et son intelligence?",
-        "hint": "Cléopâtre",
+        "answer": "Pythagore",
+        "hint": "Quel mathématicien grec est connu pour son théorème?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel est le nom de la guerre qui a commencé en 1914 ?",
-        "hint": "Première Guerre mondiale",
+        "answer": "Vespasien",
+        "hint": "Quel empereur romain a construit le Colisée?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel philosophe grec est connu pour la phrase 'Je sais que je ne sais rien'?",
-        "hint": "Socrate",
+        "answer": "1939",
+        "hint": "En quelle année a commencé la Seconde Guerre mondiale ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui était Napoléon Bonaparte?",
-        "hint": "Un empereur français",
+        "answer": "Magellan",
+        "hint": "Quel navigateur a fait le premier tour du monde?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Comment s'appelait le pharaon connu pour la pyramide de Gizeh?",
-        "hint": "Khéops",
+        "answer": "Pharaons",
+        "hint": "Comment appelait-on les rois de l'Égypte ancienne ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1892,40 +1892,40 @@
     ],
     [
       {
-        "answer": "Quel événement a mis fin à la Seconde Guerre Mondiale ?",
-        "hint": "La capitulation du Japon",
+        "answer": "1969",
+        "hint": "En quelle année les humains ont-ils marché sur la Lune pour la première fois ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était le premier homme à marcher sur la Lune?",
-        "hint": "Neil Armstrong",
+        "answer": "Pyramides",
+        "hint": "Comment s'appellent les monuments construits par les anciens Égyptiens pour leurs pharaons ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Où sont nés les Jeux Olympiques?",
-        "hint": "Grèce",
+        "answer": "Carthage",
+        "hint": "Contre qui Rome s'est-elle battue durant les guerres puniques?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quelle célèbre bataille a opposé les Français et les Anglais en 1815 ?",
-        "hint": "Waterloo",
+        "answer": "Aristote",
+        "hint": "Quel philosophe grec a enseigné à Alexandre le Grand ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel est le nom du célèbre temple grec à Athènes?",
-        "hint": "Parthénon",
+        "answer": "Magellan",
+        "hint": "Quel explorateur a fait le premier tour du monde en bateau ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1934,40 +1934,40 @@
     ],
     [
       {
-        "answer": "Qui est connu pour avoir dirigé le mouvement d'indépendance de l'Inde?",
-        "hint": "Mahatma Gandhi",
+        "answer": "1789",
+        "hint": "Quand a commencé la Révolution française ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui fut le premier président des États-Unis ?",
-        "hint": "George Washington",
+        "answer": "Gutenberg",
+        "hint": "Qui a inventé l'imprimerie moderne?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quelle ville romaine a été détruite par l'éruption du Vésuve en 79 ap. J.-C. ?",
-        "hint": "Pompéi",
+        "answer": "Grèce",
+        "hint": "Où sont nés les Jeux Olympiques?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Quel célèbre explorateur a découvert l'Amérique en 1492?",
-        "hint": "Christophe Colomb",
+        "answer": "Constantin",
+        "hint": "Quel empereur romain a mis fin aux persécutions des chrétiens ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel célèbre homme politique anglais a mené le Royaume-Uni pendant la Seconde Guerre mondiale?",
-        "hint": "Winston Churchill",
+        "answer": "Magellan",
+        "hint": "Quel célèbre navigateur a fait le premier tour du monde ?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -1976,40 +1976,40 @@
     ],
     [
       {
-        "answer": "Dans quel pays se trouve le Colisée ?",
-        "hint": "Italie",
+        "answer": "Platon",
+        "hint": "Quel était un philosophe grec célèbre ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Où se sont déroulés les premiers Jeux olympiques antiques ?",
-        "hint": "En Grèce",
+        "answer": "Staline",
+        "hint": "Qui était le chef de l'Union soviétique pendant la Seconde Guerre mondiale ?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Comment s'appelle l'écriture égyptienne?",
-        "hint": "Les hiéroglyphes",
+        "answer": "Aristote",
+        "hint": "Quel philosophe grec était le maître d'Alexandre le Grand?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a découvert la radioactivité?",
-        "hint": "Marie Curie",
+        "answer": "Latin",
+        "hint": "Quelle langue parlaient les Romains ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Quel philosophe grec a été le maître d'Alexandre le Grand ?",
-        "hint": "Aristote",
+        "answer": "1914",
+        "hint": "En quelle année la Première Guerre mondiale a-t-elle commencé?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -2018,40 +2018,40 @@
     ],
     [
       {
-        "answer": "Quel est le nom de la célèbre muraille de Chine?",
-        "hint": "La Grande Muraille de Chine",
+        "answer": "Magellan",
+        "hint": "Quel célèbre explorateur a fait le tour du monde en bateau ?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Quel empereur français a perdu à Waterloo ?",
-        "hint": "Napoléon",
+        "answer": "Cléopâtre",
+        "hint": "Comment s'appelait la reine d'Égypte connue pour sa beauté?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Qui a inventé le téléphone ?",
-        "hint": "Alexander Graham Bell",
+        "answer": "Cléopâtre",
+        "hint": "Quelle reine d'Égypte était célèbre pour sa beauté et son intelligence ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a inventé la démocratie?",
-        "hint": "Les Grecs",
+        "answer": "Hitler",
+        "hint": "Qui était le chef de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "Qui était le leader du mouvement des droits civiques aux États-Unis?",
-        "hint": "Martin Luther King Jr.",
+        "answer": "Hannibal",
+        "hint": "Quel général romain a traversé les Alpes avec des éléphants?",
         "startx": 6,
         "starty": 2,
         "orientation": "down",
@@ -2060,44 +2060,36 @@
     ],
     [
       {
-        "answer": "Quelle était la langue de la Rome antique?",
-        "hint": "Le latin",
+        "answer": "Cléopâtre",
+        "hint": "Quelle reine d'Égypte était célèbre pour sa beauté?",
         "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "Qui était la reine d'Égypte connue pour sa beauté?",
-        "hint": "Cléopâtre",
+        "answer": "Staline",
+        "hint": "Qui était le chef de l'Union soviétique pendant la Seconde Guerre mondiale?",
         "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "Quel célèbre général carthaginois a traversé les Alpes avec des éléphants ?",
-        "hint": "Hannibal",
+        "answer": "Aristote",
+        "hint": "Quel philosophe grec a été le maître d'Alexandre le Grand ?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "Qui a été le premier président des États-Unis ?",
-        "hint": "George Washington",
+        "answer": "Auguste",
+        "hint": "Quel empereur romain a mis fin à la République et fondé l'Empire?",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
-      },
-      {
-        "answer": "Qui est connu pour la théorie de la relativité?",
-        "hint": "Albert Einstein",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
       }
     ]
   ]
