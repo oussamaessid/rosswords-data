@@ -1,30 +1,46 @@
 {
   "levels": [
-  [
-    {
-      "answer": "Quel sport de course automobile est très rapide?",
-      "hint": "Formule 1",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Quel sport demande de la souplesse et des mouvements au sol?",
-      "hint": "Gymnastique",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Quel sport utilise un volant et une raquette, mais pas sur un court de tennis?",
-      "hint": "Badminton",
-      "startx": 1,
-      "starty": 3,
-      "orientation": "across",
-      "position": 3
-    }
+    [
+      {
+        "answer": "TENDINITE",
+        "hint": "Inflammation d'un tendon.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LITRE",
+        "hint": "Unité de mesure de volume.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DIPHTÉRIE",
+        "hint": "Infection bactérienne grave des voies respiratoires supérieures.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ADIPEUX",
+        "hint": "Relatif à la graisse.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "COVID",
+        "hint": "Maladie infectieuse à SARS-CoV-2.",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      }
+    ]
   ]
- ]
 }
