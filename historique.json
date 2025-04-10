@@ -1,6 +1,6 @@
 {
   "levels": [
-    [
+  [
     {
       "answer": "Quel sport de vitesse se pratique avec des voitures?",
       "hint": "Course automobile",
@@ -151,6 +151,6 @@
       "orientation": "across",
       "position": 4
     }
-  ]
-]
+   ]
+ ]
 }
