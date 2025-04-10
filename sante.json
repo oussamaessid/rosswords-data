@@ -2,377 +2,93 @@
   "levels": [
     [
       {
-        "answer": "CYSTO",
-        "hint": "Relatif à la vessie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "STROKE",
-        "hint": "Accident vasculaire cérébral, interruption de la circulation sanguine cérébrale.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AGEUSIE",
-        "hint": "Perte ou diminution du goût.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "URETERE",
-        "hint": "Conduit excréteur reliant le rein à la vessie.",
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
         "startx": 2,
         "starty": 3,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MYOME",
-        "hint": "Tumeur bénigne du muscle, souvent utérin.",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "SIGMOÏDE",
-        "hint": "Partie terminale du côlon avant le rectum.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MÉNINGE",
-        "hint": "Membrane enveloppant le cerveau et la moelle épinière.",
-        "startx": 4,
-        "starty": 1,
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 3,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SALPINGITE",
-        "hint": "Inflammation des trompes de Fallope.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "DIURÉTIQUE",
-        "hint": "Médicament augmentant la production d'urine.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "LOBE",
-        "hint": "Partie d'un organe (poumon, cerveau, etc.).",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "LYMPHE",
-        "hint": "Liquide biologique circulant dans les vaisseaux lymphatiques.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PNEUMO",
-        "hint": "Abréviation de pneumonie, infection du parenchyme pulmonaire.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HÉMATOME",
-        "hint": "Collection de sang dans les tissus suite à une rupture de vaisseaux.",
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
         "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "OVAIRE",
-        "hint": "Glande génitale féminine produisant les ovules et les hormones sexuelles.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "FÉBRILE",
-        "hint": "Qui a de la fièvre.",
-        "startx": 8,
         "starty": 2,
         "orientation": "down",
-        "position": 5
+        "position": 3
       }
     ],
     [
       {
-        "answer": "SÉVÈRE",
-        "hint": "Grave, important.",
-        "startx": 1,
-        "starty": 1,
+        "answer": "LEBRON",
+        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "startx": 3,
+        "starty": 3,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ESTOMAC",
-        "hint": "Organe de la digestion mécanique et chimique des aliments.",
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
         "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ULCERE",
-        "hint": "Lésion de la peau ou d'une muqueuse avec perte de substance.",
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
         "startx": 4,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "LARYNX",
-        "hint": "Organe de la phonation situé entre le pharynx et la trachée.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "UTERUS",
-        "hint": "Organe de la gestation chez la femme.",
-        "startx": 1,
         "starty": 2,
-        "orientation": "across",
-        "position": 5
+        "orientation": "down",
+        "position": 3
       }
     ],
     [
       {
-        "answer": "TRACHÉITE",
-        "hint": "Inflammation de la trachée.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ALLERG",
-        "hint": "Réaction excessive du système immunitaire.",
+        "answer": "PRO",
+        "hint": "Joueur qui pratique un sport à titre professionnel",
         "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
       },
       {
-        "answer": "THROMBO",
-        "hint": "Caillot (préfixe).",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CAL",
-        "hint": "Tissu osseux réparateur après une fracture.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PLASMA",
-        "hint": "Fraction liquide du sang dans laquelle baignent les cellules sanguines.",
-        "startx": 2,
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 5,
         "starty": 2,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "HÉMATIE",
-        "hint": "Globule rouge du sang.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EMPYEME",
-        "hint": "Collection de pus dans une cavité naturelle.",
-        "startx": 7,
-        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ARTICULE",
-        "hint": "Jonction entre deux ou plusieurs os, permettant le mouvement.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RADIUS",
-        "hint": "Os de l'avant-bras.",
+        "answer": "BASKET",
+        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
         "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MALLEOLE",
-        "hint": "Saillie osseuse à la cheville.",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "THROMBOSE",
-        "hint": "Formation d'un caillot sanguin dans un vaisseau.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HÉMORRAGIE",
-        "hint": "Écoulement de sang hors des vaisseaux sanguins.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DIALYSE",
-        "hint": "Séparation des substances dissoutes dans un liquide par membrane.",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "IMMUNI",
-        "hint": "Capacité de défense de l'organisme.",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BIOPSI",
-        "hint": "Prélèvement tissulaire diagnostique.",
-        "startx": 6,
         "starty": 5,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PHASE",
-        "hint": "Étape d'un processus ou maladie.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ENDOMÉTRIO",
-        "hint": "Présence de tissu endométrial en dehors de la cavité utérine.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MÉLOME",
-        "hint": "Tumeur maligne de la peau développée à partir des mélanocytes.",
-        "startx": 2,
-        "starty": 4,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "CLINIQ",
-        "hint": "Relatif à l'observation du patient.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "POIGNET",
-        "hint": "Articulation reliant l'avant-bras à la main.",
+        "answer": "NBA",
+        "hint": "Ligue professionnelle de basket-ball des États-Unis",
         "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "POIGNET",
-        "hint": "Articulation reliant l'avant-bras à la main.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PENIS",
-        "hint": "Organe reproducteur masculin.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "THÉRAPIE",
-        "hint": "Traitement d'une maladie.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RESPIRAT",
-        "hint": "Relatif à la respiration.",
-        "startx": 2,
         "starty": 4,
-        "orientation": "across",
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "AMIBE",
-        "hint": "Protozoaire unicellulaire parasite ou libre.",
-        "startx": 5,
+        "answer": "TOUR",
+        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
+        "startx": 2,
         "starty": 7,
         "orientation": "across",
         "position": 5
@@ -380,464 +96,104 @@
     ],
     [
       {
-        "answer": "CICATRI",
-        "hint": "Cicatrisation, processus de réparation tissulaire après une lésion.",
+        "answer": "FOOTBALL",
+        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
         "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "THROMBOSE",
-        "hint": "Formation d'un caillot sanguin dans un vaisseau.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "IVOIRE",
-        "hint": "Tissu osseux très dense des dents.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "DIABETE",
-        "hint": "Trouble de la régulation de la glycémie par l'insuline.",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BÉNI",
-        "hint": "Sans gravité, non malin (tumeur).",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "SYSTÈME",
-        "hint": "Ensemble d'organes concourant à une fonction.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "THORAX",
-        "hint": "Poitrine.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DARTOS",
-        "hint": "Muscle de la peau du scrotum.",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "VARUS",
-        "hint": "Déviation d'un membre vers l'intérieur.",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BRONCHITE",
-        "hint": "Inflammation des bronches.",
-        "startx": 2,
         "starty": 3,
         "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "RESPIRAT",
-        "hint": "Relatif à la respiration.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PLASMO",
-        "hint": "Plasma, partie liquide du sang.",
-        "startx": 4,
-        "starty": 1,
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 6,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MAIN",
-        "hint": "Extrémité du bras permettant la préhension.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
+        "answer": "COPA",
+        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ANTIGÈNE",
-        "hint": "Substance déclenchant une réponse immunitaire.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "THYRO",
-        "hint": "Relatif à la thyroïde (préfixe).",
+        "answer": "GOL",
+        "hint": "Terminer un jeu ou un sport avec un but marqué",
         "startx": 8,
         "starty": 1,
         "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ANTIGE",
-        "hint": "Substance reconnue par le système immunitaire.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GLIAL",
-        "hint": "Cellule de soutien du système nerveux.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ISCHÉMIE",
-        "hint": "Diminution de l'apport sanguin à un tissu ou un organe.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "EPILEPSIE",
-        "hint": "Trouble neurologique caractérisé par des crises convulsives.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "GLOME",
-        "hint": "Structure anatomique arrondie.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ABDOMEN",
-        "hint": "Partie du corps contenant les organes digestifs.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "AMNIO",
-        "hint": "Membrane entourant le foetus et contenant le liquide amniotique.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EPILEP",
-        "hint": "Trouble neurologique convulsif.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ANTIGENE",
-        "hint": "Substance capable de provoquer une réaction immunitaire.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "LARYNGITE",
-        "hint": "Inflammation du larynx (cordes vocales).",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ANATOMIE",
-        "hint": "Étude de la structure du corps.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MÉDECIN",
-        "hint": "Professionnel de santé soignant les malades.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MELENA",
-        "hint": "Selles noires et goudronneuses dues à la présence de sang digéré.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "EMPYÈME",
-        "hint": "Accumulation de pus dans une cavité naturelle du corps.",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CORNEE",
-        "hint": "Membrane transparente à l'avant de l'œil.",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "LESIE",
-        "hint": "Altération pathologique d'un tissu ou d'un organe.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ERITEME",
-        "hint": "Rougeur de la peau.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VERTIGO",
-        "hint": "Vertige.",
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
         "startx": 1,
         "starty": 5,
         "orientation": "across",
-        "position": 3
-      },
+        "position": 5
+      }
+    ],
+    [
       {
-        "answer": "LEVRE",
-        "hint": "Bord de la bouche.",
-        "startx": 1,
-        "starty": 7,
+        "answer": "TITRE",
+        "hint": "Championship remporté dans un sport à l'échelle mondiale",
+        "startx": 3,
+        "starty": 3,
         "orientation": "across",
-        "position": 4
+        "position": 1
       },
       {
-        "answer": "DIGEST",
-        "hint": "Relatif à la digestion.",
+        "answer": "TOUR",
+        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MATCH",
+        "hint": "Rencontre sportive entre deux équipes ou joueurs",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
         "startx": 1,
         "starty": 3,
         "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "LUXATION",
-        "hint": "Déplacement anormal des surfaces articulaires d'une articulation.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "INFECTIEUX",
-        "hint": "Provoqué par une infection.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ÉPISIO",
-        "hint": "Incision du périnée lors de l'accouchement.",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "RAPIDE",
-        "hint": "Qui se produit vite.",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "LITRE",
-        "hint": "Unité de mesure de volume.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "YEUX",
-        "hint": "Organes de la vision.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "URÈTRE",
-        "hint": "Canal excréteur de l'urine depuis la vessie.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "STADE",
-        "hint": "Degré d'avancement d'une maladie, notamment cancéreuse.",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MYELINE",
-        "hint": "Gaine isolante autour des fibres nerveuses.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PHAGE",
-        "hint": "Qui mange, qui détruit (suffixe).",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CARTILAG",
-        "hint": "Cartilage, tissu conjonctif souple et résistant présent dans les articulations.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ANAL",
-        "hint": "Relatif à l'anus.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CONTUSION",
-        "hint": "Ecchymose, lésion des tissus mous sans rupture de la peau.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ROD",
-        "hint": "Bâtonnet, cellule photoréceptrice rétinienne, vision nocturne.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SCANNER",
-        "hint": "Tomodensitométrie, technique d'imagerie médicale utilisant les rayons X.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ALBINOS",
-        "hint": "Personne atteinte d'albinisme, absence congénitale de pigmentation.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LANGUE",
-        "hint": "Organe musculaire de la bouche, impliqué dans le goût, la parole et la déglutition.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HEMATIE",
-        "hint": "Globule rouge, cellule sanguine transportant l'oxygène.",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MÉLANOME",
-        "hint": "Cancer de la peau développé à partir des mélanocytes.",
-        "startx": 4,
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 5,
         "starty": 3,
         "orientation": "down",
-        "position": 4
+        "position": 2
       },
       {
-        "answer": "TUMEUR",
-        "hint": "Masse anormale de tissu.",
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
         "startx": 3,
-        "starty": 4,
+        "starty": 1,
         "orientation": "down",
-        "position": 5
+        "position": 3
+      },
+      {
+        "answer": "MATCH",
+        "hint": "Rencontre sportive entre deux équipes ou joueurs",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
       }
     ]
   ]
