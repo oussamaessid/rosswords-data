@@ -2,44 +2,222 @@
   "levels": [
     [
       {
-        "answer": "TENDINITE",
-        "hint": "Inflammation d'un tendon.",
-        "startx": 2,
-        "starty": 2,
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 5,
+        "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "LITRE",
-        "hint": "Unité de mesure de volume.",
-        "startx": 6,
+        "answer": "BASKET",
+        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
+        "startx": 11,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DIPHTÉRIE",
-        "hint": "Infection bactérienne grave des voies respiratoires supérieures.",
-        "startx": 8,
-        "starty": 1,
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 9,
+        "starty": 3,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ADIPEUX",
-        "hint": "Relatif à la graisse.",
-        "startx": 5,
-        "starty": 1,
+        "answer": "LEBRON",
+        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "startx": 7,
+        "starty": 2,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "COVID",
-        "hint": "Maladie infectieuse à SARS-CoV-2.",
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "GOLDEN",
+        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
         "startx": 5,
         "starty": 8,
         "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "OLYMPIQUE",
+        "hint": "Relatif aux Jeux Olympiques, compétition internationale de sport",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CONCURRENCE",
+        "hint": "Les autres équipes ou joueurs qui cherchent à battre un autre dans un sport",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 13,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TROPHEE",
+        "hint": "Récompense décernée à un vainqueur ou à un champion",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "COACH",
+        "hint": "Personne qui entraîne une équipe ou un joueur",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LEBRON",
+        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GOL",
+        "hint": "Terminer un jeu ou un sport avec un but marqué",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TOUR",
+        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "COPA",
+        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
         "position": 5
+      },
+      {
+        "answer": "PRO",
+        "hint": "Joueur qui pratique un sport à titre professionnel",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
       }
     ]
   ]
