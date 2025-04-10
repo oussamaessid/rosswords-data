@@ -1,46 +1,142 @@
 {
   "levels": [
     [
-      {
-        "answer": "TENDINITE",
-        "hint": "Inflammation d'un tendon.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LITRE",
-        "hint": "Unité de mesure de volume.",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DIPHTÉRIE",
-        "hint": "Infection bactérienne grave des voies respiratoires supérieures.",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ADIPEUX",
-        "hint": "Relatif à la graisse.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "COVID",
-        "hint": "Maladie infectieuse à SARS-CoV-2.",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      }
+        {
+            "answer": "L'AMAZONE",
+            "hint": "Quel fleuve est connu pour la forêt amazonienne?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "L'AMAZONE",
+            "hint": "Quel fleuve est le plus long d'Amérique du Sud?",
+            "startx": 3,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "PARIS",
+            "hint": "Quel est la capitale de la France?",
+            "startx": 4,
+            "starty": 1,
+            "orientation": "down",
+            "position": 3
+        }
+    ],
+    [
+        {
+            "answer": "L'ITALIE",
+            "hint": "Quel pays est célèbre pour la pizza?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "L'ASIE",
+            "hint": "Quel est le continent le plus grand ?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "ITALIE",
+            "hint": "Quel pays a pour capitale Rome?",
+            "startx": 4,
+            "starty": 2,
+            "orientation": "down",
+            "position": 3
+        }
+    ],
+    [
+        {
+            "answer": "OCÉANIE",
+            "hint": "Dans quel continent se trouve l'Australie?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "MOSCOU",
+            "hint": "Quelle est la capitale de la Russie?",
+            "startx": 2,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "TERRE",
+            "hint": "Comment s'appelle notre planète ?",
+            "startx": 8,
+            "starty": 1,
+            "orientation": "down",
+            "position": 3
+        }
+    ],
+    [
+        {
+            "answer": "MONT EVEREST",
+            "hint": "Quelle est la plus haute montagne du monde?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "LONDRES",
+            "hint": "Dans quelle ville se trouve Big Ben?",
+            "startx": 3,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "FRANCE",
+            "hint": "Quel pays a la Tour Eiffel?",
+            "startx": 2,
+            "starty": 5,
+            "orientation": "across",
+            "position": 3
+        },
+        {
+            "answer": "LE SAHARA",
+            "hint": "Quel est le plus grand désert chaud du monde?",
+            "startx": 9,
+            "starty": 1,
+            "orientation": "down",
+            "position": 4
+        }
+    ],
+    [
+        {
+            "answer": "L'OURAL",
+            "hint": "Quelles montagnes séparent l'Europe et l'Asie?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "FRANCE",
+            "hint": "Quel est le pays connu pour la Tour Eiffel ?",
+            "startx": 6,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "LA TERRE",
+            "hint": "Quelle est la planète sur laquelle nous vivons?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "down",
+            "position": 3
+        }
     ]
-  ]
+]
 }
