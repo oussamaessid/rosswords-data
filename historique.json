@@ -1,214 +1,142 @@
 {
   "levels": [
     [
-      {
-        "answer": "ADENOÏDE",
-        "hint": "Végétations lymphoïdes situées dans le nasopharynx.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MALLEOLE",
-        "hint": "Saillie osseuse à la cheville.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ORL",
-        "hint": "Oto-rhino-laryngologie, spécialité médicale s'intéressant à l'oreille, au nez et à la gorge.",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ALLÈLE",
-        "hint": "Version alternative d'un gène à un locus spécifique.",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MÉTABO",
-        "hint": "Relatif au métabolisme.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 5
-      }
+        {
+            "answer": "L'AMAZONE",
+            "hint": "Quel fleuve est connu pour la forêt amazonienne?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "L'AMAZONE",
+            "hint": "Quel fleuve est le plus long d'Amérique du Sud?",
+            "startx": 3,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "PARIS",
+            "hint": "Quel est la capitale de la France?",
+            "startx": 4,
+            "starty": 1,
+            "orientation": "down",
+            "position": 3
+        }
     ],
     [
-      {
-        "answer": "BENIN",
-        "hint": "Non cancéreux, sans potentiel de propagation.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FIBRE",
-        "hint": "Filament constituant les tissus.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ROD",
-        "hint": "Bâtonnet, cellule photoréceptrice rétinienne, vision nocturne.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HORMON",
-        "hint": "Substance chimique sécrétée par une glande endocrine et agissant sur d'autres organes.",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NODULE",
-        "hint": "Petite masse arrondie et palpable.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
+        {
+            "answer": "L'ITALIE",
+            "hint": "Quel pays est célèbre pour la pizza?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "L'ASIE",
+            "hint": "Quel est le continent le plus grand ?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "ITALIE",
+            "hint": "Quel pays a pour capitale Rome?",
+            "startx": 4,
+            "starty": 2,
+            "orientation": "down",
+            "position": 3
+        }
     ],
     [
-      {
-        "answer": "PHOBIE",
-        "hint": "Peur intense et irrationnelle d'un objet, d'une situation ou d'une activité.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ERYTHEME",
-        "hint": "Rougeur de la peau.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ATROPHIE",
-        "hint": "Diminution de volume d'un organe ou d'un tissu.",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "YEUX",
-        "hint": "Organes de la vision.",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "NEVRITE",
-        "hint": "Inflammation d'un nerf.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      }
+        {
+            "answer": "OCÉANIE",
+            "hint": "Dans quel continent se trouve l'Australie?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "MOSCOU",
+            "hint": "Quelle est la capitale de la Russie?",
+            "startx": 2,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "TERRE",
+            "hint": "Comment s'appelle notre planète ?",
+            "startx": 8,
+            "starty": 1,
+            "orientation": "down",
+            "position": 3
+        }
     ],
     [
-      {
-        "answer": "MUSCLES",
-        "hint": "Tissus contractiles permettant le mouvement.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NEURO",
-        "hint": "Relatif au système nerveux.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DENTS",
-        "hint": "Organes durs servant à la mastication des aliments.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NEVRAL",
-        "hint": "Relatif aux nerfs.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "LAXATIF",
-        "hint": "Médicament facilitant l'évacuation des selles.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
+        {
+            "answer": "MONT EVEREST",
+            "hint": "Quelle est la plus haute montagne du monde?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "LONDRES",
+            "hint": "Dans quelle ville se trouve Big Ben?",
+            "startx": 3,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "FRANCE",
+            "hint": "Quel pays a la Tour Eiffel?",
+            "startx": 2,
+            "starty": 5,
+            "orientation": "across",
+            "position": 3
+        },
+        {
+            "answer": "LE SAHARA",
+            "hint": "Quel est le plus grand désert chaud du monde?",
+            "startx": 9,
+            "starty": 1,
+            "orientation": "down",
+            "position": 4
+        }
     ],
     [
-      {
-        "answer": "PLASMA",
-        "hint": "Fraction liquide du sang dans laquelle baignent les cellules sanguines.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ACIDE",
-        "hint": "Substance chimique de pH inférieur à 7.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AMIBE",
-        "hint": "Protozoaire unicellulaire parasite ou libre.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GRADE",
-        "hint": "Degré de gravité ou d'étendue.",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GENOU",
-        "hint": "Articulation entre la cuisse et la jambe.",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      }
+        {
+            "answer": "L'OURAL",
+            "hint": "Quelles montagnes séparent l'Europe et l'Asie?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "across",
+            "position": 1
+        },
+        {
+            "answer": "FRANCE",
+            "hint": "Quel est le pays connu pour la Tour Eiffel ?",
+            "startx": 6,
+            "starty": 1,
+            "orientation": "down",
+            "position": 2
+        },
+        {
+            "answer": "LA TERRE",
+            "hint": "Quelle est la planète sur laquelle nous vivons?",
+            "startx": 2,
+            "starty": 2,
+            "orientation": "down",
+            "position": 3
+        }
     ]
-  ]
+]
 }
