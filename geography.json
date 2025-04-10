@@ -1,348 +1,1128 @@
-import random
-import json
-from typing import List, Dict, Tuple, Optional
-import os
-
-# Classe contenant les mots de chaque catégorie
-class WordBank:
-    def __init__(self, json_file_path='testS.json'):
-        """Initialise la banque de mots à partir d'un fichier JSON"""
-        try:
-            with open(json_file_path, 'r', encoding='utf-8') as file:
-                data = json.load(file)
-                
-                # Structure attendue dans le JSON: un dictionnaire avec les mots
-                self.words = []
-                
-                # Récupérer tous les mots (sans distinction de niveau)
-                if 'easy_words' in data:
-                    self.words.extend(data['easy_words'])
-                if 'medium_words' in data:
-                    self.words.extend(data['medium_words'])
-                if 'hard_words' in data:
-                    self.words.extend(data['hard_words'])
-                if 'expert_words' in data:
-                    self.words.extend(data['expert_words'])
-                
-                # Si le JSON contient directement une liste de mots
-                if 'words' in data:
-                    self.words.extend(data['words'])
-                
-                # Mélanger les mots pour une sélection aléatoire
-                random.shuffle(self.words)
-                
-                # Garder une trace des mots déjà utilisés
-                self.used_words = set()
-                
-        except (FileNotFoundError, json.JSONDecodeError) as e:
-            print(f"Erreur lors du chargement du fichier {json_file_path}: {str(e)}")
-            print("Veuillez vérifier que le fichier existe et qu'il est correctement formaté.")
-            # Initialiser avec une liste vide en cas d'erreur
-            self.words = []
-            self.used_words = set()
-
-    def get_words(self, num_words=10):
-        """Retourne un nombre spécifié de mots aléatoires non utilisés"""
-        # Filtrer les mots trop longs et non utilisés
-        available_words = [word for word in self.words 
-                         if len(word[0]) <= 8 and word[0] not in self.used_words]
-        
-        # Si pas assez de mots disponibles, réinitialiser les mots utilisés
-        if len(available_words) < num_words:
-            print("Réinitialisation des mots utilisés pour pouvoir générer plus d'exercices.")
-            self.used_words = set()
-            available_words = [word for word in self.words if len(word[0]) <= 8]
-        
-        # Si toujours pas assez de mots, retourner ce qu'on a
-        if len(available_words) < num_words:
-            return available_words
-        
-        # Sélectionner les mots aléatoirement
-        selected_words = random.sample(available_words, num_words)
-        
-        # Marquer les mots comme utilisés
-        for word in selected_words:
-            self.used_words.add(word[0])
-            
-        return selected_words
-
-def create_interconnected_module(word_bank: List[Tuple[str, str]], num_words: int) -> Optional[List[Dict]]:
-    if num_words > len(word_bank):
-        return None
-
-    # Limite maximale pour les coordonnées
-    MAX_COORD = 9  # Pour garantir que startx et starty sont < 10
-
-    chosen_words = random.sample(word_bank, num_words)
-    module = []
-    used_positions = set()  # Track used positions to avoid overlap
-    
-    # Garder trace des mots placés avec leur orientation et leurs coordonnées
-    words_across = []  # Liste des coordonnées y des mots horizontaux
-    words_down = []    # Liste des coordonnées x des mots verticaux
-
-    def has_word_spacing_conflict(x, y, orientation):
-        """Vérifie si un mot à la position (x,y) avec orientation donnée
-        est trop proche d'un autre mot de même orientation"""
-        if orientation == "across":
-            # Pour les mots horizontaux, vérifier si le y est trop proche d'un autre mot horizontal
-            for other_y in words_across:
-                if abs(y - other_y) < 2:  # Différence minimale de 2 unités
-                    return True
-        else:  # orientation == "down"
-            # Pour les mots verticaux, vérifier si le x est trop proche d'un autre mot vertical
-            for other_x in words_down:
-                if abs(x - other_x) < 2:  # Différence minimale de 2 unités
-                    return True
-        return False
-
-    def would_exceed_boundary(x, y, orientation, word_length):
-        """Vérifie si un mot dépasserait la limite de la grille"""
-        if orientation == "across":
-            return x + word_length - 1 >= MAX_COORD
-        else:  # orientation == "down"
-            return y + word_length - 1 >= MAX_COORD
-
-    def find_intersection(word: str, existing_entry: Dict) -> Optional[Tuple[int, int, str]]:
-        existing_word = existing_entry["answer"]
-        startx, starty = existing_entry["startx"], existing_entry["starty"]
-        existing_orientation = existing_entry["orientation"]
-
-        # Orientation perpendiculaire pour créer une intersection
-        new_orientation = "down" if existing_orientation == "across" else "across"
-
-        for i, letter in enumerate(word):
-            for j, existing_letter in enumerate(existing_word):
-                if letter == existing_letter:
-                    if new_orientation == "down":
-                        new_x = startx + j
-                        new_y = starty - i
-                    else:  # new_orientation == "across"
-                        new_x = startx - i
-                        new_y = starty + j
-
-                    # Vérifier si la position est valide (dans les limites, pas occupée)
-                    if (0 < new_x < MAX_COORD and 0 < new_y < MAX_COORD and 
-                        (new_x, new_y) not in used_positions):
-                        
-                        # Vérifier si le mot ne dépasserait pas les limites
-                        if not would_exceed_boundary(new_x, new_y, new_orientation, len(word)):
-                            # Vérifier si le mot respecte l'espacement avec les mots de même orientation
-                            if not has_word_spacing_conflict(new_x, new_y, new_orientation):
-                                return new_x, new_y, new_orientation
-        return None
-
-    # Place the first word at a fixed position
-    word1, hint1 = chosen_words[0]
-    
-    # Vérifier que le premier mot ne dépasse pas les limites
-    first_x, first_y = 3, 3  # Position initiale réduite pour rester sous la limite de 10
-    if len(word1) + first_x > MAX_COORD:
-        # Ajuster la position si le mot est trop long
-        first_x = max(1, MAX_COORD - len(word1))
-    
-    module.append({
-        "answer": word1,
-        "hint": hint1,
-        "startx": first_x,
-        "starty": first_y,
+{
+  "levels": [
+    [
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 2,
+        "starty": 3,
         "orientation": "across",
         "position": 1
-    })
-    used_positions.add((first_x, first_y))  # Mark the starting position as used
-    words_across.append(first_y)  # Ajouter la coordonnée y à la liste des mots horizontaux
-
-    for i, (word, hint) in enumerate(chosen_words[1:], 2):
-        placed = False
-        for existing_entry in module:
-            intersection = find_intersection(word, existing_entry)
-            if intersection:
-                x, y, orientation = intersection
-                
-                module.append({
-                    "answer": word,
-                    "hint": hint,
-                    "startx": x,
-                    "starty": y,
-                    "orientation": orientation,
-                    "position": i
-                })
-                used_positions.add((x, y))  # Mark the new position as used
-                
-                # Mettre à jour les listes de coordonnées selon l'orientation
-                if orientation == "across":
-                    words_across.append(y)
-                else:  # orientation == "down"
-                    words_down.append(x)
-                
-                placed = True
-                break
-
-        if not placed:
-            return None  # If no valid placement, return None
-
-    return module
-
-def generate_module(word_bank: WordBank, num_words: int) -> Optional[List[Dict]]:
-    # Récupérer des mots non utilisés de longueur appropriée
-    filtered_words = word_bank.get_words(num_words * 3)
-    
-    if len(filtered_words) < num_words:
-        return None  # Pas assez de mots de longueur appropriée
-    
-    module = None
-    attempts = 0
-    max_attempts = 200  # Augmenter le nombre de tentatives car les contraintes sont plus strictes
-
-    while module is None and attempts < max_attempts:
-        module = create_interconnected_module(filtered_words, num_words)
-        attempts += 1
-
-    return module
-
-def generate_all_modules(word_bank: WordBank, num_modules: int = 30) -> List[List[Dict]]:
-    result = []
-    
-    # Générer des modules avec un nombre variable de mots (entre 3 et 6)
-    module_sizes = []
-    for _ in range(num_modules):
-        module_sizes.append(random.randint(3, 6))
-    
-    # Répartir les tailles de manière équilibrée
-    # S'assurer qu'on a suffisamment de chaque taille (environ 1/4 de chaque)
-    min_count_per_size = num_modules // 4
-    
-    size_counts = {3: 0, 4: 0, 5: 0, 6: 0}
-    for size in module_sizes:
-        size_counts[size] += 1
-    
-    # Ajuster si nécessaire
-    for size in range(3, 7):
-        while size_counts[size] < min_count_per_size:
-            # Trouver une taille qui a trop d'éléments
-            for other_size in range(3, 7):
-                if size_counts[other_size] > min_count_per_size:
-                    # Remplacer un module de taille other_size par un de taille size
-                    for i, s in enumerate(module_sizes):
-                        if s == other_size:
-                            module_sizes[i] = size
-                            size_counts[other_size] -= 1
-                            size_counts[size] += 1
-                            break
-                    break
-    
-    # Mélanger pour que ce soit aléatoire
-    random.shuffle(module_sizes)
-    
-    # Générer les modules avec les tailles définies
-    for i, num_words in enumerate(module_sizes):
-        print(f"Génération du module {i+1}/{num_modules} ({num_words} mots)...")
-        module = generate_module(word_bank, num_words)
-        if module:
-            result.append(module)
-        else:
-            print(f"Échec de la génération du module {i+1}. Tentative avec moins de mots...")
-            # Essayer avec moins de mots si ça échoue
-            for retry_size in range(num_words-1, 2, -1):
-                module = generate_module(word_bank, retry_size)
-                if module:
-                    result.append(module)
-                    print(f"Module {i+1} généré avec {retry_size} mots au lieu de {num_words}.")
-                    break
-    
-    # Limiter au nombre demandé de modules
-    return result[:num_modules]
-
-# Fonction pour extraire les données de sport du fichier paste-3.txt
-def extract_sport_data_from_file(file_path='paste-3.txt'):
-    """Extraire les données de sport à partir du fichier paste-3.txt"""
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            content = file.read()
-            
-            # Le contenu est sous forme de liste de tuples [question, réponse]
-            # On va le parser manuellement
-            data = eval(content)
-            
-            # On a maintenant une liste de listes [question, réponse]
-            # On va transformer chaque entrée pour avoir [réponse, question]
-            transformed_data = [[item[1].upper(), item[0]] for item in data]
-            
-            # Regrouper par sport pour éviter les doublons
-            sport_dict = {}
-            for answer, hint in transformed_data:
-                if answer not in sport_dict:
-                    sport_dict[answer] = hint
-            
-            # Convertir en liste de tuples [réponse, question]
-            unique_data = [[k, v] for k, v in sport_dict.items()]
-            
-            # Prioriser les mots courts (de longueur <= 8)
-            unique_data.sort(key=lambda x: len(x[0]))
-            
-            # Mélanger les données tout en gardant la priorité aux mots courts
-            short_words = [word for word in unique_data if len(word[0]) <= 8]
-            long_words = [word for word in unique_data if len(word[0]) > 8]
-            
-            random.shuffle(short_words)
-            random.shuffle(long_words)
-            
-            unique_data = short_words + long_words
-            
-            # Limiter à un nombre raisonnable de mots (au moins 6 × 30 = 180 pour avoir assez pour 30 exercices)
-            unique_data = unique_data[:200]
-            
-            # Créer le dictionnaire final
-            result = {
-                'words': unique_data
-            }
-            
-            # Écrire dans le fichier JSON
-            with open('testS.json', 'w', encoding='utf-8') as f:
-                json.dump(result, f, indent=2, ensure_ascii=False)
-            
-            print("Fichier testS.json créé avec succès à partir des données de sport!")
-            return True
-            
-    except (FileNotFoundError, SyntaxError) as e:
-        print(f"Erreur lors de l'ouverture ou du parsing du fichier {file_path}: {str(e)}")
-        return False
-
-if __name__ == "__main__":
-    # Vérifier si le fichier testS.json existe déjà
-    if not os.path.isfile('testS.json'):
-        # Essayer d'extraire les données de paste-3.txt
-        if not extract_sport_data_from_file():
-            print("Erreur: Impossible de créer le fichier testS.json.")
-            print("Veuillez fournir un fichier testS.json valide.")
-            exit(1)
-
-    # Utiliser le fichier testS.json existant
-    word_bank = WordBank()
-
-    # Vérifier si des mots ont été chargés
-    if not word_bank.words:
-        print("Erreur: Aucun mot n'a été chargé à partir du fichier testS.json.")
-        print("Veuillez vérifier que le fichier testS.json contient des données valides.")
-        exit(1)
-
-    print("\n=== GÉNÉRATION DES MODULES DE MOTS CROISÉS ===\n")
-
-    # Génère les modules avec la structure JSON demandée
-    levels = generate_all_modules(word_bank, num_modules=30)
-
-    # Créer la structure finale avec une clé "levels"
-    result = {
-        "levels": levels
-    }
-
-    # Convertir en JSON avec indentation pour la lisibilité
-    json_output = json.dumps(result, indent=2, ensure_ascii=False)
-
-    # Afficher le nombre de niveaux générés
-    print(f"\nNombre de niveaux générés: {len(levels)}")
-
-    # Sauvegarder le résultat dans un fichier
-    with open('crossword_levels.json', 'w', encoding='utf-8') as f:
-        f.write(json_output)
-    print("\nLes niveaux ont été sauvegardés dans le fichier 'crossword_levels.json'")
+      },
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PRO",
+        "hint": "Joueur qui pratique un sport à titre professionnel",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TOUR",
+        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GRAND",
+        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOUEUSE",
+        "hint": "Femme qui pratique un sport",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PRO",
+        "hint": "Joueur qui pratique un sport à titre professionnel",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GOL",
+        "hint": "Terminer un jeu ou un sport avec un but marqué",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FIFA",
+        "hint": "Fédération internationale de football association, responsable de la gestion du football mondial",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MATCH",
+        "hint": "Rencontre sportive entre deux équipes ou joueurs",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NBA",
+        "hint": "Ligue professionnelle de basket-ball des États-Unis",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CUP",
+        "hint": "Compétition ou tournoi pour déterminer le champion d'un sport",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "LEBRON",
+        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLDEN",
+        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOL",
+        "hint": "Terminer un jeu ou un sport avec un but marqué",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COACH",
+        "hint": "Personne qui entraîne une équipe ou un joueur",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "JOUEUSE",
+        "hint": "Femme qui pratique un sport",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLDEN",
+        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASKET",
+        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "COPA",
+        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MATCH",
+        "hint": "Rencontre sportive entre deux équipes ou joueurs",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LEBRON",
+        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GRAND",
+        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BASKET",
+        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "GRAND",
+        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "PELOTON",
+        "hint": "Groupe de cyclistes en compétition sur une route",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TROPHEE",
+        "hint": "Récompense décernée à un vainqueur ou à un champion",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GOLDEN",
+        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "LEBRON",
+        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GRAND",
+        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CUP",
+        "hint": "Compétition ou tournoi pour déterminer le champion d'un sport",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GRAND",
+        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOUEUSE",
+        "hint": "Femme qui pratique un sport",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BALONDOR",
+        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NBA",
+        "hint": "Ligue professionnelle de basket-ball des États-Unis",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GRAND",
+        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "TROPHEE",
+        "hint": "Récompense décernée à un vainqueur ou à un champion",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PRO",
+        "hint": "Joueur qui pratique un sport à titre professionnel",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "JOUEUR",
+        "hint": "Personne qui participe à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CELEBRE",
+        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASKET",
+        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PRO",
+        "hint": "Joueur qui pratique un sport à titre professionnel",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Course de longue distance, généralement 42,195 km",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COACH",
+        "hint": "Personne qui entraîne une équipe ou un joueur",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TOURNOI",
+        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FOOTBALL",
+        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BALLON",
+        "hint": "Objet utilisé dans la plupart des sports pour jouer",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GOLDEN",
+        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FORMULE",
+        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "NBA",
+        "hint": "Ligue professionnelle de basket-ball des États-Unis",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "NADAL",
+        "hint": "Joueur de tennis espagnol, roi de la terre battue",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "COPA",
+        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "JOUER",
+        "hint": "Participer à un jeu ou un sport",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EQUIPE",
+        "hint": "Groupe de joueurs qui jouent ensemble",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FEDERER",
+        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "COUP",
+        "hint": "Action de frapper un ballon avec le pied",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CAGE",
+        "hint": "But dans certains sports comme le football ou le handball",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ]
+  ]
+}
