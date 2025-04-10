@@ -2,85 +2,169 @@
   "levels": [
     [
       {
-        "answer": "ALBINISME",
-        "hint": "Absence congénitale de pigmentation de la peau, des cheveux et des yeux.",
+        "answer": "ENDOCRI",
+        "hint": "Relatif aux glandes endocrines et aux hormones.",
         "startx": 2,
         "starty": 2,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "AMNESIE",
-        "hint": "Perte de mémoire.",
-        "startx": 2,
+        "answer": "DISQUE",
+        "hint": "Structure cartilagineuse intervertébrale ou structure anatomique discoïde.",
+        "startx": 4,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "EMPYEME",
-        "hint": "Collection de pus dans une cavité naturelle.",
-        "startx": 9,
+        "answer": "ANTIGEN",
+        "hint": "Substance étrangère déclenchant une réaction immunitaire.",
+        "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ARTHRITE",
-        "hint": "Inflammation des articulations.",
-        "startx": 2,
-        "starty": 1,
+        "answer": "THORAX",
+        "hint": "Poitrine.",
+        "startx": 3,
+        "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "STROKE",
-        "hint": "Accident vasculaire cérébral, interruption de la circulation sanguine cérébrale.",
+        "answer": "TALUS",
+        "hint": "Os de la cheville.",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "PULMONA",
+        "hint": "Relatif aux poumons.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AGNOSIE",
+        "hint": "Perte de la reconnaissance des perceptions sensorielles.",
         "startx": 8,
         "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SÉDATION",
+        "hint": "Diminution de l'activité nerveuse, apaisement.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ERUPTION",
+        "hint": "Apparition soudaine de lésions cutanées.",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ALBINOS",
+        "hint": "Personne atteinte d'albinisme, absence congénitale de pigmentation.",
+        "startx": 4,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "TRACHEE",
-        "hint": "Conduit respiratoire reliant le larynx aux bronches.",
+        "answer": "PROFIL",
+        "hint": "Ensemble de données médicales.",
         "startx": 2,
         "starty": 2,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "NAEVUS",
-        "hint": "Grain de beauté.",
-        "startx": 4,
-        "starty": 1,
+        "answer": "FIBRE",
+        "hint": "Filament constituant les tissus.",
+        "startx": 5,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PHYSIO",
-        "hint": "Étude du fonctionnement du corps.",
+        "answer": "DIALYSE",
+        "hint": "Séparation des substances dissoutes dans un liquide par membrane.",
         "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "THERAPI",
-        "hint": "Thérapeutique, ensemble des moyens pour soigner une maladie.",
+        "answer": "SCLÉROSE",
+        "hint": "Maladie chronique affectant la myéline des fibres nerveuses.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "VOMIR",
+        "hint": "Rejeter brutalement par la bouche le contenu de l'estomac.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ÉTHIQUE",
+        "hint": "Ensemble de principes moraux guidant la pratique médicale.",
         "startx": 2,
         "starty": 2,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "THROMBOSE",
+        "hint": "Formation d'un caillot sanguin dans un vaisseau.",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OBESE",
+        "hint": "Surpoids important.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MELANOME",
+        "hint": "Cancer de la peau développé à partir des mélanocytes.",
+        "startx": 8,
+        "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "ERYTHEME",
-        "hint": "Rougeur de la peau.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "MEDIAL",
+        "hint": "Situé au milieu ou vers le plan médian.",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
         "position": 5
       }
     ]
