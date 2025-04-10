@@ -1,142 +1,156 @@
 {
   "levels": [
     [
-        {
-            "answer": "L'AMAZONE",
-            "hint": "Quel fleuve est connu pour la forêt amazonienne?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "across",
-            "position": 1
-        },
-        {
-            "answer": "L'AMAZONE",
-            "hint": "Quel fleuve est le plus long d'Amérique du Sud?",
-            "startx": 3,
-            "starty": 1,
-            "orientation": "down",
-            "position": 2
-        },
-        {
-            "answer": "PARIS",
-            "hint": "Quel est la capitale de la France?",
-            "startx": 4,
-            "starty": 1,
-            "orientation": "down",
-            "position": 3
-        }
-    ],
-    [
-        {
-            "answer": "L'ITALIE",
-            "hint": "Quel pays est célèbre pour la pizza?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "across",
-            "position": 1
-        },
-        {
-            "answer": "L'ASIE",
-            "hint": "Quel est le continent le plus grand ?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "down",
-            "position": 2
-        },
-        {
-            "answer": "ITALIE",
-            "hint": "Quel pays a pour capitale Rome?",
-            "startx": 4,
-            "starty": 2,
-            "orientation": "down",
-            "position": 3
-        }
-    ],
-    [
-        {
-            "answer": "OCÉANIE",
-            "hint": "Dans quel continent se trouve l'Australie?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "across",
-            "position": 1
-        },
-        {
-            "answer": "MOSCOU",
-            "hint": "Quelle est la capitale de la Russie?",
-            "startx": 2,
-            "starty": 1,
-            "orientation": "down",
-            "position": 2
-        },
-        {
-            "answer": "TERRE",
-            "hint": "Comment s'appelle notre planète ?",
-            "startx": 8,
-            "starty": 1,
-            "orientation": "down",
-            "position": 3
-        }
-    ],
-    [
-        {
-            "answer": "MONT EVEREST",
-            "hint": "Quelle est la plus haute montagne du monde?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "across",
-            "position": 1
-        },
-        {
-            "answer": "LONDRES",
-            "hint": "Dans quelle ville se trouve Big Ben?",
-            "startx": 3,
-            "starty": 1,
-            "orientation": "down",
-            "position": 2
-        },
-        {
-            "answer": "FRANCE",
-            "hint": "Quel pays a la Tour Eiffel?",
-            "startx": 2,
-            "starty": 5,
-            "orientation": "across",
-            "position": 3
-        },
-        {
-            "answer": "LE SAHARA",
-            "hint": "Quel est le plus grand désert chaud du monde?",
-            "startx": 9,
-            "starty": 1,
-            "orientation": "down",
-            "position": 4
-        }
-    ],
-    [
-        {
-            "answer": "L'OURAL",
-            "hint": "Quelles montagnes séparent l'Europe et l'Asie?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "across",
-            "position": 1
-        },
-        {
-            "answer": "FRANCE",
-            "hint": "Quel est le pays connu pour la Tour Eiffel ?",
-            "startx": 6,
-            "starty": 1,
-            "orientation": "down",
-            "position": 2
-        },
-        {
-            "answer": "LA TERRE",
-            "hint": "Quelle est la planète sur laquelle nous vivons?",
-            "startx": 2,
-            "starty": 2,
-            "orientation": "down",
-            "position": 3
-        }
-    ]
+    {
+      "answer": "Quel sport de vitesse se pratique avec des voitures?",
+      "hint": "Course automobile",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Quel sport utilise une raquette et une balle jaune ?",
+      "hint": "Tennis",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Quel est le sport des courses de natation?",
+      "hint": "Natation",
+      "startx": 1,
+      "starty": 3,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Quel sport se joue avec un ballon et deux équipes de sept joueurs dans l'eau?",
+      "hint": "Water-polo",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "Quel sport implique des mouvements du corps?",
+      "hint": "Gymnastique",
+      "startx": 5,
+      "starty": 2,
+      "orientation": "across",
+      "position": 5
+    },
+    {
+      "answer": "Quel sport sur glace utilise des patins et une crosse ?",
+      "hint": "Hockey sur glace",
+      "startx": 4,
+      "starty": 3,
+      "orientation": "across",
+      "position": 6
+    }
+  ],
+  [
+    {
+      "answer": "Quel sport de course automobile est très rapide?",
+      "hint": "Formule 1",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Quel sport demande de la souplesse et des mouvements au sol?",
+      "hint": "Gymnastique",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Quel sport utilise un volant et une raquette, mais pas sur un court de tennis?",
+      "hint": "Badminton",
+      "startx": 1,
+      "starty": 3,
+      "orientation": "across",
+      "position": 3
+    }
+  ],
+  [
+    {
+      "answer": "Quel sport ressemble au football mais est plus physique?",
+      "hint": "Rugby",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Quel sport d'escrime se pratique avec une épée, un fleuret ou un sabre?",
+      "hint": "Escrime",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Quel sport se joue avec une batte et une balle et des bases?",
+      "hint": "Baseball",
+      "startx": 1,
+      "starty": 3,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Comment appelle-t-on le sport de la course, du saut et du lancer?",
+      "hint": "Athlétisme",
+      "startx": 9,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "Quel sport se joue avec une batte et une balle et des guichets?",
+      "hint": "Cricket",
+      "startx": 7,
+      "starty": 5,
+      "orientation": "across",
+      "position": 5
+    }
+  ],
+  "module_4": [
+    {
+      "answer": "Dans quel sport utilise-t-on une batte pour frapper une balle?",
+      "hint": "Baseball",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Quel sport équestre consiste à monter à cheval?",
+      "hint": "Équitation",
+      "startx": 8,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Quel sport se pratique sur un vélo?",
+      "hint": "Cyclisme",
+      "startx": 7,
+      "starty": 2,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Quel sport ressemble au football mais on utilise les mains plus souvent?",
+      "hint": "Rugby",
+      "startx": 6,
+      "starty": 3,
+      "orientation": "across",
+      "position": 4
+    }
+  ]
 ]
 }
