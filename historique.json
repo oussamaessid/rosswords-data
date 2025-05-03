@@ -2,222 +2,212 @@
   "levels": [
     [
       {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BASKET",
-        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-        "startx": 11,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 10,
+        "answer": "PARIS",
+        "hint": "Capitale de la France, ville des lumières",
+        "startx": 2,
         "starty": 2,
         "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "GOLDEN",
-        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "OLYMPIQUE",
-        "hint": "Relatif aux Jeux Olympiques, compétition internationale de sport",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CONCURRENCE",
-        "hint": "Les autres équipes ou joueurs qui cherchent à battre un autre dans un sport",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 13,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TROPHEE",
-        "hint": "Récompense décernée à un vainqueur ou à un champion",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 5,
+        "answer": "ROME",
+        "hint": "Capitale de l'Italie, ville éternelle",
+        "startx": 2,
         "starty": 1,
         "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "COACH",
-        "hint": "Personne qui entraîne une équipe ou un joueur",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
         "position": 2
       },
       {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
+        "answer": "ALPES",
+        "hint": "Chaîne de montagnes importante en Europe",
         "startx": 6,
-        "starty": 1,
+        "starty": 2,
         "orientation": "down",
         "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "GOL",
-        "hint": "Terminer un jeu ou un sport avec un but marqué",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
+        "answer": "SEINE",
+        "hint": "Fleuve traversant Paris",
         "startx": 1,
         "starty": 7,
         "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RHONE",
+        "hint": "Fleuve français se jetant dans la Méditerranée",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BERLIN",
+        "hint": "Capitale de l'Allemagne",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LISBONNE",
+        "hint": "Capitale du Portugal",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RHIN",
+        "hint": "Fleuve d'Europe occidentale",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "TOUR",
-        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-        "startx": 5,
-        "starty": 7,
+        "answer": "DOURO",
+        "hint": "Fleuve traversant le Portugal et l'Espagne",
+        "startx": 6,
+        "starty": 3,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "COPA",
-        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
-        "startx": 2,
-        "starty": 4,
+        "answer": "ODER",
+        "hint": "Fleuve d'Europe centrale",
+        "startx": 4,
+        "starty": 2,
         "orientation": "down",
         "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "SAHARA",
+        "hint": "Plus grand désert chaud du monde",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 1
       },
       {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 4,
-        "starty": 10,
+        "answer": "AMAZON",
+        "hint": "Plus grand fleuve du monde par son débit",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ASIE",
+        "hint": "Plus grand continent du monde",
+        "startx": 2,
+        "starty": 6,
         "orientation": "across",
-        "position": 6
+        "position": 3
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "Plus haute montagne du monde",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ALASIE",
+        "hint": "Région montagneuse d'Europe centrale",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RUSSIE",
+        "hint": "Plus grand pays du monde",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CANADA",
+        "hint": "Deuxième plus grand pays du monde",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VOLGA",
+        "hint": "Plus long fleuve d'Europe",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CANADA",
+        "hint": "Pays d'Amérique du Nord",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BRESIL",
+        "hint": "Plus grand pays d'Amérique du Sud",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ANDES",
+        "hint": "Chaîne de montagnes d'Amérique du Sud",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "URUGUAY",
+        "hint": "Pays d'Amérique du Sud",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CONGO",
+        "hint": "Fleuve d'Afrique centrale",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NIGER",
+        "hint": "Fleuve d'Afrique occidentale",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ZAMBIE",
+        "hint": "Pays d'Afrique australe",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
       }
     ]
   ]
