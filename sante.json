@@ -1,5 +1,6 @@
 {
   "levels": [
+    [
   {
     "answer": "Dans quel sport utilise-t-on un ring?",
     "hint": "Boxe",
@@ -40,5 +41,6 @@
     "orientation": "across",
     "position": 5
   }
+  ]
   ]
 }
