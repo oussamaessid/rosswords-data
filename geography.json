@@ -1,1128 +1,274 @@
 {
   "levels": [
-    [
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "TOUR",
-        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GRAND",
-        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JOUEUSE",
-        "hint": "Femme qui pratique un sport",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GOL",
-        "hint": "Terminer un jeu ou un sport avec un but marqué",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "FIFA",
-        "hint": "Fédération internationale de football association, responsable de la gestion du football mondial",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive entre deux équipes ou joueurs",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NBA",
-        "hint": "Ligue professionnelle de basket-ball des États-Unis",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CUP",
-        "hint": "Compétition ou tournoi pour déterminer le champion d'un sport",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GOLDEN",
-        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GOL",
-        "hint": "Terminer un jeu ou un sport avec un but marqué",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COACH",
-        "hint": "Personne qui entraîne une équipe ou un joueur",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "JOUEUSE",
-        "hint": "Femme qui pratique un sport",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GOLDEN",
-        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BASKET",
-        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TENNIS",
-        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "COPA",
-        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive entre deux équipes ou joueurs",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TENNIS",
-        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GRAND",
-        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BASKET",
-        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TENNIS",
-        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "GRAND",
-        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TENNIS",
-        "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RUGBY",
-        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "RUGBY",
-        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TROPHEE",
-        "hint": "Récompense décernée à un vainqueur ou à un champion",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GOLDEN",
-        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GRAND",
-        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CUP",
-        "hint": "Compétition ou tournoi pour déterminer le champion d'un sport",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "GRAND",
-        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RUGBY",
-        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JOUEUSE",
-        "hint": "Femme qui pratique un sport",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "RUGBY",
-        "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NBA",
-        "hint": "Ligue professionnelle de basket-ball des États-Unis",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GRAND",
-        "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "TROPHEE",
-        "hint": "Récompense décernée à un vainqueur ou à un champion",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BASKET",
-        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COACH",
-        "hint": "Personne qui entraîne une équipe ou un joueur",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "TOURNOI",
-        "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BALLON",
-        "hint": "Objet utilisé dans la plupart des sports pour jouer",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "GOLDEN",
-        "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FORMULE",
-        "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NBA",
-        "hint": "Ligue professionnelle de basket-ball des États-Unis",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "COPA",
-        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "JOUER",
-        "hint": "Participer à un jeu ou un sport",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "COUP",
-        "hint": "Action de frapper un ballon avec le pied",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      }
-    ]
+  [
+    {
+      "answer": "Aristote",
+      "hint": "Quel philosophe grec était le maître d'Alexandre le Grand?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Aristote",
+      "hint": "Quel philosophe grec a été le maître d'Alexandre le Grand ?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Chevaliers",
+      "hint": "Comment appelait-on les guerriers à cheval au Moyen-Âge?",
+      "startx": 1,
+      "starty": 8,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "L'Angleterre",
+      "hint": "Quel pays a été le berceau de la Révolution industrielle ?",
+      "startx": 1,
+      "starty": 1,
+      "orientation": "across",
+      "position": 4
+    },
+    {
+      "answer": "Homère",
+      "hint": "Qui a écrit l'Iliade et l'Odyssée?",
+      "startx": 7,
+      "starty": 1,
+      "orientation": "down",
+      "position": 5
+    }
+  ],
+  [
+    {
+      "answer": "Napoléon",
+      "hint": "Quel empereur et général français a conquis une grande partie de l'Europe ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Sphinx",
+      "hint": "Comment s'appelle le monument égyptien avec un corps de lion et une tête humaine ?",
+      "startx": 4,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Michel-Ange",
+      "hint": "Qui a peint la Chapelle Sixtine ?",
+      "startx": 3,
+      "starty": 4,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Magellan",
+      "hint": "Quel explorateur portugais a mené la première circumnavigation du globe ?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    }
+  ],
+  [
+    {
+      "answer": "Napoléon",
+      "hint": "Qui était l'empereur des Français après la Révolution ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Qui était la reine d'Égypte connue pour sa beauté?",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Magellan",
+      "hint": "Quel explorateur a fait le premier tour du monde en bateau ?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    }
+  ],
+  [
+    {
+      "answer": "Cléopâtre",
+      "hint": "Comment s'appelait une reine d'Égypte célèbre?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Comment s'appelait la reine égyptienne célèbre pour sa relation avec Jules César et Marc Antoine?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Aristote",
+      "hint": "Quel philosophe grec célèbre a enseigné à Alexandre le Grand?",
+      "startx": 9,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Magellan",
+      "hint": "Quel célèbre navigateur portugais a fait le tour du monde?",
+      "startx": 6,
+      "starty": 8,
+      "orientation": "across",
+      "position": 4
+    }
+  ],
+  [
+    {
+      "answer": "Pharaons",
+      "hint": "Comment s'appelaient les rois de l'Égypte ancienne ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Pompéi",
+      "hint": "Quelle cité antique a été détruite par une éruption volcanique ?",
+      "startx": 7,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Avignon",
+      "hint": "Quelle ville française a été le siège de la papauté au XIVe siècle ?",
+      "startx": 5,
+      "starty": 6,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Charlemagne",
+      "hint": "Qui était le roi des Francs couronné empereur ?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Qui était la reine d'Égypte la plus célèbre?",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 5
+    },
+    {
+      "answer": "Magellan",
+      "hint": "Quel navigateur a fait le premier tour du monde ?",
+      "startx": 4,
+      "starty": 1,
+      "orientation": "down",
+      "position": 6
+    }
+  ],
+  [
+    {
+      "answer": "Renaissance",
+      "hint": "Comment appelle-t-on la période de renouveau artistique et culturel en Europe après le Moyen Âge?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Waterloo",
+      "hint": "Quel est le nom de la célèbre bataille perdue par Napoléon en 1815?",
+      "startx": 5,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Grèce",
+      "hint": "Où se déroulaient les Jeux olympiques antiques ?",
+      "startx": 4,
+      "starty": 5,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Toutankhamon",
+      "hint": "Qui était le pharaon le plus connu de l'Égypte ancienne?",
+      "startx": 4,
+      "starty": 7,
+      "orientation": "across",
+      "position": 4
+    },
+    {
+      "answer": "Auguste",
+      "hint": "Comment s'appelait le premier empereur romain ?",
+      "startx": 6,
+      "starty": 6,
+      "orientation": "down",
+      "position": 5
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Qui était la dernière reine d'Égypte ?",
+      "startx": 4,
+      "starty": 6,
+      "orientation": "across",
+      "position": 6
+    }
+  ],
+  [
+    {
+      "answer": "Hannibal",
+      "hint": "Quel célèbre général carthaginois a traversé les Alpes avec des éléphants ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Hadrien",
+      "hint": "Quel célèbre empereur romain a construit un mur en Grande-Bretagne?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Michel-Ange",
+      "hint": "Quel artiste a peint la Chapelle Sixtine ?",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Pharaons",
+      "hint": "Comment s'appelaient les anciens dirigeants d'Égypte ?",
+      "startx": 1,
+      "starty": 2,
+      "orientation": "across",
+      "position": 4
+    }
   ]
+]
 }
