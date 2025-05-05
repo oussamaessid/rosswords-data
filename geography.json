@@ -1,274 +1,44 @@
 {
   "levels": [
-  [
-    {
-      "answer": "Aristote",
-      "hint": "Quel philosophe grec était le maître d'Alexandre le Grand?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Aristote",
-      "hint": "Quel philosophe grec a été le maître d'Alexandre le Grand ?",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Chevaliers",
-      "hint": "Comment appelait-on les guerriers à cheval au Moyen-Âge?",
-      "startx": 1,
-      "starty": 8,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "L'Angleterre",
-      "hint": "Quel pays a été le berceau de la Révolution industrielle ?",
-      "startx": 1,
-      "starty": 1,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "Homère",
-      "hint": "Qui a écrit l'Iliade et l'Odyssée?",
-      "startx": 7,
-      "starty": 1,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "Napoléon",
-      "hint": "Quel empereur et général français a conquis une grande partie de l'Europe ?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Sphinx",
-      "hint": "Comment s'appelle le monument égyptien avec un corps de lion et une tête humaine ?",
-      "startx": 4,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Michel-Ange",
-      "hint": "Qui a peint la Chapelle Sixtine ?",
-      "startx": 3,
-      "starty": 4,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "Magellan",
-      "hint": "Quel explorateur portugais a mené la première circumnavigation du globe ?",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 4
-    }
-  ],
-  [
-    {
-      "answer": "Napoléon",
-      "hint": "Qui était l'empereur des Français après la Révolution ?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Cléopâtre",
-      "hint": "Qui était la reine d'Égypte connue pour sa beauté?",
-      "startx": 6,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Magellan",
-      "hint": "Quel explorateur a fait le premier tour du monde en bateau ?",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    }
-  ],
-  [
-    {
-      "answer": "Cléopâtre",
-      "hint": "Comment s'appelait une reine d'Égypte célèbre?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Cléopâtre",
-      "hint": "Comment s'appelait la reine égyptienne célèbre pour sa relation avec Jules César et Marc Antoine?",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Aristote",
-      "hint": "Quel philosophe grec célèbre a enseigné à Alexandre le Grand?",
-      "startx": 9,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "Magellan",
-      "hint": "Quel célèbre navigateur portugais a fait le tour du monde?",
-      "startx": 6,
-      "starty": 8,
-      "orientation": "across",
-      "position": 4
-    }
-  ],
-  [
-    {
-      "answer": "Pharaons",
-      "hint": "Comment s'appelaient les rois de l'Égypte ancienne ?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Pompéi",
-      "hint": "Quelle cité antique a été détruite par une éruption volcanique ?",
-      "startx": 7,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Avignon",
-      "hint": "Quelle ville française a été le siège de la papauté au XIVe siècle ?",
-      "startx": 5,
-      "starty": 6,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "Charlemagne",
-      "hint": "Qui était le roi des Francs couronné empereur ?",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "Cléopâtre",
-      "hint": "Qui était la reine d'Égypte la plus célèbre?",
-      "startx": 5,
-      "starty": 5,
-      "orientation": "across",
-      "position": 5
-    },
-    {
-      "answer": "Magellan",
-      "hint": "Quel navigateur a fait le premier tour du monde ?",
-      "startx": 4,
-      "starty": 1,
-      "orientation": "down",
-      "position": 6
-    }
-  ],
-  [
-    {
-      "answer": "Renaissance",
-      "hint": "Comment appelle-t-on la période de renouveau artistique et culturel en Europe après le Moyen Âge?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Waterloo",
-      "hint": "Quel est le nom de la célèbre bataille perdue par Napoléon en 1815?",
-      "startx": 5,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Grèce",
-      "hint": "Où se déroulaient les Jeux olympiques antiques ?",
-      "startx": 4,
-      "starty": 5,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "Toutankhamon",
-      "hint": "Qui était le pharaon le plus connu de l'Égypte ancienne?",
-      "startx": 4,
-      "starty": 7,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "Auguste",
-      "hint": "Comment s'appelait le premier empereur romain ?",
-      "startx": 6,
-      "starty": 6,
-      "orientation": "down",
-      "position": 5
-    },
-    {
-      "answer": "Cléopâtre",
-      "hint": "Qui était la dernière reine d'Égypte ?",
-      "startx": 4,
-      "starty": 6,
-      "orientation": "across",
-      "position": 6
-    }
-  ],
-  [
-    {
-      "answer": "Hannibal",
-      "hint": "Quel célèbre général carthaginois a traversé les Alpes avec des éléphants ?",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "Hadrien",
-      "hint": "Quel célèbre empereur romain a construit un mur en Grande-Bretagne?",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "Michel-Ange",
-      "hint": "Quel artiste a peint la Chapelle Sixtine ?",
-      "startx": 6,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "Pharaons",
-      "hint": "Comment s'appelaient les anciens dirigeants d'Égypte ?",
-      "startx": 1,
-      "starty": 2,
-      "orientation": "across",
-      "position": 4
-    }
+  {
+    "answer": "Dans quel sport utilise-t-on un ring?",
+    "hint": "Boxe",
+    "startx": 2,
+    "starty": 2,
+    "orientation": "across",
+    "position": 1
+  },
+  {
+    "answer": "Quel sport inclut le saut en longueur et le lancer de poids ?",
+    "hint": "Athlétisme",
+    "startx": 8,
+    "starty": 1,
+    "orientation": "down",
+    "position": 2
+  },
+  {
+    "answer": "Quel sport se joue sur la glace avec une crosse et un palet?",
+    "hint": "Hockey sur glace",
+    "startx": 7,
+    "starty": 2,
+    "orientation": "across",
+    "position": 3
+  },
+  {
+    "answer": "Quel sport utilise une raquette et un volant ?",
+    "hint": "Badminton",
+    "startx": 6,
+    "starty": 3,
+    "orientation": "across",
+    "position": 4
+  },
+  {
+    "answer": "Quel sport d'équipe se joue avec un ballon et un gardien de but, souvent en salle?",
+    "hint": "Handball",
+    "startx": 5,
+    "starty": 4,
+    "orientation": "across",
+    "position": 5
+  }
   ]
-]
 }
