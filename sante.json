@@ -1,200 +1,44 @@
 {
   "levels": [
-    [
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BASKET",
-        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NBA",
-        "hint": "Ligue professionnelle de basket-ball des États-Unis",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "TOUR",
-        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COPA",
-        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GOL",
-        "hint": "Terminer un jeu ou un sport avec un but marqué",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "TITRE",
-        "hint": "Championship remporté dans un sport à l'échelle mondiale",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TOUR",
-        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive entre deux équipes ou joueurs",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive entre deux équipes ou joueurs",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      }
-    ]
+  {
+    "answer": "Dans quel sport utilise-t-on un ring?",
+    "hint": "Boxe",
+    "startx": 2,
+    "starty": 2,
+    "orientation": "across",
+    "position": 1
+  },
+  {
+    "answer": "Quel sport inclut le saut en longueur et le lancer de poids ?",
+    "hint": "Athlétisme",
+    "startx": 8,
+    "starty": 1,
+    "orientation": "down",
+    "position": 2
+  },
+  {
+    "answer": "Quel sport se joue sur la glace avec une crosse et un palet?",
+    "hint": "Hockey sur glace",
+    "startx": 7,
+    "starty": 2,
+    "orientation": "across",
+    "position": 3
+  },
+  {
+    "answer": "Quel sport utilise une raquette et un volant ?",
+    "hint": "Badminton",
+    "startx": 6,
+    "starty": 3,
+    "orientation": "across",
+    "position": 4
+  },
+  {
+    "answer": "Quel sport d'équipe se joue avec un ballon et un gardien de but, souvent en salle?",
+    "hint": "Handball",
+    "startx": 5,
+    "starty": 4,
+    "orientation": "across",
+    "position": 5
+  }
   ]
 }
