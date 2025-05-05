@@ -1,200 +1,352 @@
 {
   "levels": [
-    [
-      {
-        "answer": "FEDERER",
-        "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EQUIPE",
-        "hint": "Groupe de joueurs qui jouent ensemble",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CELEBRE",
-        "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "LEBRON",
-        "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MARATHON",
-        "hint": "Course de longue distance, généralement 42,195 km",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "PRO",
-        "hint": "Joueur qui pratique un sport à titre professionnel",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JOUEUR",
-        "hint": "Personne qui participe à un jeu ou un sport",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BASKET",
-        "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NBA",
-        "hint": "Ligue professionnelle de basket-ball des États-Unis",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "TOUR",
-        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "FOOTBALL",
-        "hint": "Sport où les joueurs tentent de marquer des buts en envoyant un ballon dans le but adverse",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAGE",
-        "hint": "But dans certains sports comme le football ou le handball",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COPA",
-        "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GOL",
-        "hint": "Terminer un jeu ou un sport avec un but marqué",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "TITRE",
-        "hint": "Championship remporté dans un sport à l'échelle mondiale",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TOUR",
-        "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive entre deux équipes ou joueurs",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "BALONDOR",
-        "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NADAL",
-        "hint": "Joueur de tennis espagnol, roi de la terre battue",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PELOTON",
-        "hint": "Groupe de cyclistes en compétition sur une route",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive entre deux équipes ou joueurs",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      }
-    ]
+  [
+    {
+      "answer": "Michel-Ange",
+      "hint": "Quel artiste a peint le plafond de la chapelle Sixtine?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Quelle reine d'Égypte était célèbre pour sa beauté?",
+      "startx": 7,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Hitler",
+      "hint": "Qui était le chef de l'Allemagne nazie pendant la Seconde Guerre mondiale ?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Croisades",
+      "hint": "Comment s'appelaient les guerres pour reprendre la Terre sainte?",
+      "startx": 6,
+      "starty": 8,
+      "orientation": "across",
+      "position": 4
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Qui était la dernière reine d'Égypte?",
+      "startx": 6,
+      "starty": 2,
+      "orientation": "across",
+      "position": 5
+    },
+    {
+      "answer": "Gutenberg",
+      "hint": "Qui a inventé l'imprimerie à caractères mobiles ?",
+      "startx": 5,
+      "starty": 7,
+      "orientation": "across",
+      "position": 6
+    }
+  ],
+  [
+    {
+      "answer": "Cléopâtre",
+      "hint": "Quel est le nom de la reine d'Égypte la plus célèbre?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Toutankhamon",
+      "hint": "Qui était le pharaon enfant célèbre de l'Égypte ancienne ?",
+      "startx": 5,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Auguste",
+      "hint": "Qui fut le premier empereur romain?",
+      "startx": 4,
+      "starty": 3,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "Italie",
+      "hint": "Dans quel pays se trouve le Colisée ?",
+      "startx": 8,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    }
+  ],
+  [
+    {
+      "answer": "Pharaons",
+      "hint": "Comment s'appelaient les anciens dirigeants d'Égypte ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Chevalier",
+      "hint": "Quel type de personnage combattait au Moyen Âge avec une armure?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Pompéi",
+      "hint": "Quelle cité antique a été détruite par une éruption volcanique ?",
+      "startx": 7,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Cléopâtre",
+      "hint": "Comment s'appelait la reine égyptienne célèbre pour sa relation avec Jules César et Marc Antoine?",
+      "startx": 2,
+      "starty": 6,
+      "orientation": "across",
+      "position": 4
+    },
+    {
+      "answer": "Victoria",
+      "hint": "Quel était le nom de la reine d'Angleterre à l'époque victorienne ?",
+      "startx": 2,
+      "starty": 7,
+      "orientation": "across",
+      "position": 5
+    }
+  ],
+  [
+    {
+      "answer": "Charlemagne",
+      "hint": "Qui a été couronné empereur le jour de Noël de l'an 800 ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Khéops",
+      "hint": "Comment s'appelait le pharaon connu pour la pyramide de Gizeh?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Religieuses",
+      "hint": "Quel type de guerres ont été les Croisades ?",
+      "startx": 7,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    }
+  ],
+  [
+    {
+      "answer": "Staline",
+      "hint": "Qui était le chef de l'Union soviétique pendant la Seconde Guerre mondiale ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Latin",
+      "hint": "Quelle langue parlaient les Romains de l'Antiquité ?",
+      "startx": 4,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Vespasien",
+      "hint": "Quel célèbre empereur romain a fait construire le Colisée?",
+      "startx": 8,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Staline",
+      "hint": "Qui était le chef de l'Union soviétique pendant la Seconde Guerre mondiale?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    }
+  ],
+  [
+    {
+      "answer": "Socrate",
+      "hint": "Comment s'appelait un philosophe grec célèbre?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Paléolithique",
+      "hint": "Comment s'appelait la période de la préhistoire où l'homme chassait et cueillait?",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Charlemagne",
+      "hint": "Quel roi franc est devenu empereur ?",
+      "startx": 5,
+      "starty": 9,
+      "orientation": "across",
+      "position": 3
+    }
+  ],
+  [
+    {
+      "answer": "L'écriture",
+      "hint": "Quelle invention a permis de conserver et transmettre l'information à travers le temps ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Gutenberg",
+      "hint": "Qui a inventé l'imprimerie ?",
+      "startx": 9,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "L'euro",
+      "hint": "Quelle est la monnaie de l'Union Européenne ?",
+      "startx": 3,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Charlemagne",
+      "hint": "Qui était le roi des Francs et empereur d'Occident?",
+      "startx": 6,
+      "starty": 8,
+      "orientation": "across",
+      "position": 4
+    }
+  ],
+  [
+    {
+      "answer": "Victoria",
+      "hint": "Comment s'appelait la reine d'Angleterre à l'époque victorienne ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Socrate",
+      "hint": "Quel philosophe grec célèbre disait Je sais que je ne sais rien ?",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Socrate",
+      "hint": "Quel célèbre philosophe grec a enseigné à Platon ?",
+      "startx": 5,
+      "starty": 2,
+      "orientation": "across",
+      "position": 3
+    }
+  ],
+  [
+    {
+      "answer": "Charlemagne",
+      "hint": "Quel roi de France est devenu empereur au Moyen Âge ?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Platon",
+      "hint": "Quel philosophe grec était l'élève de Socrate?",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Beagle",
+      "hint": "Quel est le nom du navire sur lequel Charles Darwin a navigué ?",
+      "startx": 7,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "Magellan",
+      "hint": "Quel célèbre explorateur a fait le tour du monde en bateau ?",
+      "startx": 4,
+      "starty": 1,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "Pyramides",
+      "hint": "Comment s'appellent les monuments construits par les anciens Égyptiens pour leurs pharaons ?",
+      "startx": 3,
+      "starty": 3,
+      "orientation": "across",
+      "position": 5
+    },
+    {
+      "answer": "Aristote",
+      "hint": "Quel philosophe grec célèbre a enseigné à Alexandre le Grand?",
+      "startx": 5,
+      "starty": 1,
+      "orientation": "down",
+      "position": 6
+    }
+  ],
+  [
+    {
+      "answer": "Cléopâtre",
+      "hint": "Quelle reine d'Égypte était connue pour sa beauté?",
+      "startx": 2,
+      "starty": 2,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "Grèce",
+      "hint": "Où se déroulaient les Jeux Olympiques antiques?",
+      "startx": 9,
+      "starty": 1,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "Pythagore",
+      "hint": "Quel mathématicien grec est connu pour son théorème?",
+      "startx": 1,
+      "starty": 5,
+      "orientation": "across",
+      "position": 3
+    }
   ]
+]
 }
