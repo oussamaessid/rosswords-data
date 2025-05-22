@@ -1,46 +1,1384 @@
 {
   "levels": [
-[
-  {
-    "answer": "Volleyball",
-    "hint": "Dans quel sport frappe-t-on un ballon au-dessus d'un filet avec les mains?",
-    "startx": 2,
-    "starty": 2,
-    "orientation": "across",
-    "position": 1
-  },
-  {
-    "answer": "Bowling",
-    "hint": "Quel sport se joue avec des quilles et une boule?",
-    "startx": 8,
-    "starty": 1,
-    "orientation": "down",
-    "position": 2
-  },
-  {
-    "answer": "Badminton",
-    "hint": "Quel sport se joue avec une raquette et un volant léger?",
-    "startx": 7,
-    "starty": 2,
-    "orientation": "across",
-    "position": 3
-  },
-  {
-    "answer": "Boxe",
-    "hint": "Quel sport de combat utilise des gants?",
-    "startx": 6,
-    "starty": 3,
-    "orientation": "across",
-    "position": 4
-  },
-  {
-    "answer": "Pétanque",
-    "hint": "Quel sport utilise des boules en métal que l'on lance sur un terrain?",
-    "startx": 5,
-    "starty": 4,
-    "orientation": "across",
-    "position": 5
-  }
-]
-]
+    [
+      {
+        "answer": "SKIALPIN",
+        "hint": "Quel sport se pratique en montagne sur la neige avec des skis et des bâtons?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Quel sport se joue avec un ballon rond et des buts?",
+        "startx": 4,
+        "starty": 0,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport consiste à envoyer une balle dans un trou avec un club ?",
+        "startx": 1,
+        "starty": 0,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport se joue avec des clubs et une balle dans des trous?",
+        "startx": 1,
+        "starty": 0,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain utilise une batte et une balle?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport d'équipe américain utilise une batte et des bases ?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football mais on peut utiliser les mains?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport avec une batte et une balle?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport pratique-t-on dans une piscine?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUDO",
+        "hint": "Quel art martial se pratique sur un tatami?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ESCALADE",
+        "hint": "Quel sport se pratique en montagne et consiste à grimper?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ESCRIME",
+        "hint": "Quel sport de combat utilise des épées, des fleurets ou des sabres?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football américain mais sans protections ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COURSE",
+        "hint": "Quel type de course est le sprint en athlétisme?",
+        "startx": 1,
+        "starty": 0,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ESCRIME",
+        "hint": "Quel sport d'escrime se pratique avec une épée, un fleuret ou un sabre?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport est comme le football mais avec un ballon ovale et des plaquages?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain utilise une batte pour frapper une balle lancée?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BADMINTON",
+        "hint": "Quel sport se joue avec une raquette et un volant léger?",
+        "startx": 0,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport utilise des clubs et une petite balle blanche ?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Quel sport individuel consiste à courir un marathon de 42 kilomètres?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain utilise une batte, une balle et des bases?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VOILE",
+        "hint": "Quel sport nautique utilise une voile pour se déplacer avec le vent?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte, une balle et des bases?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat se pratique avec des gants?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport utilise une batte, une balle et des bases?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport d'équipe ressemble au football américain mais avec un ballon ovale?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football américain mais avec des règles différentes?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue sur un court avec une raquette et une balle jaune ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ROLLER",
+        "hint": "Quel sport se pratique avec des patins à roulettes?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NATATION",
+        "hint": "Dans quel sport nage-t-on?",
+        "startx": 6,
+        "starty": 0,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte et une balle pour frapper des home runs?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SKI",
+        "hint": "Quel sport d'hiver se pratique avec des planches sur la neige?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain utilise une batte et une balle et des bases?",
+        "startx": 6,
+        "starty": 0,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport se joue avec un ballon ovale et où on marque un essai?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport utilise une batte et une balle?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport se joue avec un ballon ovale et des essais?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football américain mais sans casque?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport pratique-t-on dans l'eau?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec un ballon à la main et des buts?",
+        "startx": 2,
+        "starty": 0,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat se fait avec des gants et sur un ring?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "FOOTBALL",
+        "hint": "Quel sport utilise un ballon rond et des buts?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec un ballon et des mains, et dont le but est de marquer dans des cages plus petites que celles du football?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VOILE",
+        "hint": "Quel sport utilise le vent pour avancer sur l'eau ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport se pratique dans l'eau et consiste à nager?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport d'équipe se joue avec les mains et un ballon, ressemblant au football?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PÉTANQUE",
+        "hint": "Quel sport français se joue avec des boules sur un terrain?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains et un ballon, et ressemble au football à la main?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ESCRIME",
+        "hint": "Quel sport utilise des épées ou des fleurets?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CRICKET",
+        "hint": "Quel sport de batte et balle est populaire en Inde?",
+        "startx": 1,
+        "starty": 0,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SURF",
+        "hint": "Quel sport de glisse se pratique sur les vagues de l'océan ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "LUTTE",
+        "hint": "Quel sport de combat se pratique dans un ring et où les adversaires se saisissent?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SURF",
+        "hint": "Quel sport utilise une planche pour glisser sur les vagues de l'océan?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue avec une raquette et une petite balle jaune?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport se joue avec un ballon ovale ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "WATERPOLO",
+        "hint": "Quel sport se joue dans l'eau avec un ballon et des équipes ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue à la main avec un ballon et des buts, similaire au football?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "KARATÉ",
+        "hint": "Quel sport de combat consiste à donner des coups de pieds et de poings?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PÉTANQUE",
+        "hint": "Quel sport consiste à lancer des boules pour les rapprocher d'un cochonnet ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Quel sport a la Coupe du Monde la plus célèbre?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TIRÀL'ARC",
+        "hint": "Quel sport utilise un arc et des flèches pour atteindre une cible?",
+        "startx": 0,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec un ballon et des mains, et des buts?",
+        "startx": 6,
+        "starty": 0,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue avec une raquette?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains pour lancer un ballon dans un but?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport se pratique sur deux roues?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat oppose deux personnes avec des gants?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains et un ballon pour marquer des buts?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat se fait avec des gants sur un ring?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport se pratique sur un vélo ?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport utilise un vélo pour faire des courses?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "NATATION",
+        "hint": "Comment appelle-t-on le sport de nage en piscine?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport utilise une batte pour frapper une balle et courir autour de bases?",
+        "startx": 2,
+        "starty": 0,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SKI",
+        "hint": "Quel sport se pratique sur la neige avec des skis ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SKI",
+        "hint": "Quel sport se pratique sur la neige avec des planches?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec un ballon à la main et des buts, souvent en intérieur ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TIRÀL'ARC",
+        "hint": "Dans quel sport tire-t-on des flèches?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport utilise une raquette et une balle jaune sur un court?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport d'équipe se joue avec les mains et un petit ballon?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PÉTANQUE",
+        "hint": "Quel sport utilise des boules en métal que l'on lance sur un terrain?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JUDO",
+        "hint": "Quel sport est un art martial japonais?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue en simple ou en double avec une raquette et une balle jaune?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport se pratique dans l'eau en nageant?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NETBALL",
+        "hint": "Quel sport se joue avec un ballon et un filet, et on peut passer avec les mains?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport utilise une batte et une balle sur un terrain en forme de diamant?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport utilise des clubs et une petite balle ?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Dans quel sport deux personnes se battent avec des gants ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Dans quel sport porte-t-on un ballon ovale et on court pour marquer un essai?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport utilise un ballon ovale et des plaquages?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain se joue avec une batte et une balle?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue en simple ou en double avec des raquettes et une balle?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte et une balle et des bases ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SKI",
+        "hint": "Quel sport se pratique sur la neige avec des planches aux pieds ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ESCALADE",
+        "hint": "Quel sport se pratique en montagne et consiste à grimper des rochers?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VOILE",
+        "hint": "Quel sport nautique utilise une voile pour avancer sur l'eau ?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CRICKET",
+        "hint": "Quel sport anglais se joue avec une batte, une balle et des guichets?",
+        "startx": 8,
+        "starty": 0,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue sur un court avec une raquette et une balle jaune?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte et une balle, en courant autour de bases?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport avec des clubs et une petite balle?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football mais on utilise plus les mains?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain utilise une batte et une balle ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "FUTSAL",
+        "hint": "Quel sport se pratique en salle avec un ballon rond et des petits buts, similaire au football?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport se pratique dans l'eau ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PÉTANQUE",
+        "hint": "Quel sport se joue avec des boules sur un terrain sablé?",
+        "startx": 0,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "AVIRON",
+        "hint": "Quel sport nautique utilise des rames sur un bateau?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport se fait à vélo?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BADMINTON",
+        "hint": "Quel sport utilise un filet et un volant?",
+        "startx": 7,
+        "starty": 0,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport utilise un ballon ovale et des poteaux de but en H?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains et un ballon dans des buts ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport a le Tour de France comme course célèbre?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "TIRÀL'ARC",
+        "hint": "Quel sport utilise un arc et des flèches?",
+        "startx": 0,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport se pratique à vélo?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport se pratique dans une piscine?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport utilise un ballon ovale et des poteaux en H?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport se joue avec un club et une petite balle dans des trous sur un terrain vert ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SURF",
+        "hint": "Quel sport sur une vague avec une planche?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport consiste à faire des courses avec un vélo?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte et une balle, et des bases?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport avec une batte et des bases?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport utilise des clubs et une petite balle blanche?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUDO",
+        "hint": "Quel art martial japonais implique des projections?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JUDO",
+        "hint": "Quel sport de combat où on essaie de projeter l'adversaire?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FOOTBALL",
+        "hint": "Quel sport se joue avec deux équipes de onze joueurs et un ballon rond?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat utilise les poings sur un ring?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat utilise les poings?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "JUDO",
+        "hint": "Quel art martial implique des projections?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AVIRON",
+        "hint": "Quel sport se pratique en équipe avec une pagaie dans un bateau?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains et un ballon pour marquer des buts contre une équipe adverse?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SURF",
+        "hint": "Quel sport de glisse utilise une planche sur l'eau?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Quel sport se joue avec des clubs et une petite balle blanche sur un terrain vert?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Dans quel sport utilise-t-on un club pour frapper une petite balle dans un trou?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CYCLISME",
+        "hint": "Quel sport se pratique avec un vélo en course?",
+        "startx": 3,
+        "starty": 0,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport se joue avec un ballon ovale et des poteaux de but en H?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football mais avec les mains et un ballon ovale?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec un petit ballon et des buts avec les mains?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "WATERPOLO",
+        "hint": "Quel sport d'équipe se joue dans une piscine avec un ballon?",
+        "startx": 0,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUGBY",
+        "hint": "Quel sport ressemble au football mais on peut utiliser les mains et un ballon ovale ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "Quel sport se joue avec un ballon rond et des buts ?",
+        "startx": 1,
+        "starty": 0,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "WATERPOLO",
+        "hint": "Quel sport d'équipe se joue dans l'eau avec un ballon?",
+        "startx": 0,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SKIALPIN",
+        "hint": "Quel sport d'hiver consiste à descendre une pente enneigée le plus vite possible sur des skis?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HOCKEY",
+        "hint": "Quel sport se joue avec des crosses et un palet (ou une balle)?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FOOTBALL",
+        "hint": "Dans quel sport utilise-t-on un ballon rond et des buts?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUDO",
+        "hint": "Quel sport de combat japonais utilise des projections et des prises?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Dans quel sport deux personnes se frappent avec des gants?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport d'équipe se joue avec les mains et un ballon plus petit que celui du basket?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Dans quel sport utilise-t-on des gants pour frapper?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "POLO",
+        "hint": "Dans quel sport monte-t-on à cheval et utilise-t-on un ballon ?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat utilise les poings ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CRICKET",
+        "hint": "Quel sport anglais utilise une batte et des guichets?",
+        "startx": 6,
+        "starty": 0,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport américain se joue avec une batte et un gant?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "MARCHE",
+        "hint": "Quel sport consiste à marcher rapidement sur une longue distance?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Quel sport se joue avec une raquette et un filet?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains et un ballon, proche du football?",
+        "startx": 3,
+        "starty": 0,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CRICKET",
+        "hint": "Quel sport se joue avec une batte, une balle et des guichets, populaire en Angleterre et en Inde?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SKI",
+        "hint": "Dans quel sport utilise-t-on des skis?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte et une balle sur un terrain?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "NATATION",
+        "hint": "Quel sport se pratique dans l'eau et permet de nager?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUDO",
+        "hint": "Quel sport de combat japonais se pratique sur un tapis?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HANDBALL",
+        "hint": "Quel sport se joue avec les mains et un ballon dans des buts comme au football?",
+        "startx": 2,
+        "starty": 0,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "BASEBALL",
+        "hint": "Quel sport se joue avec une batte et une balle sur des bases ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOWLING",
+        "hint": "Quel sport consiste à renverser des quilles avec une boule?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOXE",
+        "hint": "Quel sport de combat avec des gants?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ]
+  ]
 }
