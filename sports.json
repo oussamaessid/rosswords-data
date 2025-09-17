@@ -1,169 +1,169 @@
 {
   "levels": [
-    [
+   [
     {
-      "answer": "CHAMPION",
-      "hint": "Personne ou équipe qui remporte une compétition",
+      "answer": "REFEREE",
+      "hint": "Person who controls a match and enforces the rules",
       "startx": 6,
-      "starty": 0,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PELOTON",
-      "hint": "Groupe de cyclistes en compétition sur une route",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "TERRAIN",
-      "hint": "Surface sur laquelle se déroule une compétition sportive",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "TOUR",
-      "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "BADMINTON",
-      "hint": "Sport de raquette avec un volant",
-      "startx": 3,
-      "starty": 3,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "CARDIO",
-      "hint": "Exercice qui améliore le système cardiovasculaire",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "ÉQUIPE",
-      "hint": "Groupe de joueurs qui jouent ensemble",
-      "startx": 4,
-      "starty": 0,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PODIUM",
-      "hint": "Estrade où montent les trois premiers d'une compétition",
-      "startx": 1,
-      "starty": 7,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "COUP",
-      "hint": "Action de frapper un ballon avec le pied",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "GOLDEN",
-      "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-      "startx": -1,
-      "starty": 5,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "GOLDEN",
-      "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "VICTOIRE",
-      "hint": "Fait de gagner une compétition ou un match",
-      "startx": 3,
-      "starty": 4,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "BADMINTON",
-      "hint": "Sport de raquette avec un volant",
-      "startx": 5,
       "starty": 6,
       "orientation": "across",
       "position": 3
     },
     {
-      "answer": "ENTRAÎNEMENT",
-      "hint": "Préparation physique et technique d'un sportif",
-      "startx": 6,
-      "starty": 2,
+      "answer": "TENNIS",
+      "hint": "Sport where players hit a ball with rackets over a net",
+      "startx": 7,
+      "starty": 5,
       "orientation": "down",
       "position": 2
     },
     {
-      "answer": "FORMULE",
-      "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-      "startx": 3,
+      "answer": "FITNESS",
+      "hint": "General physical condition of a person",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "MARATHON",
+      "hint": "A long-distance race, usually 42.195 km",
+      "startx": 7,
       "starty": 1,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "TEAM",
+      "hint": "Group of players playing together",
+      "startx": 9,
+      "starty": 5,
       "orientation": "down",
       "position": 5
     }
   ],
   [
     {
-      "answer": "COACH",
-      "hint": "Personne qui entraîne une équipe ou un joueur",
-      "startx": 9,
-      "starty": 1,
+      "answer": "STADIUM",
+      "hint": "Place where sports competitions take place",
+      "startx": 8,
+      "starty": 4,
       "orientation": "down",
       "position": 2
     },
     {
-      "answer": "SPRINT",
-      "hint": "Course de vitesse sur courte distance",
+      "answer": "TEAM",
+      "hint": "Group of players playing together",
       "startx": 6,
-      "starty": -1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "CAGE",
-      "hint": "But dans certains sports comme le football ou le handball",
-      "startx": 9,
-      "starty": 1,
+      "starty": 6,
       "orientation": "across",
       "position": 4
     },
     {
-      "answer": "BADMINTON",
-      "hint": "Sport de raquette avec un volant",
-      "startx": 2,
+      "answer": "CYCLING",
+      "hint": "Sport of riding a bicycle",
+      "startx": 11,
       "starty": 2,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "FOOTBALL",
+      "hint": "Sport where players try to score goals by sending a ball into the opponent's net",
+      "startx": 5,
+      "starty": 5,
       "orientation": "across",
       "position": 1
     },
     {
-      "answer": "OFFSIDE",
-      "hint": "Position irrégulière d'un joueur au football",
+      "answer": "TROPHY",
+      "hint": "Award given to a winner or champion",
+      "startx": 6,
+      "starty": 6,
+      "orientation": "down",
+      "position": 5
+    }
+  ],
+  [
+    {
+      "answer": "FITNESS",
+      "hint": "General physical condition of a person",
+      "startx": 9,
+      "starty": 4,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "STADIUM",
+      "hint": "Place where sports competitions take place",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "TENNIS",
+      "hint": "Sport where players hit a ball with rackets over a net",
+      "startx": 6,
+      "starty": 5,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "GOALKEEPER",
+      "hint": "Player responsible for defending the goal",
+      "startx": 7,
+      "starty": 3,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "SWIMMING",
+      "hint": "Sport practiced in water",
+      "startx": 9,
+      "starty": 9,
+      "orientation": "across",
+      "position": 5
+    }
+  ],
+  [
+    {
+      "answer": "PLAYER",
+      "hint": "A person who participates in a sport or game",
+      "startx": 6,
+      "starty": 1,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "FITNESS",
+      "hint": "General physical condition of a person",
+      "startx": 7,
+      "starty": 5,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "DEFENSE",
+      "hint": "Action of stopping the opponent from scoring",
       "startx": 3,
-      "starty": -1,
+      "starty": 5,
+      "orientation": "across",
+      "position": 4
+    },
+    {
+      "answer": "REFEREE",
+      "hint": "Person who controls a match and enforces the rules",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "OLYMPICS",
+      "hint": "International sports competition held every four years",
+      "startx": 5,
+      "starty": 2,
       "orientation": "across",
       "position": 5
     }
