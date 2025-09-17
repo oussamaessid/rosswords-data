@@ -1,424 +1,424 @@
 {
   "levels": [
- [
-    {
-      "answer": "HELMET",
-      "hint": "Protective gear for the head",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "GOAL",
-      "hint": "Target where players try to score",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "LEAGUE",
-      "hint": "Group of teams competing regularly",
-      "startx": 3,
-      "starty": 4,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "FIELD",
-      "hint": "Open area where sports are played",
-      "startx": 6,
-      "starty": 3,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "SHORTS",
-      "hint": "Short pants worn in sports",
-      "startx": 2,
-      "starty": 4,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "AGILITY",
-      "hint": "Ability to move quickly and easily",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "THROW",
-      "hint": "Action of propelling with hand",
-      "startx": 7,
-      "starty": 5,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "POINT",
-      "hint": "Unit of scoring in games",
-      "startx": 4,
-      "starty": 3,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "TENNIS",
-      "hint": "Sport where players hit a ball with rackets over a net",
-      "startx": 1,
-      "starty": 6,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "TITLE",
-      "hint": "Championship or honor won",
-      "startx": 1,
-      "starty": 4,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "GLOVE",
-      "hint": "Protective gear for hands",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "JERSEY",
-      "hint": "Sports shirt worn by players",
-      "startx": 7,
-      "starty": 4,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "NET",
-      "hint": "Mesh used in various sports",
-      "startx": 6,
-      "starty": 8,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "UMPIRE",
-      "hint": "Official who supervises a game",
-      "startx": 3,
-      "starty": 6,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "ARCHERY",
-      "hint": "Sport of shooting arrows with a bow",
-      "startx": 1,
-      "starty": 9,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "CATCH",
-      "hint": "Action of grabbing a moving object",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "BLOCK",
-      "hint": "Action of stopping opponent's move",
-      "startx": 3,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "MUSCLE",
-      "hint": "Tissue that produces movement",
-      "startx": 6,
-      "starty": 2,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "REFLEX",
-      "hint": "Quick automatic response",
-      "startx": 2,
-      "starty": 7,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "RECORD",
-      "hint": "Best performance achieved",
-      "startx": 2,
-      "starty": 3,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "CYCLING",
-      "hint": "Sport of riding a bicycle",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "VICTORY",
-      "hint": "Success in competition",
-      "startx": 2,
-      "starty": 3,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "BLOCK",
-      "hint": "Action of stopping opponent's move",
-      "startx": 5,
-      "starty": 4,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "GOAL",
-      "hint": "Target where players try to score",
-      "startx": 4,
-      "starty": 6,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "SCORE",
-      "hint": "Points earned in a game",
-      "startx": 4,
-      "starty": 7,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "SCORE",
-      "hint": "Points earned in a game",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "CONTEST",
-      "hint": "Competition to determine a winner",
-      "startx": 7,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "CHAMPION",
-      "hint": "Person or team that wins a competition",
-      "startx": 1,
-      "starty": 2,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "DEFEAT",
-      "hint": "Loss in competition",
-      "startx": 2,
-      "starty": 4,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "RACKET",
-      "hint": "Equipment with strings used in tennis",
-      "startx": 2,
-      "starty": 7,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "SEASON",
-      "hint": "Period when a sport is played",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "MUSCLE",
-      "hint": "Tissue that produces movement",
-      "startx": 2,
-      "starty": 3,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "WINNER",
-      "hint": "Person or team that comes first",
-      "startx": 7,
-      "starty": 3,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "THROW",
-      "hint": "Action of propelling with hand",
-      "startx": 5,
-      "starty": 8,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "CATCH",
-      "hint": "Action of grabbing a moving object",
-      "startx": 4,
-      "starty": 4,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "DEFENSE",
-      "hint": "Action of stopping the opponent from scoring",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "SCORE",
-      "hint": "Points earned in a game",
-      "startx": 7,
-      "starty": 5,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "RACKET",
-      "hint": "Equipment with strings used in tennis",
-      "startx": 3,
-      "starty": 9,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "MANAGER",
-      "hint": "Person who manages a team",
-      "startx": 1,
-      "starty": 8,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "CONTEST",
-      "hint": "Competition to determine a winner",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "ARENA",
-      "hint": "Enclosed area for sports events",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "POWER",
-      "hint": "Combination of strength and speed",
-      "startx": 5,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "THROW",
-      "hint": "Action of propelling with hand",
-      "startx": 4,
-      "starty": 3,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "VICTORY",
-      "hint": "Success in competition",
-      "startx": 1,
-      "starty": 3,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "COACH",
-      "hint": "Person who trains a team or an athlete",
-      "startx": 3,
-      "starty": 3,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "RACKET",
-      "hint": "Equipment with strings used in tennis",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "RUGBY",
-      "hint": "Contact team sport with an oval ball",
-      "startx": 2,
-      "starty": 5,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "BASEBALL",
-      "hint": "Sport with bat, ball and four bases",
-      "startx": 6,
-      "starty": 2,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "CRICKET",
-      "hint": "Sport with bat, ball and wickets",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "BALL",
-      "hint": "Round object used in many sports",
-      "startx": 6,
-      "starty": 2,
-      "orientation": "across",
-      "position": 5
-    }
+    [
+      {
+        "answer": "CRICKET",
+        "hint": "Sport with bat, ball and wickets",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STADIUM",
+        "hint": "Place where sports competitions take place",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RACKET",
+        "hint": "Equipment with strings used in tennis",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "EXERCISE",
+        "hint": "Physical activity for health",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "REFLEX",
+        "hint": "Quick automatic response",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RECORD",
+        "hint": "Best performance achieved",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "STAMINA",
+        "hint": "Ability to sustain prolonged effort",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FAIR",
+        "hint": "Playing according to rules honestly",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BOWLING",
+        "hint": "Sport where players roll balls at pins",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ATHLETE",
+        "hint": "Person who competes in sports",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GAME",
+        "hint": "Sport activity or competition",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FENCING",
+        "hint": "Combat sport using swords",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "REFLEX",
+        "hint": "Quick automatic response",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PLAYOFF",
+        "hint": "Final competition to determine champion",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CAPTAIN",
+        "hint": "Leader of a team",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DEFENSE",
+        "hint": "Action of stopping the opponent from scoring",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RACE",
+        "hint": "Competition of speed",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "POWER",
+        "hint": "Combination of strength and speed",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Sport where players hit a ball into holes with clubs",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PLAYER",
+        "hint": "A person who participates in a sport or game",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BAT",
+        "hint": "Equipment used to hit the ball",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TITLE",
+        "hint": "Championship or honor won",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FITNESS",
+        "hint": "General physical condition of a person",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport where players hit a ball with rackets over a net",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "HELMET",
+        "hint": "Protective gear for the head",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CYCLING",
+        "hint": "Sport of riding a bicycle",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DEFEAT",
+        "hint": "Loss in competition",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PLAYER",
+        "hint": "A person who participates in a sport or game",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FAN",
+        "hint": "Enthusiastic supporter of a team",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SHORTS",
+        "hint": "Short pants worn in sports",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "STAMINA",
+        "hint": "Ability to sustain prolonged effort",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FENCING",
+        "hint": "Combat sport using swords",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FAIR",
+        "hint": "Playing according to rules honestly",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CAPTAIN",
+        "hint": "Leader of a team",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "GOAL",
+        "hint": "Target where players try to score",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BAT",
+        "hint": "Equipment used to hit the ball",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TITLE",
+        "hint": "Championship or honor won",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "A long-distance race, usually 42.195 km",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SOCCER",
+        "hint": "Sport played with feet, most popular sport worldwide",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FAN",
+        "hint": "Enthusiastic supporter of a team",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MEDAL",
+        "hint": "Award given to winners in competitions",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SKILL",
+        "hint": "Ability to do something well",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RACKET",
+        "hint": "Equipment with strings used in tennis",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STAMINA",
+        "hint": "Ability to sustain prolonged effort",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GAME",
+        "hint": "Sport activity or competition",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "PRACTICE",
+        "hint": "Repeated exercise to gain skill",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FENCING",
+        "hint": "Combat sport using swords",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TROPHY",
+        "hint": "Award given to a winner or champion",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TEAM",
+        "hint": "Group of players playing together",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport where players hit a ball with rackets over a net",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ]
   ]
-]
 }
