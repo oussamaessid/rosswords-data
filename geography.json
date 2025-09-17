@@ -2,168 +2,168 @@
   "levels": [
     [
     {
-      "answer": "CHAMPION",
-      "hint": "Personne ou équipe qui remporte une compétition",
-      "startx": 6,
-      "starty": 0,
+      "answer": "DUBAÏ",
+      "hint": "Ville des Émirats arabes unis connue pour ses gratte-ciels",
+      "startx": 15,
+      "starty": 6,
       "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PELOTON",
-      "hint": "Groupe de cyclistes en compétition sur une route",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "TERRAIN",
-      "hint": "Surface sur laquelle se déroule une compétition sportive",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "TOUR",
-      "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
       "position": 4
     },
     {
-      "answer": "BADMINTON",
-      "hint": "Sport de raquette avec un volant",
-      "startx": 3,
-      "starty": 3,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "CARDIO",
-      "hint": "Exercice qui améliore le système cardiovasculaire",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "ÉQUIPE",
-      "hint": "Groupe de joueurs qui jouent ensemble",
-      "startx": 4,
-      "starty": 0,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PODIUM",
-      "hint": "Estrade où montent les trois premiers d'une compétition",
-      "startx": 1,
-      "starty": 7,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "COUP",
-      "hint": "Action de frapper un ballon avec le pied",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "GOLDEN",
-      "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-      "startx": -1,
-      "starty": 5,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "GOLDEN",
-      "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "VICTOIRE",
-      "hint": "Fait de gagner une compétition ou un match",
-      "startx": 3,
-      "starty": 4,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "BADMINTON",
-      "hint": "Sport de raquette avec un volant",
+      "answer": "AMAZONE",
+      "hint": "Plus long fleuve d'Amérique du Sud",
       "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "ISLANDE",
+      "hint": "Île européenne célèbre pour ses volcans et ses geysers",
+      "startx": 10,
       "starty": 6,
       "orientation": "across",
       "position": 3
     },
     {
-      "answer": "ENTRAÎNEMENT",
-      "hint": "Préparation physique et technique d'un sportif",
-      "startx": 6,
-      "starty": 2,
+      "answer": "NIL",
+      "hint": "Fleuve le plus long du monde, situé en Afrique",
+      "startx": 10,
+      "starty": 5,
       "orientation": "down",
       "position": 2
     },
     {
-      "answer": "FORMULE",
-      "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
+      "answer": "SIBÉRIE",
+      "hint": "Région froide et vaste de Russie",
+      "startx": 13,
+      "starty": 8,
+      "orientation": "across",
       "position": 5
     }
   ],
   [
     {
-      "answer": "COACH",
-      "hint": "Personne qui entraîne une équipe ou un joueur",
-      "startx": 9,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "SPRINT",
-      "hint": "Course de vitesse sur courte distance",
-      "startx": 6,
-      "starty": -1,
+      "answer": "SAHARA",
+      "hint": "Plus grand désert chaud du monde",
+      "startx": 8,
+      "starty": 4,
       "orientation": "down",
       "position": 3
     },
     {
-      "answer": "CAGE",
-      "hint": "But dans certains sports comme le football ou le handball",
-      "startx": 9,
-      "starty": 1,
-      "orientation": "across",
+      "answer": "NIL",
+      "hint": "Fleuve le plus long du monde, situé en Afrique",
+      "startx": 6,
+      "starty": 4,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "SAHARA",
+      "hint": "Désert qui s'étend sur plusieurs pays d'Afrique du Nord",
+      "startx": 10,
+      "starty": 4,
+      "orientation": "down",
       "position": 4
     },
     {
-      "answer": "BADMINTON",
-      "hint": "Sport de raquette avec un volant",
-      "startx": 2,
-      "starty": 2,
+      "answer": "HIMALAYA",
+      "hint": "Chaîne de montagnes qui abrite l'Everest",
+      "startx": 5,
+      "starty": 5,
       "orientation": "across",
       "position": 1
     },
     {
-      "answer": "OFFSIDE",
-      "hint": "Position irrégulière d'un joueur au football",
-      "startx": 3,
-      "starty": -1,
+      "answer": "ISLANDE",
+      "hint": "Île européenne célèbre pour ses volcans et ses geysers",
+      "startx": 7,
+      "starty": 4,
+      "orientation": "across",
+      "position": 5
+    }
+  ],
+  [
+    {
+      "answer": "TOKYO",
+      "hint": "Capitale du Japon",
+      "startx": 11,
+      "starty": 2,
+      "orientation": "down",
+      "position": 4
+    },
+    {
+      "answer": "PEKIN",
+      "hint": "Capitale de la Chine",
+      "startx": 7,
+      "starty": 9,
+      "orientation": "across",
+      "position": 3
+    },
+    {
+      "answer": "DANUBE",
+      "hint": "Fleuve qui traverse plusieurs pays d’Europe dont l’Allemagne et la Hongrie",
+      "startx": 8,
+      "starty": 4,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "HIMALAYA",
+      "hint": "Chaîne de montagnes qui abrite l'Everest",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "KILIMANDJARO",
+      "hint": "Plus haut sommet d'Afrique",
+      "startx": 11,
+      "starty": 4,
+      "orientation": "across",
+      "position": 5
+    }
+  ],
+  [
+    {
+      "answer": "RIO",
+      "hint": "Ville brésilienne célèbre pour son carnaval et sa statue du Christ",
+      "startx": 7,
+      "starty": 5,
+      "orientation": "down",
+      "position": 3
+    },
+    {
+      "answer": "PEKIN",
+      "hint": "Capitale de la Chine",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "down",
+      "position": 2
+    },
+    {
+      "answer": "PARIS",
+      "hint": "Capitale de la France",
+      "startx": 5,
+      "starty": 5,
+      "orientation": "across",
+      "position": 1
+    },
+    {
+      "answer": "MADRID",
+      "hint": "Capitale de l'Espagne",
+      "startx": 4,
+      "starty": 5,
+      "orientation": "across",
+      "position": 4
+    },
+    {
+      "answer": "TOKYO",
+      "hint": "Capitale du Japon",
+      "startx": 6,
+      "starty": 7,
       "orientation": "across",
       "position": 5
     }
