@@ -1,172 +1,154 @@
 {
   "levels": [
+   [
+      [
+        {
+          "answer": "FOREST",
+          "hint": "Large area covered with trees",
+          "startx": 2,
+          "starty": 5,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "CLIMATE",
+          "hint": "Weather conditions over a long period",
+          "startx": 1,
+          "starty": 2,
+          "orientation": "across",
+          "position": 2
+        },
+        {
+          "answer": "COUNTRY",
+          "hint": "Nation with its own government",
+          "startx": 1,
+          "starty": 3,
+          "orientation": "across",
+          "position": 3
+        }
+      ],
+      [
+        {
+          "answer": "VALLEY",
+          "hint": "Low area between hills or mountains",
+          "startx": 2,
+          "starty": 5,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "RIVER",
+          "hint": "Natural flowing watercourse, e.g., Nile",
+          "startx": 1,
+          "starty": 2,
+          "orientation": "across",
+          "position": 2
+        },
+        {
+          "answer": "VOLCANO",
+          "hint": "Mountain that can erupt molten rock",
+          "startx": 1,
+          "starty": 3,
+          "orientation": "across",
+          "position": 3
+        }
+      ],
+      [
+        {
+          "answer": "TROPICS",
+          "hint": "Region near the equator",
+          "startx": 2,
+          "starty": 5,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "DESERT",
+          "hint": "Arid region with very little rainfall",
+          "startx": 1,
+          "starty": 2,
+          "orientation": "across",
+          "position": 2
+        },
+        {
+          "answer": "AMERICA",
+          "hint": "Continent consisting of North and South regions",
+          "startx": 1,
+          "starty": 3,
+          "orientation": "across",
+          "position": 3
+        }
+      ]
+    ],
     [
-    {
-      "answer": "DUBAÏ",
-      "hint": "Ville des Émirats arabes unis connue pour ses gratte-ciels",
-      "startx": 15,
-      "starty": 6,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "AMAZONE",
-      "hint": "Plus long fleuve d'Amérique du Sud",
-      "startx": 5,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "ISLANDE",
-      "hint": "Île européenne célèbre pour ses volcans et ses geysers",
-      "startx": 10,
-      "starty": 6,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "NIL",
-      "hint": "Fleuve le plus long du monde, situé en Afrique",
-      "startx": 10,
-      "starty": 5,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "SIBÉRIE",
-      "hint": "Région froide et vaste de Russie",
-      "startx": 13,
-      "starty": 8,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "SAHARA",
-      "hint": "Plus grand désert chaud du monde",
-      "startx": 8,
-      "starty": 4,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "NIL",
-      "hint": "Fleuve le plus long du monde, situé en Afrique",
-      "startx": 6,
-      "starty": 4,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "SAHARA",
-      "hint": "Désert qui s'étend sur plusieurs pays d'Afrique du Nord",
-      "startx": 10,
-      "starty": 4,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "HIMALAYA",
-      "hint": "Chaîne de montagnes qui abrite l'Everest",
-      "startx": 5,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "ISLANDE",
-      "hint": "Île européenne célèbre pour ses volcans et ses geysers",
-      "startx": 7,
-      "starty": 4,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "TOKYO",
-      "hint": "Capitale du Japon",
-      "startx": 11,
-      "starty": 2,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "PEKIN",
-      "hint": "Capitale de la Chine",
-      "startx": 7,
-      "starty": 9,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "DANUBE",
-      "hint": "Fleuve qui traverse plusieurs pays d’Europe dont l’Allemagne et la Hongrie",
-      "startx": 8,
-      "starty": 4,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "HIMALAYA",
-      "hint": "Chaîne de montagnes qui abrite l'Everest",
-      "startx": 5,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "KILIMANDJARO",
-      "hint": "Plus haut sommet d'Afrique",
-      "startx": 11,
-      "starty": 4,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "RIO",
-      "hint": "Ville brésilienne célèbre pour son carnaval et sa statue du Christ",
-      "startx": 7,
-      "starty": 5,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "PEKIN",
-      "hint": "Capitale de la Chine",
-      "startx": 5,
-      "starty": 5,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PARIS",
-      "hint": "Capitale de la France",
-      "startx": 5,
-      "starty": 5,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "MADRID",
-      "hint": "Capitale de l'Espagne",
-      "startx": 4,
-      "starty": 5,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "TOKYO",
-      "hint": "Capitale du Japon",
-      "startx": 6,
-      "starty": 7,
-      "orientation": "across",
-      "position": 5
-    }
+      [
+        {
+          "answer": "COUNTRY",
+          "hint": "Nation with its own government",
+          "startx": 2,
+          "starty": 5,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "VOLCANO",
+          "hint": "Mountain that can erupt molten rock",
+          "startx": 1,
+          "starty": 2,
+          "orientation": "across",
+          "position": 2
+        },
+        {
+          "answer": "TIMEZONE",
+          "hint": "Region where the same standard time is used",
+          "startx": 1,
+          "starty": 3,
+          "orientation": "across",
+          "position": 3
+        },
+        {
+          "answer": "CITY",
+          "hint": "Large town with dense population",
+          "startx": 1,
+          "starty": 4,
+          "orientation": "across",
+          "position": 4
+        }
+      ],
+      [
+        {
+          "answer": "PENINSULA",
+          "hint": "Land surrounded by water on three sides",
+          "startx": 1,
+          "starty": 5,
+          "orientation": "across",
+          "position": 1
+        },
+        {
+          "answer": "VALLEY",
+          "hint": "Low area between hills or mountains",
+          "startx": 1,
+          "starty": 2,
+          "orientation": "across",
+          "position": 2
+        },
+        {
+          "answer": "CONTINENT",
+          "hint": "One of the main landmasses of Earth",
+          "startx": 1,
+          "starty": 3,
+          "orientation": "across",
+          "position": 3
+        },
+        {
+          "answer": "OCEAN",
+          "hint": "Large body of salt water, e.g., Pacific",
+          "startx": 1,
+          "starty": 4,
+          "orientation": "across",
+          "position": 4
+        }
+      ]
+    ]
   ]
-]
 }
