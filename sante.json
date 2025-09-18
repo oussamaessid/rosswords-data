@@ -1,612 +1,300 @@
 {
   "levels": [
     [
-    {
-      "answer": "BALLON",
-      "hint": "Objet utilisé dans la plupart des sports pour jouer",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "COACH",
-      "hint": "Personne qui entraîne une équipe ou un joueur",
-      "startx": 6,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "BASKET",
-      "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    }
-  ],
-  [
-    {
-      "answer": "MATCH",
-      "hint": "Rencontre sportive entre deux équipes ou joueurs",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "TENNIS",
-      "hint": "Sport où deux joueurs ou deux équipes se renvoient une balle avec des raquettes",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "BASKET",
-      "hint": "Sport où deux équipes essaient de marquer des paniers en lançant un ballon dans un panier",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    }
-  ],
-  [
-    {
-      "answer": "JOUEUR",
-      "hint": "Personne qui participe à un jeu ou un sport",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "JOUER",
-      "hint": "Participer à un jeu ou un sport",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "COUP",
-      "hint": "Action de frapper un ballon avec le pied",
-      "startx": 1,
-      "starty": 3,
-      "orientation": "across",
-      "position": 3
-    }
-  ],
-  [
-    {
-      "answer": "JOUER",
-      "hint": "Participer à un jeu ou un sport",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "COACH",
-      "hint": "Personne qui entraîne une équipe ou un joueur",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "BALLON",
-      "hint": "Objet utilisé dans la plupart des sports pour jouer",
-      "startx": 2,
-      "starty": 3,
-      "orientation": "across",
-      "position": 3
-    }
-  ],
-  [
-    {
-      "answer": "GOL",
-      "hint": "Terminer un jeu ou un sport avec un but marqué",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "JOUEUSE",
-      "hint": "Femme qui pratique un sport",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "JOUER",
-      "hint": "Participer à un jeu ou un sport",
-      "startx": 1,
-      "starty": 3,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "OLYMPIQUE",
-      "hint": "Relatif aux Jeux Olympiques, compétition internationale de sport",
-      "startx": 3,
-      "starty": 2,
-      "orientation": "down",
-      "position": 4
-    }
-  ],
-  [
-    {
-      "answer": "TROPHÉE",
-      "hint": "Récompense décernée à un vainqueur ou à un champion",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "OLYMPIQUE",
-      "hint": "Relatif aux Jeux Olympiques, compétition internationale de sport",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "ÉQUIPE",
-      "hint": "Groupe de joueurs qui jouent ensemble",
-      "startx": 7,
-      "starty": 2,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "GOL",
-      "hint": "Terminer un jeu ou un sport avec un but marqué",
-      "startx": 4,
-      "starty": 1,
-      "orientation": "down",
-      "position": 4
-    }
-  ],
-  [
-    {
-      "answer": "JOUER",
-      "hint": "Participer à un jeu ou un sport",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "TROPHÉE",
-      "hint": "Récompense décernée à un vainqueur ou à un champion",
-      "startx": 6,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "JOUEUSE",
-      "hint": "Femme qui pratique un sport",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "CÉLÈBRE",
-      "hint": "Quelqu'un qui est bien connu et respecté dans son domaine",
-      "startx": 5,
-      "starty": 6,
-      "orientation": "across",
-      "position": 4
-    }
-  ],
-  [
-    {
-      "answer": "MARATHON",
-      "hint": "Course de longue distance, généralement 42,195 km",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "TROPHÉE",
-      "hint": "Récompense décernée à un vainqueur ou à un champion",
-      "startx": 6,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "JOUEUSE",
-      "hint": "Femme qui pratique un sport",
-      "startx": 8,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "RUGBY",
-      "hint": "Sport collectif où deux équipes essaient de marquer des essais en portant ou en lançant un ballon",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 4
-    }
-  ],
-  [
-    {
-      "answer": "SÉLECTION",
-      "hint": "Joueur choisi pour faire partie de l'équipe nationale d'un pays",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "LEBRON",
-      "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "FORMULE",
-      "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-      "startx": 9,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "COPA",
-      "hint": "Compétition internationale de football qui se déroule tous les quatre ans",
-      "startx": 6,
-      "starty": 2,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "CUP",
-      "hint": "Compétition ou tournoi pour déterminer le champion d'un sport",
-      "startx": 8,
-      "starty": 5,
-      "orientation": "across",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "FORMULE",
-      "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "GRAND",
-      "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-      "startx": 4,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PRO",
-      "hint": "Joueur qui pratique un sport à titre professionnel",
-      "startx": 3,
-      "starty": 2,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "TITRE",
-      "hint": "Championship remporté dans un sport à l'échelle mondiale",
-      "startx": 1,
-      "starty": 2,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "CUP",
-      "hint": "Compétition ou tournoi pour déterminer le champion d'un sport",
-      "startx": 6,
-      "starty": 1,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "PELOTON",
-      "hint": "Groupe de cyclistes en compétition sur une route",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "FORMULE",
-      "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-      "startx": 5,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "GRAND",
-      "hint": "Réalisé dans des sports comme le tennis, lorsqu'un joueur gagne tous les titres majeurs",
-      "startx": 4,
-      "starty": 3,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "PRO",
-      "hint": "Joueur qui pratique un sport à titre professionnel",
-      "startx": 3,
-      "starty": 2,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "TOURNOI",
-      "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-      "startx": 6,
-      "starty": 2,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "FORMULE",
-      "hint": "Sport automobile de haut niveau, comprenant des courses de voitures très rapides",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "LEBRON",
-      "hint": "Joueur de basket-ball américain, considéré comme l'un des meilleurs de l'histoire",
-      "startx": 7,
-      "starty": 2,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "PELOTON",
-      "hint": "Groupe de cyclistes en compétition sur une route",
-      "startx": 8,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "TITRE",
-      "hint": "Championship remporté dans un sport à l'échelle mondiale",
-      "startx": 4,
-      "starty": 5,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "TOURNOI",
-      "hint": "Compétition qui oppose plusieurs équipes ou joueurs dans un sport",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 5
-    }
-  ],
-  [
-    {
-      "answer": "NADAL",
-      "hint": "Joueur de tennis espagnol, roi de la terre battue",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "BALONDOR",
-      "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "TOUR",
-      "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-      "startx": 2,
-      "starty": 4,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "GOLDENBOOT",
-      "hint": "Récompense donnée au meilleur buteur d'un tournoi de football",
-      "startx": 2,
-      "starty": 7,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "ÉQUIPE",
-      "hint": "Groupe de joueurs qui jouent ensemble",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "down",
-      "position": 5
-    },
-    {
-      "answer": "CONCURRENCE",
-      "hint": "Les autres équipes ou joueurs qui cherchent à battre un autre dans un sport",
-      "startx": 1,
-      "starty": 5,
-      "orientation": "across",
-      "position": 6
-    }
-  ],
-  [
-    {
-      "answer": "FIFA",
-      "hint": "Fédération internationale de football association, responsable de la gestion du football mondial",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "NADAL",
-      "hint": "Joueur de tennis espagnol, roi de la terre battue",
-      "startx": 5,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "GOLDEN",
-      "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-      "startx": 3,
-      "starty": 5,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "GOLDENBOOT",
-      "hint": "Récompense donnée au meilleur buteur d'un tournoi de football",
-      "startx": 2,
-      "starty": 3,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "CONCURRENCE",
-      "hint": "Les autres équipes ou joueurs qui cherchent à battre un autre dans un sport",
-      "startx": 3,
-      "starty": 1,
-      "orientation": "across",
-      "position": 5
-    },
-    {
-      "answer": "BALONDOR",
-      "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-      "startx": 4,
-      "starty": 2,
-      "orientation": "across",
-      "position": 6
-    }
-  ],
-  [
-    {
-      "answer": "CHAMPIONS",
-      "hint": "Compétition européenne de football qui oppose les meilleures équipes du continent",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "TOUR",
-      "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-      "startx": 8,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "CONCURRENCE",
-      "hint": "Les autres équipes ou joueurs qui cherchent à battre un autre dans un sport",
-      "startx": 7,
-      "starty": 2,
-      "orientation": "across",
-      "position": 3
-    },
-    {
-      "answer": "FEDERER",
-      "hint": "Joueur de tennis suisse, considéré comme l'un des plus grands de l'histoire du sport",
-      "startx": 4,
-      "starty": 4,
-      "orientation": "across",
-      "position": 4
-    },
-    {
-      "answer": "BALONDOR",
-      "hint": "Prix individuel décerné au meilleur joueur de football du monde",
-      "startx": 4,
-      "starty": 1,
-      "orientation": "down",
-      "position": 5
-    },
-    {
-      "answer": "GOLDEN",
-      "hint": "Équipe professionnelle de basket-ball de la NBA, basée à San Francisco",
-      "startx": 6,
-      "starty": 1,
-      "orientation": "down",
-      "position": 6
-    }
-  ],
-  [
-    {
-      "answer": "CHAMPIONS",
-      "hint": "Compétition européenne de football qui oppose les meilleures équipes du continent",
-      "startx": 2,
-      "starty": 2,
-      "orientation": "across",
-      "position": 1
-    },
-    {
-      "answer": "GOLDENBOOT",
-      "hint": "Récompense donnée au meilleur buteur d'un tournoi de football",
-      "startx": 8,
-      "starty": 1,
-      "orientation": "down",
-      "position": 2
-    },
-    {
-      "answer": "FIFA",
-      "hint": "Fédération internationale de football association, responsable de la gestion du football mondial",
-      "startx": 7,
-      "starty": 1,
-      "orientation": "down",
-      "position": 3
-    },
-    {
-      "answer": "NADAL",
-      "hint": "Joueur de tennis espagnol, roi de la terre battue",
-      "startx": 9,
-      "starty": 2,
-      "orientation": "down",
-      "position": 4
-    },
-    {
-      "answer": "CONCURRENCE",
-      "hint": "Les autres équipes ou joueurs qui cherchent à battre un autre dans un sport",
-      "startx": 7,
-      "starty": 2,
-      "orientation": "across",
-      "position": 5
-    },
-    {
-      "answer": "TOUR",
-      "hint": "Compétition cycliste annuelle qui se déroule en France et est l'une des plus prestigieuses au monde",
-      "startx": 7,
-      "starty": 8,
-      "orientation": "across",
-      "position": 6
-    }
+      {
+        "answer": "CLINIC",
+        "hint": "Small medical center",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RELAX",
+        "hint": "State of rest and calm",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NURSE",
+        "hint": "Healthcare worker who cares for patients",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "EXERCISE",
+        "hint": "Physical activity for health",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "HEART",
+        "hint": "Organ that pumps blood through the body",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HYGIENE",
+        "hint": "Practices for cleanliness and health",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STRESS",
+        "hint": "Mental or physical strain",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BONE",
+        "hint": "Hard structure of the skeleton",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "THERAPY",
+        "hint": "Treatment to heal or improve health",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "THERAPY",
+        "hint": "Treatment to heal or improve health",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAIN",
+        "hint": "Unpleasant physical feeling",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RELAX",
+        "hint": "State of rest and calm",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HEALTH",
+        "hint": "General condition of the body and mind",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CANCER",
+        "hint": "Serious disease with abnormal cell growth",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "HOSPITAL",
+        "hint": "Large facility for medical treatment",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "THERAPY",
+        "hint": "Treatment to heal or improve health",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAIN",
+        "hint": "Unpleasant physical feeling",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ASTHMA",
+        "hint": "Condition causing breathing difficulties",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NURSE",
+        "hint": "Healthcare worker who cares for patients",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CURE",
+        "hint": "Successful treatment of a disease",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FLU",
+        "hint": "Infectious disease caused by influenza virus",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DISEASE",
+        "hint": "Illness affecting the body",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "STROKE",
+        "hint": "Sudden loss of brain function",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FEVER",
+        "hint": "High body temperature",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VACCINE",
+        "hint": "Substance to prevent disease",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CURE",
+        "hint": "Successful treatment of a disease",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SLEEP",
+        "hint": "Resting state for the body",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BLOOD",
+        "hint": "Red fluid circulating in the body",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DIET",
+        "hint": "Regular food and drink consumed",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EYE",
+        "hint": "Organ for vision",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ASTHMA",
+        "hint": "Condition causing breathing difficulties",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STRESS",
+        "hint": "Mental or physical strain",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PAIN",
+        "hint": "Unpleasant physical feeling",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HEART",
+        "hint": "Organ that pumps blood through the body",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "HOSPITAL",
+        "hint": "Large facility for medical treatment",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ]
   ]
-]
 }
