@@ -1,154 +1,300 @@
 {
   "levels": [
-   [
-      [
-        {
-          "answer": "FOREST",
-          "hint": "Large area covered with trees",
-          "startx": 2,
-          "starty": 5,
-          "orientation": "across",
-          "position": 1
-        },
-        {
-          "answer": "CLIMATE",
-          "hint": "Weather conditions over a long period",
-          "startx": 1,
-          "starty": 2,
-          "orientation": "across",
-          "position": 2
-        },
-        {
-          "answer": "COUNTRY",
-          "hint": "Nation with its own government",
-          "startx": 1,
-          "starty": 3,
-          "orientation": "across",
-          "position": 3
-        }
-      ],
-      [
-        {
-          "answer": "VALLEY",
-          "hint": "Low area between hills or mountains",
-          "startx": 2,
-          "starty": 5,
-          "orientation": "across",
-          "position": 1
-        },
-        {
-          "answer": "RIVER",
-          "hint": "Natural flowing watercourse, e.g., Nile",
-          "startx": 1,
-          "starty": 2,
-          "orientation": "across",
-          "position": 2
-        },
-        {
-          "answer": "VOLCANO",
-          "hint": "Mountain that can erupt molten rock",
-          "startx": 1,
-          "starty": 3,
-          "orientation": "across",
-          "position": 3
-        }
-      ],
-      [
-        {
-          "answer": "TROPICS",
-          "hint": "Region near the equator",
-          "startx": 2,
-          "starty": 5,
-          "orientation": "across",
-          "position": 1
-        },
-        {
-          "answer": "DESERT",
-          "hint": "Arid region with very little rainfall",
-          "startx": 1,
-          "starty": 2,
-          "orientation": "across",
-          "position": 2
-        },
-        {
-          "answer": "AMERICA",
-          "hint": "Continent consisting of North and South regions",
-          "startx": 1,
-          "starty": 3,
-          "orientation": "across",
-          "position": 3
-        }
-      ]
+    [
+      {
+        "answer": "DESERT",
+        "hint": "Large dry region with little rain",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AMERICA",
+        "hint": "Continent divided into North and South",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MOUNTAIN",
+        "hint": "Large natural elevation of the earth's surface",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TSUNAMI",
+        "hint": "Large sea wave caused by an earthquake",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      }
     ],
     [
-      [
-        {
-          "answer": "COUNTRY",
-          "hint": "Nation with its own government",
-          "startx": 2,
-          "starty": 5,
-          "orientation": "across",
-          "position": 1
-        },
-        {
-          "answer": "VOLCANO",
-          "hint": "Mountain that can erupt molten rock",
-          "startx": 1,
-          "starty": 2,
-          "orientation": "across",
-          "position": 2
-        },
-        {
-          "answer": "TIMEZONE",
-          "hint": "Region where the same standard time is used",
-          "startx": 1,
-          "starty": 3,
-          "orientation": "across",
-          "position": 3
-        },
-        {
-          "answer": "CITY",
-          "hint": "Large town with dense population",
-          "startx": 1,
-          "starty": 4,
-          "orientation": "across",
-          "position": 4
-        }
-      ],
-      [
-        {
-          "answer": "PENINSULA",
-          "hint": "Land surrounded by water on three sides",
-          "startx": 1,
-          "starty": 5,
-          "orientation": "across",
-          "position": 1
-        },
-        {
-          "answer": "VALLEY",
-          "hint": "Low area between hills or mountains",
-          "startx": 1,
-          "starty": 2,
-          "orientation": "across",
-          "position": 2
-        },
-        {
-          "answer": "CONTINENT",
-          "hint": "One of the main landmasses of Earth",
-          "startx": 1,
-          "starty": 3,
-          "orientation": "across",
-          "position": 3
-        },
-        {
-          "answer": "OCEAN",
-          "hint": "Large body of salt water, e.g., Pacific",
-          "startx": 1,
-          "starty": 4,
-          "orientation": "across",
-          "position": 4
-        }
-      ]
+      {
+        "answer": "GLACIER",
+        "hint": "Large mass of moving ice",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LAKE",
+        "hint": "Large body of water surrounded by land",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARCTIC",
+        "hint": "Ocean located around the North Pole",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "AFRICA",
+        "hint": "Second largest continent, home to the Sahara Desert",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ATLANTIC",
+        "hint": "Ocean between the Americas, Europe, and Africa",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "INDIAN",
+        "hint": "Ocean between Africa, Asia and Australia",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JAPAN",
+        "hint": "Island nation in East Asia, capital Tokyo",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SAHARA",
+        "hint": "Largest hot desert in the world, in Africa",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "INDIA",
+        "hint": "Second most populous country, capital New Delhi",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "VALLEY",
+        "hint": "Low area between mountains or hills",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ANDES",
+        "hint": "Longest continental mountain range in South America",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SPAIN",
+        "hint": "Country on the Iberian Peninsula, capital Madrid",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JAPAN",
+        "hint": "Island nation in East Asia, capital Tokyo",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHINA",
+        "hint": "Most populous country, capital Beijing",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "FRANCE",
+        "hint": "Country in Western Europe, capital is Paris",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "INDIAN",
+        "hint": "Ocean between Africa, Asia and Australia",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ITALY",
+        "hint": "European country shaped like a boot, capital Rome",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ANDES",
+        "hint": "Longest continental mountain range in South America",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CHINA",
+        "hint": "Most populous country, capital Beijing",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "FOREST",
+        "hint": "Large area covered with trees",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ASIA",
+        "hint": "Largest continent, includes China and India",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JAPAN",
+        "hint": "Island nation in East Asia, capital Tokyo",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FRANCE",
+        "hint": "Country in Western Europe, capital is Paris",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "LAKE",
+        "hint": "Large body of water surrounded by land",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "GOBI",
+        "hint": "Large desert in Asia",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ARCTIC",
+        "hint": "Ocean located around the North Pole",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "Highest mountain on Earth",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SAHARA",
+        "hint": "Largest hot desert in the world, in Africa",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GLACIER",
+        "hint": "Large mass of moving ice",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AMAZON",
+        "hint": "Largest rainforest and river basin",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ALPS",
+        "hint": "Mountain range in Europe",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      }
     ]
   ]
 }
