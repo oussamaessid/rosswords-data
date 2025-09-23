@@ -1,299 +1,779 @@
 {
-  "levels": [
+ "levels": [
     [
       {
-        "answer": "CLINIC",
-        "hint": "Small medical center",
-        "startx": 2,
+        "answer": "AUTOPSIE",
+        "hint": "Examen du corps apres la mort ?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "RELAX",
-        "hint": "State of rest and calm",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NURSE",
-        "hint": "Healthcare worker who cares for patients",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "EXERCISE",
-        "hint": "Physical activity for health",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "HEART",
-        "hint": "Organ that pumps blood through the body",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HYGIENE",
-        "hint": "Practices for cleanliness and health",
+        "answer": "BLOUSE",
+        "hint": "Vetement de protection en milieu medical ?",
         "startx": 4,
-        "starty": 1,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "STRESS",
-        "hint": "Mental or physical strain",
-        "startx": 6,
-        "starty": 3,
+        "answer": "EFFET",
+        "hint": "Resultat d'un medicament ?",
+        "startx": 8,
+        "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "BONE",
-        "hint": "Hard structure of the skeleton",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
+        "answer": "CIRCULER",
+        "hint": "Se dit du sang dans l'organisme ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "THERAPY",
-        "hint": "Treatment to heal or improve health",
-        "startx": 3,
-        "starty": 1,
+        "answer": "ECBU",
+        "hint": "Examen cytobacteriologique des urines ?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
         "position": 5
+      },
+      {
+        "answer": "VIRUS",
+        "hint": "Agent infectieux microscopique ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
       }
     ],
     [
       {
-        "answer": "THERAPY",
-        "hint": "Treatment to heal or improve health",
-        "startx": 2,
+        "answer": "DIAGNOSE",
+        "hint": "Identification d'une maladie ?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PAIN",
-        "hint": "Unpleasant physical feeling",
-        "startx": 7,
-        "starty": 5,
+        "answer": "SIDA",
+        "hint": "Syndrome d'immunodeficience acquise ?",
+        "startx": 3,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RELAX",
-        "hint": "State of rest and calm",
-        "startx": 5,
-        "starty": 5,
+        "answer": "BIOLOGIE",
+        "hint": "Science du vivant ?",
+        "startx": 6,
+        "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "HEALTH",
-        "hint": "General condition of the body and mind",
-        "startx": 2,
+        "answer": "CERVEAU",
+        "hint": "Organe principal du systeme nerveux ?",
+        "startx": 8,
         "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "CANCER",
-        "hint": "Serious disease with abnormal cell growth",
+        "answer": "VESSIE",
+        "hint": "Organe qui stocke l'urine ?",
         "startx": 1,
-        "starty": 3,
+        "starty": 8,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "HOSPITAL",
-        "hint": "Large facility for medical treatment",
-        "startx": 2,
-        "starty": 1,
+        "answer": "REIN",
+        "hint": "Organe qui filtre le sang ?",
+        "startx": 1,
+        "starty": 3,
         "orientation": "across",
         "position": 6
       }
     ],
     [
       {
-        "answer": "THERAPY",
-        "hint": "Treatment to heal or improve health",
+        "answer": "POCHE",
+        "hint": "Sac contenant un liquide medical ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HEMORRA",
+        "hint": "Ecoulement de sang important ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MEDECIN",
+        "hint": "Professionnel de la sante ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ORTHO",
+        "hint": "Specialite medicale des os et articulations ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MALIN",
+        "hint": "Qui est grave, souvent pour une tumeur ?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CARTILAG",
+        "hint": "Tissu souple entre les os ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SMUR",
+        "hint": "Structure mobile d'urgence et de reanimation ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GRIPPE",
+        "hint": "Maladie respiratoire saisonniere ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "CHRONIQ",
+        "hint": "Qui dure longtemps ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PAIN",
-        "hint": "Unpleasant physical feeling",
-        "startx": 6,
-        "starty": 4,
+        "answer": "VACCIN",
+        "hint": "Preparation pour immuniser l'organisme ?",
+        "startx": 2,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ASTHMA",
-        "hint": "Condition causing breathing difficulties",
+        "answer": "MALIN",
+        "hint": "Qui est grave, souvent pour une tumeur ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CURE",
+        "hint": "Traitement complet d'une maladie ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SAMU",
+        "hint": "Service d'aide medicale urgente ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "GESTE",
+        "hint": "Mouvement pour un soin ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PRISE",
+        "hint": "Action de prendre un medicament ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARN",
+        "hint": "Acide ribonucleique ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ECBU",
+        "hint": "Examen cytobacteriologique des urines ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ARN",
+        "hint": "Acide ribonucleique ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NERVEUX",
+        "hint": "Relatif aux nerfs ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TISSU",
+        "hint": "Ensemble de cellules specialisees ?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "VALVULE",
+        "hint": "Petite porte dans le coeur ou les veines ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "THERAPIE",
+        "hint": "Traitement d'une maladie ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EPIDEMIO",
+        "hint": "Etude des maladies dans les populations ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PALU",
+        "hint": "Maladie transmise par les moustiques ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GLUCIDE",
+        "hint": "Type de sucre, source d'energie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OVAIRE",
+        "hint": "Glande sexuelle feminine ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ORGANE",
+        "hint": "Partie du corps remplissant une fonction ?",
         "startx": 2,
         "starty": 3,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "NURSE",
-        "hint": "Healthcare worker who cares for patients",
+        "answer": "PALU",
+        "hint": "Maladie transmise par les moustiques ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SONDE",
+        "hint": "Tube introduit dans le corps ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "VACCIN",
+        "hint": "Preparation pour immuniser l'organisme ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MEDECIN",
+        "hint": "Professionnel de la sante ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ANTICORP",
+        "hint": "Proteine de defense ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GRIPPE",
+        "hint": "Maladie respiratoire saisonniere ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "IRM",
+        "hint": "Imagerie par resonance magnetique ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "TESTICUL",
+        "hint": "Glande sexuelle masculine ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ECBU",
+        "hint": "Examen cytobacteriologique des urines ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RHUME",
+        "hint": "Infection virale des voies nasales ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GENETIQ",
+        "hint": "Etude de l'heredite ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EXCRETER",
+        "hint": "Eliminer les dechets ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ECBU",
+        "hint": "Examen cytobacteriologique des urines ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "DISPENSE",
+        "hint": "Delivrance d'un medicament ?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FOIE",
+        "hint": "Glande digestive volumineuse ?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CHOC",
+        "hint": "Etat de defaillance circulatoire ?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SERUM",
+        "hint": "Liquide injectable par intraveineuse ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RATE",
+        "hint": "Organe lymphoïde situé sous le diaphragme ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MALIN",
+        "hint": "Qui est grave, souvent pour une tumeur ?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MATERNIT",
+        "hint": "Service d'accouchement ?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RHUME",
+        "hint": "Infection virale des voies nasales ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ARN",
+        "hint": "Acide ribonucleique ?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CONSULT",
+        "hint": "Rendez-vous chez un medecin ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BLOUSE",
+        "hint": "Vetement de protection en milieu medical ?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "REA",
+        "hint": "Service de reanimation ?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ARTICULE",
+        "hint": "Qui relie deux os ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PLAIE",
+        "hint": "Lesion des tissus ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POUMON",
+        "hint": "Organe essentiel a la respiration ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "REANIMER",
+        "hint": "Faire revivre ?",
         "startx": 4,
         "starty": 1,
         "orientation": "down",
         "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "CURE",
-        "hint": "Successful treatment of a disease",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "FLU",
-        "hint": "Infectious disease caused by influenza virus",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DISEASE",
-        "hint": "Illness affecting the body",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "STROKE",
-        "hint": "Sudden loss of brain function",
+        "answer": "SUTURE",
+        "hint": "Point realise pour fermer une plaie ?",
         "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FEVER",
-        "hint": "High body temperature",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VACCINE",
-        "hint": "Substance to prevent disease",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CURE",
-        "hint": "Successful treatment of a disease",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SLEEP",
-        "hint": "Resting state for the body",
-        "startx": 2,
-        "starty": 5,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "BLOOD",
-        "hint": "Red fluid circulating in the body",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DIET",
-        "hint": "Regular food and drink consumed",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EYE",
-        "hint": "Organ for vision",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ASTHMA",
-        "hint": "Condition causing breathing difficulties",
+        "answer": "RECHUTE",
+        "hint": "Retour d'une maladie apres amelioration ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "STRESS",
-        "hint": "Mental or physical strain",
-        "startx": 4,
-        "starty": 4,
+        "answer": "HOPITAL",
+        "hint": "Etablissement de soins ?",
+        "startx": 7,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PAIN",
-        "hint": "Unpleasant physical feeling",
+        "answer": "GRIPPE",
+        "hint": "Maladie respiratoire saisonniere ?",
         "startx": 2,
         "starty": 4,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "HEART",
-        "hint": "Organ that pumps blood through the body",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HOSPITAL",
-        "hint": "Large facility for medical treatment",
+        "answer": "ENTORSSE",
+        "hint": "Lesion des ligaments d'une articulation ?",
         "startx": 2,
         "starty": 9,
         "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "RADIOLOG",
+        "hint": "Medecin specialise en imagerie ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TISSU",
+        "hint": "Ensemble de cellules specialisees ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ASTHME",
+        "hint": "Affection respiratoire chronique ?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "KILO",
+        "hint": "Unite de poids, souvent pour le bebe ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "COEUR",
+        "hint": "Organe vital qui pompe le sang ?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
         "position": 5
+      },
+      {
+        "answer": "SIDA",
+        "hint": "Syndrome d'immunodeficience acquise ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SANG",
+        "hint": "Liquide rouge circulant dans les veines ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SCANNER",
+        "hint": "Examen d'imagerie medicale ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "REFLUX",
+        "hint": "Remontee du contenu de l'estomac ?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GLANDE",
+        "hint": "Organe qui secrete des substances ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ORGANE",
+        "hint": "Partie du corps remplissant une fonction ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SUTURE",
+        "hint": "Point realise pour fermer une plaie ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STETHO",
+        "hint": "Instrument pour ecouter les sons internes ?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ANTALGIQ",
+        "hint": "Diminution de la douleur ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ORL",
+        "hint": "Specialite des oreilles, nez, gorge ?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "OEIL",
+        "hint": "Organe de la vision ?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ANTALGIQ",
+        "hint": "Diminution de la douleur ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ONCOLOGI",
+        "hint": "Etude du cancer ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NEURO",
+        "hint": "Relatif au systeme nerveux ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
       }
     ]
   ]
