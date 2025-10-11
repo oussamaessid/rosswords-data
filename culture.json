@@ -1,0 +1,756 @@
+{
+  "levels": [
+    [
+      {
+        "answer": "COPIE",
+        "hint": "Reproduction ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MELODI",
+        "hint": "Suite de notes ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MADRIGAL",
+        "hint": "Chanson polyphonique ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SITE",
+        "hint": "Lieu culturel ?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "STROPHE",
+        "hint": "Ensemble de vers ?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ECHO",
+        "hint": "Repetition sonore ?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "GALLERY",
+        "hint": "Lieu d'exposition ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAROLE",
+        "hint": "Expression verbale ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AUTEUR",
+        "hint": "Ecrivain ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "EPISODE",
+        "hint": "Partie de serie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BALLER",
+        "hint": "Danseur classique ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ESSAI",
+        "hint": "Ouvrage de reflexion ?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "VOIX",
+        "hint": "Instrument vocal ?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "OEUVRE",
+        "hint": "Creation artistique ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SPECTRE",
+        "hint": "Fantome ?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ELEGIE",
+        "hint": "Poeme lyrique ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ODEON",
+        "hint": "Salle de spectacle ?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "VOIX",
+        "hint": "Instrument vocal ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ROMANTIQ",
+        "hint": "Mouvement litteraire ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CONTEXT",
+        "hint": "Situation ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EPILOGUE",
+        "hint": "Apres-propos ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "IMPRESS",
+        "hint": "Marque profonde ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DECOR",
+        "hint": "Ornement d'un lieu ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ECRIRE",
+        "hint": "Rediger ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "VERNIS",
+        "hint": "Inauguration d'expo ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ECOLE",
+        "hint": "Courant artistique ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DIALOGUE",
+        "hint": "Echange verbal ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VIDEO",
+        "hint": "Support visuel ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "EFFET",
+        "hint": "Resultat ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HORREUR",
+        "hint": "Sentiment de terreur ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HARMONIE",
+        "hint": "Accord musical ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "NOVEL",
+        "hint": "Long recit invente ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TOILE",
+        "hint": "Support de peinture ?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PAGE",
+        "hint": "Partie du livre ?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ANCIEN",
+        "hint": "Du passe ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ROCK",
+        "hint": "Musique energique ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PAYS",
+        "hint": "Nation ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RAP",
+        "hint": "Musique urbaine ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "NOTE",
+        "hint": "Symbole musical ?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "MUSIQUE",
+        "hint": "Art des sons ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TRADUIT",
+        "hint": "Adapte en langue ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHOREE",
+        "hint": "Danse d'ensemble ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BATTERIE",
+        "hint": "Instrument de percussion ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BIBLE",
+        "hint": "Livre sacre ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BASE",
+        "hint": "Fondation ?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "THEATRE",
+        "hint": "Art dramatique ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ESTHET",
+        "hint": "Lie a la beaute ?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "GRACE",
+        "hint": "Elegance naturelle ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COULEUR",
+        "hint": "Teinte artistique ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PUBLIER",
+        "hint": "Diffuser un livre ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DISQUE",
+        "hint": "Support musical ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "EGYPTE",
+        "hint": "Pays des pharaons ?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "EAUFORTE",
+        "hint": "Technique de gravure ?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "METTEUR",
+        "hint": "Dirige la scene ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TORAH",
+        "hint": "Livre juif ?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CONCEPT",
+        "hint": "Idee principale ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "STORY",
+        "hint": "Recit bref sur réseaux ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CAMERA",
+        "hint": "Pour filmer ?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MOSCOU",
+        "hint": "Ville russe ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "FIN",
+        "hint": "Terme ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FLEUR",
+        "hint": "Organe reproducteur des plantes ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RYTHME",
+        "hint": "Organisation des sons ?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MONTAGE",
+        "hint": "Assemblage de plans ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NOBEL",
+        "hint": "Prix prestigieux ?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "INSTRUM",
+        "hint": "Objet musical ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ARTISTE",
+        "hint": "Createur d'art ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FEU",
+        "hint": "Flamme brulante ?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "AME",
+        "hint": "Esprit ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "DESSIN",
+        "hint": "Art graphique ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HUMANITE",
+        "hint": "Ensemble des hommes ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "APPLAUS",
+        "hint": "Manifestation d'admiration ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TRAGEDIE",
+        "hint": "Genre theatral sombre ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PORTRAIT",
+        "hint": "Representation d'une personne ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PEINTURE",
+        "hint": "Art de la couleur ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "FINALE",
+        "hint": "Conclusion ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LAMPE",
+        "hint": "Source de lumiere ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CLAVIER",
+        "hint": "Piano par exemple ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "DEDALE",
+        "hint": "Labyrinthe ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CIBLE",
+        "hint": "Objectif vise ?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LOI",
+        "hint": "Regle etablie ?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "COMPOSER",
+        "hint": "Creer de la musique ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PIANO",
+        "hint": "Instrument a clavier ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IDEES",
+        "hint": "Concepts mentaux ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CARICAT",
+        "hint": "Portrait deforme ?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "VITESSE",
+        "hint": "Rapidite ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ANIMAL",
+        "hint": "Etre vivant ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MELODIE",
+        "hint": "Suite de notes ?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "REALISME",
+        "hint": "Courant artistique ?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FIN",
+        "hint": "Terme ?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      }
+    ]
+  ]
+}
