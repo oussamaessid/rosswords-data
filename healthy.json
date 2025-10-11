@@ -1,1 +1,748 @@
-
+{
+  "levels": [
+    [
+      {
+        "answer": "POUMON",
+        "hint": "Organe respiratoire ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NEZ",
+        "hint": "Organe olfactif ?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENDON",
+        "hint": "Lie muscle os ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "REPOS",
+        "hint": "Moment de detente ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MUET",
+        "hint": "Ne peut pas parler ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ANGIOS",
+        "hint": "Vaisseaux sanguins ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NEVRAL",
+        "hint": "Douleur nerveuse ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GYM",
+        "hint": "Activite physique ?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ORL",
+        "hint": "Specialiste oreilles ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ETIRE",
+        "hint": "Allonge le corps ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ONGLE",
+        "hint": "Protection du doigt ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "VERTIG",
+        "hint": "Sensation de rotation ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ALLERG",
+        "hint": "Reaction excessive ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AVC",
+        "hint": "Accident vasculaire ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SCOLIOSE",
+        "hint": "Probleme dos ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ALLERGE",
+        "hint": "Reaction excessive ?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MAIGRE",
+        "hint": "Pas assez de poids ?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "MAIGRE",
+        "hint": "Pas assez de poids ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DERMATO",
+        "hint": "Pour la peau ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ENFANT",
+        "hint": "Jeune etre humain ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SYSTOLE",
+        "hint": "Contraction cardiaque ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "COTE",
+        "hint": "Protection des organes ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "GENE",
+        "hint": "Unite d'heredite ?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "NOMBRIL",
+        "hint": "Trace du cordon ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SERING",
+        "hint": "Pour injection ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CORPS",
+        "hint": "Ensemble physique ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COLON",
+        "hint": "Partie de l'intestin ?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SYSTOLE",
+        "hint": "Contraction cardiaque ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "VITAMINE",
+        "hint": "Nutriment essentiel ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SATURE",
+        "hint": "Gras a limiter ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SCANNER",
+        "hint": "Imagerie medicale ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ORL",
+        "hint": "Specialiste oreilles ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PILATE",
+        "hint": "Renforcement musculaire ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LEVRES",
+        "hint": "Pour embrasser ?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BIOPSIE",
+        "hint": "Prelevement ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CALCIE",
+        "hint": "Pour les os ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CECI",
+        "hint": "Aveugle ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SUIVI",
+        "hint": "Controle regulier ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "DOIGT",
+        "hint": "Extremite de la main ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RIRE",
+        "hint": "Bon pour le moral ?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MENTAL",
+        "hint": "Etat d'esprit ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "IRM",
+        "hint": "Technique d'imagerie ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "DENT",
+        "hint": "Organe masticatoire ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "INFIRMI",
+        "hint": "Soignant a l'hopital ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "IMMUNITE",
+        "hint": "Defense du corps ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OPTICIEN",
+        "hint": "Pour les lunettes ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "SIDA",
+        "hint": "Maladie virale ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SPORT",
+        "hint": "Activite physique ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOUR",
+        "hint": "Periode diurne ?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TRISTE",
+        "hint": "Emotion de deuil ?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FIBULA",
+        "hint": "Os de la jambe ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MORALE",
+        "hint": "Bien etre psychique ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GYM",
+        "hint": "Activite physique ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "UTERUS",
+        "hint": "Pour la grossesse ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FATIGUE",
+        "hint": "Manque d energie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CURATIF",
+        "hint": "Qui guérit ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MINERAL",
+        "hint": "Substance inorganique ?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "JOINT",
+        "hint": "Liaison entre deux os ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "IMC",
+        "hint": "Indice de masse ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DOIGT",
+        "hint": "Extremite de la main ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "LABO",
+        "hint": "Analyse ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SOIF",
+        "hint": "Besoin de boire ?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COLIQUE",
+        "hint": "Douleur abdominale ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SERING",
+        "hint": "Pour injection ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FOIE",
+        "hint": "Organe qui filtre ?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DANSE",
+        "hint": "Art du mouvement ?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SYSTOLE",
+        "hint": "Contraction cardiaque ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CERVEAU",
+        "hint": "Centre de contrôle ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ALLERGE",
+        "hint": "Reaction excessive ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "POULS",
+        "hint": "Battement cardiaque ?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ANALGUE",
+        "hint": "Calme la douleur ?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ECOUV",
+        "hint": "Prelevement sterile ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CICAT",
+        "hint": "Marque de blessure ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOUR",
+        "hint": "Periode diurne ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "SOURD",
+        "hint": "Qui n'entend pas ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GOUT",
+        "hint": "Sens de savourer ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SIROP",
+        "hint": "Medicament liquide ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "OPTICIEN",
+        "hint": "Pour les lunettes ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HUMAIN",
+        "hint": "Etre vivant ?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MALADE",
+        "hint": "Personne souffrante ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "PANSE",
+        "hint": "Recouvrir une plaie ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GASTRO",
+        "hint": "Relatif estomac ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CRANE",
+        "hint": "Boite osseuse ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MENTON",
+        "hint": "Partie inferieure du visage ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BIERE",
+        "hint": "Boisson alcoolisee ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PAIX",
+        "hint": "Absence de guerre et de tension interne ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SIROP",
+        "hint": "Medicament liquide ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "IMC",
+        "hint": "Indice de masse ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ]
+  ]
+}
