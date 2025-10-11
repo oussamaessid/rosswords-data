@@ -2,298 +2,744 @@
   "levels": [
     [
       {
-        "answer": "HITLER",
-        "hint": "German dictator during WWII",
+        "answer": "MONNAIE",
+        "hint": "Moyen de paiement ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "GREECE",
-        "hint": "Ancient civilization known for philosophy and democracy",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EMPIRE",
-        "hint": "Large political unit ruled by an emperor",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "EGYPT",
-        "hint": "Ancient civilization along the Nile River",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "OTTOMAN",
-        "hint": "Empire that ruled much of the Middle East and Europe",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PETRA",
-        "hint": "Ancient rock city in Jordan",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EGYPT",
-        "hint": "Ancient civilization along the Nile River",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ROMANS",
-        "hint": "Empire centered in Rome, ruled much of Europe",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "CAESAR",
-        "hint": "Roman general and statesman",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SOCRATES",
-        "hint": "Greek philosopher of antiquity",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COLDWAR",
-        "hint": "Tense period between USA and USSR",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "AZTEC",
-        "hint": "Mesoamerican empire in Mexico before Spanish conquest",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "NAPOLEON",
-        "hint": "French military leader and emperor",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAESAR",
-        "hint": "Roman general and statesman",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TROY",
-        "hint": "Ancient city linked to Homer’s epics",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "KINGDOM",
-        "hint": "Territory ruled by a king",
+        "answer": "PREHIST",
+        "hint": "Avant l'ecriture ?",
         "startx": 8,
         "starty": 3,
         "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SLAVERY",
-        "hint": "System of forced labor",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CRUSADE",
-        "hint": "Religious wars in the Middle Ages",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "REVOLT",
-        "hint": "Uprising against authority",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MANDELA",
-        "hint": "South African leader who fought apartheid",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "INCA",
-        "hint": "South American empire in the Andes mountains",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HITLER",
-        "hint": "German dictator during WWII",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MONARCHY",
-        "hint": "Government led by a king or queen",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DYNASTY",
-        "hint": "Family line of rulers",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AZTEC",
-        "hint": "Mesoamerican empire in Mexico before Spanish conquest",
+        "answer": "SYNAGOGU",
+        "hint": "Lieu de culte juif ?",
         "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "COLDWAR",
-        "hint": "Tense period between USA and USSR",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OTTOMAN",
-        "hint": "Empire that ruled much of the Middle East and Europe",
-        "startx": 3,
         "starty": 2,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PYRAMID",
-        "hint": "Monumental tombs of ancient Egypt",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "KINGDOM",
-        "hint": "Territory ruled by a king",
-        "startx": 5,
-        "starty": 1,
+        "answer": "CLOVIS",
+        "hint": "Premier roi franc ?",
+        "startx": 3,
+        "starty": 3,
         "orientation": "down",
         "position": 4
       }
     ],
     [
       {
-        "answer": "LINCOLN",
-        "hint": "US president who ended slavery",
-        "startx": 2,
+        "answer": "BLITZ",
+        "hint": "Guerre eclair allemande ?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "GANDHI",
-        "hint": "Leader of Indian independence movement",
+        "answer": "SOLEIL",
+        "hint": "Etoile jour ?",
         "startx": 4,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "EMPIRE",
-        "hint": "Large political unit ruled by an emperor",
-        "startx": 1,
-        "starty": 8,
+        "answer": "SANG",
+        "hint": "Liquide rouge ?",
+        "startx": 4,
+        "starty": 3,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "INCA",
-        "hint": "South American empire in the Andes mountains",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
+        "answer": "STALINE",
+        "hint": "Dictateur soviétique ?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "TROY",
-        "hint": "Ancient city linked to Homer’s epics",
-        "startx": 6,
-        "starty": 3,
+        "answer": "PROGRES",
+        "hint": "Amelioration ?",
+        "startx": 1,
+        "starty": 2,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "REVOLT",
-        "hint": "Uprising against authority",
-        "startx": 2,
+        "answer": "SENAT",
+        "hint": "Chambre haute ?",
+        "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "TRIBU",
+        "hint": "Groupe ethnique ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOURG",
+        "hint": "Petit marche ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OCEAN",
+        "hint": "Vaste etendue ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BIERE",
+        "hint": "Boisson cereale ?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DANSE",
+        "hint": "Art du mouvement ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RUSSIE",
+        "hint": "Pays des Tsars ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BLE",
+        "hint": "Cereale ?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DESERT",
+        "hint": "Zone aride ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CITOYEN",
+        "hint": "Membre d'un etat ?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CAPITAL",
+        "hint": "Système économique ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ITALIE",
+        "hint": "Pays de la botte ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VITRAIL",
+        "hint": "Decoration d'eglise ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ROSETTE",
+        "hint": "Pierre de Champollion ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CASTEL",
+        "hint": "Chateau fort ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COMTE",
+        "hint": "Titre de noblesse ?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SAVANT",
+        "hint": "Chercheur ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TUDOR",
+        "hint": "Dynastie anglaise ?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PORT",
+        "hint": "Lieu d'amarrage ?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BATAILLE",
+        "hint": "Combat majeur ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FAMILLE",
+        "hint": "Groupe social ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SERF",
+        "hint": "Paysan lie a la terre ?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ARTISAN",
+        "hint": "Ouvrier qualifie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SIEGLE",
+        "hint": "Unité de cent ans ?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TEMPLE",
+        "hint": "Lieu sacre ?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "OCEAN",
+        "hint": "Vaste etendue ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ORLEANS",
+        "hint": "Ville de Jeanne d'Arc ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TUDOR",
+        "hint": "Dynastie anglaise ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GUILDE",
+        "hint": "Association medievale ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TSAR",
+        "hint": "Empereur de Russie ?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "EMPIRE",
+        "hint": "Etat puissant ?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MER",
+        "hint": "Etendue d'eau salee ?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "POIVRE",
+        "hint": "Epice ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VESALE",
+        "hint": "Anatomie humaine ?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DEFAITE",
+        "hint": "Echec militaire ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CUITRE",
+        "hint": "Ville romaine importante ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BORDEAUX",
+        "hint": "Ville viticole ?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ANGE",
+        "hint": "Messager divin ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "FRATERN",
+        "hint": "Lien de solidarite ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COPERNI",
+        "hint": "Soleil centre univers ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MIGRATI",
+        "hint": "Deplacement de population ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BOURG",
+        "hint": "Petit marche ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MUR",
+        "hint": "Cloison verticale ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ITALIE",
+        "hint": "Pays de la botte ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POMME",
+        "hint": "Fruit ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SEL",
+        "hint": "Assaisonnement ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CHRETIEN",
+        "hint": "Adepte du christianisme ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "AMERIQUE",
+        "hint": "Nouveau Monde ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BASTILLE",
+        "hint": "Prison parisienne ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PREHIST",
+        "hint": "Avant l'ecriture ?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "REINE",
+        "hint": "Epouse du roi ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MYTHE",
+        "hint": "Recit symbolique ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "JUILLET",
+        "hint": "Prise de la Bastille ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BOIS",
+        "hint": "Materiau vegetal ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PONT",
+        "hint": "Construction au dessus ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PASSE",
+        "hint": "Le contraire du futur ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "FLECHE",
+        "hint": "Arme de jet ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DECOUV",
+        "hint": "Exploration nouvelle ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JAURES",
+        "hint": "Pacifiste assassine ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BLASON",
+        "hint": "Emblème d'une famille noble ?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "AXE",
+        "hint": "Allemagne-Italie-Japon, l'___ ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "PAPE",
+        "hint": "Chef religieux ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOIRE",
+        "hint": "S'hydrater ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "REVOL",
+        "hint": "Changement brutal ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CARTE",
+        "hint": "Representation ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "EXODE",
+        "hint": "Migration massive ?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ARBRE",
+        "hint": "Vegetal ?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "LITTER",
+        "hint": "Ensemble des oeuvres ecrites ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POIVRE",
+        "hint": "Epice ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PARIS",
+        "hint": "Capitale francaise ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ROI",
+        "hint": "Dirigeant ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "PRETRE",
+        "hint": "Homme religion ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RENAISS",
+        "hint": "Epoque de l'art ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CULTE",
+        "hint": "Ensemble de pratiques ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JULES",
+        "hint": "Cesar romain ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "COMMUNE",
+        "hint": "Collectivité locale ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PROGRES",
+        "hint": "Amelioration ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COLBERT",
+        "hint": "Ministre de Louis XIV ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PONT",
+        "hint": "Construction au dessus ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
       }
     ]
   ]
