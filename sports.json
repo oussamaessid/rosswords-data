@@ -2,91 +2,101 @@
   "levels": [
     [
       {
-        "answer": "BLOCK",
-        "hint": "Action of stopping opponent's move",
+        "answer": "RAFTING",
+        "hint": "Descente en bateau ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HAIE",
+        "hint": "Obstacle a franchir ?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HAND",
+        "hint": "Sport avec ballon ?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BATON",
+        "hint": "Pour skier ?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PRACTICE",
-        "hint": "Repeated exercise to gain skill",
+        "answer": "COACH",
+        "hint": "Entraineur ?",
         "startx": 6,
-        "starty": 2,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ARCHERY",
-        "hint": "Sport of shooting arrows with a bow",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
+        "answer": "GALOP",
+        "hint": "Allure du cheval ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
         "position": 3
-      },
-      {
-        "answer": "TRACK",
-        "hint": "Circular path for running",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TENNIS",
-        "hint": "Sport where players hit a ball with rackets over a net",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
       }
     ],
     [
       {
-        "answer": "BOXING",
-        "hint": "Combat sport using fists with gloves",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "PLUIE",
+        "hint": "Meteo defavorable ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "KICK",
-        "hint": "Action of hitting with foot",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
+        "answer": "FIGURE",
+        "hint": "Mouvement artistique ?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RUGBY",
-        "hint": "Contact team sport with an oval ball",
-        "startx": 2,
+        "answer": "PUBLIC",
+        "hint": "Spectateurs ?",
+        "startx": 4,
         "starty": 2,
-        "orientation": "across",
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "TRACK",
-        "hint": "Circular path for running",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "VISITE",
+        "hint": "Action attaque ?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "SKILL",
-        "hint": "Ability to do something well",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
+        "answer": "CAP",
+        "hint": "Direction du bateau ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "RING",
-        "hint": "Circular area for boxing",
-        "startx": 2,
+        "answer": "COURIR",
+        "hint": "Se deplacer vite ?",
+        "startx": 4,
         "starty": 7,
         "orientation": "across",
         "position": 6
@@ -94,25 +104,117 @@
     ],
     [
       {
-        "answer": "SHOOT",
-        "hint": "Action of trying to score",
+        "answer": "VERT",
+        "hint": "Couleur du gazon ?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SPORT",
-        "hint": "Physical activity with rules and competition",
-        "startx": 5,
+        "answer": "NEIGE",
+        "hint": "Pour skier ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SKIJO",
+        "hint": "Traction a ski ?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ENTRAIN",
+        "hint": "Preparation physique ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TACLE",
+        "hint": "Prendre le ballon ?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "GENOU",
+        "hint": "Articulation jambe ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "YOGA",
+        "hint": "Discipline du corps ?",
+        "startx": 3,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
+        "answer": "APNEE",
+        "hint": "Retenir son souffle ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MINUTE",
+        "hint": "Unite de temps ?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "EAU",
+        "hint": "Element de la piscine ?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BOUE",
+        "hint": "Terrain glissant ?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
         "answer": "SCORE",
-        "hint": "Points earned in a game",
+        "hint": "Marque du jeu ?",
         "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MUSCU",
+        "hint": "Developpement musculaire ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ROUTE",
+        "hint": "Parcours pour cyclistes ?",
+        "startx": 6,
         "starty": 5,
         "orientation": "down",
         "position": 3
@@ -120,180 +222,518 @@
     ],
     [
       {
-        "answer": "TRACK",
-        "hint": "Circular path for running",
-        "startx": 3,
+        "answer": "BAS",
+        "hint": "Le contraire de haut ?",
+        "startx": 4,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "RING",
-        "hint": "Circular area for boxing",
-        "startx": 4,
-        "starty": 5,
+        "answer": "PISTE",
+        "hint": "Terrain de course ?",
+        "startx": 6,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "NET",
-        "hint": "Mesh used in various sports",
-        "startx": 4,
+        "answer": "PERCHE",
+        "hint": "Long baton ?",
+        "startx": 1,
         "starty": 7,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "KICK",
-        "hint": "Action of hitting with foot",
-        "startx": 7,
-        "starty": 2,
+        "answer": "CORNER",
+        "hint": "Tir au coin ?",
+        "startx": 2,
+        "starty": 3,
         "orientation": "down",
         "position": 4
-      },
-      {
-        "answer": "CRICKET",
-        "hint": "Sport with bat, ball and wickets",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
       }
     ],
     [
       {
-        "answer": "MUSCLE",
-        "hint": "Tissue that produces movement",
+        "answer": "ROCHE",
+        "hint": "Surface a escalader ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SHORT",
+        "hint": "Vetement court ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HORSJEU",
+        "hint": "Position illegale ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "PADDLE",
+        "hint": "Sport de raquette nautique ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "JERSEY",
-        "hint": "Sports shirt worn by players",
+        "answer": "SILVER",
+        "hint": "Deuxième place ?",
         "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NAGE",
+        "hint": "Avancer dans l'eau ?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "FITNESS",
+        "hint": "Remise en forme ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TEMPS",
+        "hint": "Duree match ?",
+        "startx": 6,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "GAME",
-        "hint": "Sport activity or competition",
+        "answer": "ARBITRE",
+        "hint": "Juge du match ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MARTEAU",
+        "hint": "Lancer rotatif ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FLECHE",
+        "hint": "Tiré par un arc ?",
         "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JET",
+        "hint": "Action de lancer ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PIED",
+        "hint": "Membre inferieur ?",
+        "startx": 7,
         "starty": 3,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "PASS",
-        "hint": "Action of giving ball to teammate",
-        "startx": 4,
+        "answer": "NERF",
+        "hint": "Transmet les signaux ?",
+        "startx": 2,
         "starty": 2,
         "orientation": "down",
         "position": 4
-      }
-    ],
-    [
+      },
       {
-        "answer": "JUDO",
-        "hint": "Martial art and combat sport from Japan",
-        "startx": 3,
-        "starty": 5,
+        "answer": "SNOW",
+        "hint": "Planche sur neige ?",
+        "startx": 1,
+        "starty": 2,
         "orientation": "across",
-        "position": 1
+        "position": 5
       },
       {
-        "answer": "LEAGUE",
-        "hint": "Group of teams competing regularly",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PASS",
-        "hint": "Action of giving ball to teammate",
-        "startx": 3,
+        "answer": "PAS",
+        "hint": "Mouvement de pied ?",
+        "startx": 7,
         "starty": 3,
         "orientation": "across",
-        "position": 3
+        "position": 6
       }
     ],
     [
       {
-        "answer": "GAME",
-        "hint": "Sport activity or competition",
-        "startx": 3,
+        "answer": "GOLFEUR",
+        "hint": "Joueur de golf ?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "GLOVE",
-        "hint": "Protective gear for hands",
+        "answer": "SEUL",
+        "hint": "Sans partenaire ?",
         "startx": 6,
-        "starty": 1,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "POINT",
-        "hint": "Unit of scoring in games",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
+        "answer": "BRUME",
+        "hint": "Faible visibilite ?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "TROPHY",
-        "hint": "Award given to a winner or champion",
-        "startx": 9,
+        "answer": "HALTERO",
+        "hint": "Soulever des barres ?",
+        "startx": 4,
         "starty": 3,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "GYM",
-        "hint": "Indoor facility for exercise",
+        "answer": "CHOC",
+        "hint": "Impact violent ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "LAME",
+        "hint": "Partie coupante du patin ?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "GLUCIDE",
+        "hint": "Source d'energie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RAME",
+        "hint": "Pour avancer en aviron ?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COEUR",
+        "hint": "Muscle vital ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MINUTE",
+        "hint": "Unite de temps ?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MATCH",
+        "hint": "Rencontre sportive ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CIBLE",
+        "hint": "Objectif de l'archer ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HERBE",
+        "hint": "Gazon terrain ?",
         "startx": 3,
         "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TIREUR",
+        "hint": "Qui utilise une arme ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BIATHLON",
+        "hint": "Ski et tir ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TOURNOI",
+        "hint": "Competition sportive ?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ROULE",
+        "hint": "Se deplacer vite ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "VESTE",
+        "hint": "Haut de survetement ?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SELLE",
+        "hint": "Sur le dos du cheval ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POOL",
+        "hint": "Bassin nage ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KIMO",
+        "hint": "Tenue de Judo ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ARC",
+        "hint": "Pour tirer des fleches ?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PADDLE",
+        "hint": "Sport de raquette nautique ?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENNIS",
+        "hint": "Sport avec raquette ?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "AMIS",
+        "hint": "Partage de passion ?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RELACHE",
+        "hint": "Lacher prise ?",
+        "startx": 6,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "DEFENSE",
-        "hint": "Action of stopping the opponent from scoring",
+        "answer": "DANSE",
+        "hint": "Art du mouvement ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ATTAQUE",
+        "hint": "Essayer de marquer ?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GLISSE",
+        "hint": "Action sur la neige ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HAUT",
+        "hint": "Le sommet ?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "DEFENDRE",
+        "hint": "Proteger son but ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POINTE",
+        "hint": "Chaussure ballerine ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FIGURE",
+        "hint": "Mouvement artistique ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "DOPAGE",
+        "hint": "Triche sportive ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SCORE",
-        "hint": "Points earned in a game",
+        "answer": "TREK",
+        "hint": "Randonnee difficile ?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AVIRON",
+        "hint": "Sport de rame ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "EGALITE",
+        "hint": "Match nul ?",
         "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SQUELE",
+        "hint": "Descente rapide ?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CHUTE",
+        "hint": "Accident en ski ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PENTHA",
+        "hint": "Epreuve combinee ?",
+        "startx": 4,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "JERSEY",
-        "hint": "Sports shirt worn by players",
+        "answer": "GARDE",
+        "hint": "Poste basket ?",
         "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HOCKEY",
-        "hint": "Sport played on ice with sticks and a puck",
-        "startx": 3,
         "starty": 1,
         "orientation": "down",
-        "position": 4
+        "position": 3
       }
     ]
   ]
