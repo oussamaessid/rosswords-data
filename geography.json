@@ -2,553 +2,405 @@
   "levels": [
     [
       {
-        "answer": "MONTAGNE",
-        "hint": "Grand relief eleve ?",
-        "startx": 1,
+        "answer": "VOITURE",
+        "hint": "Vehicule a moteur pour le transport individuel ?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ALGERIE",
-        "hint": "Grand pays du Maghreb ?",
+        "answer": "ANGLETER",
+        "hint": "Partie du Royaume-Uni ?",
         "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TAMISE",
-        "hint": "Fleuve traversant Londres ?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GLOBE",
-        "hint": "Sphere representant la Terre ?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "BOLIVIE",
-        "hint": "Pays d'Amerique du Sud sans acces a la mer ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ATHENES",
-        "hint": "Capitale de la Grece ?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BAIE",
-        "hint": "Entree de mer dans les terres ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ALTITUDE",
-        "hint": "Hauteur d'un lieu par rapport au niveau de la mer ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "KENYA",
-        "hint": "Pays d'Afrique de l'Est ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "RIO",
-        "hint": "Fleuve en espagnol ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "BRUXELL",
-        "hint": "Capitale de la Belgique ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RIVIERA",
-        "hint": "Cote mediterraneenne, surtout en France et Italie ?",
-        "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DUNE",
-        "hint": "Colline de sable ?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "LAC",
-        "hint": "Etendue d'eau douce entouree de terres ?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LILLE",
-        "hint": "Ville du Nord de la France ?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VIENNE",
-        "hint": "Capitale de l'Autriche ?",
+        "answer": "POUSSIER",
+        "hint": "Particules fines dans l'espace ?",
         "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ELBE",
-        "hint": "Fleuve traversant Hambourg ?",
-        "startx": 3,
         "starty": 7,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MAROC",
-        "hint": "Pays du Maghreb ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PAYSBAS",
-        "hint": "Pays des tulipes et des moulins ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SUDAN",
-        "hint": "Pays africain traverse par le fleuve Nil ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SEOUL",
-        "hint": "Capitale de la Coree du Sud ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "RUSSIE",
-        "hint": "Le plus grand pays du monde en superficie ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ARCHIPEL",
-        "hint": "Groupe d'iles ?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ALPES",
-        "hint": "Chaine de montagnes en Europe ?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "RUSSIE",
-        "hint": "Le plus grand pays du monde en superficie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OUEST",
-        "hint": "Point cardinal ou le soleil se couche ?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DUBLIN",
-        "hint": "Capitale de l'Irlande ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PAYSBAS",
-        "hint": "Pays des tulipes et des moulins ?",
+        "answer": "OMAN",
+        "hint": "Sultanat d'Arabie ?",
         "startx": 5,
         "starty": 2,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "BUDAPEST",
-        "hint": "Capitale de la Hongrie ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DANUBE",
-        "hint": "Fleuve traversant Vienne ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "METEO",
-        "hint": "Previsions du temps ?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ISLANDE",
-        "hint": "Grande ile nordique ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BAIE",
-        "hint": "Entree de mer dans les terres ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "COL",
-        "hint": "Passage entre deux montagnes ?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "OCEANIE",
-        "hint": "Continent des iles ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BUDAPEST",
-        "hint": "Capitale de la Hongrie ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ETANG",
-        "hint": "Petite etendue d'eau ?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LAVE",
-        "hint": "Roche en fusion sortant d'un volcan ?",
-        "startx": 2,
-        "starty": 7,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "LAC",
-        "hint": "Etendue d'eau douce entouree de terres ?",
+        "answer": "CONGO",
+        "hint": "Fleuve et pays d'Afrique ?",
         "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "OUEST",
-        "hint": "Point cardinal ou le soleil se couche ?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "FOSSE",
-        "hint": "Depression oceanique tres profonde ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SEOUL",
-        "hint": "Capitale de la Coree du Sud ?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VARSOVIE",
-        "hint": "Capitale de la Pologne ?",
-        "startx": 4,
         "starty": 1,
         "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LAVE",
-        "hint": "Roche en fusion sortant d'un volcan ?",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
+        "position": 5
       }
     ],
     [
       {
-        "answer": "SAHARA",
-        "hint": "Le plus grand desert chaud ?",
-        "startx": 2,
+        "answer": "QATAR",
+        "hint": "Emirat du Golfe Persique ?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CANADA",
-        "hint": "Voisin du nord des USA ?",
+        "answer": "CAIRE",
+        "hint": "Capitale de l'Egypte ?",
         "startx": 7,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "EQUATEUR",
-        "hint": "Ligne imaginaire centrale ?",
+        "answer": "CHUTE",
+        "hint": "Cascade d'eau ?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "IRAK",
+        "hint": "Pays de Mesopotamie ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAMPAS",
+        "hint": "Plaines d'Argentine ?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "QUITO",
+        "hint": "Capitale de l'Equateur ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TIBET",
+        "hint": "Region montagneuse d'Asie ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MAREE",
+        "hint": "Mouvement periodique de l'eau des oceans ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VOITURE",
+        "hint": "Vehicule a moteur pour le transport individuel ?",
         "startx": 3,
         "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "DELTA",
-        "hint": "Embouchure d'un fleuve en triangle ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "BRISBANE",
+        "hint": "Ville australienne ?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "RABAT",
-        "hint": "Capitale du Maroc ?",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "across",
+        "answer": "SAVANE",
+        "hint": "Plaine herbeuse tropicale ?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "LAC",
-        "hint": "Etendue d'eau douce entouree de terres ?",
-        "startx": 6,
-        "starty": 7,
+        "answer": "VISA",
+        "hint": "Autorisation d'entree dans un pays ?",
+        "startx": 3,
+        "starty": 2,
         "orientation": "across",
         "position": 6
       }
     ],
     [
       {
-        "answer": "RENNES",
-        "hint": "Capitale de la Bretagne ?",
+        "answer": "GEISER",
+        "hint": "Jet d'eau chaude ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "BERLIN",
-        "hint": "Capitale de l'Allemagne ?",
-        "startx": 3,
-        "starty": 4,
+        "answer": "FLORA",
+        "hint": "Ensemble des plantes d'une region ?",
+        "startx": 7,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "OSLO",
-        "hint": "Capitale de la Norvege ?",
-        "startx": 7,
-        "starty": 4,
+        "answer": "FALAIS",
+        "hint": "Mur de roche abrupt en bord de mer ?",
+        "startx": 4,
+        "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ETANG",
-        "hint": "Petite etendue d'eau ?",
-        "startx": 5,
-        "starty": 2,
+        "answer": "VOYAGE",
+        "hint": "Deplacement d'un lieu a un autre ?",
+        "startx": 2,
+        "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
         "answer": "ILE",
         "hint": "Terre entouree d'eau ?",
-        "startx": 3,
-        "starty": 8,
+        "startx": 6,
+        "starty": 3,
         "orientation": "across",
         "position": 5
-      },
-      {
-        "answer": "STEPPE",
-        "hint": "Grande prairie temperee et seche ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
       }
     ],
     [
       {
-        "answer": "PEROU",
-        "hint": "Pays des Andes et des Incas ?",
+        "answer": "ZEBRE",
+        "hint": "Animal a rayures de la savane africaine ?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MONT",
-        "hint": "Petit nom pour une montagne ?",
+        "answer": "RIVE",
+        "hint": "Bord d'un cours d'eau ?",
         "startx": 6,
-        "starty": 4,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ZONE",
-        "hint": "Region geographique definie ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "EUROPE",
+        "hint": "Continent de la tour de Pise ?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "OTTAWA",
-        "hint": "Capitale du Canada ?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "across",
+        "answer": "POLAIRE",
+        "hint": "Qui se trouve pres des poles terrestres ?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
         "position": 4
       }
     ],
     [
       {
-        "answer": "DESERT",
-        "hint": "Grande etendue aride ?",
+        "answer": "MERS",
+        "hint": "Plusieurs etendues d'eau salee ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GALLES",
+        "hint": "Pays de la Grande-Bretagne ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EAU",
+        "hint": "Element vital couvrant la majorite de la Terre ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "VOLCAN",
+        "hint": "Montagne qui crache de la lave ?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "NORVEGE",
-        "hint": "Pays des fjords en Scandinavie ?",
-        "startx": 5,
+        "answer": "ARGILE",
+        "hint": "Terre molle et impermeable ?",
+        "startx": 4,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ASIE",
-        "hint": "Continent le plus peuple ?",
+        "answer": "BRUME",
+        "hint": "Brouillard leger pres du sol ?",
         "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MER",
+        "hint": "Etendue d'eau moins grande qu'un ocean ?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "AVION",
+        "hint": "Moyen de transport aerien ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "NOUVZEL",
+        "hint": "Pays des kiwis ?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ANKARA",
+        "hint": "Capitale de la Turquie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GANGE",
+        "hint": "Fleuve sacre de l'Inde ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HIMALAY",
+        "hint": "Chaine de montagnes asiatique ?",
+        "startx": 5,
         "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "BRESIL",
-        "hint": "Grand pays d'Amerique du Sud ?",
-        "startx": 3,
-        "starty": 7,
+        "answer": "NYC",
+        "hint": "Sigle de la grosse pomme ?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GLACIER",
+        "hint": "Grande masse de glace qui se deplace ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GEORGIE",
+        "hint": "Pays du Caucase, entre l'Europe et l'Asie ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IRAN",
+        "hint": "Ancienne Perse ?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "COLOMBIE",
+        "hint": "Pays d'Amerique du Sud, capitale Bogota ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LITTORAL",
+        "hint": "Region situee en bord de mer ?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ICEBERG",
+        "hint": "Grand bloc de glace flottant en mer ?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GEORGIE",
+        "hint": "Pays du Caucase, entre l'Europe et l'Asie ?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "RHIN",
-        "hint": "Fleuve frontalier de la France ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
+        "answer": "NUAGE",
+        "hint": "Masse visible de gouttelettes d'eau dans l'air ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "NIL",
-        "hint": "Le plus long fleuve d'Afrique ?",
-        "startx": 5,
+        "answer": "LAC",
+        "hint": "Etendue d'eau douce entouree de terre ?",
+        "startx": 2,
         "starty": 1,
         "orientation": "across",
         "position": 6
@@ -556,224 +408,340 @@
     ],
     [
       {
-        "answer": "RIO",
-        "hint": "Fleuve en espagnol ?",
-        "startx": 4,
+        "answer": "CORSICA",
+        "hint": "Ile francaise de Beaute ?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ARCHIPEL",
-        "hint": "Groupe d'iles ?",
+        "answer": "MALAISI",
+        "hint": "Voisin de Singapour ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PAMPAS",
+        "hint": "Plaines d'Argentine ?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ROCHE",
+        "hint": "Materiau solide composant la Terre ?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "NIGER",
+        "hint": "Grand fleuve africain ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MALI",
+        "hint": "Pays du fleuve Niger en Afrique ?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ANDES",
+        "hint": "Chaine de montagnes en Amerique du Sud ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "USA",
+        "hint": "Sigle des Etats-Unis ?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LEMAN",
+        "hint": "Lac frontalier franco-suisse ?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HORN",
+        "hint": "Le cap le plus au sud de l'Amerique ?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "MYANMAR",
+        "hint": "Ancien Birmanie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BORDURE",
+        "hint": "Limite d'un territoire ?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BENIN",
+        "hint": "Pays d'Afrique de l'Ouest ?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BAMAKO",
+        "hint": "Capitale du Mali ?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ASIE",
+        "hint": "Le plus grand continent ?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BUS",
+        "hint": "Transport en commun routier ?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SUISSE",
+        "hint": "Pays des Alpes et du chocolat ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PORTUGAL",
+        "hint": "Pays de Lisbonne ?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TYPHON",
+        "hint": "Nom donne aux cyclones dans le Pacifique Ouest ?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "SERBIE",
+        "hint": "Pays des Balkans, capitale Belgrade ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AURORE",
+        "hint": "Phenomene lumineux polaire ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JUNGLE",
+        "hint": "Foret tropicale dense et humide ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ESCALE",
+        "hint": "Arret intermediaire lors d'un voyage ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MERS",
+        "hint": "Plusieurs etendues d'eau salee ?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "GEORGIE",
+        "hint": "Pays du Caucase, entre l'Europe et l'Asie ?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUNGLE",
+        "hint": "Foret tropicale dense et humide ?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AMSTERD",
+        "hint": "Capitale des Pays-Bas ?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GEOLOGIE",
+        "hint": "Science qui etudie la Terre ?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CONTINEN",
+        "hint": "Grande masse de terre sur le globe ?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SANTIAGO",
+        "hint": "Capitale du Chili ?",
         "startx": 5,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ROUMANIE",
-        "hint": "Pays d'Europe de l'Est avec les Carpates ?",
-        "startx": 1,
-        "starty": 1,
+        "answer": "ROYAUME",
+        "hint": "Un royaume-uni est un exemple de ce type d'etat ?",
+        "startx": 2,
+        "starty": 2,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "EQUATEUR",
-        "hint": "Ligne imaginaire centrale ?",
+        "answer": "ZELANDE",
+        "hint": "Ile de l'Oceanie (Nouvelle-) ?",
         "startx": 8,
         "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "NIL",
-        "hint": "Le plus long fleuve d'Afrique ?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
+        "answer": "NORD",
+        "hint": "Point cardinal oppose au sud ?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
         "position": 5
-      },
-      {
-        "answer": "RIVIERE",
-        "hint": "Petit cours d'eau ?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
       }
     ],
     [
       {
-        "answer": "MONTAGNE",
-        "hint": "Grand relief eleve ?",
+        "answer": "BELGIQUE",
+        "hint": "Pays du Manneken-Pis ?",
         "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "YANGTSE",
-        "hint": "Grand fleuve chinois ?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ALGERIE",
-        "hint": "Grand pays du Maghreb ?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "INDE",
-        "hint": "Grand pays d'Asie du Sud ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "INDE",
-        "hint": "Grand pays d'Asie du Sud ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BOLIVIE",
-        "hint": "Pays d'Amerique du Sud sans acces a la mer ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MOSCOU",
-        "hint": "Capitale de la Russie ?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ATOLL",
-        "hint": "Ile corallienne en forme d'anneau ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BAIE",
-        "hint": "Entree de mer dans les terres ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ROME",
-        "hint": "Capitale de l'Italie ?",
+        "answer": "CAIRE",
+        "hint": "Capitale de l'Egypte ?",
         "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "UKRAINE",
-        "hint": "Pays d'Europe de l'Est, le plus grand apres la Russie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CUBA",
-        "hint": "Grande ile des Caraibes ?",
-        "startx": 2,
-        "starty": 4,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MERIDIEN",
-        "hint": "Ligne imaginaire nord-sud ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "RABAT",
-        "hint": "Capitale du Maroc ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ITALIE",
-        "hint": "Pays en forme de botte ?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COLOMBIE",
-        "hint": "Pays sud-americain connu pour le cafe ?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "DELTA",
-        "hint": "Embouchure d'un fleuve en triangle ?",
-        "startx": 4,
+        "answer": "CRATERE",
+        "hint": "Depression d'un volcan ?",
+        "startx": 8,
         "starty": 1,
         "orientation": "down",
-        "position": 4
+        "position": 3
       }
     ],
     [
       {
-        "answer": "BORDEAUX",
-        "hint": "Ville du vin en France ?",
-        "startx": 1,
+        "answer": "BOURG",
+        "hint": "Petite ville rurale ?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CORAIL",
-        "hint": "Animal marin formant des recifs ?",
+        "answer": "ANDORRE",
+        "hint": "Petit pays des Pyrenees ?",
         "startx": 6,
-        "starty": 2,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RIF",
-        "hint": "Massif montagneux au Maroc ?",
+        "answer": "BAMAKO",
+        "hint": "Capitale du Mali ?",
         "startx": 3,
-        "starty": 5,
-        "orientation": "down",
+        "starty": 1,
+        "orientation": "across",
         "position": 3
+      },
+      {
+        "answer": "MADRID",
+        "hint": "Capitale de l'Espagne ?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
       }
     ]
   ]
