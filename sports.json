@@ -2,143 +2,185 @@
   "levels": [
     [
       {
-        "answer": "RAFTING",
-        "hint": "Descente en bateau ?",
+        "answer": "STRIKER",
+        "hint": "Which player role stays highest upfield hunting for goals?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "HAIE",
-        "hint": "Obstacle a franchir ?",
+        "answer": "BACKHAND",
+        "hint": "Which athletic skill swings the racquet across the body side?",
         "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HAND",
-        "hint": "Sport avec ballon ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "BATON",
-        "hint": "Pour skier ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COACH",
-        "hint": "Entraineur ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GALOP",
-        "hint": "Allure du cheval ?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "PLUIE",
-        "hint": "Meteo defavorable ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FIGURE",
-        "hint": "Mouvement artistique ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PUBLIC",
-        "hint": "Spectateurs ?",
-        "startx": 4,
         "starty": 2,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RETURNER",
+        "hint": "Which player role fields kickoffs and punts to gain yards?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "VISITE",
-        "hint": "Action attaque ?",
-        "startx": 1,
+        "answer": "BONDS",
+        "hint": "Which athlete lefty slugger with the single-season home run mark?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BRYANT",
+        "hint": "Which athlete Lakers shooting guard known as the Black Mamba?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "LINEMAN",
+        "hint": "Which player role seals edges on the offensive line?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BILLIARD",
+        "hint": "Which sport guides cue balls to set up caroms and pockets?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRAGRACE",
+        "hint": "Which sport settles battles over a quarter mile straight?",
+        "startx": 2,
         "starty": 9,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CAP",
-        "hint": "Direction du bateau ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "COURIR",
-        "hint": "Se deplacer vite ?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "VERT",
-        "hint": "Couleur du gazon ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NEIGE",
-        "hint": "Pour skier ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SKIJO",
-        "hint": "Traction a ski ?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ENTRAIN",
-        "hint": "Preparation physique ?",
-        "startx": 3,
+        "answer": "MALONE",
+        "hint": "Which athlete pick-and-roll finisher dubbed the Mailman?",
+        "startx": 4,
         "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "NOSECLIP",
+        "hint": "Which piece of sports gear prevents water from entering during synchronized swims?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HANDOFF",
+        "hint": "Which athletic skill places the football into a teammate's arms?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EMBIID",
+        "hint": "Which athlete Cameroonian center patrolling the paint for Philly?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ENDURO",
+        "hint": "Which sport tests endurance over rugged off-road moto stages?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MALONE",
+        "hint": "Which athlete pick-and-roll finisher dubbed the Mailman?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SLICE",
+        "hint": "Which athletic skill carves a low skidding shot across the court?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RETURNER",
+        "hint": "Which player role fields kickoffs and punts to gain yards?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "STRETCH",
+        "hint": "Which athletic skill lengthens muscles to improve range of motion?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "POINT",
+        "hint": "Which player role orchestrates offense as the primary ballhandler?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RICE",
+        "hint": "Which athlete receiver owning nearly every major NFL record?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "USOPEN",
+        "hint": "Which competition or trophy serves as America's hard-court tennis major in New York?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ZUMBA",
+        "hint": "Which sport turns cardio into choreographed dance parties?",
+        "startx": 2,
+        "starty": 2,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "TACLE",
-        "hint": "Prendre le ballon ?",
-        "startx": 6,
+        "answer": "TAPE",
+        "hint": "Which piece of sports gear secures ankles, wrists, and hockey sticks?",
+        "startx": 7,
         "starty": 5,
         "orientation": "down",
         "position": 5
@@ -146,594 +188,560 @@
     ],
     [
       {
-        "answer": "GENOU",
-        "hint": "Articulation jambe ?",
+        "answer": "NUTMEG",
+        "hint": "Which athletic skill slides the ball through an opponent's legs?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MOTOGP",
+        "hint": "Which sport hosts prototype motorcycles on road circuits?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHIPSHOT",
+        "hint": "Which athletic skill dinks a soccer ball softly over a keeper?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "LUGE",
+        "hint": "Which sport steers supine at highway speeds down an ice chute?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "YOGA",
-        "hint": "Discipline du corps ?",
-        "startx": 3,
+        "answer": "SWEEP",
+        "hint": "Which athletic skill clears a curling stone's path to control speed?",
+        "startx": 6,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "APNEE",
-        "hint": "Retenir son souffle ?",
+        "answer": "BOWLING",
+        "hint": "Which sport rolls a heavy ball toward ten arranged pins?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PROP",
+        "hint": "Which player role provides power in the front row scrum?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "MITT",
+        "hint": "Which piece of sports gear cushions a baseball catcher's receiving hand?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PUTTER",
+        "hint": "Which piece of sports gear rolls the ball across greens with touch?",
         "startx": 5,
         "starty": 3,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SCREEN",
+        "hint": "Which athletic skill sets a stationary pick to free a shooter?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "MINUTE",
-        "hint": "Unite de temps ?",
-        "startx": 7,
-        "starty": 2,
+        "answer": "TAGGING",
+        "hint": "Which athletic skill touches a runner out between bases?",
+        "startx": 8,
+        "starty": 3,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "EAU",
-        "hint": "Element de la piscine ?",
-        "startx": 7,
-        "starty": 7,
+        "answer": "THORPE",
+        "hint": "Which athlete multi-medal Aussie nicknamed Thorpedo?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "SAFETY",
+        "hint": "Which player role covers deep routes as the last line of defense?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SERVER",
+        "hint": "Which player role initiates each rally with tosses and swings?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARCHERY",
+        "hint": "Which sport measures precision shots at concentric rings?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ASHES",
+        "hint": "Which competition or trophy historic cricket urn contested by England and Australia?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SCRUMHAL",
+        "hint": "Which player role whips the ball from the scrum to the backs?",
+        "startx": 2,
+        "starty": 2,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "BOUE",
-        "hint": "Terrain glissant ?",
+        "answer": "SLICE",
+        "hint": "Which athletic skill carves a low skidding shot across the court?",
         "startx": 9,
-        "starty": 5,
+        "starty": 1,
         "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "SCORE",
-        "hint": "Marque du jeu ?",
-        "startx": 3,
+        "answer": "RYDERCUP",
+        "hint": "Which competition or trophy biennial golf duel between Europe and the United States?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MUSCU",
-        "hint": "Developpement musculaire ?",
+        "answer": "VENUS",
+        "hint": "Which athlete paved the way at Wimbledon with booming groundstrokes?",
         "startx": 4,
-        "starty": 2,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ROUTE",
-        "hint": "Parcours pour cyclistes ?",
-        "startx": 6,
-        "starty": 5,
+        "answer": "DRAW",
+        "hint": "Which athletic skill aims a golf shot to curve gently toward target?",
+        "startx": 1,
+        "starty": 4,
         "orientation": "down",
         "position": 3
+      },
+      {
+        "answer": "ASCOT",
+        "hint": "Which competition or trophy Royal meet mixing fashion and elite British horse racing?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
       }
     ],
     [
       {
-        "answer": "BAS",
-        "hint": "Le contraire de haut ?",
-        "startx": 4,
+        "answer": "GOALIE",
+        "hint": "Which player role protects the net with pads and reflex saves?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PISTE",
-        "hint": "Terrain de course ?",
-        "startx": 6,
-        "starty": 3,
+        "answer": "AFCON",
+        "hint": "Which competition or trophy names Africa's top soccer nation in odd-numbered years?",
+        "startx": 4,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PERCHE",
-        "hint": "Long baton ?",
-        "startx": 1,
+        "answer": "SACBUNT",
+        "hint": "Which athletic skill sacrifices an out to move a teammate over?",
+        "startx": 2,
         "starty": 7,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "CORNER",
-        "hint": "Tir au coin ?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "ROCHE",
-        "hint": "Surface a escalader ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SHORT",
-        "hint": "Vetement court ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HORSJEU",
-        "hint": "Position illegale ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "PADDLE",
-        "hint": "Sport de raquette nautique ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SILVER",
-        "hint": "Deuxième place ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NAGE",
-        "hint": "Avancer dans l'eau ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "FITNESS",
-        "hint": "Remise en forme ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TEMPS",
-        "hint": "Duree match ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ARBITRE",
-        "hint": "Juge du match ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MARTEAU",
-        "hint": "Lancer rotatif ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "FLECHE",
-        "hint": "Tiré par un arc ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JET",
-        "hint": "Action de lancer ?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PIED",
-        "hint": "Membre inferieur ?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "NERF",
-        "hint": "Transmet les signaux ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SNOW",
-        "hint": "Planche sur neige ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PAS",
-        "hint": "Mouvement de pied ?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "GOLFEUR",
-        "hint": "Joueur de golf ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SEUL",
-        "hint": "Sans partenaire ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BRUME",
-        "hint": "Faible visibilite ?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HALTERO",
-        "hint": "Soulever des barres ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CHOC",
-        "hint": "Impact violent ?",
+        "answer": "BUNTING",
+        "hint": "Which athletic skill deadens a pitch for advancing runners?",
         "startx": 2,
         "starty": 9,
         "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "LAME",
-        "hint": "Partie coupante du patin ?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "GLUCIDE",
-        "hint": "Source d'energie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RAME",
-        "hint": "Pour avancer en aviron ?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COEUR",
-        "hint": "Muscle vital ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MINUTE",
-        "hint": "Unite de temps ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "MATCH",
-        "hint": "Rencontre sportive ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "CIBLE",
-        "hint": "Objectif de l'archer ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "HERBE",
-        "hint": "Gazon terrain ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TIREUR",
-        "hint": "Qui utilise une arme ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BIATHLON",
-        "hint": "Ski et tir ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "TOURNOI",
-        "hint": "Competition sportive ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ROULE",
-        "hint": "Se deplacer vite ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "VESTE",
-        "hint": "Haut de survetement ?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SELLE",
-        "hint": "Sur le dos du cheval ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "POOL",
-        "hint": "Bassin nage ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "KIMO",
-        "hint": "Tenue de Judo ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ARC",
-        "hint": "Pour tirer des fleches ?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PADDLE",
-        "hint": "Sport de raquette nautique ?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TENNIS",
-        "hint": "Sport avec raquette ?",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "AMIS",
-        "hint": "Partage de passion ?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RELACHE",
-        "hint": "Lacher prise ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "DANSE",
-        "hint": "Art du mouvement ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ATTAQUE",
-        "hint": "Essayer de marquer ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GLISSE",
-        "hint": "Action sur la neige ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HAUT",
-        "hint": "Le sommet ?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
         "position": 4
       }
     ],
     [
       {
-        "answer": "DEFENDRE",
-        "hint": "Proteger son but ?",
-        "startx": 1,
+        "answer": "SWEEP",
+        "hint": "Which athletic skill clears a curling stone's path to control speed?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "POINTE",
-        "hint": "Chaussure ballerine ?",
+        "answer": "LUGE",
+        "hint": "Which sport steers supine at highway speeds down an ice chute?",
         "startx": 5,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "FIGURE",
-        "hint": "Mouvement artistique ?",
+        "answer": "OLYMPICS",
+        "hint": "Which competition or trophy brings the world's best together every four years?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MODRIC",
+        "hint": "Which athlete Croatian playmaker who earned the 2018 Ballon d'Or?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "POSTS",
+        "hint": "Which piece of sports gear upright markers outlining rugby and football goals?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BELT",
+        "hint": "Which piece of sports gear shows rank progression in disciplines like judo?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FIELDER",
+        "hint": "Which player role tracks down fly balls in the outfield?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EUROCUP",
+        "hint": "Which competition or trophy settles continental bragging rights across Europe?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
         "position": 3
       }
     ],
     [
       {
-        "answer": "DOPAGE",
-        "hint": "Triche sportive ?",
+        "answer": "DIVING",
+        "hint": "Which sport grades twists and tucks from springboards or towers?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "TREK",
-        "hint": "Randonnee difficile ?",
-        "startx": 7,
-        "starty": 3,
+        "answer": "BILLIARD",
+        "hint": "Which sport guides cue balls to set up caroms and pockets?",
+        "startx": 3,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AVIRON",
-        "hint": "Sport de rame ?",
+        "answer": "ROSBERG",
+        "hint": "Which athlete beat Hamilton for the 2016 Formula 1 crown?",
         "startx": 3,
-        "starty": 1,
-        "orientation": "down",
+        "starty": 7,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "EGALITE",
-        "hint": "Match nul ?",
-        "startx": 5,
-        "starty": 3,
+        "answer": "GOGGLES",
+        "hint": "Which piece of sports gear keep swimmers' eyes clear of chlorine?",
+        "startx": 7,
+        "starty": 2,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "SQUELE",
-        "hint": "Descente rapide ?",
+        "answer": "SURFING",
+        "hint": "Which sport rides breaking waves on fiberglass boards?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BOULDER",
+        "hint": "Which sport tackles short power problems without ropes?",
         "startx": 2,
-        "starty": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DRIBBLE",
+        "hint": "Which athletic skill keeps the ball bouncing close while weaving upcourt?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CURRY",
+        "hint": "Which athlete Golden State guard who revolutionized three-point shooting?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SENNA",
+        "hint": "Which athlete Brazilian F1 maestro brilliant in the wet?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "KARATE",
+        "hint": "Which sport drills crisp strikes and kata combinations?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MUAYTHAI",
+        "hint": "Which sport delivers elbows, knees, and clinch strikes?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DIVING",
+        "hint": "Which sport grades twists and tucks from springboards or towers?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "RIVERA",
+        "hint": "Which athlete closer whose cutter shattered bats in October?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SHORTS",
+        "hint": "Which piece of sports gear pair with jerseys for most field sports?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHIPSHOT",
+        "hint": "Which athletic skill dinks a soccer ball softly over a keeper?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SCORER",
+        "hint": "Which player role fills the box score with buckets?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MAT",
+        "hint": "Which piece of sports gear provides a safe cushioned competition surface?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "COMANECI",
+        "hint": "Which athlete earned the first Olympic perfect 10 in Montreal?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MAT",
+        "hint": "Which piece of sports gear provides a safe cushioned competition surface?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DIVING",
+        "hint": "Which sport grades twists and tucks from springboards or towers?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SPRINTS",
+        "hint": "Which sport decides medals over explosive 100 meter dashes?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "USOPEN",
+        "hint": "Which competition or trophy serves as America's hard-court tennis major in New York?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ENDURO",
+        "hint": "Which sport tests endurance over rugged off-road moto stages?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FANGIO",
+        "hint": "Which athlete set the early benchmark with five F1 crowns?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LOCK",
+        "hint": "Which player role secures lineout throws and pushes in scrums?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "GOLF",
+        "hint": "Which sport involves clubs driving dimpled balls toward cups?",
+        "startx": 6,
+        "starty": 8,
         "orientation": "across",
         "position": 5
       }
     ],
     [
       {
-        "answer": "CHUTE",
-        "hint": "Accident en ski ?",
+        "answer": "BLOCK",
+        "hint": "Which athletic skill uses body position to prevent a shot or kick?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PENTHA",
-        "hint": "Epreuve combinee ?",
+        "answer": "BELT",
+        "hint": "Which piece of sports gear shows rank progression in disciplines like judo?",
         "startx": 4,
-        "starty": 1,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "GARDE",
-        "hint": "Poste basket ?",
+        "answer": "DROPKICK",
+        "hint": "Which athletic skill strikes an oval ball after it bounces?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
         "position": 3
+      },
+      {
+        "answer": "RONALDO",
+        "hint": "Which athlete Portuguese forward famed for towering headers?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HOOKER",
+        "hint": "Which player role feeds the ball into the rugby scrum?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CENTER",
+        "hint": "Which player role wins jump balls and anchors the paint?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
       }
     ]
   ]
