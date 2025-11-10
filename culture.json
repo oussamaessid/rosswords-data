@@ -2,109 +2,461 @@
   "levels": [
     [
       {
-        "answer": "COPIE",
-        "hint": "Reproduction ?",
+        "answer": "STAINED",
+        "hint": "Which cultural term matches this clue: Glass art colored and leaded for windows?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAINTER",
+        "hint": "Which cultural term matches this clue: Which artist works primarily with paint?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POPART",
+        "hint": "Which cultural term matches this clue: Movement celebrating consumer culture imagery?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DEGAS",
+        "hint": "Which cultural term matches this clue: Impressionist famed for ballerina studies?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "JUDD",
+        "hint": "Which cultural term matches this clue: Minimalist who stacked lacquered boxes?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MELODI",
-        "hint": "Suite de notes ?",
+        "answer": "MUNCH",
+        "hint": "Which cultural term matches this clue: Norwegian symbolist behind The Scream?",
         "startx": 4,
-        "starty": 2,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MADRIGAL",
-        "hint": "Chanson polyphonique ?",
+        "answer": "SCREEN",
+        "hint": "Which cultural term matches this clue: Which print method pushes ink through mesh?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CHASING",
+        "hint": "Which cultural term matches this clue: Detailing metal by hammering from front?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "VERISTIC",
+        "hint": "Which cultural term matches this clue: Painting mimicking high-resolution photos?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "VALUE",
+        "hint": "Which cultural term matches this clue: Element describing relative lightness?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HOLBEIN",
+        "hint": "Which cultural term matches this clue: Northern Renaissance portraitist of Henry VIII?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LIME",
+        "hint": "Which cultural term matches this clue: Electric yellow-green for neon art?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SOLVENT",
+        "hint": "Which cultural term matches this clue: Liquid that thins paints for washes?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TROMPE",
+        "hint": "Which cultural term matches this clue: Short for trompe l'oeil painting?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FUCHSIA",
+        "hint": "Which cultural term matches this clue: Intense pink-purple neon hue?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "SHADE",
+        "hint": "Which cultural term matches this clue: Color mixed with black is called what?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DEPTH",
+        "hint": "Which cultural term matches this clue: Illusion of space within a flat work?",
         "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NEUTRAL",
+        "hint": "Which cultural term matches this clue: Color lacking strong chroma?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "STELLA",
+        "hint": "Which cultural term matches this clue: Painter who declared \"what you see is what you see\"?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FOREST",
+        "hint": "Which cultural term matches this clue: Dark green inspired by dense woodland?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "OCHRE",
+        "hint": "Which cultural term matches this clue: Earthy yellow-brown pigment from clay?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SOLVENT",
+        "hint": "Which cultural term matches this clue: Liquid that thins paints for washes?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PRADO",
+        "hint": "Which cultural term matches this clue: Madrid museum filled with Velazquez works?",
+        "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "SITE",
-        "hint": "Lieu culturel ?",
-        "startx": 1,
+        "answer": "NAVY",
+        "hint": "Which cultural term matches this clue: Dark blue used for night skies?",
+        "startx": 2,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "STROPHE",
-        "hint": "Ensemble de vers ?",
-        "startx": 1,
-        "starty": 3,
+        "answer": "RESIN",
+        "hint": "Which cultural term matches this clue: Synthetic medium curing into clear solids?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "KAHLO",
+        "hint": "Which cultural term matches this clue: Mexican painter of vivid self-portraits?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OLIVE",
+        "hint": "Which cultural term matches this clue: Muted green associated with foliage shadows?",
+        "startx": 7,
+        "starty": 5,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TAGGING",
+        "hint": "Which cultural term matches this clue: Signature mark left by street artists?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "COILING",
+        "hint": "Which cultural term matches this clue: Building clay forms with stacked ropes?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BAROQUE",
+        "hint": "Which cultural term matches this clue: Dramatic European style rich with motion?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "ECHO",
-        "hint": "Repetition sonore ?",
-        "startx": 1,
-        "starty": 9,
+        "answer": "CERAMIC",
+        "hint": "Which cultural term matches this clue: Fired clay medium for sculptors?",
+        "startx": 3,
+        "starty": 1,
         "orientation": "across",
         "position": 6
       }
     ],
     [
       {
-        "answer": "GALLERY",
-        "hint": "Lieu d'exposition ?",
-        "startx": 2,
+        "answer": "GELPLATE",
+        "hint": "Which cultural term matches this clue: Printing plate made from gel for monotypes?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PAROLE",
-        "hint": "Expression verbale ?",
-        "startx": 4,
-        "starty": 1,
+        "answer": "OKEEFFE",
+        "hint": "Which cultural term matches this clue: American modernist painting giant flowers?",
+        "startx": 8,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AUTEUR",
-        "hint": "Ecrivain ?",
-        "startx": 6,
-        "starty": 2,
+        "answer": "INKWELL",
+        "hint": "Which cultural term matches this clue: Small container that holds drawing ink?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RELIEFS",
+        "hint": "Which cultural term matches this clue: Carvings projecting from a flat backing?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "HIRST",
+        "hint": "Which cultural term matches this clue: Young British Artist known for shark tanks?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "WAXPAINT",
+        "hint": "Which cultural term matches this clue: Painting with melted wax pigments?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LEWITT",
+        "hint": "Which cultural term matches this clue: Conceptual artist of wall-drawing instructions?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MANET",
+        "hint": "Which cultural term matches this clue: Painter who shocked Paris with Luncheon on the Grass?",
+        "startx": 7,
+        "starty": 3,
         "orientation": "down",
         "position": 3
       }
     ],
     [
       {
-        "answer": "EPISODE",
-        "hint": "Partie de serie ?",
+        "answer": "SOLVENT",
+        "hint": "Which cultural term matches this clue: Liquid that thins paints for washes?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "BALLER",
-        "hint": "Danseur classique ?",
-        "startx": 8,
-        "starty": 1,
+        "answer": "INGRES",
+        "hint": "Which cultural term matches this clue: French academic famed for precise line?",
+        "startx": 7,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ESSAI",
-        "hint": "Ouvrage de reflexion ?",
-        "startx": 5,
-        "starty": 4,
+        "answer": "CHISEL",
+        "hint": "Which cultural term matches this clue: Tool that carves stone or wood?",
+        "startx": 2,
+        "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "VOIX",
-        "hint": "Instrument vocal ?",
+        "answer": "INTARSIA",
+        "hint": "Which cultural term matches this clue: Wooden inlay technique from Italy?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CASTING",
+        "hint": "Which cultural term matches this clue: Technique of creating a form from liquid material?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "STILL",
+        "hint": "Which cultural term matches this clue: Abstract Expressionist using jagged color blocks?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "MODERNE",
+        "hint": "Which cultural term matches this clue: Streamlined iteration of Art Deco design?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AMBER",
+        "hint": "Which cultural term matches this clue: Golden yellow resin tone?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MORRIS",
+        "hint": "Which cultural term matches this clue: Minimalist sculptor who arranged felt pieces?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RHYTHM",
+        "hint": "Which cultural term matches this clue: Visual beat created by recurring elements?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MINT",
+        "hint": "Which cultural term matches this clue: Cool pale green used in deco sets?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "EASEL",
+        "hint": "Which cultural term matches this clue: Stand that holds a work in progress?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SEPIA",
+        "hint": "Which cultural term matches this clue: Brown wash made from cuttlefish ink?",
         "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NEVELSON",
+        "hint": "Which cultural term matches this clue: Assemblage sculptor building wooden walls?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NEUTRAL",
+        "hint": "Which cultural term matches this clue: Color lacking strong chroma?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "REPOUSSE",
+        "hint": "Which cultural term matches this clue: Hammering metal from reverse to raise design?",
+        "startx": 1,
         "starty": 8,
         "orientation": "across",
         "position": 4
@@ -112,387 +464,133 @@
     ],
     [
       {
-        "answer": "OEUVRE",
-        "hint": "Creation artistique ?",
+        "answer": "ARTIST",
+        "hint": "Which cultural term matches this clue: Who creates visual or performing pieces?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SPECTRE",
-        "hint": "Fantome ?",
-        "startx": 7,
-        "starty": 3,
+        "answer": "RAKU",
+        "hint": "Which cultural term matches this clue: Low-temperature firing that cracks glazes?",
+        "startx": 3,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ELEGIE",
-        "hint": "Poeme lyrique ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ODEON",
-        "hint": "Salle de spectacle ?",
+        "answer": "MINTY",
+        "hint": "Which cultural term matches this clue: Playful term for pastel green shade?",
         "startx": 5,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "VOIX",
-        "hint": "Instrument vocal ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ROMANTIQ",
-        "hint": "Mouvement litteraire ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CONTEXT",
-        "hint": "Situation ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EPILOGUE",
-        "hint": "Apres-propos ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "IMPRESS",
-        "hint": "Marque profonde ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DECOR",
-        "hint": "Ornement d'un lieu ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ECRIRE",
-        "hint": "Rediger ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "VERNIS",
-        "hint": "Inauguration d'expo ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "ECOLE",
-        "hint": "Courant artistique ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DIALOGUE",
-        "hint": "Echange verbal ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VIDEO",
-        "hint": "Support visuel ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "EFFET",
-        "hint": "Resultat ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HORREUR",
-        "hint": "Sentiment de terreur ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HARMONIE",
-        "hint": "Accord musical ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NOVEL",
-        "hint": "Long recit invente ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TOILE",
-        "hint": "Support de peinture ?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PAGE",
-        "hint": "Partie du livre ?",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ANCIEN",
-        "hint": "Du passe ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ROCK",
-        "hint": "Musique energique ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PAYS",
-        "hint": "Nation ?",
-        "startx": 2,
         "starty": 4,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "RAP",
-        "hint": "Musique urbaine ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "NOTE",
-        "hint": "Symbole musical ?",
+        "answer": "NEUTRAL",
+        "hint": "Which cultural term matches this clue: Color lacking strong chroma?",
         "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MUSIQUE",
-        "hint": "Art des sons ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TRADUIT",
-        "hint": "Adapte en langue ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHOREE",
-        "hint": "Danse d'ensemble ?",
-        "startx": 4,
         "starty": 2,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "BATTERIE",
-        "hint": "Instrument de percussion ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BIBLE",
-        "hint": "Livre sacre ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BASE",
-        "hint": "Fondation ?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "THEATRE",
-        "hint": "Art dramatique ?",
-        "startx": 3,
-        "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "ESTHET",
-        "hint": "Lie a la beaute ?",
-        "startx": 3,
-        "starty": 7,
+        "answer": "SIENNA",
+        "hint": "Which cultural term matches this clue: Burnt earth pigment producing warm browns?",
+        "startx": 4,
+        "starty": 2,
         "orientation": "across",
         "position": 5
       }
     ],
     [
       {
-        "answer": "GRACE",
-        "hint": "Elegance naturelle ?",
+        "answer": "MOMA",
+        "hint": "Which cultural term matches this clue: New York museum for modern art?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "COULEUR",
-        "hint": "Teinte artistique ?",
-        "startx": 7,
+        "answer": "GUITAR",
+        "hint": "Which cultural term matches this clue: Six-string instrument used across genres?",
+        "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PUBLIER",
-        "hint": "Diffuser un livre ?",
-        "startx": 1,
-        "starty": 7,
+        "answer": "AUBURN",
+        "hint": "Which cultural term matches this clue: Reddish brown often used in portrait hair?",
+        "startx": 3,
+        "starty": 2,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "DISQUE",
-        "hint": "Support musical ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "EGYPTE",
-        "hint": "Pays des pharaons ?",
-        "startx": 1,
+        "answer": "MONET",
+        "hint": "Which cultural term matches this clue: Painter of water lilies?",
+        "startx": 4,
         "starty": 4,
         "orientation": "down",
-        "position": 5
+        "position": 4
       },
       {
-        "answer": "EAUFORTE",
-        "hint": "Technique de gravure ?",
+        "answer": "OLITSKI",
+        "hint": "Which cultural term matches this clue: Color Field painter famous for sprayed veils?",
         "startx": 1,
-        "starty": 9,
+        "starty": 8,
         "orientation": "across",
-        "position": 6
+        "position": 5
       }
     ],
     [
       {
-        "answer": "METTEUR",
-        "hint": "Dirige la scene ?",
-        "startx": 2,
+        "answer": "PATINING",
+        "hint": "Which cultural term matches this clue: Surface coloration achieved through oxidation?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "TORAH",
-        "hint": "Livre juif ?",
+        "answer": "FIGURAL",
+        "hint": "Which cultural term matches this clue: Style emphasizing recognizable human forms?",
         "startx": 8,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "CONCEPT",
-        "hint": "Idee principale ?",
-        "startx": 6,
-        "starty": 1,
+        "answer": "SLIPCAST",
+        "hint": "Which cultural term matches this clue: Pouring liquid clay into plaster molds?",
+        "startx": 1,
+        "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "STORY",
-        "hint": "Recit bref sur réseaux ?",
-        "startx": 4,
-        "starty": 4,
+        "answer": "AIWEIWEI",
+        "hint": "Which cultural term matches this clue: Chinese artist-activist known for Dropping a Han Urn?",
+        "startx": 6,
+        "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "CAMERA",
-        "hint": "Pour filmer ?",
-        "startx": 2,
-        "starty": 3,
+        "answer": "FILIGREE",
+        "hint": "Which cultural term matches this clue: Delicate metalwork made from twisted precious wires?",
+        "startx": 4,
+        "starty": 2,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "MOSCOU",
-        "hint": "Ville russe ?",
-        "startx": 3,
+        "answer": "AQUA",
+        "hint": "Which cultural term matches this clue: Watery blue-green shade?",
+        "startx": 6,
         "starty": 1,
         "orientation": "across",
         "position": 6
@@ -500,254 +598,228 @@
     ],
     [
       {
-        "answer": "FIN",
-        "hint": "Terme ?",
-        "startx": 4,
+        "answer": "NAVY",
+        "hint": "Which cultural term matches this clue: Dark blue used for night skies?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "FLEUR",
-        "hint": "Organe reproducteur des plantes ?",
-        "startx": 4,
-        "starty": 5,
+        "answer": "MONOTYP",
+        "hint": "Which cultural term matches this clue: Single unique print pulled from a plate?",
+        "startx": 3,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RYTHME",
-        "hint": "Organisation des sons ?",
-        "startx": 4,
+        "answer": "LAPIS",
+        "hint": "Which cultural term matches this clue: Historic term for intense blue lapis pigment?",
+        "startx": 1,
         "starty": 9,
         "orientation": "across",
         "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "MONTAGE",
-        "hint": "Assemblage de plans ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "NOBEL",
-        "hint": "Prix prestigieux ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INSTRUM",
-        "hint": "Objet musical ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ARTISTE",
-        "hint": "Createur d'art ?",
-        "startx": 2,
-        "starty": 2,
+        "answer": "JETBLACK",
+        "hint": "Which cultural term matches this clue: Nearly black gray used for shadows?",
+        "startx": 1,
+        "starty": 7,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "FEU",
-        "hint": "Flamme brulante ?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
+        "answer": "MALLET",
+        "hint": "Which cultural term matches this clue: Hammer used with chisels in carving?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
         "position": 5
-      },
-      {
-        "answer": "AME",
-        "hint": "Esprit ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
       }
     ],
     [
       {
-        "answer": "DESSIN",
-        "hint": "Art graphique ?",
+        "answer": "VERDANT",
+        "hint": "Which cultural term matches this clue: Vivid green describing lush growth?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "HUMANITE",
-        "hint": "Ensemble des hommes ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "APPLAUS",
-        "hint": "Manifestation d'admiration ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "TRAGEDIE",
-        "hint": "Genre theatral sombre ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PORTRAIT",
-        "hint": "Representation d'une personne ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PEINTURE",
-        "hint": "Art de la couleur ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "FINALE",
-        "hint": "Conclusion ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LAMPE",
-        "hint": "Source de lumiere ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CLAVIER",
-        "hint": "Piano par exemple ?",
-        "startx": 5,
+        "answer": "GORMLEY",
+        "hint": "Which cultural term matches this clue: British sculptor casting his own body?",
+        "startx": 4,
         "starty": 3,
         "orientation": "down",
-        "position": 3
+        "position": 2
       },
       {
-        "answer": "DEDALE",
-        "hint": "Labyrinthe ?",
-        "startx": 3,
+        "answer": "MAGENTA",
+        "hint": "Which cultural term matches this clue: Which vivid hue sits between red and purple?",
+        "startx": 7,
         "starty": 1,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CIBLE",
-        "hint": "Objectif vise ?",
-        "startx": 3,
-        "starty": 4,
         "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "LOI",
-        "hint": "Regle etablie ?",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
+        "position": 3
       }
     ],
     [
       {
-        "answer": "COMPOSER",
-        "hint": "Creer de la musique ?",
-        "startx": 1,
+        "answer": "PRADO",
+        "hint": "Which cultural term matches this clue: Madrid museum filled with Velazquez works?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PIANO",
-        "hint": "Instrument a clavier ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "IDEES",
-        "hint": "Concepts mentaux ?",
+        "answer": "SHADOW",
+        "hint": "Which cultural term matches this clue: Darker area created when light is blocked?",
         "startx": 6,
-        "starty": 1,
+        "starty": 2,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KAHLO",
+        "hint": "Which cultural term matches this clue: Mexican painter of vivid self-portraits?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "CARICAT",
-        "hint": "Portrait deforme ?",
-        "startx": 8,
-        "starty": 3,
+        "answer": "ROYAL",
+        "hint": "Which cultural term matches this clue: Deep saturated blue linked to regalia?",
+        "startx": 4,
+        "starty": 5,
         "orientation": "down",
         "position": 4
+      },
+      {
+        "answer": "LILAC",
+        "hint": "Which cultural term matches this clue: Soft purple reminiscent of spring blooms?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "WASH",
+        "hint": "Which cultural term matches this clue: Diluted pigment applied broadly?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
       }
     ],
     [
       {
-        "answer": "VITESSE",
-        "hint": "Rapidite ?",
-        "startx": 2,
+        "answer": "KILN",
+        "hint": "Which cultural term matches this clue: High-temperature oven for firing clay?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ANIMAL",
-        "hint": "Etre vivant ?",
-        "startx": 3,
-        "starty": 3,
+        "answer": "INGRES",
+        "hint": "Which cultural term matches this clue: French academic famed for precise line?",
+        "startx": 6,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MELODIE",
-        "hint": "Suite de notes ?",
-        "startx": 1,
+        "answer": "VALUE",
+        "hint": "Which cultural term matches this clue: Element describing relative lightness?",
+        "startx": 2,
         "starty": 8,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "REALISME",
-        "hint": "Courant artistique ?",
-        "startx": 1,
+        "answer": "STIPPLE",
+        "hint": "Which cultural term matches this clue: Dots used to build value and texture?",
+        "startx": 4,
         "starty": 3,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "MOMA",
+        "hint": "Which cultural term matches this clue: New York museum for modern art?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MATTA",
+        "hint": "Which cultural term matches this clue: Chilean surrealist who painted cosmic spaces?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FROTTAGE",
+        "hint": "Which cultural term matches this clue: Rubbing texture onto paper with graphite?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CANVAS",
+        "hint": "Which cultural term matches this clue: Stretched fabric support for painting?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "RUSCHA",
+        "hint": "Which cultural term matches this clue: Pop conceptualist known for Standard Station prints?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OLITSKI",
+        "hint": "Which cultural term matches this clue: Color Field painter famous for sprayed veils?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PAINTER",
+        "hint": "Which cultural term matches this clue: Which artist works primarily with paint?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "EMULSION",
+        "hint": "Which cultural term matches this clue: Light-sensitive coating used on screens?",
+        "startx": 1,
+        "starty": 2,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "FIN",
-        "hint": "Terme ?",
-        "startx": 6,
-        "starty": 7,
+        "answer": "CAMEO",
+        "hint": "Which cultural term matches this clue: Raised relief carving on layered stone?",
+        "startx": 7,
+        "starty": 4,
         "orientation": "down",
         "position": 5
       }
