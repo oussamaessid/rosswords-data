@@ -2,744 +2,794 @@
   "levels": [
     [
       {
-        "answer": "MONNAIE",
-        "hint": "Moyen de paiement ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PREHIST",
-        "hint": "Avant l'ecriture ?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SYNAGOGU",
-        "hint": "Lieu de culte juif ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CLOVIS",
-        "hint": "Premier roi franc ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "BLITZ",
-        "hint": "Guerre eclair allemande ?",
+        "answer": "MEIJI",
+        "hint": "Which historical figure Japanese emperor who steered rapid modernization?",
         "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SOLEIL",
-        "hint": "Etoile jour ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SANG",
-        "hint": "Liquide rouge ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "STALINE",
-        "hint": "Dictateur soviétique ?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PROGRES",
-        "hint": "Amelioration ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SENAT",
-        "hint": "Chambre haute ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "TRIBU",
-        "hint": "Groupe ethnique ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BOURG",
-        "hint": "Petit marche ?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "OCEAN",
-        "hint": "Vaste etendue ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BIERE",
-        "hint": "Boisson cereale ?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DANSE",
-        "hint": "Art du mouvement ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "RUSSIE",
-        "hint": "Pays des Tsars ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BLE",
-        "hint": "Cereale ?",
+        "answer": "MIDWAY",
+        "hint": "Which historical event carrier battle turning the tide in the Pacific?",
         "startx": 7,
-        "starty": 3,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DESERT",
-        "hint": "Zone aride ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CITOYEN",
-        "hint": "Membre d'un etat ?",
+        "answer": "NAZCA",
+        "hint": "Which historical place Peruvian desert plain etched with vast geoglyph lines?",
         "startx": 3,
         "starty": 8,
         "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "CAPITAL",
-        "hint": "Système économique ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ITALIE",
-        "hint": "Pays de la botte ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VITRAIL",
-        "hint": "Decoration d'eglise ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ROSETTE",
-        "hint": "Pierre de Champollion ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CASTEL",
-        "hint": "Chateau fort ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COMTE",
-        "hint": "Titre de noblesse ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "SAVANT",
-        "hint": "Chercheur ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
+        "answer": "ALESIA",
+        "hint": "Which historical event Caesar besieged Vercingetorix to end the Gallic revolt?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "TUDOR",
-        "hint": "Dynastie anglaise ?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PORT",
-        "hint": "Lieu d'amarrage ?",
-        "startx": 5,
-        "starty": 9,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "BATAILLE",
-        "hint": "Combat majeur ?",
+        "answer": "GIZA",
+        "hint": "Which historical place plateau lined with the greatest pyramids and sphinx?",
         "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FAMILLE",
-        "hint": "Groupe social ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SERF",
-        "hint": "Paysan lie a la terre ?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ARTISAN",
-        "hint": "Ouvrier qualifie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SIEGLE",
-        "hint": "Unité de cent ans ?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TEMPLE",
-        "hint": "Lieu sacre ?",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "OCEAN",
-        "hint": "Vaste etendue ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "ORLEANS",
-        "hint": "Ville de Jeanne d'Arc ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TUDOR",
-        "hint": "Dynastie anglaise ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GUILDE",
-        "hint": "Association medievale ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "TSAR",
-        "hint": "Empereur de Russie ?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "EMPIRE",
-        "hint": "Etat puissant ?",
-        "startx": 4,
-        "starty": 7,
+        "starty": 3,
         "orientation": "across",
         "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "KURSK",
+        "hint": "Which historical event largest armored battle halting Germany on the Eastern Front?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
       },
       {
-        "answer": "MER",
-        "hint": "Etendue d'eau salee ?",
+        "answer": "CAIRO",
+        "hint": "Which historical place Fatimid-founded metropolis guarding the Nile delta?",
         "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "POIVRE",
-        "hint": "Epice ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "VESALE",
-        "hint": "Anatomie humaine ?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DEFAITE",
-        "hint": "Echec militaire ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CUITRE",
-        "hint": "Ville romaine importante ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BORDEAUX",
-        "hint": "Ville viticole ?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ANGE",
-        "hint": "Messager divin ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "FRATERN",
-        "hint": "Lien de solidarite ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COPERNI",
-        "hint": "Soleil centre univers ?",
-        "startx": 6,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MIGRATI",
-        "hint": "Deplacement de population ?",
+        "answer": "ARCHERS",
+        "hint": "Which historical term soldiers trained to fire bows over distance?",
         "startx": 3,
         "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "OSTIA",
+        "hint": "Which historical place Roman port guarding the mouth of the Tiber?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "NALANDA",
+        "hint": "Which historical place monastic university that drew scholars across Asia?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHACO",
+        "hint": "Which historical place Puebloan canyon lined with great houses and kivas?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OSTIA",
+        "hint": "Which historical place Roman port guarding the mouth of the Tiber?",
+        "startx": 5,
+        "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "BOURG",
-        "hint": "Petit marche ?",
+        "answer": "SOMME",
+        "hint": "Which historical event Allied offensive marked by massive casualties in 1916?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ANTIOCH",
+        "hint": "Which historical place Seleucid-founded capital on the Orontes River?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CARABOBO",
+        "hint": "Which historical event Bolivar's army crushed royalists in Venezuela?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OSTIA",
+        "hint": "Which historical place Roman port guarding the mouth of the Tiber?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SUMER",
+        "hint": "Which historical place southern Mesopotamian heartland of the first known cities?",
         "startx": 5,
         "starty": 3,
         "orientation": "across",
         "position": 4
       },
-      {
-        "answer": "MUR",
-        "hint": "Cloison verticale ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ITALIE",
-        "hint": "Pays de la botte ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "POMME",
-        "hint": "Fruit ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SEL",
-        "hint": "Assaisonnement ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CHRETIEN",
-        "hint": "Adepte du christianisme ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "AMERIQUE",
-        "hint": "Nouveau Monde ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
       {
         "answer": "BASTILLE",
-        "hint": "Prison parisienne ?",
-        "startx": 1,
+        "hint": "Which historical event Paris mob seized a prison symbolizing royal authority?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CYRENE",
+        "hint": "Which historical place Greek colony on the Libyan plateau famed for learning?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PREHIST",
-        "hint": "Avant l'ecriture ?",
-        "startx": 8,
-        "starty": 3,
+        "answer": "ANNALS",
+        "hint": "Which historical term year-by-year chronicles kept by monasteries or courts?",
+        "startx": 6,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "REINE",
-        "hint": "Epouse du roi ?",
+        "answer": "TIMUR",
+        "hint": "Which historical figure Central Asian conqueror called Tamerlane?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "AYACUCHO",
+        "hint": "Which historical event decisive victory securing South American independence?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TEHRAN",
+        "hint": "Which historical event first wartime conference of the Big Three leaders?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ROLAND",
+        "hint": "Which historical figure paladin celebrated for valor at Roncesvalles?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SUMER",
+        "hint": "Which historical place southern Mesopotamian heartland of the first known cities?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SPARTA",
+        "hint": "Which historical place militarized polis training hoplites from youth?",
         "startx": 5,
         "starty": 3,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "MYTHE",
-        "hint": "Recit symbolique ?",
+        "answer": "ARGOS",
+        "hint": "Which historical place ancient Peloponnesian city famed for Hera worship?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "EPICURUS",
+        "hint": "Which historical figure taught that wise pleasure rests on absence of pain?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "TRIREME",
+        "hint": "Which historical term ancient oared warship with three banks of rowers?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SESTERC",
+        "hint": "Which historical term large Roman bronze coin worth four asses?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LALIBELA",
+        "hint": "Which historical place Ethiopian town of monolithic rock-hewn churches?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "VARNA",
+        "hint": "Which historical event Crusader defeat that preserved Ottoman control of the Balkans?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MADRID",
+        "hint": "Which historical place Castilian seat chosen by Philip II for his court?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OSTIA",
+        "hint": "Which historical place Roman port guarding the mouth of the Tiber?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SEDAN",
+        "hint": "Which historical event Prussian encirclement that toppled Napoleon III?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HOMER",
+        "hint": "Which historical figure recited epic poems about Troy and Odysseus?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SENECA",
+        "hint": "Which historical figure Stoic tutor who counseled then opposed Nero?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "RESTORE",
+        "hint": "Which historical event return of the English monarchy under Charles II?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NAZARETH",
+        "hint": "Which historical place Galilean hill town remembered as Jesus's boyhood home?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PAPYRUS",
+        "hint": "Which historical term reed-based writing material produced along the Nile?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SCHISM",
+        "hint": "Which historical term formal split within a church or community?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "COPAN",
+        "hint": "Which historical place Maya valley capital famed for stelae and stairways?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BOSHIN",
+        "hint": "Which historical event civil war that toppled Japan's Tokugawa shogunate?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CULLODEN",
+        "hint": "Which historical event Hanoverian forces ended the Jacobite rising?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DIOGENES",
+        "hint": "Which historical figure lived in austerity while mocking civic pretensions?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ZENO",
+        "hint": "Which historical figure Stoic teacher who lectured in the painted stoa?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "DIENBIEN",
+        "hint": "Which historical event decisive siege ending French colonial rule in Indochina?",
         "startx": 1,
         "starty": 7,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "JUILLET",
-        "hint": "Prise de la Bastille ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BOIS",
-        "hint": "Materiau vegetal ?",
+        "answer": "SEOUL",
+        "hint": "Which historical event city fought over repeatedly during the Korean War?",
         "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PONT",
-        "hint": "Construction au dessus ?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PASSE",
-        "hint": "Le contraire du futur ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "FLECHE",
-        "hint": "Arme de jet ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DECOUV",
-        "hint": "Exploration nouvelle ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JAURES",
-        "hint": "Pacifiste assassine ?",
-        "startx": 7,
         "starty": 1,
         "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BLASON",
-        "hint": "Emblème d'une famille noble ?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "AXE",
-        "hint": "Allemagne-Italie-Japon, l'___ ?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "across",
         "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "PAPE",
-        "hint": "Chef religieux ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "BOIRE",
-        "hint": "S'hydrater ?",
-        "startx": 6,
+        "answer": "RELIC",
+        "hint": "Which historical term venerated object linked to a saint or holy figure?",
+        "startx": 1,
         "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "REVOL",
-        "hint": "Changement brutal ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CARTE",
-        "hint": "Representation ?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "EXODE",
-        "hint": "Migration massive ?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ARBRE",
-        "hint": "Vegetal ?",
-        "startx": 8,
-        "starty": 4,
         "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "LITTER",
-        "hint": "Ensemble des oeuvres ecrites ?",
+        "answer": "SUSA",
+        "hint": "Which historical place Achaemenid residence linking Mesopotamia and Persia?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NICIAS",
+        "hint": "Which historical figure brokered a brief peace between Athens and Sparta?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VIRGIL",
+        "hint": "Which historical figure penned the Aeneid to link Rome to Troy?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ASHOKA",
+        "hint": "Which historical figure Mauryan ruler who spread Buddhism after Kalinga?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "STYLUS",
+        "hint": "Which historical term pointed writing tool pressed into wax or clay?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "POIVRE",
-        "hint": "Epice ?",
-        "startx": 7,
+        "answer": "FORUM",
+        "hint": "Which historical term public square in Rome where markets and politics met?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CICERO",
+        "hint": "Which historical figure denounced Cataline with searing senatorial oratory?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SOLON",
+        "hint": "Which historical figure forgave Athenian debts to calm social unrest?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "INCHON",
+        "hint": "Which historical event MacArthur's bold landing that reversed the Korean conflict?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CRECY",
+        "hint": "Which historical event English longbows shredded French knights in 1346?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SYRACUSE",
+        "hint": "Which historical event Athenian expedition ruined by Spartan and Syracusan defense?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHACO",
+        "hint": "Which historical place Puebloan canyon lined with great houses and kivas?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GUILD",
+        "hint": "Which historical term association regulating trades, prices, and apprenticeships?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "CARBINE",
+        "hint": "Which historical term short firearm favored by cavalry for easier handling?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DENARII",
+        "hint": "Which historical term Roman silver coins issued during the republic and empire?",
+        "startx": 4,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PARIS",
-        "hint": "Capitale francaise ?",
-        "startx": 3,
-        "starty": 2,
+        "answer": "TANIS",
+        "hint": "Which historical place Delta city once seat of Egypt's Twenty-first Dynasty?",
+        "startx": 7,
+        "starty": 3,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ROI",
-        "hint": "Dirigeant ?",
-        "startx": 5,
+        "answer": "DECREE",
+        "hint": "Which historical term binding order issued by a ruler or council?",
+        "startx": 2,
         "starty": 3,
-        "orientation": "across",
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "PRETRE",
-        "hint": "Homme religion ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "DUBLIN",
+        "hint": "Which historical place Viking founded Irish town around the River Liffey?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
         "position": 5
       }
     ],
     [
       {
-        "answer": "RENAISS",
-        "hint": "Epoque de l'art ?",
+        "answer": "HATTIN",
+        "hint": "Which historical event Saladin crushed crusader forces near Tiberias?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CULTE",
-        "hint": "Ensemble de pratiques ?",
+        "answer": "BABUR",
+        "hint": "Which historical figure memoir-writing founder of the Mughal Empire?",
         "startx": 3,
-        "starty": 1,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "JULES",
-        "hint": "Cesar romain ?",
+        "answer": "CUSCO",
+        "hint": "Which historical place Inca capital laid out as the puma of the Andes?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "JUNIN",
+        "hint": "Which historical event Andean cavalry battle preceding Ayacucho?",
         "startx": 7,
         "starty": 1,
         "orientation": "down",
-        "position": 3
+        "position": 4
       }
     ],
     [
       {
-        "answer": "COMMUNE",
-        "hint": "Collectivité locale ?",
+        "answer": "KNIGHT",
+        "hint": "Which historical term medieval European horseman owing service for land?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PROGRES",
-        "hint": "Amelioration ?",
+        "answer": "PLINY",
+        "hint": "Which historical figure encyclopedist who perished studying Vesuvius?",
         "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CNUT",
+        "hint": "Which historical figure North Sea monarch ruling England Denmark and Norway?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "YONGLE",
+        "hint": "Which historical figure Ming emperor who moved the capital to Beijing?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "EDICT",
+        "hint": "Which historical term official proclamation with the force of law?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "NAZARETH",
+        "hint": "Which historical place Galilean hill town remembered as Jesus's boyhood home?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CANNAE",
+        "hint": "Which historical event Hannibal encircled Roman legions with a double envelopment?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PLATO",
+        "hint": "Which historical figure founded the Academy and envisioned an ideal republic?",
+        "startx": 6,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "COLBERT",
-        "hint": "Ministre de Louis XIV ?",
-        "startx": 8,
+        "answer": "URARTU",
+        "hint": "Which historical place Lake Van kingdom guarding Armenia's highlands?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GOA",
+        "hint": "Which historical place Portuguese base overseeing Indian Ocean trade?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "AXUM",
+        "hint": "Which historical place Ethiopian highland capital ruling Red Sea trade?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "SENECA",
+        "hint": "Which historical figure Stoic tutor who counseled then opposed Nero?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PEARL",
+        "hint": "Which historical event Japanese surprise attack drawing America into WWII?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ZHUGE",
+        "hint": "Which historical figure strategist nicknamed the Sleeping Dragon?",
+        "startx": 5,
         "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "PONT",
-        "hint": "Construction au dessus ?",
+        "answer": "YORK",
+        "hint": "Which historical place Eboracum fortress that crowned Constantine emperor?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "TITUS",
+        "hint": "Which historical figure completed the Colosseum and aided Pompeii survivors?",
         "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "KHUFU",
+        "hint": "Which historical figure ordered the Great Pyramid at Giza?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PATENT",
+        "hint": "Which historical term sovereign document conferring exclusive rights or titles?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PAPYRUS",
+        "hint": "Which historical term reed-based writing material produced along the Nile?",
+        "startx": 1,
         "starty": 3,
         "orientation": "across",
         "position": 4
+      },
+      {
+        "answer": "NERO",
+        "hint": "Which historical figure fire-shadowed emperor who persecuted Christians?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "PETRA",
+        "hint": "Which historical place Nabataean rock-cut capital along desert caravan paths?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LEPANTO",
+        "hint": "Which historical event Holy League fleet checked Ottoman expansion in 1571?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARNE",
+        "hint": "Which historical event Miracle river stand that saved Paris in 1914?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
       }
     ]
   ]
