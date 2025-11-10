@@ -2,539 +2,483 @@
   "levels": [
     [
       {
-        "answer": "VOITURE",
-        "hint": "Vehicule a moteur pour le transport individuel ?",
+        "answer": "TIJUANA",
+        "hint": "Which city appears in the tz database as America/Tijuana?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
-      },
-      {
-        "answer": "ANGLETER",
-        "hint": "Partie du Royaume-Uni ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "POUSSIER",
-        "hint": "Particules fines dans l'espace ?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "OMAN",
-        "hint": "Sultanat d'Arabie ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CONGO",
-        "hint": "Fleuve et pays d'Afrique ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "QATAR",
-        "hint": "Emirat du Golfe Persique ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAIRE",
-        "hint": "Capitale de l'Egypte ?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHUTE",
-        "hint": "Cascade d'eau ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "IRAK",
-        "hint": "Pays de Mesopotamie ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PAMPAS",
-        "hint": "Plaines d'Argentine ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "QUITO",
-        "hint": "Capitale de l'Equateur ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "TIBET",
-        "hint": "Region montagneuse d'Asie ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MAREE",
-        "hint": "Mouvement periodique de l'eau des oceans ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VOITURE",
-        "hint": "Vehicule a moteur pour le transport individuel ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BRISBANE",
-        "hint": "Ville australienne ?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "SAVANE",
-        "hint": "Plaine herbeuse tropicale ?",
-        "startx": 9,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "VISA",
-        "hint": "Autorisation d'entree dans un pays ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "GEISER",
-        "hint": "Jet d'eau chaude ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FLORA",
-        "hint": "Ensemble des plantes d'une region ?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "FALAIS",
-        "hint": "Mur de roche abrupt en bord de mer ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "VOYAGE",
-        "hint": "Deplacement d'un lieu a un autre ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ILE",
-        "hint": "Terre entouree d'eau ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ZEBRE",
-        "hint": "Animal a rayures de la savane africaine ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RIVE",
-        "hint": "Bord d'un cours d'eau ?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EUROPE",
-        "hint": "Continent de la tour de Pise ?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "POLAIRE",
-        "hint": "Qui se trouve pres des poles terrestres ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "MERS",
-        "hint": "Plusieurs etendues d'eau salee ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GALLES",
-        "hint": "Pays de la Grande-Bretagne ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EAU",
-        "hint": "Element vital couvrant la majorite de la Terre ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "VOLCAN",
-        "hint": "Montagne qui crache de la lave ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ARGILE",
-        "hint": "Terre molle et impermeable ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BRUME",
-        "hint": "Brouillard leger pres du sol ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MER",
-        "hint": "Etendue d'eau moins grande qu'un ocean ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "AVION",
-        "hint": "Moyen de transport aerien ?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "NOUVZEL",
-        "hint": "Pays des kiwis ?",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ANKARA",
-        "hint": "Capitale de la Turquie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GANGE",
-        "hint": "Fleuve sacre de l'Inde ?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HIMALAY",
-        "hint": "Chaine de montagnes asiatique ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "NYC",
-        "hint": "Sigle de la grosse pomme ?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "GLACIER",
-        "hint": "Grande masse de glace qui se deplace ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GEORGIE",
-        "hint": "Pays du Caucase, entre l'Europe et l'Asie ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "IRAN",
-        "hint": "Ancienne Perse ?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "COLOMBIE",
-        "hint": "Pays d'Amerique du Sud, capitale Bogota ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LITTORAL",
-        "hint": "Region situee en bord de mer ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ICEBERG",
-        "hint": "Grand bloc de glace flottant en mer ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GEORGIE",
-        "hint": "Pays du Caucase, entre l'Europe et l'Asie ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NUAGE",
-        "hint": "Masse visible de gouttelettes d'eau dans l'air ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "LAC",
-        "hint": "Etendue d'eau douce entouree de terre ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "CORSICA",
-        "hint": "Ile francaise de Beaute ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MALAISI",
-        "hint": "Voisin de Singapour ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PAMPAS",
-        "hint": "Plaines d'Argentine ?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ROCHE",
-        "hint": "Materiau solide composant la Terre ?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NIGER",
-        "hint": "Grand fleuve africain ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MALI",
-        "hint": "Pays du fleuve Niger en Afrique ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ANDES",
-        "hint": "Chaine de montagnes en Amerique du Sud ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "USA",
-        "hint": "Sigle des Etats-Unis ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LEMAN",
-        "hint": "Lac frontalier franco-suisse ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HORN",
-        "hint": "Le cap le plus au sud de l'Amerique ?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "MYANMAR",
-        "hint": "Ancien Birmanie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BORDURE",
-        "hint": "Limite d'un territoire ?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
       },
       {
         "answer": "BENIN",
-        "hint": "Pays d'Afrique de l'Ouest ?",
-        "startx": 5,
+        "hint": "Which country uses ISO code BJ?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MALTA",
+        "hint": "Which country uses ISO code MT?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "IRELAND",
+        "hint": "Which country uses ISO code IE?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CANCUN",
+        "hint": "Which city appears in the tz database as America/Cancun?",
+        "startx": 7,
         "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JAMAICA",
+        "hint": "Which country uses ISO code JM?",
+        "startx": 2,
+        "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "BAMAKO",
-        "hint": "Capitale du Mali ?",
+        "answer": "STANLEY",
+        "hint": "Which city appears in the tz database as Atlantic/Stanley?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "DHAKA",
+        "hint": "Which city appears in the tz database as Asia/Dhaka?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SAMARA",
+        "hint": "Which city appears in the tz database as Europe/Samara?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ZURICH",
+        "hint": "Which city appears in the tz database as Europe/Zurich?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "POHNPEI",
+        "hint": "Which city appears in the tz database as Pacific/Pohnpei?",
         "startx": 2,
-        "starty": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VOSTOK",
+        "hint": "Which city appears in the tz database as Antarctica/Vostok?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IRKUTSK",
+        "hint": "Which city appears in the tz database as Asia/Irkutsk?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "NAMIB",
+        "hint": "Which geographic term is an ancient fog-fed desert on Africa's southwest coast?",
+        "startx": 8,
+        "starty": 2,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "ASIE",
-        "hint": "Le plus grand continent ?",
+        "answer": "FRANCE",
+        "hint": "Which country uses ISO code FR?",
         "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "IRAQ",
+        "hint": "Which country uses ISO code IQ?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHAGOS",
+        "hint": "Which city appears in the tz database as Indian/Chagos?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NIUE",
+        "hint": "Which country uses ISO code NU?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "EROSION",
+        "hint": "Which geographic term is the wearing away of Earth's surface?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "AQTOBE",
+        "hint": "Which city appears in the tz database as Asia/Aqtobe?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BARBADOS",
+        "hint": "Which country uses ISO code BB?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MANAUS",
+        "hint": "Which city appears in the tz database as America/Manaus?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SENEGAL",
+        "hint": "Which country uses ISO code SN?",
+        "startx": 2,
         "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TIJUANA",
+        "hint": "Which city appears in the tz database as America/Tijuana?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PAMPAS",
+        "hint": "Which geographic term names the grassy plains across Argentina and Uruguay?",
+        "startx": 1,
+        "starty": 7,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "BUS",
-        "hint": "Transport en commun routier ?",
+        "answer": "RIDGE",
+        "hint": "Which geographic term describes a long raised crest?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "EASTER",
+        "hint": "Which city appears in the tz database as Pacific/Easter?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "YANGON",
+        "hint": "Which city appears in the tz database as Asia/Yangon?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SKOPJE",
+        "hint": "Which city appears in the tz database as Europe/Skopje?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MONCTON",
+        "hint": "Which city appears in the tz database as America/Moncton?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ROME",
+        "hint": "Which city appears in the tz database as Europe/Rome?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LITTORAL",
+        "hint": "Which geographic term describes the coastal zone between tides?",
         "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "KUWAIT",
+        "hint": "Which country uses ISO code KW?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "COLOMBIA",
+        "hint": "Which country uses ISO code CO?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BASIN",
+        "hint": "Which geographic term is a natural depression that collects water?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ATOLL",
+        "hint": "Which geographic term describes a ring-shaped coral reef lagoon?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CHUUK",
+        "hint": "Which city appears in the tz database as Pacific/Chuuk?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "LUANDA",
+        "hint": "Which city appears in the tz database as Africa/Luanda?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JAKARTA",
+        "hint": "Which city appears in the tz database as Asia/Jakarta?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KIGALI",
+        "hint": "Which city appears in the tz database as Africa/Kigali?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TOKELAU",
+        "hint": "Which country uses ISO code TK?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SEAMOUNT",
+        "hint": "Which geographic term is an underwater mountain rising from the ocean?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SANDBAR",
+        "hint": "Which geographic term is a narrow ridge of sand built by currents?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SENEGAL",
+        "hint": "Which country uses ISO code SN?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MALDIVES",
+        "hint": "Which country uses ISO code MV?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LAGOS",
+        "hint": "Which city appears in the tz database as Africa/Lagos?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LIBERIA",
+        "hint": "Which country uses ISO code LR?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "DOUALA",
+        "hint": "Which city appears in the tz database as Africa/Douala?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GABORONE",
+        "hint": "Which city appears in the tz database as Africa/Gaborone?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MAJURO",
+        "hint": "Which city appears in the tz database as Pacific/Majuro?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NIAMEY",
+        "hint": "Which city appears in the tz database as Africa/Niamey?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SANDBAR",
+        "hint": "Which geographic term is a narrow ridge of sand built by currents?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHATHAM",
+        "hint": "Which city appears in the tz database as Pacific/Chatham?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ISRAEL",
+        "hint": "Which country uses ISO code IL?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MOROCCO",
+        "hint": "Which country uses ISO code MA?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CHITA",
+        "hint": "Which city appears in the tz database as Asia/Chita?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SALTA",
+        "hint": "Which city appears in the tz database as America/Argentina/Salta?",
+        "startx": 5,
         "starty": 7,
         "orientation": "across",
         "position": 6
@@ -542,206 +486,230 @@
     ],
     [
       {
-        "answer": "SUISSE",
-        "hint": "Pays des Alpes et du chocolat ?",
+        "answer": "MOSCOW",
+        "hint": "Which city appears in the tz database as Europe/Moscow?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
+      {
+        "answer": "CEUTA",
+        "hint": "Which city appears in the tz database as Africa/Ceuta?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MASERU",
+        "hint": "Which city appears in the tz database as Africa/Maseru?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GUAM",
+        "hint": "Which country uses ISO code GU?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MALAWI",
+        "hint": "Which country uses ISO code MW?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "YEMEN",
+        "hint": "Which country uses ISO code YE?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "QOSTANAY",
+        "hint": "Which city appears in the tz database as Asia/Qostanay?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HOVD",
+        "hint": "Which city appears in the tz database as Asia/Hovd?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOGOTA",
+        "hint": "Which city appears in the tz database as America/Bogota?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NAURU",
+        "hint": "Which country uses ISO code NR?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "KIROV",
+        "hint": "Which city appears in the tz database as Europe/Kirov?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BISHKEK",
+        "hint": "Which city appears in the tz database as Asia/Bishkek?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SYOWA",
+        "hint": "Which city appears in the tz database as Antarctica/Syowa?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DAKAR",
+        "hint": "Which city appears in the tz database as Africa/Dakar?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COVE",
+        "hint": "Which geographic term is a small sheltered bay?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "MARIGOT",
+        "hint": "Which city appears in the tz database as America/Marigot?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "YAKUTSK",
+        "hint": "Which city appears in the tz database as Asia/Yakutsk?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IQALUIT",
+        "hint": "Which city appears in the tz database as America/Iqaluit?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GAZA",
+        "hint": "Which city appears in the tz database as Asia/Gaza?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CORDOBA",
+        "hint": "Which city appears in the tz database as America/Argentina/Cordoba?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TORNADO",
+        "hint": "Which geographic term is a violent rotating column of air?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CASEY",
+        "hint": "Which city appears in the tz database as Antarctica/Casey?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
       {
         "answer": "PORTUGAL",
-        "hint": "Pays de Lisbonne ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TYPHON",
-        "hint": "Nom donne aux cyclones dans le Pacifique Ouest ?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "SERBIE",
-        "hint": "Pays des Balkans, capitale Belgrade ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "AURORE",
-        "hint": "Phenomene lumineux polaire ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JUNGLE",
-        "hint": "Foret tropicale dense et humide ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ESCALE",
-        "hint": "Arret intermediaire lors d'un voyage ?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "MERS",
-        "hint": "Plusieurs etendues d'eau salee ?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "GEORGIE",
-        "hint": "Pays du Caucase, entre l'Europe et l'Asie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JUNGLE",
-        "hint": "Foret tropicale dense et humide ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AMSTERD",
-        "hint": "Capitale des Pays-Bas ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GEOLOGIE",
-        "hint": "Science qui etudie la Terre ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "CONTINEN",
-        "hint": "Grande masse de terre sur le globe ?",
+        "hint": "Which country uses ISO code PT?",
         "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SANTIAGO",
-        "hint": "Capitale du Chili ?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ROYAUME",
-        "hint": "Un royaume-uni est un exemple de ce type d'etat ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ZELANDE",
-        "hint": "Ile de l'Oceanie (Nouvelle-) ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NORD",
-        "hint": "Point cardinal oppose au sud ?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BELGIQUE",
-        "hint": "Pays du Manneken-Pis ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAIRE",
-        "hint": "Capitale de l'Egypte ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CRATERE",
-        "hint": "Depression d'un volcan ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "BOURG",
-        "hint": "Petite ville rurale ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ANDORRE",
-        "hint": "Petit pays des Pyrenees ?",
+        "answer": "YANGON",
+        "hint": "Which city appears in the tz database as Asia/Yangon?",
         "startx": 6,
-        "starty": 1,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "BAMAKO",
-        "hint": "Capitale du Mali ?",
+        "answer": "CURACAO",
+        "hint": "Which city appears in the tz database as America/Curacao?",
         "startx": 3,
-        "starty": 1,
-        "orientation": "across",
+        "starty": 3,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "MADRID",
-        "hint": "Capitale de l'Espagne ?",
+        "answer": "SKOPJE",
+        "hint": "Which city appears in the tz database as Europe/Skopje?",
         "startx": 1,
-        "starty": 3,
-        "orientation": "across",
+        "starty": 2,
+        "orientation": "down",
         "position": 4
+      },
+      {
+        "answer": "STANLEY",
+        "hint": "Which city appears in the tz database as Atlantic/Stanley?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
       }
     ]
   ]
