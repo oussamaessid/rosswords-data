@@ -2,746 +2,690 @@
   "levels": [
     [
       {
-        "answer": "POUMON",
-        "hint": "Organe respiratoire ?",
-        "startx": 2,
+        "answer": "MELANOMA",
+        "hint": "Which medical term deadly skin cancer from melanocytes?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "NEZ",
-        "hint": "Organe olfactif ?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TENDON",
-        "hint": "Lie muscle os ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "REPOS",
-        "hint": "Moment de detente ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MUET",
-        "hint": "Ne peut pas parler ?",
-        "startx": 4,
+        "answer": "CLAMPS",
+        "hint": "Which treatment or medical tool locking instruments pinching vessels or tubing closed?",
+        "startx": 8,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ANGIOS",
-        "hint": "Vaisseaux sanguins ?",
-        "startx": 6,
-        "starty": 1,
+        "answer": "CHEMIST",
+        "hint": "Which healthcare professional dispenses prescriptions as a community pharmacist?",
+        "startx": 1,
+        "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "NEVRAL",
-        "hint": "Douleur nerveuse ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
+        "answer": "DILATOR",
+        "hint": "Which treatment or medical tool tapered rod stretching a canal before a procedure?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
         "position": 4
-      },
-      {
-        "answer": "GYM",
-        "hint": "Activite physique ?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
       }
     ],
     [
       {
-        "answer": "ORL",
-        "hint": "Specialiste oreilles ?",
-        "startx": 4,
+        "answer": "THYMUS",
+        "hint": "Which body part or organ immune training gland behind the sternum?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ETIRE",
-        "hint": "Allonge le corps ?",
+        "answer": "STOMACH",
+        "hint": "Which body part or organ acidic pouch that churns and digests meals?",
         "startx": 5,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ONGLE",
-        "hint": "Protection du doigt ?",
-        "startx": 1,
-        "starty": 2,
+        "answer": "CORD",
+        "hint": "Which body part or organ bundle of nerves relaying signals along the spine?",
+        "startx": 5,
+        "starty": 7,
         "orientation": "across",
         "position": 3
+      },
+      {
+        "answer": "SEPSIS",
+        "hint": "Which medical term life-threatening organ dysfunction from infection?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
       }
     ],
     [
       {
-        "answer": "VERTIG",
-        "hint": "Sensation de rotation ?",
-        "startx": 2,
+        "answer": "SYNOVIUM",
+        "hint": "Which body part or organ membrane lining joints with lubricating fluid?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ALLERG",
-        "hint": "Reaction excessive ?",
+        "answer": "SHINGLES",
+        "hint": "Which medical term painful rash when dormant chickenpox reactivates?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EYELID",
+        "hint": "Which body part or organ protective fold that closes over the eye?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SUTURES",
+        "hint": "Which treatment or medical tool stitches holding tissue edges together?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "TOURETTE",
+        "hint": "Which medical term tic disorder featuring sudden sounds or movements?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EPILEPSY",
+        "hint": "Which medical term recurring seizures due to neural misfires?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IVLINE",
+        "hint": "Which treatment or medical tool intravenous access for fluids and medications?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "NOSE",
+        "hint": "Which body part or organ houses smell receptors and humidifies incoming air?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SEEDS",
+        "hint": "Which healthy habit or nutrient sprinkle of omega-rich toppings for salads?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "MORPHINE",
+        "hint": "Which treatment or medical tool potent opioid analgesic to control severe pain?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SYNAPSE",
+        "hint": "Which body part or organ gap where chemical messengers hop between neurons?",
         "startx": 4,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AVC",
-        "hint": "Accident vasculaire ?",
+        "answer": "GASTRIT",
+        "hint": "Which medical term stomach lining irritation causing burning pain?",
         "startx": 2,
-        "starty": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TABLETS",
+        "hint": "Which treatment or medical tool solid oral medications pressed into shape?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BAGVALVE",
+        "hint": "Which treatment or medical tool hand-squeezed ventilator bag connected to a mask?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SEPSIS",
+        "hint": "Which medical term life-threatening organ dysfunction from infection?",
+        "startx": 8,
+        "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "SCOLIOSE",
-        "hint": "Probleme dos ?",
+        "answer": "FORCEPS",
+        "hint": "Which treatment or medical tool hinged instrument for grasping tissue or instruments?",
         "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "ALLERGE",
-        "hint": "Reaction excessive ?",
+        "answer": "IBS",
+        "hint": "Which medical term irritable bowel syndrome causing cramping?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "SLING",
+        "hint": "Which treatment or medical tool cloth support that suspends an injured arm?",
         "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SCAR",
+        "hint": "Which medical term fibrous tissue that replaces normal skin after wounds?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SUNLIGHT",
+        "hint": "Which healthy habit or nutrient short daily exposure that supports vitamin D?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SWAB",
+        "hint": "Which treatment or medical tool absorbent tip for collecting samples or applying meds?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "LUNGS",
+        "hint": "Which body part or organ exchange gases between air and bloodstream?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ADHD",
+        "hint": "Which medical term attention-deficit hyperactivity disorder?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HEEL",
+        "hint": "Which body part or organ calcaneus bone forming the rear of the foot?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SEPSIS",
+        "hint": "Which medical term life-threatening organ dysfunction from infection?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IBS",
+        "hint": "Which medical term irritable bowel syndrome causing cramping?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "LENS",
+        "hint": "Which body part or organ flexible disc fine-tuning focus on the retina?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "URETHRA",
+        "hint": "Which body part or organ final tube carrying urine out of the body?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EPIDERM",
+        "hint": "Which body part or organ outermost skin layer constantly shedding cells?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PANCREAS",
+        "hint": "Which body part or organ releases insulin as well as digestive enzymes?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "STENT",
+        "hint": "Which treatment or medical tool mesh tube propping open narrowed arteries?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SCROTUM",
+        "hint": "Which body part or organ sac that keeps testes slightly cooler?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CELIAC",
+        "hint": "Which medical term autoimmune reaction to gluten damaging villi?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MUMPS",
+        "hint": "Which medical term viral swelling of salivary glands?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SCROTUM",
+        "hint": "Which body part or organ sac that keeps testes slightly cooler?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PHARYNX",
+        "hint": "Which body part or organ muscular funnel guiding swallows to the esophagus?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PELVIS",
+        "hint": "Which body part or organ hip basin supporting abdominal organs?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TEETH",
+        "hint": "Which body part or organ calcified structures slicing and grinding food?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "NAUSEA",
+        "hint": "Which medical term upset stomach sensation preceding vomiting?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "HAIR",
+        "hint": "Which body part or organ keratin strand providing insulation and protection?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BULIMIA",
+        "hint": "Which medical term cycle of binge eating followed by purging?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AIRWAY",
+        "hint": "Which treatment or medical tool rigid tube that keeps passages open during CPR?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LUNGS",
+        "hint": "Which body part or organ exchange gases between air and bloodstream?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "PINEAL",
+        "hint": "Which body part or organ tiny brain gland that secretes melatonin?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MINDFUL",
+        "hint": "Which healthy habit or nutrient staying present while eating or breathing?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HUMIDIFY",
+        "hint": "Which treatment or medical tool adds moisture to inhaled oxygen flows?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PHLEBOT",
+        "hint": "Which healthcare professional specialist who draws blood samples accurately?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GLAUCOMA",
+        "hint": "Which medical term eye disease raising pressure and harming optic nerves?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DERMATI",
+        "hint": "Which medical term general inflammation of the skin?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PANCREAS",
+        "hint": "Which body part or organ releases insulin as well as digestive enzymes?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MUMPS",
+        "hint": "Which medical term viral swelling of salivary glands?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CITRUS",
+        "hint": "Which healthy habit or nutrient fruit family delivering vitamin C?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DILATOR",
+        "hint": "Which treatment or medical tool tapered rod stretching a canal before a procedure?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "RINGWORM",
+        "hint": "Which medical term fungal rash forming circular lesions?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CYST",
+        "hint": "Which medical term fluid-filled sac forming in tissue?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CORTEX",
+        "hint": "Which body part or organ outer brain layer that handles complex thinking?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LYMPHOMA",
+        "hint": "Which medical term cancer involving lymphocytes?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GLOVES",
+        "hint": "Which treatment or medical tool disposable hand coverings maintaining sterility?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VASDEFER",
+        "hint": "Which body part or organ tube carrying sperm toward the urethra?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SKIN",
+        "hint": "Which body part or organ largest organ serving as bodywide barrier?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PARAMED",
+        "hint": "Which healthcare professional stabilizes emergencies inside the ambulance?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "VALVE",
+        "hint": "Which body part or organ flap ensuring blood flows one direction?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CRUTCH",
+        "hint": "Which treatment or medical tool underarm aid that offloads weight from a leg?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ACNE",
+        "hint": "Which medical term clogged follicles causing pimples?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EPIPEN",
+        "hint": "Which treatment or medical tool spring-loaded injector delivering epinephrine for anaphylaxis?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "EYE",
+        "hint": "Which body part or organ sensory globe that detects light and color?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ANGINA",
+        "hint": "Which medical term chest pressure from heart oxygen shortage?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STAPLER",
+        "hint": "Which treatment or medical tool device that closes surgical incisions with metal clips?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TENSUNIT",
+        "hint": "Which treatment or medical tool sends mild electrical pulses to calm pain?",
+        "startx": 1,
         "starty": 8,
         "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MAIGRE",
-        "hint": "Pas assez de poids ?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "MAIGRE",
-        "hint": "Pas assez de poids ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DERMATO",
-        "hint": "Pour la peau ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ENFANT",
-        "hint": "Jeune etre humain ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
         "position": 3
-      },
-      {
-        "answer": "SYSTOLE",
-        "hint": "Contraction cardiaque ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "COTE",
-        "hint": "Protection des organes ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "GENE",
-        "hint": "Unite d'heredite ?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
       }
     ],
     [
       {
-        "answer": "NOMBRIL",
-        "hint": "Trace du cordon ?",
+        "answer": "OVARIES",
+        "hint": "Which body part or organ paired glands that release eggs monthly?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SERING",
-        "hint": "Pour injection ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CORPS",
-        "hint": "Ensemble physique ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "COLON",
-        "hint": "Partie de l'intestin ?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SYSTOLE",
-        "hint": "Contraction cardiaque ?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "VITAMINE",
-        "hint": "Nutriment essentiel ?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SATURE",
-        "hint": "Gras a limiter ?",
-        "startx": 3,
+        "answer": "AIRWAY",
+        "hint": "Which treatment or medical tool rigid tube that keeps passages open during CPR?",
+        "startx": 5,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SCANNER",
-        "hint": "Imagerie medicale ?",
+        "answer": "SEPSIS",
+        "hint": "Which medical term life-threatening organ dysfunction from infection?",
         "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ORL",
-        "hint": "Specialiste oreilles ?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PILATE",
-        "hint": "Renforcement musculaire ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LEVRES",
-        "hint": "Pour embrasser ?",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BIOPSIE",
-        "hint": "Prelevement ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "CALCIE",
-        "hint": "Pour les os ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CECI",
-        "hint": "Aveugle ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SUIVI",
-        "hint": "Controle regulier ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "DOIGT",
-        "hint": "Extremite de la main ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RIRE",
-        "hint": "Bon pour le moral ?",
-        "startx": 5,
         "starty": 4,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MENTAL",
-        "hint": "Etat d'esprit ?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "IRM",
-        "hint": "Technique d'imagerie ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "DENT",
-        "hint": "Organe masticatoire ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "INFIRMI",
-        "hint": "Soignant a l'hopital ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "IMMUNITE",
-        "hint": "Defense du corps ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "OPTICIEN",
-        "hint": "Pour les lunettes ?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "SIDA",
-        "hint": "Maladie virale ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SPORT",
-        "hint": "Activite physique ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JOUR",
-        "hint": "Periode diurne ?",
+        "answer": "SYNAPSE",
+        "hint": "Which body part or organ gap where chemical messengers hop between neurons?",
         "startx": 2,
         "starty": 7,
         "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "TRISTE",
-        "hint": "Emotion de deuil ?",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "across",
         "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "FIBULA",
-        "hint": "Os de la jambe ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MORALE",
-        "hint": "Bien etre psychique ?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GYM",
-        "hint": "Activite physique ?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "UTERUS",
-        "hint": "Pour la grossesse ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "FATIGUE",
-        "hint": "Manque d energie ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CURATIF",
-        "hint": "Qui guérit ?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MINERAL",
-        "hint": "Substance inorganique ?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "JOINT",
-        "hint": "Liaison entre deux os ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "IMC",
-        "hint": "Indice de masse ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "DOIGT",
-        "hint": "Extremite de la main ?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "LABO",
-        "hint": "Analyse ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SOIF",
-        "hint": "Besoin de boire ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COLIQUE",
-        "hint": "Douleur abdominale ?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SERING",
-        "hint": "Pour injection ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "FOIE",
-        "hint": "Organe qui filtre ?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "DANSE",
-        "hint": "Art du mouvement ?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SYSTOLE",
-        "hint": "Contraction cardiaque ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CERVEAU",
-        "hint": "Centre de contrôle ?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ALLERGE",
-        "hint": "Reaction excessive ?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "POULS",
-        "hint": "Battement cardiaque ?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ANALGUE",
-        "hint": "Calme la douleur ?",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ECOUV",
-        "hint": "Prelevement sterile ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CICAT",
-        "hint": "Marque de blessure ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JOUR",
-        "hint": "Periode diurne ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "SOURD",
-        "hint": "Qui n'entend pas ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GOUT",
-        "hint": "Sens de savourer ?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SIROP",
-        "hint": "Medicament liquide ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "OPTICIEN",
-        "hint": "Pour les lunettes ?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HUMAIN",
-        "hint": "Etre vivant ?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MALADE",
-        "hint": "Personne souffrante ?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "PANSE",
-        "hint": "Recouvrir une plaie ?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GASTRO",
-        "hint": "Relatif estomac ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CRANE",
-        "hint": "Boite osseuse ?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "MENTON",
-        "hint": "Partie inferieure du visage ?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BIERE",
-        "hint": "Boisson alcoolisee ?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PAIX",
-        "hint": "Absence de guerre et de tension interne ?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SIROP",
-        "hint": "Medicament liquide ?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "IMC",
-        "hint": "Indice de masse ?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
       }
     ]
   ]
