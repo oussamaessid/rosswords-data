@@ -2,101 +2,85 @@
   "levels": [
     [
       {
-        "answer": "STRIKER",
-        "hint": "Which player role stays highest upfield hunting for goals?",
+        "answer": "KITBAG",
+        "hint": "Which piece of sports gear carries spikes, tape, and uniforms to the venue?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "BACKHAND",
-        "hint": "Which athletic skill swings the racquet across the body side?",
+        "answer": "PARSAVE",
+        "hint": "Which athletic skill chips and putts to avoid a bogey?",
         "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RUNNING",
+        "hint": "Which sport covers distances from 100 meters to ultramarathons?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "HANDBALL",
+        "hint": "Which sport fires a small ball into nets from a seven-meter line?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BARBELL",
+        "hint": "Which piece of sports gear holds iron plates for heavy lifts?",
+        "startx": 5,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RETURNER",
-        "hint": "Which player role fields kickoffs and punts to gain yards?",
+        "answer": "FRASER",
+        "hint": "Which athlete Jamaican sprinter with three Olympic 100m crowns?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CLOSER",
+        "hint": "Which player role slams the door in the ninth inning?",
         "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BONDS",
-        "hint": "Which athlete lefty slugger with the single-season home run mark?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BRYANT",
-        "hint": "Which athlete Lakers shooting guard known as the Black Mamba?",
-        "startx": 4,
         "starty": 4,
         "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "LINEMAN",
-        "hint": "Which player role seals edges on the offensive line?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BILLIARD",
-        "hint": "Which sport guides cue balls to set up caroms and pockets?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DRAGRACE",
-        "hint": "Which sport settles battles over a quarter mile straight?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MALONE",
-        "hint": "Which athlete pick-and-roll finisher dubbed the Mailman?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
         "position": 4
       }
     ],
     [
       {
-        "answer": "NOSECLIP",
-        "hint": "Which piece of sports gear prevents water from entering during synchronized swims?",
+        "answer": "REVERSAL",
+        "hint": "Which athletic skill turns defense into offense on the mat?",
         "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "HANDOFF",
-        "hint": "Which athletic skill places the football into a teammate's arms?",
-        "startx": 2,
-        "starty": 1,
+        "answer": "BELT",
+        "hint": "Which piece of sports gear shows rank progression in disciplines like judo?",
+        "startx": 8,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "EMBIID",
-        "hint": "Which athlete Cameroonian center patrolling the paint for Philly?",
-        "startx": 7,
+        "answer": "STUDS",
+        "hint": "Which piece of sports gear thread into boots to adjust traction on muddy pitches?",
+        "startx": 6,
         "starty": 1,
         "orientation": "down",
         "position": 3
@@ -104,143 +88,135 @@
     ],
     [
       {
-        "answer": "ENDURO",
-        "hint": "Which sport tests endurance over rugged off-road moto stages?",
-        "startx": 2,
+        "answer": "GOLF",
+        "hint": "Which sport involves clubs driving dimpled balls toward cups?",
+        "startx": 3,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MALONE",
-        "hint": "Which athlete pick-and-roll finisher dubbed the Mailman?",
-        "startx": 7,
-        "starty": 2,
+        "answer": "FELIX",
+        "hint": "Which athlete American runner with the most women's Olympic track medals?",
+        "startx": 6,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SLICE",
-        "hint": "Which athletic skill carves a low skidding shot across the court?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "BERLIN",
+        "hint": "Which competition or trophy flat marathon renowned for repeated world records?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "RETURNER",
-        "hint": "Which player role fields kickoffs and punts to gain yards?",
-        "startx": 5,
+        "answer": "CYCLING",
+        "hint": "Which sport pushes lightweight bikes through peloton packs?",
+        "startx": 8,
         "starty": 2,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "STRETCH",
-        "hint": "Which athletic skill lengthens muscles to improve range of motion?",
+        "answer": "DONCIC",
+        "hint": "Which athlete Slovenian prodigy piling up triple-doubles?",
         "startx": 3,
-        "starty": 9,
+        "starty": 2,
         "orientation": "across",
         "position": 5
       }
     ],
     [
       {
-        "answer": "POINT",
-        "hint": "Which player role orchestrates offense as the primary ballhandler?",
-        "startx": 3,
+        "answer": "NAVRATIL",
+        "hint": "Which athlete serve-and-volley queen with 18 majors?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "RICE",
-        "hint": "Which athlete receiver owning nearly every major NFL record?",
-        "startx": 5,
+        "answer": "SMASH",
+        "hint": "Which athletic skill hammering overhead finish after a weak reply?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SUMO",
+        "hint": "Which sport crowns wrestlers who force foes outside the dohyo?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PIVOT",
+        "hint": "Which player role holds the ball with back to goal inside the paint?",
+        "startx": 7,
         "starty": 4,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "USOPEN",
-        "hint": "Which competition or trophy serves as America's hard-court tennis major in New York?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ZUMBA",
-        "hint": "Which sport turns cardio into choreographed dance parties?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
         "position": 4
-      },
-      {
-        "answer": "TAPE",
-        "hint": "Which piece of sports gear secures ankles, wrists, and hockey sticks?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
       }
     ],
     [
       {
-        "answer": "NUTMEG",
-        "hint": "Which athletic skill slides the ball through an opponent's legs?",
+        "answer": "JUDO",
+        "hint": "Which sport emphasizes throws and holds born in Japanese dojos?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SNAPDOWN",
+        "hint": "Which athletic skill pulls an opponent to the mat off a tie-up?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SERVE",
+        "hint": "Which athletic skill starts a rally with a toss and swing?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GATLIN",
+        "hint": "Which athlete American sprinter with world titles 12 years apart?",
         "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MOTOGP",
-        "hint": "Which sport hosts prototype motorcycles on road circuits?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHIPSHOT",
-        "hint": "Which athletic skill dinks a soccer ball softly over a keeper?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "LUGE",
-        "hint": "Which sport steers supine at highway speeds down an ice chute?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SWEEP",
-        "hint": "Which athletic skill clears a curling stone's path to control speed?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BOWLING",
-        "hint": "Which sport rolls a heavy ball toward ten arranged pins?",
+        "answer": "KABADDI",
+        "hint": "Which sport links raiders holding their breath to tag defenders?",
         "startx": 3,
         "starty": 2,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PACQUIAO",
+        "hint": "Which athlete Filipino icon winning belts across eight divisions?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "PROP",
-        "hint": "Which player role provides power in the front row scrum?",
-        "startx": 6,
+        "answer": "DONCIC",
+        "hint": "Which athlete Slovenian prodigy piling up triple-doubles?",
+        "startx": 3,
         "starty": 7,
         "orientation": "across",
         "position": 4
@@ -248,498 +224,442 @@
     ],
     [
       {
-        "answer": "MITT",
-        "hint": "Which piece of sports gear cushions a baseball catcher's receiving hand?",
-        "startx": 3,
+        "answer": "BAT",
+        "hint": "Which piece of sports gear swings through the strike zone to drive a pitch?",
+        "startx": 4,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PUTTER",
-        "hint": "Which piece of sports gear rolls the ball across greens with touch?",
-        "startx": 5,
-        "starty": 3,
+        "answer": "CENTER",
+        "hint": "Which player role wins jump balls and anchors the paint?",
+        "startx": 6,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SCREEN",
-        "hint": "Which athletic skill sets a stationary pick to free a shooter?",
-        "startx": 3,
-        "starty": 8,
+        "answer": "CLASICO",
+        "hint": "Which competition or trophy fierce rivalry match between Barcelona and Real Madrid?",
+        "startx": 1,
+        "starty": 2,
         "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "DUATHLON",
+        "hint": "Which sport alternates run-bike-run legs without a swim?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MARADONA",
+        "hint": "Which athlete slalomed through England in 1986 for the Goal of the Century?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SHOELACE",
+        "hint": "Which piece of sports gear tightens footwear snugly around arches?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "TAGGING",
-        "hint": "Which athletic skill touches a runner out between bases?",
+        "answer": "DINK",
+        "hint": "Which athletic skill drops a pickleball barely over the net?",
         "startx": 8,
         "starty": 3,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "THORPE",
-        "hint": "Which athlete multi-medal Aussie nicknamed Thorpedo?",
+        "answer": "MIDOFF",
+        "hint": "Which player role patrols the straight boundary in cricket?",
         "startx": 1,
         "starty": 3,
-        "orientation": "across",
+        "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "SAFETY",
-        "hint": "Which player role covers deep routes as the last line of defense?",
-        "startx": 2,
+        "answer": "CASILLAS",
+        "hint": "Which athlete Real Madrid keeper lifting multiple European Cups?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SERVER",
-        "hint": "Which player role initiates each rally with tosses and swings?",
-        "startx": 5,
-        "starty": 4,
+        "answer": "GIANNIS",
+        "hint": "Which athlete back-to-back MVP nicknamed the Greek Freak?",
+        "startx": 7,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ARCHERY",
-        "hint": "Which sport measures precision shots at concentric rings?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ASHES",
-        "hint": "Which competition or trophy historic cricket urn contested by England and Australia?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SCRUMHAL",
-        "hint": "Which player role whips the ball from the scrum to the backs?",
-        "startx": 2,
+        "answer": "STRIKER",
+        "hint": "Which player role stays highest upfield hunting for goals?",
+        "startx": 4,
         "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SLICE",
-        "hint": "Which athletic skill carves a low skidding shot across the court?",
-        "startx": 9,
-        "starty": 1,
         "orientation": "down",
-        "position": 6
+        "position": 3
       }
     ],
     [
+      {
+        "answer": "SWIMMING",
+        "hint": "Which sport stages freestyle, breaststroke, backstroke, and fly?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STRIKER",
+        "hint": "Which player role stays highest upfield hunting for goals?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
       {
         "answer": "RYDERCUP",
         "hint": "Which competition or trophy biennial golf duel between Europe and the United States?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "HOOKSHOT",
+        "hint": "Which athletic skill swings the arm across the lane one-handed?",
         "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "VENUS",
-        "hint": "Which athlete paved the way at Wimbledon with booming groundstrokes?",
-        "startx": 4,
-        "starty": 4,
+        "answer": "DARTS",
+        "hint": "Which sport targets narrow triples and bullseyes on a board?",
+        "startx": 8,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
-      {
-        "answer": "DRAW",
-        "hint": "Which athletic skill aims a golf shot to curve gently toward target?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ASCOT",
-        "hint": "Which competition or trophy Royal meet mixing fashion and elite British horse racing?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
       {
         "answer": "GOALIE",
         "hint": "Which player role protects the net with pads and reflex saves?",
         "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "AFCON",
-        "hint": "Which competition or trophy names Africa's top soccer nation in odd-numbered years?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SACBUNT",
-        "hint": "Which athletic skill sacrifices an out to move a teammate over?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BUNTING",
-        "hint": "Which athletic skill deadens a pitch for advancing runners?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "SWEEP",
-        "hint": "Which athletic skill clears a curling stone's path to control speed?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LUGE",
-        "hint": "Which sport steers supine at highway speeds down an ice chute?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "OLYMPICS",
-        "hint": "Which competition or trophy brings the world's best together every four years?",
-        "startx": 7,
-        "starty": 1,
+        "starty": 4,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "MODRIC",
-        "hint": "Which athlete Croatian playmaker who earned the 2018 Ballon d'Or?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "POSTS",
-        "hint": "Which piece of sports gear upright markers outlining rugby and football goals?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BELT",
-        "hint": "Which piece of sports gear shows rank progression in disciplines like judo?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FIELDER",
-        "hint": "Which player role tracks down fly balls in the outfield?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EUROCUP",
-        "hint": "Which competition or trophy settles continental bragging rights across Europe?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "DIVING",
-        "hint": "Which sport grades twists and tucks from springboards or towers?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BILLIARD",
-        "hint": "Which sport guides cue balls to set up caroms and pockets?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ROSBERG",
-        "hint": "Which athlete beat Hamilton for the 2016 Formula 1 crown?",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GOGGLES",
-        "hint": "Which piece of sports gear keep swimmers' eyes clear of chlorine?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SURFING",
-        "hint": "Which sport rides breaking waves on fiberglass boards?",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BOULDER",
-        "hint": "Which sport tackles short power problems without ropes?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DRIBBLE",
-        "hint": "Which athletic skill keeps the ball bouncing close while weaving upcourt?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CURRY",
-        "hint": "Which athlete Golden State guard who revolutionized three-point shooting?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SENNA",
-        "hint": "Which athlete Brazilian F1 maestro brilliant in the wet?",
+        "answer": "PIVOT",
+        "hint": "Which player role holds the ball with back to goal inside the paint?",
         "startx": 1,
         "starty": 8,
         "orientation": "across",
         "position": 4
+      },
+      {
+        "answer": "FARAH",
+        "hint": "Which athlete Somali-born Briton sweeping 5000 and 10000 in 2012?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
       }
     ],
     [
       {
-        "answer": "KARATE",
-        "hint": "Which sport drills crisp strikes and kata combinations?",
-        "startx": 2,
+        "answer": "ENFORCER",
+        "hint": "Which player role drops gloves to protect skilled teammates?",
+        "startx": 1,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MUAYTHAI",
-        "hint": "Which sport delivers elbows, knees, and clinch strikes?",
-        "startx": 6,
+        "answer": "LINEBACK",
+        "hint": "Which player role fills gaps against the run and blitzes passers?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CENTER",
+        "hint": "Which player role wins jump balls and anchors the paint?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "VENUS",
+        "hint": "Which athlete paved the way at Wimbledon with booming groundstrokes?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CURLING",
+        "hint": "Which sport sweeps polished stones toward the button?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "COMRADES",
+        "hint": "Which competition or trophy South African ultramarathon stretching about 90 kilometers?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NETBALL",
+        "hint": "Which sport forbids dribbling while shooting on raised hoops?",
+        "startx": 5,
         "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DIVING",
-        "hint": "Which sport grades twists and tucks from springboards or towers?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
+        "answer": "KROOS",
+        "hint": "Which athlete German midfielder known for laser diagonals?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
         "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "RIVERA",
-        "hint": "Which athlete closer whose cutter shattered bats in October?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
       },
       {
         "answer": "SHORTS",
         "hint": "Which piece of sports gear pair with jerseys for most field sports?",
         "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHIPSHOT",
-        "hint": "Which athletic skill dinks a soccer ball softly over a keeper?",
-        "startx": 1,
         "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SCORER",
-        "hint": "Which player role fills the box score with buckets?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MAT",
-        "hint": "Which piece of sports gear provides a safe cushioned competition surface?",
-        "startx": 8,
-        "starty": 1,
         "orientation": "down",
-        "position": 5
+        "position": 4
       }
     ],
     [
       {
-        "answer": "COMANECI",
-        "hint": "Which athlete earned the first Olympic perfect 10 in Montreal?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MAT",
-        "hint": "Which piece of sports gear provides a safe cushioned competition surface?",
+        "answer": "POLES",
+        "hint": "Which piece of sports gear steady skiers and Nordic walkers?",
         "startx": 3,
         "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DIVING",
-        "hint": "Which sport grades twists and tucks from springboards or towers?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SPRINTS",
-        "hint": "Which sport decides medals over explosive 100 meter dashes?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "USOPEN",
-        "hint": "Which competition or trophy serves as America's hard-court tennis major in New York?",
-        "startx": 2,
-        "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ENDURO",
-        "hint": "Which sport tests endurance over rugged off-road moto stages?",
-        "startx": 2,
-        "starty": 2,
+        "answer": "DARTS",
+        "hint": "Which sport targets narrow triples and bullseyes on a board?",
+        "startx": 7,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "FANGIO",
-        "hint": "Which athlete set the early benchmark with five F1 crowns?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
+        "answer": "BMXRACE",
+        "hint": "Which sport sprints pedalers over jumps and banked turns?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "LOCK",
-        "hint": "Which player role secures lineout throws and pushes in scrums?",
+        "answer": "BOWLER",
+        "hint": "Which player role delivers cricket balls toward the stumps?",
         "startx": 4,
         "starty": 4,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "GOLF",
-        "hint": "Which sport involves clubs driving dimpled balls toward cups?",
-        "startx": 6,
-        "starty": 8,
+        "answer": "FOREMAN",
+        "hint": "Which athlete regained the heavyweight title at age 45?",
+        "startx": 2,
+        "starty": 9,
         "orientation": "across",
         "position": 5
       }
     ],
     [
       {
-        "answer": "BLOCK",
-        "hint": "Which athletic skill uses body position to prevent a shot or kick?",
-        "startx": 3,
+        "answer": "INIESTA",
+        "hint": "Which athlete scored Spain's winner in the 2010 World Cup final?",
+        "startx": 2,
         "starty": 5,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "BELT",
-        "hint": "Which piece of sports gear shows rank progression in disciplines like judo?",
-        "startx": 4,
+        "answer": "BRACES",
+        "hint": "Which piece of sports gear support joints recovering from sprains?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ASHES",
+        "hint": "Which competition or trophy historic cricket urn contested by England and Australia?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "IRONMAN",
+        "hint": "Which sport combines swim, bike, and marathon distances back to back?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PUNTER",
+        "hint": "Which player role flips field position with booming punts?",
+        "startx": 8,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DROPKICK",
-        "hint": "Which athletic skill strikes an oval ball after it bounces?",
-        "startx": 7,
-        "starty": 1,
+        "answer": "MANTLE",
+        "hint": "Which athlete switch hitter patrolling center at Yankee Stadium?",
+        "startx": 5,
+        "starty": 3,
         "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "PARSAVE",
+        "hint": "Which athletic skill chips and putts to avoid a bogey?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DRIVER",
+        "hint": "Which piece of sports gear launches tee shots with minimal loft?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STINGER",
+        "hint": "Which athletic skill keeps a golf shot piercing low into wind?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "RONALDO",
-        "hint": "Which athlete Portuguese forward famed for towering headers?",
+        "answer": "FARAH",
+        "hint": "Which athlete Somali-born Briton sweeping 5000 and 10000 in 2012?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "GLOVES",
+        "hint": "Which piece of sports gear insulate hands and improve grip in many sports?",
         "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LUGE",
+        "hint": "Which sport steers supine at highway speeds down an ice chute?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SNIPER",
+        "hint": "Which player role snaps pucks home from the faceoff circle?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "CAPOEIRA",
+        "hint": "Which sport blends martial arts with dance and music?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "SHORTS",
+        "hint": "Which piece of sports gear pair with jerseys for most field sports?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "CURLING",
+        "hint": "Which sport sweeps polished stones toward the button?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GREYCUP",
+        "hint": "Which competition or trophy Canadian Football League's ultimate prize?",
+        "startx": 1,
         "starty": 1,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "HOOKER",
-        "hint": "Which player role feeds the ball into the rugby scrum?",
-        "startx": 4,
+        "answer": "FUTSAL",
+        "hint": "Which sport shrinks soccer to five-a-side indoor battles?",
+        "startx": 1,
         "starty": 8,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "CENTER",
-        "hint": "Which player role wins jump balls and anchors the paint?",
-        "startx": 9,
-        "starty": 3,
+        "answer": "GRAF",
+        "hint": "Which athlete captured the Golden Slam in 1988?",
+        "startx": 1,
+        "starty": 1,
         "orientation": "down",
         "position": 6
       }
