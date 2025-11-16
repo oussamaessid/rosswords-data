@@ -2,167 +2,1067 @@
   "levels": [
     [
       {
-        "answer": "STAINED",
-        "hint": "Which cultural term matches this clue: Glass art colored and leaded for windows?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PAINTER",
-        "hint": "Which cultural term matches this clue: Which artist works primarily with paint?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "POPART",
-        "hint": "Which cultural term matches this clue: Movement celebrating consumer culture imagery?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "DEGAS",
-        "hint": "Which cultural term matches this clue: Impressionist famed for ballerina studies?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "JUDD",
-        "hint": "Which cultural term matches this clue: Minimalist who stacked lacquered boxes?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MUNCH",
-        "hint": "Which cultural term matches this clue: Norwegian symbolist behind The Scream?",
+        "answer": "DRAGON",
+        "hint": "What long costume dances during Lunar New Year?",
         "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CAMERAS",
+        "hint": "What devices capture video during filming?",
+        "startx": 5,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SCREEN",
-        "hint": "Which cultural term matches this clue: Which print method pushes ink through mesh?",
-        "startx": 3,
+        "answer": "ANAKIN",
+        "hint": "Which podracer grows up to become Darth Vader?",
+        "startx": 9,
         "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "WAKANDA",
+        "hint": "What secret African nation has the Black Panther?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GUITAR",
+        "hint": "What instrument has six strings to strum?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "WAND",
+        "hint": "What tool do wizards wave to cast spells?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ISABELA",
+        "hint": "Which sister grows colorful flowers with a wave?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VADER",
+        "hint": "Which villain wears black armor and breathes loudly?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GROOT",
+        "hint": "Which talking tree only says I am Groot?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RAPPER",
+        "hint": "Who speaks rhyming lines over a beat?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EMILY",
+        "hint": "Which emerald engine has a large driving wheel?",
+        "startx": 6,
+        "starty": 12,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "CHASING",
-        "hint": "Which cultural term matches this clue: Detailing metal by hammering from front?",
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ANTONIO",
+        "hint": "Which cousin talks with animals at age five?",
         "startx": 8,
         "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "DRUMMER",
+        "hint": "Who keeps the beat on the drums?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PARADE",
+        "hint": "What moving line of floats and bands fills a street?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MUSEUM",
+        "hint": "What building shows old art, fossils, and statues?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ARTISTS",
+        "hint": "Who make the art we see on walls or stages?",
+        "startx": 5,
+        "starty": 7,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "VERISTIC",
-        "hint": "Which cultural term matches this clue: Painting mimicking high-resolution photos?",
-        "startx": 1,
-        "starty": 2,
+        "answer": "CARTOON",
+        "hint": "What animated show makes you laugh on Saturday?",
+        "startx": 2,
+        "starty": 12,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "VALUE",
-        "hint": "Which cultural term matches this clue: Element describing relative lightness?",
-        "startx": 1,
+        "answer": "FABLE",
+        "hint": "What story teaches a lesson with talking animals?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "FILMS",
+        "hint": "What do directors make for theaters and TV?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "EVEREST",
+        "hint": "Which snow pup drives a plow on icy hills?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COMICS",
+        "hint": "What fun books mix drawings with speech bubbles?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PARADES",
+        "hint": "What holiday events bring floats and balloons?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GENIE",
+        "hint": "Which blue magical friend pops out of a lamp?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RHINO",
+        "hint": "Which hamster loves Bolt's hero moves?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BERET",
+        "hint": "What round hat do French painters often wear?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "DORA",
+        "hint": "Which explorer asks you to say Map and Backpack?",
+        "startx": 5,
         "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ISA",
+        "hint": "Which green iguana grows flowers in Dora's garden?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "LOKI",
+        "hint": "Which trickster god wears green horns and plays pranks?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PLUTO",
+        "hint": "Which playful dog belongs to Mickey Mouse?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GIULIA",
+        "hint": "Which brave girl enters the Portorosso race?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PONCHO",
+        "hint": "What cozy blanket shirt keeps you dry in rain?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FAIRY",
+        "hint": "What tiny magical creature spreads sparkly dust?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MICKEY",
+        "hint": "Which mouse wears red shorts and leads the clubhouse?",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "NEVILLE",
+        "hint": "Which shy wizard grows brave and loves plants?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "COMIC",
+        "hint": "What book tells stories with panels and speech bubbles?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MUSEUM",
+        "hint": "What building shows old art, fossils, and statues?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DUMBO",
+        "hint": "Which baby elephant learns to fly with giant ears?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ROCKET",
+        "hint": "Which raccoon pilot loves gadgets and jokes?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CHOIR",
+        "hint": "What group sings together in harmony?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MUSIC",
+        "hint": "What do you listen to when you dance around?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "LUNA",
+        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PARADES",
+        "hint": "What holiday events bring floats and balloons?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JETT",
+        "hint": "Which red Super Wing delivers packages around the world?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CATWOMAN",
+        "hint": "Which sneaky cat burglar sometimes helps Batman?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "POEM",
+        "hint": "What short writing can rhyme and paint pictures?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TRACKER",
+        "hint": "Which jungle pup rides a jeep and hears well?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRAGON",
+        "hint": "What long costume dances during Lunar New Year?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MONUMENT",
+        "hint": "What tall stone honors a famous person or event?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CULTURE",
+        "hint": "What word means the art, music, and stories people share?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PUMBAA",
+        "hint": "Which friendly warthog loves to sing Hakuna Matata?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MANGA",
+        "hint": "What comic style comes from Japan?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "EASTER",
+        "hint": "Which spring holiday has baskets full of eggs?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SEDER",
+        "hint": "What special meal retells the Passover story?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "NEBULA",
+        "hint": "Which blue guardian learns to trust her sister?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "SHOWS",
+        "hint": "What programs air every afternoon or night?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LEGENDS",
+        "hint": "What old stories tell about brave heroes?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BELLE",
+        "hint": "Which book-loving princess tames a hairy beast?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BRUCE",
+        "hint": "Which great white shark says Fish are friends?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HANBOK",
+        "hint": "What colorful Korean outfit has a short jacket?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "VILLAIN",
+        "hint": "What bad character causes trouble in a story?",
+        "startx": 11,
+        "starty": 1,
         "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "HOLBEIN",
-        "hint": "Which cultural term matches this clue: Northern Renaissance portraitist of Henry VIII?",
-        "startx": 2,
-        "starty": 5,
+        "answer": "ERIC",
+        "hint": "Which human prince sails ships and loves Ariel?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "LIME",
-        "hint": "Which cultural term matches this clue: Electric yellow-green for neon art?",
-        "startx": 7,
-        "starty": 4,
+        "answer": "HARRY",
+        "hint": "Which wizard boy has a lightning scar and glasses?",
+        "startx": 6,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SOLVENT",
-        "hint": "Which cultural term matches this clue: Liquid that thins paints for washes?",
-        "startx": 4,
-        "starty": 3,
+        "answer": "ACTRESS",
+        "hint": "Who plays a pretend role on stage or screen?",
+        "startx": 8,
+        "starty": 7,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "TROMPE",
-        "hint": "Which cultural term matches this clue: Short for trompe l'oeil painting?",
+        "answer": "SONGS",
+        "hint": "What tunes do singers perform on stage?",
         "startx": 4,
-        "starty": 9,
+        "starty": 13,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "FUCHSIA",
-        "hint": "Which cultural term matches this clue: Intense pink-purple neon hue?",
-        "startx": 2,
-        "starty": 2,
+        "answer": "SPIDEY",
+        "hint": "Which teen hero swings on webs across New York?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SOUVENIR",
+        "hint": "What small gift do you buy to remember a trip?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "STORIES",
+        "hint": "What do you call many tales told at bedtime?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "EMILY",
+        "hint": "Which emerald engine has a large driving wheel?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GIULIA",
+        "hint": "Which brave girl enters the Portorosso race?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LILO",
+        "hint": "Which Hawaiian girl adopts a blue alien friend?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "STAGE",
+        "hint": "What raised floor do actors stand on in theater?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SITH",
+        "hint": "What dark group uses the Force for harm?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "STARK",
+        "hint": "What last name does Iron Man use in public?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "TAPESTRY",
+        "hint": "What giant woven picture hangs on a castle wall?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MONUMENT",
+        "hint": "What tall stone honors a famous person or event?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHIMES",
+        "hint": "What ringing bells mark the start of a service?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GUIDO",
+        "hint": "Which tiny forklift does speedy pit stops?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RAPPER",
+        "hint": "Who speaks rhyming lines over a beat?",
+        "startx": 9,
+        "starty": 8,
         "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "SHADE",
-        "hint": "Which cultural term matches this clue: Color mixed with black is called what?",
-        "startx": 3,
-        "starty": 5,
+        "answer": "SNOW",
+        "hint": "Which princess has skin as white as snow?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "DEPTH",
-        "hint": "Which cultural term matches this clue: Illusion of space within a flat work?",
-        "startx": 6,
+        "answer": "GAMORA",
+        "hint": "Which green guardian fights with twin swords?",
+        "startx": 7,
         "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "NEUTRAL",
-        "hint": "Which cultural term matches this clue: Color lacking strong chroma?",
+        "answer": "TONKS",
+        "hint": "Which pink-haired Auror can change her face?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MASKS",
+        "hint": "What coverings do performers wear at a costume ball?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TIMON",
+        "hint": "Which meerkat teaches Simba to eat bugs?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MOANA",
+        "hint": "Which island girl sails across the ocean with courage?",
         "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SONGS",
+        "hint": "What tunes do singers perform on stage?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "GUITARS",
+        "hint": "What instruments strum chords in a band?",
+        "startx": 4,
         "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EXTRAS",
+        "hint": "What background actors fill busy scenes?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ACTORS",
+        "hint": "Who pretend to be many characters in movies?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "YODA",
+        "hint": "Which tiny green Jedi speaks in funny word order?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SCAR",
+        "hint": "Which sneaky lion plots to take over Pride Rock?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "HULK",
+        "hint": "Which green hero smashes when he gets angry?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JOKER",
+        "hint": "Which clown villain tells bad jokes in Gotham?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ACTRESS",
+        "hint": "Who plays a pretend role on stage or screen?",
+        "startx": 5,
+        "starty": 10,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "STELLA",
-        "hint": "Which cultural term matches this clue: Painter who declared \"what you see is what you see\"?",
+        "answer": "LYRICS",
+        "hint": "What words make up a whole song?",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SHOWS",
+        "hint": "What programs air every afternoon or night?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "GUIDO",
+        "hint": "Which tiny forklift does speedy pit stops?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "OLAF",
+        "hint": "Which silly snowman loves warm hugs?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ARTIFACT",
+        "hint": "What object from history sits inside a glass case?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OSCAR",
+        "hint": "Which grouchy monster lives in a trash can?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SIMBA",
+        "hint": "Which lion cub becomes king on Pride Rock?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RAMEN",
+        "hint": "What noodle soup is slurped from a big bowl?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CELLO",
+        "hint": "What big string instrument rests on the floor?",
+        "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HAPPY",
+        "hint": "Which dwarf smiles even during hard work?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LUISA",
+        "hint": "Which super-strong sister can lift donkeys easily?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MUSEUM",
+        "hint": "What building shows old art, fossils, and statues?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "VENOM",
+        "hint": "Which gooey symbiote has sharp teeth and a long tongue?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CANDLES",
+        "hint": "What glowing sticks sit on cakes and menorahs?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PERCY",
+        "hint": "Which green mail engine is Thomas's best pal?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "CANDY",
+        "hint": "What sweet treat fills bags on Halloween night?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "VADER",
+        "hint": "Which villain wears black armor and breathes loudly?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RAFIKI",
+        "hint": "Which wise baboon paints Simba on a tree?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GINNY",
+        "hint": "Which youngest Weasley sister plays Quidditch?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ENCANTO",
+        "hint": "Which magical house shelters the Madrigal family?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CREW",
+        "hint": "What team moves props and lights around?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BIBLE",
+        "hint": "What holy book do many families read every Sunday?",
+        "startx": 8,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "RAMADAN",
+        "hint": "Which holy month has fasting from sunrise to sunset?",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "EGG",
+        "hint": "What small item do kids dye bright colors at Easter?",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "TRUMPET",
+        "hint": "What brass horn has three shiny buttons?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POE",
+        "hint": "Which rebel pilot loves to fly his orange X-wing?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DISPLAY",
+        "hint": "What setup shows costumes, art, or cool artifacts?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "LYRIC",
+        "hint": "What do you call one line of song words?",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "MYTHS",
+        "hint": "What ancient stories try to explain the world?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DOBBY",
+        "hint": "Which house-elf wears socks and helps Harry escape?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WAND",
+        "hint": "What tool do wizards wave to cast spells?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TACOS",
+        "hint": "What yummy folded snacks come in crunchy shells?",
         "startx": 9,
         "starty": 4,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "FOREST",
-        "hint": "Which cultural term matches this clue: Dark green inspired by dense woodland?",
-        "startx": 3,
+        "answer": "PALACE",
+        "hint": "What fancy home does a king or queen live in?",
+        "startx": 4,
         "starty": 1,
         "orientation": "down",
         "position": 5
@@ -170,658 +1070,1154 @@
     ],
     [
       {
-        "answer": "OCHRE",
-        "hint": "Which cultural term matches this clue: Earthy yellow-brown pigment from clay?",
-        "startx": 3,
-        "starty": 5,
+        "answer": "KWANZAA",
+        "hint": "Which winter festival lights seven kinara candles?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SOLVENT",
-        "hint": "Which cultural term matches this clue: Liquid that thins paints for washes?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PRADO",
-        "hint": "Which cultural term matches this clue: Madrid museum filled with Velazquez works?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "NAVY",
-        "hint": "Which cultural term matches this clue: Dark blue used for night skies?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "RESIN",
-        "hint": "Which cultural term matches this clue: Synthetic medium curing into clear solids?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "KAHLO",
-        "hint": "Which cultural term matches this clue: Mexican painter of vivid self-portraits?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OLIVE",
-        "hint": "Which cultural term matches this clue: Muted green associated with foliage shadows?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TAGGING",
-        "hint": "Which cultural term matches this clue: Signature mark left by street artists?",
-        "startx": 3,
+        "answer": "FAIRS",
+        "hint": "What weekend events bring crafts and cotton candy?",
+        "startx": 6,
         "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TACO",
+        "hint": "What folded tortilla holds meat, beans, or cheese?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TEMPURA",
+        "hint": "What Japanese fried veggies stay crispy and light?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SHURI",
+        "hint": "Which smart princess invents tech for Wakanda?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FORCE",
+        "hint": "What mysterious power lets Jedi lift rocks?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LANTERN",
+        "hint": "What glowing paper light floats during festivals?",
+        "startx": 4,
+        "starty": 10,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "COILING",
-        "hint": "Which cultural term matches this clue: Building clay forms with stacked ropes?",
-        "startx": 9,
-        "starty": 1,
+        "answer": "BALLETS",
+        "hint": "What long dance shows tell fancy stories?",
+        "startx": 5,
+        "starty": 2,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "BAROQUE",
-        "hint": "Which cultural term matches this clue: Dramatic European style rich with motion?",
-        "startx": 1,
-        "starty": 9,
+        "answer": "FALCON",
+        "hint": "Which hero flies using red wings and jet packs?",
+        "startx": 3,
+        "starty": 4,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "CERAMIC",
-        "hint": "Which cultural term matches this clue: Fired clay medium for sculptors?",
+        "answer": "DUMBO",
+        "hint": "Which baby elephant learns to fly with giant ears?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "LEGEND",
+        "hint": "What old story explains how a hero became famous?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "LEGEND",
+        "hint": "What old story explains how a hero became famous?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SCENE",
+        "hint": "What small part of a movie happens in one place?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SCRIPT",
+        "hint": "What paper has the words actors need to say?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ABBY",
+        "hint": "Which fairy in training carries a sparkly wand?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NALA",
+        "hint": "Which lioness is Simba's brave best friend?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SAX",
+        "hint": "What shiny horn plays jazzy songs?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GALLERY",
+        "hint": "What long room displays paintings on white walls?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "HECTOR",
+        "hint": "Which skeleton helps Miguel find family in Coco?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "MINNIE",
+        "hint": "Which mouse loves polka dots and big bows?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OBIWAN",
+        "hint": "Which wise Jedi says hello there on Tatooine?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GIULIA",
+        "hint": "Which brave girl enters the Portorosso race?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "CARNIVAL",
+        "hint": "What bright fair brings rides, music, and snacks?",
         "startx": 3,
-        "starty": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HAGRID",
+        "hint": "Which giant keeper cares for magical creatures?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HEIHEI",
+        "hint": "Which clueless chicken rides in Moana's canoe?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CATWOMAN",
+        "hint": "Which sneaky cat burglar sometimes helps Batman?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BONFIRE",
+        "hint": "What big night fire celebrates Guy Fawkes Night?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LUNA",
+        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
+        "startx": 1,
+        "starty": 15,
         "orientation": "across",
         "position": 6
       }
     ],
     [
       {
-        "answer": "GELPLATE",
-        "hint": "Which cultural term matches this clue: Printing plate made from gel for monotypes?",
-        "startx": 1,
-        "starty": 5,
+        "answer": "SCENE",
+        "hint": "What small part of a movie happens in one place?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "OKEEFFE",
-        "hint": "Which cultural term matches this clue: American modernist painting giant flowers?",
-        "startx": 8,
-        "starty": 2,
+        "answer": "HARLEY",
+        "hint": "Which giggling villain swings a huge hammer?",
+        "startx": 9,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "INKWELL",
-        "hint": "Which cultural term matches this clue: Small container that holds drawing ink?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "LUNA",
+        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "RELIEFS",
-        "hint": "Which cultural term matches this clue: Carvings projecting from a flat backing?",
-        "startx": 5,
-        "starty": 3,
+        "answer": "EPISODES",
+        "hint": "What many shows make up a whole season?",
+        "startx": 7,
+        "starty": 8,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "HIRST",
-        "hint": "Which cultural term matches this clue: Young British Artist known for shark tanks?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
+        "answer": "BELLE",
+        "hint": "Which book-loving princess tames a hairy beast?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
         "position": 5
+      },
+      {
+        "answer": "VIOLIN",
+        "hint": "What string instrument do you play with a bow?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
       }
     ],
     [
       {
-        "answer": "WAXPAINT",
-        "hint": "Which cultural term matches this clue: Painting with melted wax pigments?",
-        "startx": 1,
-        "starty": 5,
+        "answer": "VILLAIN",
+        "hint": "What bad character causes trouble in a story?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "LEWITT",
-        "hint": "Which cultural term matches this clue: Conceptual artist of wall-drawing instructions?",
-        "startx": 1,
-        "starty": 3,
+        "answer": "PAINTERS",
+        "hint": "Who spend hours mixing colors on palettes?",
+        "startx": 8,
+        "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MANET",
-        "hint": "Which cultural term matches this clue: Painter who shocked Paris with Luncheon on the Grass?",
-        "startx": 7,
+        "answer": "ANTONIO",
+        "hint": "Which cousin talks with animals at age five?",
+        "startx": 5,
         "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SOMBRERO",
+        "hint": "What wide hat shades mariachi singers from sun?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TALE",
+        "hint": "What word means a short story with fun events?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CLARK",
+        "hint": "What first name does Superman use at the Daily Planet?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "EMILY",
+        "hint": "Which emerald engine has a large driving wheel?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RAPPER",
+        "hint": "Who speaks rhyming lines over a beat?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HAN",
+        "hint": "Which pilot flies the Millennium Falcon with Chewie?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SCULPTOR",
+        "hint": "Who shapes clay or stone into statues?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "BALLETS",
+        "hint": "What long dance shows tell fancy stories?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ANIME",
+        "hint": "What animated shows come from Japan?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DANCE",
+        "hint": "What moving art matches beats and music?",
+        "startx": 5,
+        "starty": 7,
         "orientation": "down",
         "position": 3
       }
     ],
     [
       {
-        "answer": "SOLVENT",
-        "hint": "Which cultural term matches this clue: Liquid that thins paints for washes?",
-        "startx": 2,
-        "starty": 5,
+        "answer": "DOC",
+        "hint": "Which dwarf wears glasses and leads the group?",
+        "startx": 6,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "INGRES",
-        "hint": "Which cultural term matches this clue: French academic famed for precise line?",
+        "answer": "BINGO",
+        "hint": "Which younger sister loves to pretend with Bluey?",
         "startx": 7,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "CHISEL",
-        "hint": "Which cultural term matches this clue: Tool that carves stone or wood?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "SHRINE",
+        "hint": "What tiny sacred spot holds offerings and candles?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "INTARSIA",
-        "hint": "Which cultural term matches this clue: Wooden inlay technique from Italy?",
-        "startx": 2,
-        "starty": 9,
+        "answer": "KEBAB",
+        "hint": "What grilled skewer holds veggies or meat at fairs?",
+        "startx": 5,
+        "starty": 4,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "CASTING",
-        "hint": "Which cultural term matches this clue: Technique of creating a form from liquid material?",
-        "startx": 2,
+        "answer": "TAPESTRY",
+        "hint": "What giant woven picture hangs on a castle wall?",
+        "startx": 3,
         "starty": 2,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "COMEDY",
+        "hint": "What funny show makes you laugh out loud?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ALFRED",
+        "hint": "Which butler brings Batman snacks and advice?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STAGES",
+        "hint": "What platforms hold actors, props, and lights?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GROGU",
+        "hint": "Which tiny green child loves to sip bone broth?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "WAYNE",
+        "hint": "What last name does Batman use when he is not in costume?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "STILL",
-        "hint": "Which cultural term matches this clue: Abstract Expressionist using jagged color blocks?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "EGG",
+        "hint": "What small item do kids dye bright colors at Easter?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
         "position": 6
       }
     ],
     [
       {
-        "answer": "MODERNE",
-        "hint": "Which cultural term matches this clue: Streamlined iteration of Art Deco design?",
-        "startx": 2,
-        "starty": 5,
+        "answer": "NOVELS",
+        "hint": "What long stories can take many chapters?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "AMBER",
-        "hint": "Which cultural term matches this clue: Golden yellow resin tone?",
+        "answer": "SUPERMAN",
+        "hint": "Which hero can fly, see through walls, and lift cars?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GROGU",
+        "hint": "Which tiny green child loves to sip bone broth?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MANGA",
+        "hint": "What comic style comes from Japan?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HUMMUS",
+        "hint": "What creamy chickpea dip is eaten with pita?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "WRITERS",
+        "hint": "Who create books, scripts, and poems?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FLASH",
+        "hint": "Which hero runs faster than lightning in Central City?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ERIC",
+        "hint": "Which human prince sails ships and loves Ariel?",
         "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BONFIRE",
+        "hint": "What big night fire celebrates Guy Fawkes Night?",
+        "startx": 9,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MORRIS",
-        "hint": "Which cultural term matches this clue: Minimalist sculptor who arranged felt pieces?",
-        "startx": 6,
+        "answer": "TONKS",
+        "hint": "Which pink-haired Auror can change her face?",
+        "startx": 8,
         "starty": 3,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "SHOW",
+        "hint": "What word means a program you watch on TV?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DOLORES",
+        "hint": "Which cousin hears every whisper in the house?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SHURI",
+        "hint": "Which smart princess invents tech for Wakanda?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "RHYTHM",
-        "hint": "Which cultural term matches this clue: Visual beat created by recurring elements?",
-        "startx": 1,
-        "starty": 3,
+        "answer": "EXTRAS",
+        "hint": "What background actors fill busy scenes?",
+        "startx": 7,
+        "starty": 12,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "MINT",
-        "hint": "Which cultural term matches this clue: Cool pale green used in deco sets?",
-        "startx": 2,
+        "answer": "FORKY",
+        "hint": "Which spork toy keeps yelling that he is trash?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "WRITER",
+        "hint": "Who puts stories onto pages with words?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AGATHA",
+        "hint": "Which witch sings it was Agatha all along?",
+        "startx": 7,
         "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PALACE",
+        "hint": "What fancy home does a king or queen live in?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "JAMES",
+        "hint": "Which red engine loves to show off his paint?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "STORY",
+        "hint": "What do you call a tale with a beginning, middle, and end?",
+        "startx": 10,
+        "starty": 10,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "EASEL",
-        "hint": "Which cultural term matches this clue: Stand that holds a work in progress?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
+        "answer": "FORCE",
+        "hint": "What mysterious power lets Jedi lift rocks?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "SEPIA",
-        "hint": "Which cultural term matches this clue: Brown wash made from cuttlefish ink?",
-        "startx": 3,
-        "starty": 5,
+        "answer": "HOLI",
+        "hint": "Which spring festival throws bright rainbow powders?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "NEVELSON",
-        "hint": "Which cultural term matches this clue: Assemblage sculptor building wooden walls?",
+        "answer": "LEIA",
+        "hint": "Which princess leads the rebels with brave speeches?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BLUEY",
+        "hint": "Which blue heeler puppy plays games in Australia?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "Which snow pup drives a plow on icy hills?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SITH",
+        "hint": "What dark group uses the Force for harm?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "PIANIST",
+        "hint": "Who plays the piano for a concert?",
         "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "KWANZAA",
+        "hint": "Which winter festival lights seven kinara candles?",
+        "startx": 6,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "NEUTRAL",
-        "hint": "Which cultural term matches this clue: Color lacking strong chroma?",
+        "answer": "ISA",
+        "hint": "Which green iguana grows flowers in Dora's garden?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CLARK",
+        "hint": "What first name does Superman use at the Daily Planet?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "MUSIC",
+        "hint": "What do you listen to when you dance around?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OSCAR",
+        "hint": "Which grouchy monster lives in a trash can?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RYDER",
+        "hint": "Which kid leader tells the Paw Patrol to roll out?",
         "startx": 3,
-        "starty": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "MUFASA",
+        "hint": "Which lion king teaches Simba about the stars?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MUSICIAN",
+        "hint": "Who plays an instrument for the audience?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CYBORG",
+        "hint": "Which half-robot teen hero has a red eye and cannon?",
+        "startx": 7,
+        "starty": 6,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "REPOUSSE",
-        "hint": "Which cultural term matches this clue: Hammering metal from reverse to raise design?",
-        "startx": 1,
+        "answer": "GORDON",
+        "hint": "Which big blue engine pulls the express train?",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "AUTHOR",
+        "hint": "Who writes books for kids to enjoy?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SVEN",
+        "hint": "Which loyal reindeer pulls Kristoff's sleigh?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "DORY",
+        "hint": "Which blue fish keeps forgetting everything?",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 5,
         "starty": 8,
         "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MIRABEL",
+        "hint": "Which girl wears glasses and saves her magic house?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COMEDY",
+        "hint": "What funny show makes you laugh out loud?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BOOTS",
+        "hint": "Which monkey wears red boots and loves adventures?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "down",
         "position": 4
       }
     ],
     [
       {
         "answer": "ARTIST",
-        "hint": "Which cultural term matches this clue: Who creates visual or performing pieces?",
-        "startx": 2,
-        "starty": 5,
+        "hint": "Who creates drawings, songs, or sculptures?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "RAKU",
-        "hint": "Which cultural term matches this clue: Low-temperature firing that cracks glazes?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MINTY",
-        "hint": "Which cultural term matches this clue: Playful term for pastel green shade?",
+        "answer": "CHOIRS",
+        "hint": "What groups of voices perform at concerts?",
         "startx": 5,
         "starty": 4,
         "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "NEUTRAL",
-        "hint": "Which cultural term matches this clue: Color lacking strong chroma?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SIENNA",
-        "hint": "Which cultural term matches this clue: Burnt earth pigment producing warm browns?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MOMA",
-        "hint": "Which cultural term matches this clue: New York museum for modern art?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GUITAR",
-        "hint": "Which cultural term matches this clue: Six-string instrument used across genres?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AUBURN",
-        "hint": "Which cultural term matches this clue: Reddish brown often used in portrait hair?",
-        "startx": 3,
-        "starty": 2,
+        "answer": "ELMO",
+        "hint": "Which red furry monster loves to sing on Sesame Street?",
+        "startx": 2,
+        "starty": 6,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "MONET",
-        "hint": "Which cultural term matches this clue: Painter of water lilies?",
-        "startx": 4,
+        "answer": "POEM",
+        "hint": "What short writing can rhyme and paint pictures?",
+        "startx": 2,
         "starty": 4,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "OLITSKI",
-        "hint": "Which cultural term matches this clue: Color Field painter famous for sprayed veils?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
+        "answer": "FAIRIES",
+        "hint": "What tiny winged friends grant wishes in tales?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
         "position": 5
       }
     ],
     [
       {
-        "answer": "PATINING",
-        "hint": "Which cultural term matches this clue: Surface coloration achieved through oxidation?",
-        "startx": 1,
-        "starty": 5,
+        "answer": "BOLT",
+        "hint": "Which white dog thinks he has superpowers?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "FIGURAL",
-        "hint": "Which cultural term matches this clue: Style emphasizing recognizable human forms?",
+        "answer": "LANTERN",
+        "hint": "What glowing paper light floats during festivals?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TAPESTRY",
+        "hint": "What giant woven picture hangs on a castle wall?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SEDER",
+        "hint": "What special meal retells the Passover story?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DOC",
+        "hint": "Which dwarf wears glasses and leads the group?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MUSIC",
+        "hint": "What do you listen to when you dance around?",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HANBOK",
+        "hint": "What colorful Korean outfit has a short jacket?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "MUSIC",
+        "hint": "What do you listen to when you dance around?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TIMON",
+        "hint": "Which meerkat teaches Simba to eat bugs?",
         "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SLIPCAST",
-        "hint": "Which cultural term matches this clue: Pouring liquid clay into plaster molds?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "AIWEIWEI",
-        "hint": "Which cultural term matches this clue: Chinese artist-activist known for Dropping a Han Urn?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "FILIGREE",
-        "hint": "Which cultural term matches this clue: Delicate metalwork made from twisted precious wires?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "AQUA",
-        "hint": "Which cultural term matches this clue: Watery blue-green shade?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "NAVY",
-        "hint": "Which cultural term matches this clue: Dark blue used for night skies?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MONOTYP",
-        "hint": "Which cultural term matches this clue: Single unique print pulled from a plate?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LAPIS",
-        "hint": "Which cultural term matches this clue: Historic term for intense blue lapis pigment?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "JETBLACK",
-        "hint": "Which cultural term matches this clue: Nearly black gray used for shadows?",
-        "startx": 1,
         "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MALLET",
-        "hint": "Which cultural term matches this clue: Hammer used with chisels in carving?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "VERDANT",
-        "hint": "Which cultural term matches this clue: Vivid green describing lush growth?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GORMLEY",
-        "hint": "Which cultural term matches this clue: British sculptor casting his own body?",
-        "startx": 4,
-        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MAGENTA",
-        "hint": "Which cultural term matches this clue: Which vivid hue sits between red and purple?",
-        "startx": 7,
-        "starty": 1,
+        "answer": "MATZAH",
+        "hint": "What flat bread is eaten during Passover?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "down",
         "position": 3
       }
     ],
     [
       {
-        "answer": "PRADO",
-        "hint": "Which cultural term matches this clue: Madrid museum filled with Velazquez works?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SHADOW",
-        "hint": "Which cultural term matches this clue: Darker area created when light is blocked?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "KAHLO",
-        "hint": "Which cultural term matches this clue: Mexican painter of vivid self-portraits?",
+        "answer": "MIGUEL",
+        "hint": "Which boy travels to the Land of the Dead with a guitar?",
         "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ROYAL",
-        "hint": "Which cultural term matches this clue: Deep saturated blue linked to regalia?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "LILAC",
-        "hint": "Which cultural term matches this clue: Soft purple reminiscent of spring blooms?",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "WASH",
-        "hint": "Which cultural term matches this clue: Diluted pigment applied broadly?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "KILN",
-        "hint": "Which cultural term matches this clue: High-temperature oven for firing clay?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "INGRES",
-        "hint": "Which cultural term matches this clue: French academic famed for precise line?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VALUE",
-        "hint": "Which cultural term matches this clue: Element describing relative lightness?",
-        "startx": 2,
         "starty": 8,
         "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "STIPPLE",
-        "hint": "Which cultural term matches this clue: Dots used to build value and texture?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "MOMA",
-        "hint": "Which cultural term matches this clue: New York museum for modern art?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MATTA",
-        "hint": "Which cultural term matches this clue: Chilean surrealist who painted cosmic spaces?",
+        "answer": "ROBIN",
+        "hint": "Which sidekick wears bright colors and helps Batman?",
         "startx": 5,
         "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "FROTTAGE",
-        "hint": "Which cultural term matches this clue: Rubbing texture onto paper with graphite?",
-        "startx": 1,
-        "starty": 7,
+        "answer": "IRONMAN",
+        "hint": "Which hero flies using a red and gold armor suit?",
+        "startx": 4,
+        "starty": 5,
         "orientation": "across",
         "position": 3
-      },
-      {
-        "answer": "CANVAS",
-        "hint": "Which cultural term matches this clue: Stretched fabric support for painting?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
       }
     ],
     [
       {
-        "answer": "RUSCHA",
-        "hint": "Which cultural term matches this clue: Pop conceptualist known for Standard Station prints?",
-        "startx": 2,
-        "starty": 5,
+        "answer": "SALLY",
+        "hint": "Which blue car runs the Cozy Cone Motel?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "OLITSKI",
-        "hint": "Which cultural term matches this clue: Color Field painter famous for sprayed veils?",
-        "startx": 4,
-        "starty": 1,
+        "answer": "SEDER",
+        "hint": "What special meal retells the Passover story?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PAINTER",
-        "hint": "Which cultural term matches this clue: Which artist works primarily with paint?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
+        "answer": "MILES",
+        "hint": "Which Spider-Man wears a black suit with red lines?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "EMULSION",
-        "hint": "Which cultural term matches this clue: Light-sensitive coating used on screens?",
+        "answer": "MICKEY",
+        "hint": "Which mouse wears red shorts and leads the clubhouse?",
         "startx": 1,
-        "starty": 2,
+        "starty": 11,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "CAMEO",
-        "hint": "Which cultural term matches this clue: Raised relief carving on layered stone?",
-        "startx": 7,
+        "answer": "ORIGAMI",
+        "hint": "What Japanese art folds paper into tiny animals?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "KIMCHI",
+        "hint": "What spicy Korean cabbage ferments in jars?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SAMOSA",
+        "hint": "What triangular pastry from India holds spicy potatoes?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ANGUS",
+        "hint": "Which black horse carries Merida through the forest?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "GAMORA",
+        "hint": "Which green guardian fights with twin swords?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SAMOSA",
+        "hint": "What triangular pastry from India holds spicy potatoes?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GINNY",
+        "hint": "Which youngest Weasley sister plays Quidditch?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CHOIRS",
+        "hint": "What groups of voices perform at concerts?",
+        "startx": 8,
         "starty": 4,
         "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ERIC",
+        "hint": "Which human prince sails ships and loves Ariel?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
         "position": 5
+      },
+      {
+        "answer": "ANAKIN",
+        "hint": "Which podracer grows up to become Darth Vader?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "VIOLIN",
+        "hint": "What string instrument do you play with a bow?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
       }
     ]
   ]
