@@ -2,662 +2,134 @@
   "levels": [
     [
       {
-        "answer": "DRAGON",
-        "hint": "What long costume dances during Lunar New Year?",
-        "startx": 4,
+        "answer": "CHOIR",
+        "hint": "What group sings together in harmony?",
+        "startx": 5,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CAMERAS",
-        "hint": "What devices capture video during filming?",
-        "startx": 5,
+        "answer": "MALFOY",
+        "hint": "Which last name belongs to Draco's wizard family?",
+        "startx": 7,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ANAKIN",
-        "hint": "Which podracer grows up to become Darth Vader?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "WAKANDA",
-        "hint": "What secret African nation has the Black Panther?",
-        "startx": 2,
+        "answer": "ABBY",
+        "hint": "Which fairy in training carries a sparkly wand?",
+        "startx": 7,
         "starty": 5,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GUITAR",
-        "hint": "What instrument has six strings to strum?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "WAND",
-        "hint": "What tool do wizards wave to cast spells?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ISABELA",
-        "hint": "Which sister grows colorful flowers with a wave?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VADER",
-        "hint": "Which villain wears black armor and breathes loudly?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "GROOT",
-        "hint": "Which talking tree only says I am Groot?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RAPPER",
-        "hint": "Who speaks rhyming lines over a beat?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EMILY",
-        "hint": "Which emerald engine has a large driving wheel?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "PADME",
-        "hint": "Which queen marries Anakin and loves Naboo?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ANTONIO",
-        "hint": "Which cousin talks with animals at age five?",
-        "startx": 8,
+        "answer": "BAMBI",
+        "hint": "Which young deer makes forest friends after a storm?",
+        "startx": 9,
         "starty": 2,
         "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PERCY",
+        "hint": "Which green mail engine is Thomas's best pal?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
         "position": 5
+      },
+      {
+        "answer": "DOBBY",
+        "hint": "Which house-elf wears socks and helps Harry escape?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
       }
     ],
     [
       {
-        "answer": "DRUMMER",
-        "hint": "Who keeps the beat on the drums?",
+        "answer": "VILLAIN",
+        "hint": "What bad character causes trouble in a story?",
         "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PARADE",
-        "hint": "What moving line of floats and bands fills a street?",
+        "answer": "RAMEN",
+        "hint": "What noodle soup is slurped from a big bowl?",
         "startx": 10,
-        "starty": 6,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MUSEUM",
-        "hint": "What building shows old art, fossils, and statues?",
-        "startx": 8,
-        "starty": 3,
+        "answer": "TEMPLE",
+        "hint": "What building is used for prayer in many cultures?",
+        "startx": 7,
+        "starty": 4,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ARTISTS",
-        "hint": "Who make the art we see on walls or stages?",
+        "answer": "MYTH",
+        "hint": "What ancient story explains nature or the sky?",
         "startx": 5,
-        "starty": 7,
-        "orientation": "down",
+        "starty": 4,
+        "orientation": "across",
         "position": 4
+      },
+      {
+        "answer": "ERIC",
+        "hint": "Which human prince sails ships and loves Ariel?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SCENE",
+        "hint": "What small part of a movie happens in one place?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
       },
       {
         "answer": "CARTOON",
         "hint": "What animated show makes you laugh on Saturday?",
         "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "FABLE",
-        "hint": "What story teaches a lesson with talking animals?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "FILMS",
-        "hint": "What do directors make for theaters and TV?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "EVEREST",
-        "hint": "Which snow pup drives a plow on icy hills?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COMICS",
-        "hint": "What fun books mix drawings with speech bubbles?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PARADES",
-        "hint": "What holiday events bring floats and balloons?",
-        "startx": 7,
         "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GENIE",
-        "hint": "Which blue magical friend pops out of a lamp?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RHINO",
-        "hint": "Which hamster loves Bolt's hero moves?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "BERET",
-        "hint": "What round hat do French painters often wear?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "DORA",
-        "hint": "Which explorer asks you to say Map and Backpack?",
-        "startx": 5,
-        "starty": 2,
         "orientation": "down",
         "position": 7
       },
       {
-        "answer": "ISA",
-        "hint": "Which green iguana grows flowers in Dora's garden?",
-        "startx": 9,
-        "starty": 6,
+        "answer": "JOKER",
+        "hint": "Which clown villain tells bad jokes in Gotham?",
+        "startx": 1,
+        "starty": 11,
         "orientation": "across",
         "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "LOKI",
-        "hint": "Which trickster god wears green horns and plays pranks?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
       },
-      {
-        "answer": "PLUTO",
-        "hint": "Which playful dog belongs to Mickey Mouse?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GIULIA",
-        "hint": "Which brave girl enters the Portorosso race?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PONCHO",
-        "hint": "What cozy blanket shirt keeps you dry in rain?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "FAIRY",
-        "hint": "What tiny magical creature spreads sparkly dust?",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MICKEY",
-        "hint": "Which mouse wears red shorts and leads the clubhouse?",
-        "startx": 11,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "NEVILLE",
-        "hint": "Which shy wizard grows brave and loves plants?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "COMIC",
-        "hint": "What book tells stories with panels and speech bubbles?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MUSEUM",
-        "hint": "What building shows old art, fossils, and statues?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DUMBO",
-        "hint": "Which baby elephant learns to fly with giant ears?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ROCKET",
-        "hint": "Which raccoon pilot loves gadgets and jokes?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CHOIR",
-        "hint": "What group sings together in harmony?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MUSIC",
-        "hint": "What do you listen to when you dance around?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "LUNA",
-        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PARADES",
-        "hint": "What holiday events bring floats and balloons?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JETT",
-        "hint": "Which red Super Wing delivers packages around the world?",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CATWOMAN",
-        "hint": "Which sneaky cat burglar sometimes helps Batman?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "POEM",
-        "hint": "What short writing can rhyme and paint pictures?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TRACKER",
-        "hint": "Which jungle pup rides a jeep and hears well?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DRAGON",
-        "hint": "What long costume dances during Lunar New Year?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "MONUMENT",
-        "hint": "What tall stone honors a famous person or event?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CULTURE",
-        "hint": "What word means the art, music, and stories people share?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PUMBAA",
-        "hint": "Which friendly warthog loves to sing Hakuna Matata?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MANGA",
-        "hint": "What comic style comes from Japan?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "EASTER",
-        "hint": "Which spring holiday has baskets full of eggs?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SEDER",
-        "hint": "What special meal retells the Passover story?",
-        "startx": 4,
-        "starty": 13,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "NEBULA",
-        "hint": "Which blue guardian learns to trust her sister?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "SHOWS",
-        "hint": "What programs air every afternoon or night?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LEGENDS",
-        "hint": "What old stories tell about brave heroes?",
-        "startx": 9,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BELLE",
-        "hint": "Which book-loving princess tames a hairy beast?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BRUCE",
-        "hint": "Which great white shark says Fish are friends?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HANBOK",
-        "hint": "What colorful Korean outfit has a short jacket?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "VILLAIN",
-        "hint": "What bad character causes trouble in a story?",
-        "startx": 11,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ERIC",
-        "hint": "Which human prince sails ships and loves Ariel?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HARRY",
-        "hint": "Which wizard boy has a lightning scar and glasses?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ACTRESS",
-        "hint": "Who plays a pretend role on stage or screen?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SONGS",
-        "hint": "What tunes do singers perform on stage?",
-        "startx": 4,
-        "starty": 13,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "SPIDEY",
-        "hint": "Which teen hero swings on webs across New York?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SOUVENIR",
-        "hint": "What small gift do you buy to remember a trip?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "STORIES",
-        "hint": "What do you call many tales told at bedtime?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
       {
         "answer": "EMILY",
         "hint": "Which emerald engine has a large driving wheel?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GIULIA",
-        "hint": "Which brave girl enters the Portorosso race?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LILO",
-        "hint": "Which Hawaiian girl adopts a blue alien friend?",
-        "startx": 6,
+        "startx": 4,
         "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "STAGE",
-        "hint": "What raised floor do actors stand on in theater?",
-        "startx": 5,
-        "starty": 4,
         "orientation": "down",
-        "position": 4
+        "position": 9
       },
       {
-        "answer": "SITH",
-        "hint": "What dark group uses the Force for harm?",
-        "startx": 3,
-        "starty": 5,
+        "answer": "LIBRARY",
+        "hint": "What quiet place lets you borrow stacks of books?",
+        "startx": 4,
+        "starty": 14,
         "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "STARK",
-        "hint": "What last name does Iron Man use in public?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "TAPESTRY",
-        "hint": "What giant woven picture hangs on a castle wall?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MONUMENT",
-        "hint": "What tall stone honors a famous person or event?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CHIMES",
-        "hint": "What ringing bells mark the start of a service?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GUIDO",
-        "hint": "Which tiny forklift does speedy pit stops?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "RAPPER",
-        "hint": "Who speaks rhyming lines over a beat?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
+        "position": 10
       }
     ],
     [
@@ -670,734 +142,386 @@
         "position": 1
       },
       {
-        "answer": "GAMORA",
-        "hint": "Which green guardian fights with twin swords?",
+        "answer": "EPISODES",
+        "hint": "What many shows make up a whole season?",
         "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TONKS",
-        "hint": "Which pink-haired Auror can change her face?",
-        "startx": 5,
         "starty": 4,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PUMBAA",
+        "hint": "Which friendly warthog loves to sing Hakuna Matata?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "MASKS",
-        "hint": "What coverings do performers wear at a costume ball?",
-        "startx": 6,
+        "answer": "DIRECTOR",
+        "hint": "Who tells actors where to stand and speak?",
+        "startx": 4,
         "starty": 10,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "TIMON",
-        "hint": "Which meerkat teaches Simba to eat bugs?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
+        "answer": "TIANA",
+        "hint": "Which chef dreams of opening her own restaurant?",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "MOANA",
-        "hint": "Which island girl sails across the ocean with courage?",
-        "startx": 3,
-        "starty": 6,
+        "answer": "DANCERS",
+        "hint": "Who leap and spin across the stage?",
+        "startx": 5,
+        "starty": 2,
         "orientation": "down",
         "position": 6
-      },
-      {
-        "answer": "SONGS",
-        "hint": "What tunes do singers perform on stage?",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
       }
     ],
     [
       {
-        "answer": "GUITARS",
-        "hint": "What instruments strum chords in a band?",
-        "startx": 4,
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 5,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "EXTRAS",
-        "hint": "What background actors fill busy scenes?",
-        "startx": 7,
+        "answer": "NOEL",
+        "hint": "What French word means Christmas songs and joy?",
+        "startx": 9,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ACTORS",
-        "hint": "Who pretend to be many characters in movies?",
-        "startx": 10,
-        "starty": 3,
+        "answer": "CAROL",
+        "hint": "Which pilot becomes Captain Marvel with cosmic powers?",
+        "startx": 6,
+        "starty": 7,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "YODA",
-        "hint": "Which tiny green Jedi speaks in funny word order?",
-        "startx": 4,
+        "answer": "KRISTOF",
+        "hint": "Which ice seller helps Anna climb the mountain?",
+        "startx": 1,
         "starty": 10,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "SCAR",
-        "hint": "Which sneaky lion plots to take over Pride Rock?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
+        "answer": "SITH",
+        "hint": "What dark group uses the Force for harm?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
         "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "HULK",
-        "hint": "Which green hero smashes when he gets angry?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
       },
       {
         "answer": "JOKER",
         "hint": "Which clown villain tells bad jokes in Gotham?",
-        "startx": 8,
+        "startx": 2,
         "starty": 6,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ACTRESS",
-        "hint": "Who plays a pretend role on stage or screen?",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "LYRICS",
-        "hint": "What words make up a whole song?",
-        "startx": 11,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SISU",
-        "hint": "Which friendly dragon helps Raya unite the lands?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SHOWS",
-        "hint": "What programs air every afternoon or night?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
         "position": 6
       },
       {
-        "answer": "GUIDO",
-        "hint": "Which tiny forklift does speedy pit stops?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "OLAF",
-        "hint": "Which silly snowman loves warm hugs?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ARTIFACT",
-        "hint": "What object from history sits inside a glass case?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "OSCAR",
-        "hint": "Which grouchy monster lives in a trash can?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SIMBA",
-        "hint": "Which lion cub becomes king on Pride Rock?",
-        "startx": 1,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "RAMEN",
-        "hint": "What noodle soup is slurped from a big bowl?",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "CELLO",
-        "hint": "What big string instrument rests on the floor?",
-        "startx": 7,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "HAPPY",
-        "hint": "Which dwarf smiles even during hard work?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LUISA",
-        "hint": "Which super-strong sister can lift donkeys easily?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MUSEUM",
-        "hint": "What building shows old art, fossils, and statues?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "VENOM",
-        "hint": "Which gooey symbiote has sharp teeth and a long tongue?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CANDLES",
-        "hint": "What glowing sticks sit on cakes and menorahs?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PERCY",
-        "hint": "Which green mail engine is Thomas's best pal?",
+        "answer": "ANIME",
+        "hint": "What animated shows come from Japan?",
         "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "CANDY",
-        "hint": "What sweet treat fills bags on Halloween night?",
-        "startx": 8,
-        "starty": 11,
+        "starty": 6,
         "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "VADER",
-        "hint": "Which villain wears black armor and breathes loudly?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RAFIKI",
-        "hint": "Which wise baboon paints Simba on a tree?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GINNY",
-        "hint": "Which youngest Weasley sister plays Quidditch?",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ENCANTO",
-        "hint": "Which magical house shelters the Madrigal family?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CREW",
-        "hint": "What team moves props and lights around?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "BIBLE",
-        "hint": "What holy book do many families read every Sunday?",
-        "startx": 8,
-        "starty": 13,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "RAMADAN",
-        "hint": "Which holy month has fasting from sunrise to sunset?",
-        "startx": 11,
-        "starty": 5,
-        "orientation": "down",
         "position": 7
       },
       {
-        "answer": "EGG",
-        "hint": "What small item do kids dye bright colors at Easter?",
+        "answer": "GWEN",
+        "hint": "Which spider hero wears a white hood and pink webbing?",
         "startx": 12,
-        "starty": 13,
+        "starty": 4,
         "orientation": "down",
         "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "TRUMPET",
-        "hint": "What brass horn has three shiny buttons?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "POE",
-        "hint": "Which rebel pilot loves to fly his orange X-wing?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DISPLAY",
-        "hint": "What setup shows costumes, art, or cool artifacts?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "LYRIC",
-        "hint": "What do you call one line of song words?",
-        "startx": 12,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "MYTHS",
-        "hint": "What ancient stories try to explain the world?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DOBBY",
-        "hint": "Which house-elf wears socks and helps Harry escape?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "WAND",
-        "hint": "What tool do wizards wave to cast spells?",
+        "answer": "THANKS",
+        "hint": "Which autumn day has turkey, pie, and gratitude?",
         "startx": 3,
-        "starty": 4,
+        "starty": 13,
         "orientation": "across",
-        "position": 3
+        "position": 9
       },
       {
-        "answer": "TACOS",
-        "hint": "What yummy folded snacks come in crunchy shells?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PALACE",
-        "hint": "What fancy home does a king or queen live in?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "KWANZAA",
-        "hint": "Which winter festival lights seven kinara candles?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FAIRS",
-        "hint": "What weekend events bring crafts and cotton candy?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TACO",
-        "hint": "What folded tortilla holds meat, beans, or cheese?",
-        "startx": 10,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "TEMPURA",
-        "hint": "What Japanese fried veggies stay crispy and light?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "SHURI",
-        "hint": "Which smart princess invents tech for Wakanda?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FORCE",
-        "hint": "What mysterious power lets Jedi lift rocks?",
+        "answer": "ISA",
+        "hint": "Which green iguana grows flowers in Dora's garden?",
         "startx": 8,
-        "starty": 6,
+        "starty": 12,
         "orientation": "down",
-        "position": 2
+        "position": 10
       },
       {
-        "answer": "LANTERN",
-        "hint": "What glowing paper light floats during festivals?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BALLETS",
-        "hint": "What long dance shows tell fancy stories?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "FALCON",
-        "hint": "Which hero flies using red wings and jet packs?",
-        "startx": 3,
+        "answer": "CYBORG",
+        "hint": "Which half-robot teen hero has a red eye and cannon?",
+        "startx": 7,
         "starty": 4,
         "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "DUMBO",
-        "hint": "Which baby elephant learns to fly with giant ears?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "LEGEND",
-        "hint": "What old story explains how a hero became famous?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
+        "position": 11
       }
     ],
     [
       {
-        "answer": "LEGEND",
-        "hint": "What old story explains how a hero became famous?",
-        "startx": 4,
+        "answer": "SCULPTOR",
+        "hint": "Who shapes clay or stone into statues?",
+        "startx": 3,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SCENE",
-        "hint": "What small part of a movie happens in one place?",
-        "startx": 5,
+        "answer": "MERIDA",
+        "hint": "Which Scottish princess uses a bow and arrow?",
+        "startx": 10,
         "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SCRIPT",
-        "hint": "What paper has the words actors need to say?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "ABBY",
-        "hint": "Which fairy in training carries a sparkly wand?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NALA",
-        "hint": "Which lioness is Simba's brave best friend?",
-        "startx": 5,
-        "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
         "answer": "SAX",
         "hint": "What shiny horn plays jazzy songs?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GALLERY",
-        "hint": "What long room displays paintings on white walls?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HECTOR",
-        "hint": "Which skeleton helps Miguel find family in Coco?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "MINNIE",
-        "hint": "Which mouse loves polka dots and big bows?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OBIWAN",
-        "hint": "Which wise Jedi says hello there on Tatooine?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GIULIA",
-        "hint": "Which brave girl enters the Portorosso race?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "CARNIVAL",
-        "hint": "What bright fair brings rides, music, and snacks?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HAGRID",
-        "hint": "Which giant keeper cares for magical creatures?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HEIHEI",
-        "hint": "Which clueless chicken rides in Moana's canoe?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CATWOMAN",
-        "hint": "Which sneaky cat burglar sometimes helps Batman?",
         "startx": 3,
         "starty": 8,
         "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BONFIRE",
-        "hint": "What big night fire celebrates Guy Fawkes Night?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "LUNA",
-        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
-        "startx": 1,
-        "starty": 15,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SCENE",
-        "hint": "What small part of a movie happens in one place?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HARLEY",
-        "hint": "Which giggling villain swings a huge hammer?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LUNA",
-        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "EPISODES",
-        "hint": "What many shows make up a whole season?",
+        "answer": "KYLO",
+        "hint": "Which dark warrior swings a saber with red side beams?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MUFASA",
+        "hint": "Which lion king teaches Simba about the stars?",
         "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BELLE",
-        "hint": "Which book-loving princess tames a hairy beast?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "VIOLIN",
-        "hint": "What string instrument do you play with a bow?",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "VILLAIN",
-        "hint": "What bad character causes trouble in a story?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PAINTERS",
-        "hint": "Who spend hours mixing colors on palettes?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ANTONIO",
-        "hint": "Which cousin talks with animals at age five?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SOMBRERO",
-        "hint": "What wide hat shades mariachi singers from sun?",
-        "startx": 4,
-        "starty": 13,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TALE",
-        "hint": "What word means a short story with fun events?",
-        "startx": 8,
         "starty": 11,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "CLARK",
-        "hint": "What first name does Superman use at the Daily Planet?",
+        "answer": "WAYNE",
+        "hint": "What last name does Batman use when he is not in costume?",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "GEORGE",
+        "hint": "Which little pig holds a dinosaur toy everywhere?",
+        "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "STAGE",
+        "hint": "What raised floor do actors stand on in theater?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "Which snow pup drives a plow on icy hills?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HOLIDAY",
+        "hint": "What special day do families celebrate each year?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NEBULA",
+        "hint": "Which blue guardian learns to trust her sister?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DANCE",
+        "hint": "What moving art matches beats and music?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "NOODLE",
+        "hint": "What long strand of dough shows up in ramen bowls?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "DOPEY",
+        "hint": "Which dwarf never talks but always giggles?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "OBIWAN",
+        "hint": "Which wise Jedi says hello there on Tatooine?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ARIEL",
+        "hint": "Which mermaid princess loves to sing under the sea?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ERNIE",
+        "hint": "Which best pal loves his rubber ducky?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "EASTER",
+        "hint": "Which spring holiday has baskets full of eggs?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SIMBA",
+        "hint": "Which lion cub becomes king on Pride Rock?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LUIGI",
+        "hint": "Which yellow Fiat loves whitewall tires?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "THOR",
+        "hint": "Which hero uses a hammer and controls lightning?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MOLLY",
+        "hint": "Which Alaska Native kid hosts Molly of Denali?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "NOVELS",
+        "hint": "What long stories can take many chapters?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SAMOSA",
+        "hint": "What triangular pastry from India holds spicy potatoes?",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "LYRIC",
+        "hint": "What do you call one line of song words?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "JETT",
+        "hint": "Which red Super Wing delivers packages around the world?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MILES",
+        "hint": "Which Spider-Man wears a black suit with red lines?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HOLI",
+        "hint": "Which spring festival throws bright rainbow powders?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MATER",
+        "hint": "Which rusty tow truck is Lightning McQueen's pal?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ELMO",
+        "hint": "Which red furry monster loves to sing on Sesame Street?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CELLO",
+        "hint": "What big string instrument rests on the floor?",
         "startx": 3,
         "starty": 3,
         "orientation": "across",
@@ -1406,154 +530,174 @@
     ],
     [
       {
-        "answer": "EMILY",
-        "hint": "Which emerald engine has a large driving wheel?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RAPPER",
-        "hint": "Who speaks rhyming lines over a beat?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HAN",
-        "hint": "Which pilot flies the Millennium Falcon with Chewie?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SCULPTOR",
-        "hint": "Who shapes clay or stone into statues?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "BALLETS",
-        "hint": "What long dance shows tell fancy stories?",
+        "answer": "FALAFEL",
+        "hint": "What crispy chickpea balls go inside pitas?",
         "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ANIME",
-        "hint": "What animated shows come from Japan?",
-        "startx": 8,
-        "starty": 4,
+        "answer": "FORKY",
+        "hint": "Which spork toy keeps yelling that he is trash?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DANCE",
-        "hint": "What moving art matches beats and music?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "DOC",
-        "hint": "Which dwarf wears glasses and leads the group?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BINGO",
-        "hint": "Which younger sister loves to pretend with Bluey?",
+        "answer": "GUITARS",
+        "hint": "What instruments strum chords in a band?",
         "startx": 7,
         "starty": 4,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SHRINE",
-        "hint": "What tiny sacred spot holds offerings and candles?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "KEBAB",
-        "hint": "What grilled skewer holds veggies or meat at fairs?",
+        "answer": "BIGBIRD",
+        "hint": "Which tall yellow bird lives in a big nest?",
         "startx": 5,
         "starty": 4,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "TAPESTRY",
-        "hint": "What giant woven picture hangs on a castle wall?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "SNITCH",
+        "hint": "What tiny golden ball must the Seeker catch?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
         "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "COMEDY",
-        "hint": "What funny show makes you laugh out loud?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "ALFRED",
-        "hint": "Which butler brings Batman snacks and advice?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "STAGES",
-        "hint": "What platforms hold actors, props, and lights?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GROGU",
-        "hint": "Which tiny green child loves to sip bone broth?",
-        "startx": 5,
+        "answer": "HULK",
+        "hint": "Which green hero smashes when he gets angry?",
+        "startx": 10,
         "starty": 6,
         "orientation": "down",
-        "position": 4
+        "position": 6
       },
       {
-        "answer": "WAYNE",
-        "hint": "What last name does Batman use when he is not in costume?",
+        "answer": "ROCKY",
+        "hint": "Which recycling pup says Don't lose it, reuse it?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "SHOWS",
+        "hint": "What programs air every afternoon or night?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "NANI",
+        "hint": "Which big sister cares for Lilo in Hawaii?",
         "startx": 9,
-        "starty": 6,
+        "starty": 1,
         "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "GENIE",
+        "hint": "Which blue magical friend pops out of a lamp?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "LANTERN",
+        "hint": "What glowing paper light floats during festivals?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ALBERTO",
+        "hint": "Which sea monster teaches Luca to ride a Vespa?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PARADE",
+        "hint": "What moving line of floats and bands fills a street?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NAVEEN",
+        "hint": "Which prince turns into a frog in New Orleans?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CLARK",
+        "hint": "What first name does Superman use at the Daily Planet?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "EGG",
-        "hint": "What small item do kids dye bright colors at Easter?",
-        "startx": 3,
-        "starty": 6,
+        "answer": "NANI",
+        "hint": "Which big sister cares for Lilo in Hawaii?",
+        "startx": 8,
+        "starty": 13,
         "orientation": "across",
         "position": 6
+      },
+      {
+        "answer": "MARKET",
+        "hint": "What busy place sells fruits, art, and clothes?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ELMO",
+        "hint": "Which red furry monster loves to sing on Sesame Street?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "RHINO",
+        "hint": "Which hamster loves Bolt's hero moves?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "VIOLIN",
+        "hint": "What string instrument do you play with a bow?",
+        "startx": 1,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      },
+      {
+        "answer": "FINN",
+        "hint": "Which former stormtrooper joins the good side?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "down",
+        "position": 11
       }
     ],
     [
@@ -1566,298 +710,388 @@
         "position": 1
       },
       {
-        "answer": "SUPERMAN",
-        "hint": "Which hero can fly, see through walls, and lift cars?",
+        "answer": "GWEN",
+        "hint": "Which spider hero wears a white hood and pink webbing?",
         "startx": 7,
-        "starty": 5,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "GROGU",
-        "hint": "Which tiny green child loves to sip bone broth?",
-        "startx": 5,
+        "answer": "MINNIE",
+        "hint": "Which mouse loves polka dots and big bows?",
+        "startx": 4,
         "starty": 6,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "MANGA",
-        "hint": "What comic style comes from Japan?",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HUMMUS",
-        "hint": "What creamy chickpea dip is eaten with pita?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "WRITERS",
-        "hint": "Who create books, scripts, and poems?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FLASH",
-        "hint": "Which hero runs faster than lightning in Central City?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ERIC",
-        "hint": "Which human prince sails ships and loves Ariel?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "PADME",
-        "hint": "Which queen marries Anakin and loves Naboo?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BONFIRE",
-        "hint": "What big night fire celebrates Guy Fawkes Night?",
+        "answer": "RAPPERS",
+        "hint": "Who rhyme fast while music plays?",
         "startx": 9,
         "starty": 2,
         "orientation": "down",
-        "position": 2
+        "position": 4
       },
       {
-        "answer": "TONKS",
-        "hint": "Which pink-haired Auror can change her face?",
-        "startx": 8,
+        "answer": "PIZZA",
+        "hint": "What round flat bread comes with sauce and cheese?",
+        "startx": 5,
         "starty": 3,
         "orientation": "across",
-        "position": 3
+        "position": 5
+      },
+      {
+        "answer": "NEMO",
+        "hint": "Which tiny clownfish has one small fin?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ANIME",
+        "hint": "What animated shows come from Japan?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "DISPLAY",
+        "hint": "What setup shows costumes, art, or cool artifacts?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
       }
     ],
     [
       {
-        "answer": "SHOW",
-        "hint": "What word means a program you watch on TV?",
+        "answer": "BINGO",
+        "hint": "Which younger sister loves to pretend with Bluey?",
         "startx": 5,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "DOLORES",
-        "hint": "Which cousin hears every whisper in the house?",
+        "answer": "SHOW",
+        "hint": "What word means a program you watch on TV?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EGGS",
+        "hint": "What colorful ovals get hidden in the yard?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "NOVEL",
+        "hint": "What long book tells one big story?",
         "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CELLO",
+        "hint": "What big string instrument rests on the floor?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CHEWIE",
+        "hint": "Which tall Wookiee roars and loves his pilot friend?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "TCHALLA",
+        "hint": "Which Black Panther wears a vibranium suit?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "RAPPER",
+        "hint": "Who speaks rhyming lines over a beat?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "FAIRS",
+        "hint": "What weekend events bring crafts and cotton candy?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ALADDIN",
+        "hint": "Which street boy finds a magic lamp in Agrabah?",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "GENIE",
+        "hint": "Which blue magical friend pops out of a lamp?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 8,
         "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "SHURI",
-        "hint": "Which smart princess invents tech for Wakanda?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "POE",
+        "hint": "Which rebel pilot loves to fly his orange X-wing?",
+        "startx": 6,
+        "starty": 6,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "EXTRAS",
-        "hint": "What background actors fill busy scenes?",
-        "startx": 7,
-        "starty": 12,
+        "answer": "ANGUS",
+        "hint": "Which black horse carries Merida through the forest?",
+        "startx": 5,
+        "starty": 10,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "FORKY",
-        "hint": "Which spork toy keeps yelling that he is trash?",
-        "startx": 10,
+        "answer": "ANIME",
+        "hint": "What animated shows come from Japan?",
+        "startx": 5,
         "starty": 10,
         "orientation": "down",
         "position": 5
-      }
-    ],
-    [
+      },
       {
-        "answer": "WRITER",
-        "hint": "Who puts stories onto pages with words?",
+        "answer": "LEGEND",
+        "hint": "What old story explains how a hero became famous?",
         "startx": 4,
-        "starty": 8,
+        "starty": 14,
         "orientation": "across",
-        "position": 1
+        "position": 6
       },
       {
-        "answer": "AGATHA",
-        "hint": "Which witch sings it was Agatha all along?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PALACE",
-        "hint": "What fancy home does a king or queen live in?",
+        "answer": "VILLAIN",
+        "hint": "What bad character causes trouble in a story?",
         "startx": 4,
-        "starty": 5,
+        "starty": 12,
         "orientation": "across",
-        "position": 3
+        "position": 7
       },
       {
-        "answer": "JAMES",
-        "hint": "Which red engine loves to show off his paint?",
-        "startx": 6,
-        "starty": 10,
+        "answer": "BOPEEP",
+        "hint": "Which shepherdess doll carries a blue staff?",
+        "startx": 1,
+        "starty": 6,
         "orientation": "across",
-        "position": 4
+        "position": 8
       },
       {
         "answer": "STORY",
         "hint": "What do you call a tale with a beginning, middle, and end?",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "FORCE",
-        "hint": "What mysterious power lets Jedi lift rocks?",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "HOLI",
-        "hint": "Which spring festival throws bright rainbow powders?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LEIA",
-        "hint": "Which princess leads the rebels with brave speeches?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BLUEY",
-        "hint": "Which blue heeler puppy plays games in Australia?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "EVEREST",
-        "hint": "Which snow pup drives a plow on icy hills?",
-        "startx": 10,
+        "startx": 2,
         "starty": 4,
         "orientation": "down",
-        "position": 4
+        "position": 9
       },
       {
-        "answer": "SITH",
-        "hint": "What dark group uses the Force for harm?",
-        "startx": 5,
-        "starty": 5,
+        "answer": "BELLE",
+        "hint": "Which book-loving princess tames a hairy beast?",
+        "startx": 4,
+        "starty": 2,
         "orientation": "down",
-        "position": 5
+        "position": 10
       }
     ],
     [
       {
-        "answer": "PIANIST",
-        "hint": "Who plays the piano for a concert?",
+        "answer": "SCREENS",
+        "hint": "What big rectangles show movies or games?",
         "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "KWANZAA",
-        "hint": "Which winter festival lights seven kinara candles?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ISA",
-        "hint": "Which green iguana grows flowers in Dora's garden?",
+        "answer": "FESTIVAL",
+        "hint": "What big party celebrates music, food, or art?",
         "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CLARK",
-        "hint": "What first name does Superman use at the Daily Planet?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "MUSIC",
-        "hint": "What do you listen to when you dance around?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "OSCAR",
-        "hint": "Which grouchy monster lives in a trash can?",
-        "startx": 7,
         "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RYDER",
-        "hint": "Which kid leader tells the Paw Patrol to roll out?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
+        "answer": "SKYE",
+        "hint": "Which cockapoo pup flies a pink helicopter?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
         "position": 3
+      },
+      {
+        "answer": "BEASTBOY",
+        "hint": "Which teen hero can turn into any animal?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RAMEN",
+        "hint": "What noodle soup is slurped from a big bowl?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "FABLES",
+        "hint": "What stories use talking animals to teach lessons?",
+        "startx": 5,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "KEBAB",
+        "hint": "What grilled skewer holds veggies or meat at fairs?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
       }
     ],
     [
       {
-        "answer": "MUFASA",
-        "hint": "Which lion king teaches Simba about the stars?",
+        "answer": "MILES",
+        "hint": "Which Spider-Man wears a black suit with red lines?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EXTRAS",
+        "hint": "What background actors fill busy scenes?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRAMAS",
+        "hint": "What serious shows make you feel emotional?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CURRY",
+        "hint": "What spicy dish can be served with rice or naan?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TONKS",
+        "hint": "Which pink-haired Auror can change her face?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "STAGES",
+        "hint": "What platforms hold actors, props, and lights?",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "NOEL",
+        "hint": "What French word means Christmas songs and joy?",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "DOPEY",
+        "hint": "Which dwarf never talks but always giggles?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "OWL",
+        "hint": "What bird brings Hogwarts mail at breakfast?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "FILM",
+        "hint": "What word also means a movie on a reel?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      },
+      {
+        "answer": "DIRECTOR",
+        "hint": "Who tells actors where to stand and speak?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "EPISODE",
+        "hint": "What single show is part of a bigger series?",
         "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MUSICIAN",
-        "hint": "Who plays an instrument for the audience?",
-        "startx": 7,
-        "starty": 2,
+        "answer": "KYLO",
+        "hint": "Which dark warrior swings a saber with red side beams?",
+        "startx": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
@@ -1870,41 +1104,1383 @@
         "position": 3
       },
       {
-        "answer": "GORDON",
-        "hint": "Which big blue engine pulls the express train?",
+        "answer": "GROOT",
+        "hint": "Which talking tree only says I am Groot?",
         "startx": 12,
         "starty": 6,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "AUTHOR",
-        "hint": "Who writes books for kids to enjoy?",
-        "startx": 9,
-        "starty": 8,
+        "answer": "CHIP",
+        "hint": "Which chipmunk loves nuts and has a black nose stripe?",
+        "startx": 5,
+        "starty": 5,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "SVEN",
-        "hint": "Which loyal reindeer pulls Kristoff's sleigh?",
+        "answer": "EMILY",
+        "hint": "Which emerald engine has a large driving wheel?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "REY",
+        "hint": "Which scavenger finds Luke's lightsaber on Jakku?",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "CATWOMAN",
+        "hint": "Which sneaky cat burglar sometimes helps Batman?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SONG",
+        "hint": "What do you sing along to on the radio?",
         "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MOANA",
+        "hint": "Which island girl sails across the ocean with courage?",
+        "startx": 9,
         "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SCROLL",
+        "hint": "What rolled paper holds ancient writing or art?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "EXTRAS",
+        "hint": "What background actors fill busy scenes?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "POE",
+        "hint": "Which rebel pilot loves to fly his orange X-wing?",
+        "startx": 8,
+        "starty": 5,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "PADME",
-        "hint": "Which queen marries Anakin and loves Naboo?",
+        "answer": "GIULIA",
+        "hint": "Which brave girl enters the Portorosso race?",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BAND",
+        "hint": "What group of musicians plays together?",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "FILMS",
+        "hint": "What do directors make for theaters and TV?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "OBIWAN",
+        "hint": "Which wise Jedi says hello there on Tatooine?",
         "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SIRIUS",
+        "hint": "Which Animagus turns into a big black dog?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OSCAR",
+        "hint": "Which grouchy monster lives in a trash can?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TONKS",
+        "hint": "Which pink-haired Auror can change her face?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "STAGES",
+        "hint": "What platforms hold actors, props, and lights?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CARTOONS",
+        "hint": "What animated shows fill the kids' channel?",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SHOW",
+        "hint": "What word means a program you watch on TV?",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "DORA",
+        "hint": "Which explorer asks you to say Map and Backpack?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "DIEGO",
+        "hint": "Which cousin rescues jungle animals with gadgets?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "GRUMPY",
+        "hint": "Which dwarf complains with crossed arms?",
+        "startx": 1,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      },
+      {
+        "answer": "ABBY",
+        "hint": "Which fairy in training carries a sparkly wand?",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "down",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "DRAMA",
+        "hint": "What serious play has strong feelings?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FILM",
+        "hint": "What word also means a movie on a reel?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHEWIE",
+        "hint": "Which tall Wookiee roars and loves his pilot friend?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "RUBBLE",
+        "hint": "Which bulldog pup uses a digger to fix roads?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "LUISA",
+        "hint": "Which super-strong sister can lift donkeys easily?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BALLET",
+        "hint": "What dance uses pointe shoes and graceful jumps?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SCRIPT",
+        "hint": "What paper has the words actors need to say?",
+        "startx": 11,
         "starty": 5,
         "orientation": "down",
         "position": 7
       },
       {
+        "answer": "SNOW",
+        "hint": "Which princess has skin as white as snow?",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      },
+      {
         "answer": "DORY",
         "hint": "Which blue fish keeps forgetting everything?",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "SITH",
+        "hint": "What dark group uses the Force for harm?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ALBERTO",
+        "hint": "Which sea monster teaches Luca to ride a Vespa?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BRUNO",
+        "hint": "Which uncle hears everything in the walls?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BIGBIRD",
+        "hint": "Which tall yellow bird lives in a big nest?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "AUTHOR",
+        "hint": "Who writes books for kids to enjoy?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "NOVELS",
+        "hint": "What long stories can take many chapters?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "DORY",
+        "hint": "Which blue fish keeps forgetting everything?",
+        "startx": 6,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "HOLI",
+        "hint": "Which spring festival throws bright rainbow powders?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "JETT",
+        "hint": "Which red Super Wing delivers packages around the world?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "CHASE",
+        "hint": "Which German shepherd pup leads the Paw Patrol?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "CANDY",
+        "hint": "What sweet treat fills bags on Halloween night?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 10
+      },
+      {
+        "answer": "EID",
+        "hint": "Which happy feast ends the month of Ramadan?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "EPISODES",
+        "hint": "What many shows make up a whole season?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DOC",
+        "hint": "Which dwarf wears glasses and leads the group?",
         "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DUMPLING",
+        "hint": "What little dough pocket is steamed or fried?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TIMON",
+        "hint": "Which meerkat teaches Simba to eat bugs?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "JESSIE",
+        "hint": "Which cowgirl doll loves to yodel with Woody?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "PAELLA",
+        "hint": "What Spanish rice dish mixes saffron with seafood?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "FAIR",
+        "hint": "What local event has rides, games, and prizes?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DANCE",
+        "hint": "What moving art matches beats and music?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HERO",
+        "hint": "What brave character saves people in a story?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HAPPY",
+        "hint": "Which dwarf smiles even during hard work?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RUBBLE",
+        "hint": "Which bulldog pup uses a digger to fix roads?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "FABLE",
+        "hint": "What story teaches a lesson with talking animals?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "DOBBY",
+        "hint": "Which house-elf wears socks and helps Harry escape?",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BALOO",
+        "hint": "Which big bear sings The Bare Necessities?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "EASTER",
+        "hint": "Which spring holiday has baskets full of eggs?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "MASKS",
+        "hint": "What coverings do performers wear at a costume ball?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DORA",
+        "hint": "Which explorer asks you to say Map and Backpack?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OWL",
+        "hint": "What bird brings Hogwarts mail at breakfast?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SLEEPY",
+        "hint": "Which dwarf keeps yawning during chores?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BERT",
+        "hint": "Which striped-shirt friend loves paper clips and pigeons?",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "Which snow pup drives a plow on icy hills?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SONGS",
+        "hint": "What tunes do singers perform on stage?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ANGUS",
+        "hint": "Which black horse carries Merida through the forest?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PONCHO",
+        "hint": "What cozy blanket shirt keeps you dry in rain?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RAYA",
+        "hint": "Which warrior from Kumandra rides a giant pill bug?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "AUTHORS",
+        "hint": "Who write many books for libraries?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "WAKANDA",
+        "hint": "What secret African nation has the Black Panther?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "MICKEY",
+        "hint": "Which mouse wears red shorts and leads the clubhouse?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FILM",
+        "hint": "What word also means a movie on a reel?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MIGUEL",
+        "hint": "Which boy travels to the Land of the Dead with a guitar?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SHURI",
+        "hint": "Which smart princess invents tech for Wakanda?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "AGATHA",
+        "hint": "Which witch sings it was Agatha all along?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "DANCE",
+        "hint": "What moving art matches beats and music?",
+        "startx": 2,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "GALLERY",
+        "hint": "What long room displays paintings on white walls?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "HEIHEI",
+        "hint": "Which clueless chicken rides in Moana's canoe?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      },
+      {
+        "answer": "NEBULA",
+        "hint": "Which blue guardian learns to trust her sister?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "MYTHS",
+        "hint": "What ancient stories try to explain the world?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DOPEY",
+        "hint": "Which dwarf never talks but always giggles?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POETS",
+        "hint": "Who create poems to share emotions?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "WANDA",
+        "hint": "Which Scarlet Witch uses glowing red magic?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BENTO",
+        "hint": "What Japanese lunch box holds rice, fish, and fruit?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TRUMPET",
+        "hint": "What brass horn has three shiny buttons?",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "RAMEN",
+        "hint": "What noodle soup is slurped from a big bowl?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BRUCE",
+        "hint": "Which great white shark says Fish are friends?",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "DANCES",
+        "hint": "What styles let you move to different beats?",
+        "startx": 4,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "PUMBAA",
+        "hint": "Which friendly warthog loves to sing Hakuna Matata?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 10
+      },
+      {
+        "answer": "WOODY",
+        "hint": "Which cowboy doll leads the toys when Andy leaves?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "CARTOON",
+        "hint": "What animated show makes you laugh on Saturday?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "FLYNN",
+        "hint": "Which sneaky thief helps Rapunzel leave the tower?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "BALOO",
+        "hint": "Which big bear sings The Bare Necessities?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MOANA",
+        "hint": "Which island girl sails across the ocean with courage?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "DISPLAY",
+        "hint": "What setup shows costumes, art, or cool artifacts?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LOKI",
+        "hint": "Which trickster god wears green horns and plays pranks?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "PHILIP",
+        "hint": "Which prince wakes Aurora with a gentle kiss?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "LUIGI",
+        "hint": "Which yellow Fiat loves whitewall tires?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "COSTUME",
+        "hint": "What outfit do kids wear while trick-or-treating?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "POETS",
+        "hint": "Who create poems to share emotions?",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "GUITAR",
+        "hint": "What instrument has six strings to strum?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FAIRS",
+        "hint": "What weekend events bring crafts and cotton candy?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JASMINE",
+        "hint": "Which princess has a tiger and rides a magic carpet?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BELLE",
+        "hint": "Which book-loving princess tames a hairy beast?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SARI",
+        "hint": "What long cloth do many Indian women wrap around?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ALFRED",
+        "hint": "Which butler brings Batman snacks and advice?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "NEWYEAR",
+        "hint": "Which holiday counts down to midnight fireworks?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SARI",
+        "hint": "What long cloth do many Indian women wrap around?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FLUTE",
+        "hint": "What instrument do you blow across to make sound?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LIBRARY",
+        "hint": "What quiet place lets you borrow stacks of books?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MOWGLI",
+        "hint": "Which jungle boy is raised by wolves and a bear?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "FABLE",
+        "hint": "What story teaches a lesson with talking animals?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MILES",
+        "hint": "Which Spider-Man wears a black suit with red lines?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "POE",
+        "hint": "Which rebel pilot loves to fly his orange X-wing?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "THUMPER",
+        "hint": "Which rabbit taps his foot and teaches Bambi manners?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ISA",
+        "hint": "Which green iguana grows flowers in Dora's garden?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "CHIP",
+        "hint": "Which chipmunk loves nuts and has a black nose stripe?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MARLIN",
+        "hint": "Which worried fish dad crosses the ocean for Nemo?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AUTHORS",
+        "hint": "Who write many books for libraries?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ARTIFACT",
+        "hint": "What object from history sits inside a glass case?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FALCON",
+        "hint": "Which hero flies using red wings and jet packs?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "FILMS",
+        "hint": "What do directors make for theaters and TV?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BOPEEP",
+        "hint": "Which shepherdess doll carries a blue staff?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TALES",
+        "hint": "What do you call many short stories or legends?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ABBY",
+        "hint": "Which fairy in training carries a sparkly wand?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CAST",
+        "hint": "What group of actors puts on the show?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "NALA",
+        "hint": "Which lioness is Simba's brave best friend?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GINNY",
+        "hint": "Which youngest Weasley sister plays Quidditch?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "REY",
+        "hint": "Which scavenger finds Luke's lightsaber on Jakku?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "PAELLA",
+        "hint": "What Spanish rice dish mixes saffron with seafood?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LUISA",
+        "hint": "Which super-strong sister can lift donkeys easily?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRAMA",
+        "hint": "What serious play has strong feelings?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HANS",
+        "hint": "Which prince pretends to love Anna in Arendelle?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "WRITERS",
+        "hint": "Who create books, scripts, and poems?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "RAMADAN",
+        "hint": "Which holy month has fasting from sunrise to sunset?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "DOLORES",
+        "hint": "Which cousin hears every whisper in the house?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "SOUVENIR",
+        "hint": "What small gift do you buy to remember a trip?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SARI",
+        "hint": "What long cloth do many Indian women wrap around?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "HEROES",
+        "hint": "What brave characters rescue everyone in a tale?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "GEORGE",
+        "hint": "Which little pig holds a dinosaur toy everywhere?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUBBLE",
+        "hint": "Which bulldog pup uses a digger to fix roads?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LUNA",
+        "hint": "Which dreamy witch wears radish earrings and sees wrackspurts?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CANDY",
+        "hint": "What sweet treat fills bags on Halloween night?",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ENCANTO",
+        "hint": "Which magical house shelters the Madrigal family?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SABER",
+        "hint": "What glowing weapon do Jedi and Sith swing?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CAPTAIN",
+        "hint": "Which hero carries a round shield with a star?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ISA",
+        "hint": "Which green iguana grows flowers in Dora's garden?",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "RELIC",
+        "hint": "What old object reminds people of the past?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ARTIST",
+        "hint": "Who creates drawings, songs, or sculptures?",
+        "startx": 7,
+        "starty": 15,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "BAZAAR",
+        "hint": "What outdoor market has rugs, spices, and music?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DRUMMER",
+        "hint": "Who keeps the beat on the drums?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GUITARS",
+        "hint": "What instruments strum chords in a band?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TONKS",
+        "hint": "Which pink-haired Auror can change her face?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "EPISODES",
+        "hint": "What many shows make up a whole season?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BUCKY",
+        "hint": "Which winter soldier is Captain America's best pal?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "FLASH",
+        "hint": "Which hero runs faster than lightning in Central City?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ANIME",
+        "hint": "What animated shows come from Japan?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WRITER",
+        "hint": "Who puts stories onto pages with words?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "JASMINE",
+        "hint": "Which princess has a tiger and rides a magic carpet?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RELIC",
+        "hint": "What old object reminds people of the past?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HERMIONE",
+        "hint": "Which clever witch loves books and solves problems?",
+        "startx": 1,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 9,
         "starty": 13,
         "orientation": "across",
         "position": 8
@@ -1912,312 +2488,1104 @@
     ],
     [
       {
-        "answer": "SISU",
-        "hint": "Which friendly dragon helps Raya unite the lands?",
-        "startx": 5,
+        "answer": "TRACKER",
+        "hint": "Which jungle pup rides a jeep and hears well?",
+        "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "MIRABEL",
-        "hint": "Which girl wears glasses and saves her magic house?",
+        "answer": "CANDLES",
+        "hint": "What glowing sticks sit on cakes and menorahs?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WAKANDA",
+        "hint": "What secret African nation has the Black Panther?",
         "startx": 6,
-        "starty": 7,
+        "starty": 2,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COMEDY",
-        "hint": "What funny show makes you laugh out loud?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "BOOTS",
-        "hint": "Which monkey wears red boots and loves adventures?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "ARTIST",
-        "hint": "Who creates drawings, songs, or sculptures?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CHOIRS",
-        "hint": "What groups of voices perform at concerts?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ELMO",
-        "hint": "Which red furry monster loves to sing on Sesame Street?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "POEM",
-        "hint": "What short writing can rhyme and paint pictures?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "FAIRIES",
-        "hint": "What tiny winged friends grant wishes in tales?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "BOLT",
-        "hint": "Which white dog thinks he has superpowers?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LANTERN",
-        "hint": "What glowing paper light floats during festivals?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TAPESTRY",
-        "hint": "What giant woven picture hangs on a castle wall?",
-        "startx": 4,
-        "starty": 12,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SEDER",
-        "hint": "What special meal retells the Passover story?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DOC",
-        "hint": "Which dwarf wears glasses and leads the group?",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MUSIC",
-        "hint": "What do you listen to when you dance around?",
-        "startx": 12,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "HANBOK",
-        "hint": "What colorful Korean outfit has a short jacket?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "MUSIC",
-        "hint": "What do you listen to when you dance around?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TIMON",
-        "hint": "Which meerkat teaches Simba to eat bugs?",
+        "answer": "BALOO",
+        "hint": "Which big bear sings The Bare Necessities?",
         "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MATZAH",
-        "hint": "What flat bread is eaten during Passover?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "MIGUEL",
-        "hint": "Which boy travels to the Land of the Dead with a guitar?",
-        "startx": 4,
-        "starty": 8,
+        "starty": 4,
         "orientation": "across",
-        "position": 1
+        "position": 4
       },
       {
-        "answer": "ROBIN",
-        "hint": "Which sidekick wears bright colors and helps Batman?",
-        "startx": 5,
+        "answer": "CULTURE",
+        "hint": "What word means the art, music, and stories people share?",
+        "startx": 4,
         "starty": 5,
         "orientation": "down",
-        "position": 2
+        "position": 5
+      },
+      {
+        "answer": "KEBAB",
+        "hint": "What grilled skewer holds veggies or meat at fairs?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
       },
       {
         "answer": "IRONMAN",
         "hint": "Which hero flies using a red and gold armor suit?",
-        "startx": 4,
-        "starty": 5,
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "AGATHA",
+        "hint": "Which witch sings it was Agatha all along?",
+        "startx": 1,
+        "starty": 3,
         "orientation": "across",
-        "position": 3
+        "position": 8
+      },
+      {
+        "answer": "CAST",
+        "hint": "What group of actors puts on the show?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
       }
     ],
     [
       {
-        "answer": "SALLY",
-        "hint": "Which blue car runs the Cozy Cone Motel?",
+        "answer": "CHEWIE",
+        "hint": "Which tall Wookiee roars and loves his pilot friend?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VILLAIN",
+        "hint": "What bad character causes trouble in a story?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AURORA",
+        "hint": "Which sleeping princess is also called Briar Rose?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "EASTER",
+        "hint": "Which spring holiday has baskets full of eggs?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ROCKET",
+        "hint": "Which raccoon pilot loves gadgets and jokes?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SHOWS",
+        "hint": "What programs air every afternoon or night?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ACTRESS",
+        "hint": "Who plays a pretend role on stage or screen?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DANCE",
+        "hint": "What moving art matches beats and music?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARTIST",
+        "hint": "Who creates drawings, songs, or sculptures?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ZUMA",
+        "hint": "Which chocolate lab pup zooms a hovercraft?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SARI",
+        "hint": "What long cloth do many Indian women wrap around?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SCRIPT",
+        "hint": "What paper has the words actors need to say?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "BEADS",
+        "hint": "What colorful strings decorate necklaces and dresses?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "EGGS",
+        "hint": "What colorful ovals get hidden in the yard?",
         "startx": 5,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SEDER",
-        "hint": "What special meal retells the Passover story?",
+        "answer": "JAMES",
+        "hint": "Which red engine loves to show off his paint?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "AGATHA",
+        "hint": "Which witch sings it was Agatha all along?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BANDS",
+        "hint": "What groups play music on a stage?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FIESTA",
+        "hint": "What Spanish word means a lively party?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "LILO",
+        "hint": "Which Hawaiian girl adopts a blue alien friend?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "BOOK",
+        "hint": "What do you read to explore new adventures?",
+        "startx": 1,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "KEBAB",
+        "hint": "What grilled skewer holds veggies or meat at fairs?",
         "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VILLAIN",
+        "hint": "What bad character causes trouble in a story?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COMEDIES",
+        "hint": "What funny plays and movies make crowds giggle?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SCAR",
+        "hint": "Which sneaky lion plots to take over Pride Rock?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BROOM",
+        "hint": "What do witches ride in the air during Quidditch?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "KRISTOF",
+        "hint": "Which ice seller helps Anna climb the mountain?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ELSA",
+        "hint": "Which snow queen sings Let It Go and makes ice?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ISA",
+        "hint": "Which green iguana grows flowers in Dora's garden?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "PUMBAA",
+        "hint": "Which friendly warthog loves to sing Hakuna Matata?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "Which snow pup drives a plow on icy hills?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "FABLE",
+        "hint": "What story teaches a lesson with talking animals?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ROSITA",
+        "hint": "Which turquoise monster speaks Spanish and plays guitar?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POTION",
+        "hint": "What bubbling drink wizards mix in class?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "KILT",
+        "hint": "What plaid skirt do Scottish dancers twirl in?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TROMBONE",
+        "hint": "What long brass horn slides to change notes?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "KYLO",
+        "hint": "Which dark warrior swings a saber with red side beams?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MANDO",
+        "hint": "Which armored bounty hunter protects Grogu?",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "SAX",
+        "hint": "What shiny horn plays jazzy songs?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "POE",
+        "hint": "Which rebel pilot loves to fly his orange X-wing?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "BOPEEP",
+        "hint": "Which shepherdess doll carries a blue staff?",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 10
+      },
+      {
+        "answer": "ERNIE",
+        "hint": "Which best pal loves his rubber ducky?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "EID",
+        "hint": "Which happy feast ends the month of Ramadan?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POET",
+        "hint": "Who writes poems full of feeling?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SNAPE",
+        "hint": "Which dark-robed teacher protects Harry in secret?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FILMS",
+        "hint": "What do directors make for theaters and TV?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CLARK",
+        "hint": "What first name does Superman use at the Daily Planet?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DONALD",
+        "hint": "Which duck gets mad quickly and wears a sailor shirt?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "CATWOMAN",
+        "hint": "Which sneaky cat burglar sometimes helps Batman?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "COCO",
+        "hint": "Which great-grandma loves when Miguel plays guitar?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "TORAH",
+        "hint": "What holy scroll do people read in synagogue?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "HERO",
+        "hint": "What brave character saves people in a story?",
+        "startx": 4,
+        "starty": 15,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "POTION",
+        "hint": "What bubbling drink wizards mix in class?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "GUITARS",
+        "hint": "What instruments strum chords in a band?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ELSA",
+        "hint": "Which snow queen sings Let It Go and makes ice?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GWEN",
+        "hint": "Which spider hero wears a white hood and pink webbing?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MANGA",
+        "hint": "What comic style comes from Japan?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DRAX",
+        "hint": "Which strong guardian takes every joke literally?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "WAND",
+        "hint": "What tool do wizards wave to cast spells?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ROBIN",
+        "hint": "Which sidekick wears bright colors and helps Batman?",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "GALLERY",
+        "hint": "What long room displays paintings on white walls?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "STATUE",
+        "hint": "What carved figure stands on a pedestal in town?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SLEEPY",
+        "hint": "Which dwarf keeps yawning during chores?",
+        "startx": 4,
         "starty": 8,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MILES",
-        "hint": "Which Spider-Man wears a black suit with red lines?",
-        "startx": 8,
-        "starty": 6,
+        "answer": "CAST",
+        "hint": "What group of actors puts on the show?",
+        "startx": 6,
+        "starty": 7,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "MICKEY",
-        "hint": "Which mouse wears red shorts and leads the clubhouse?",
+        "answer": "THOMAS",
+        "hint": "Which blue tank engine works on the Island of Sodor?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "PASSOVER",
+        "hint": "Which Jewish holiday has a Seder plate and songs?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ENSEMBLE",
+        "hint": "What large group plays violins, drums, and more?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "LEIA",
+        "hint": "Which princess leads the rebels with brave speeches?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "LANTERN",
+        "hint": "What glowing paper light floats during festivals?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "TALE",
+        "hint": "What word means a short story with fun events?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "POTION",
+        "hint": "What bubbling drink wizards mix in class?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NOVEL",
+        "hint": "What long book tells one big story?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ANNA",
+        "hint": "Which princess climbs a mountain to save her sister?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CANDLES",
+        "hint": "What glowing sticks sit on cakes and menorahs?",
         "startx": 1,
         "starty": 11,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "ORIGAMI",
-        "hint": "What Japanese art folds paper into tiny animals?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
+        "answer": "MATZAH",
+        "hint": "What flat bread is eaten during Passover?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "KIMCHI",
-        "hint": "What spicy Korean cabbage ferments in jars?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "down",
+        "answer": "HERO",
+        "hint": "What brave character saves people in a story?",
+        "startx": 2,
+        "starty": 15,
+        "orientation": "across",
         "position": 6
       },
       {
-        "answer": "SAMOSA",
-        "hint": "What triangular pastry from India holds spicy potatoes?",
-        "startx": 3,
-        "starty": 3,
+        "answer": "SARI",
+        "hint": "What long cloth do many Indian women wrap around?",
+        "startx": 7,
+        "starty": 5,
         "orientation": "down",
         "position": 7
       },
       {
-        "answer": "ANGUS",
-        "hint": "Which black horse carries Merida through the forest?",
+        "answer": "PASSOVER",
+        "hint": "Which Jewish holiday has a Seder plate and songs?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "BROOM",
+        "hint": "What do witches ride in the air during Quidditch?",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ZUMA",
+        "hint": "Which chocolate lab pup zooms a hovercraft?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "FIREWORK",
+        "hint": "What bright bursts light up the sky on holidays?",
         "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ACTOR",
+        "hint": "Who pretends to be a character on stage?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CANDLES",
+        "hint": "What glowing sticks sit on cakes and menorahs?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "DIRECTOR",
+        "hint": "Who tells actors where to stand and speak?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "IRONMAN",
+        "hint": "Which hero flies using a red and gold armor suit?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BRACELET",
+        "hint": "What jewelry circles your wrist at a festival?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MOVIE",
+        "hint": "What long film do you watch on a big screen?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BRUCE",
+        "hint": "Which great white shark says Fish are friends?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "PUMBAA",
+        "hint": "Which friendly warthog loves to sing Hakuna Matata?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "MYTH",
+        "hint": "What ancient story explains nature or the sky?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PADME",
+        "hint": "Which queen marries Anakin and loves Naboo?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VADER",
+        "hint": "Which villain wears black armor and breathes loudly?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "RAPPER",
+        "hint": "Who speaks rhyming lines over a beat?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DISPLAY",
+        "hint": "What setup shows costumes, art, or cool artifacts?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "POEM",
+        "hint": "What short writing can rhyme and paint pictures?",
+        "startx": 8,
         "starty": 4,
         "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MIRABEL",
+        "hint": "Which girl wears glasses and saves her magic house?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "THANOS",
+        "hint": "Which purple villain snaps with a golden glove?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
         "position": 8
       }
     ],
     [
       {
-        "answer": "GAMORA",
-        "hint": "Which green guardian fights with twin swords?",
+        "answer": "CHIMES",
+        "hint": "What ringing bells mark the start of a service?",
         "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SAMOSA",
-        "hint": "What triangular pastry from India holds spicy potatoes?",
+        "answer": "RAFIKI",
+        "hint": "Which wise baboon paints Simba on a tree?",
         "startx": 6,
-        "starty": 6,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "GINNY",
-        "hint": "Which youngest Weasley sister plays Quidditch?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "PAINTER",
+        "hint": "Who uses brushes to fill a canvas with color?",
+        "startx": 8,
+        "starty": 3,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "CHOIRS",
-        "hint": "What groups of voices perform at concerts?",
-        "startx": 8,
-        "starty": 4,
+        "answer": "CRUSH",
+        "hint": "Which chill turtle gives Marlin a ride in the current?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "ERIC",
-        "hint": "Which human prince sails ships and loves Ariel?",
-        "startx": 5,
-        "starty": 4,
+        "answer": "MUFASA",
+        "hint": "Which lion king teaches Simba about the stars?",
+        "startx": 1,
+        "starty": 6,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "ANAKIN",
-        "hint": "Which podracer grows up to become Darth Vader?",
-        "startx": 6,
-        "starty": 11,
+        "answer": "NEBULA",
+        "hint": "Which blue guardian learns to trust her sister?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "REY",
+        "hint": "Which scavenger finds Luke's lightsaber on Jakku?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "HAN",
+        "hint": "Which pilot flies the Millennium Falcon with Chewie?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "PUMPKIN",
+        "hint": "What orange squash do you carve for Halloween?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "DIEGO",
+        "hint": "Which cousin rescues jungle animals with gadgets?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 10
+      },
+      {
+        "answer": "SISU",
+        "hint": "Which friendly dragon helps Raya unite the lands?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 11
+      }
+    ],
+    [
+      {
+        "answer": "PASSOVER",
+        "hint": "Which Jewish holiday has a Seder plate and songs?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BANDS",
+        "hint": "What groups play music on a stage?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BENNY",
+        "hint": "Which blue bull drives a hot air balloon?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SNAPE",
+        "hint": "Which dark-robed teacher protects Harry in secret?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DORA",
+        "hint": "Which explorer asks you to say Map and Backpack?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "BOPEEP",
+        "hint": "Which shepherdess doll carries a blue staff?",
+        "startx": 5,
+        "starty": 4,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "VIOLIN",
-        "hint": "What string instrument do you play with a bow?",
+        "answer": "CHIP",
+        "hint": "Which chipmunk loves nuts and has a black nose stripe?",
         "startx": 10,
-        "starty": 10,
+        "starty": 1,
         "orientation": "down",
         "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "FABLE",
+        "hint": "What story teaches a lesson with talking animals?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SINGER",
+        "hint": "Who uses their voice to perform songs?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ERNIE",
+        "hint": "Which best pal loves his rubber ducky?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FAIR",
+        "hint": "What local event has rides, games, and prizes?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PRODUCER",
+        "hint": "Who helps plan and record music or movies?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DANCERS",
+        "hint": "Who leap and spin across the stage?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "STORIES",
+        "hint": "What do you call many tales told at bedtime?",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "CRUSH",
+        "hint": "Which chill turtle gives Marlin a ride in the current?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "VADER",
+        "hint": "Which villain wears black armor and breathes loudly?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "NAVEEN",
+        "hint": "Which prince turns into a frog in New Orleans?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      },
+      {
+        "answer": "ANTONIO",
+        "hint": "Which cousin talks with animals at age five?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 11
       }
     ]
   ]
