@@ -1,0 +1,2216 @@
+{
+  "levels": [
+    [
+      {
+        "answer": "FLASH",
+        "hint": "Small chip storage used in phones?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAPER",
+        "hint": "Printed sheet that comes out of a printer?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARGUMENT",
+        "hint": "Value you pass into a function?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "STACK",
+        "hint": "Data structure where last in is first out?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TEXT",
+        "hint": "Short message you send by phone?",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "REMOTE",
+        "hint": "Computer located somewhere far away?",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CSS",
+        "hint": "Code that styles web pages?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CSV",
+        "hint": "File where values are separated by commas?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BLOCKLY",
+        "hint": "Block coding tool used in schools?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ROW",
+        "hint": "Horizontal line of data in a table?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "TOGGLE",
+        "hint": "Switch that you flip back and forth?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "ALIGN",
+        "hint": "Line up text on the left or right?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "EVENT",
+        "hint": "Appointment you add to the calendar?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "VALUE",
+        "hint": "Data stored inside a variable?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "WEBPAGE",
+        "hint": "Single page inside a website?",
+        "startx": 2,
+        "starty": 15,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "TAB",
+        "hint": "Key used to move to the next box?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "CALENDAR",
+        "hint": "App that shows days, weeks, and months?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EXPORT",
+        "hint": "Save a copy in a different format?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TOUCH",
+        "hint": "Tap the screen with your finger?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "POST",
+        "hint": "Share a message on social media?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "DRIVE",
+        "hint": "Device that stores your files?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "TEMPLATE",
+        "hint": "Ready-made design you can fill in?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "DEFRAG",
+        "hint": "Tool that tidies files on an old hard drive?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ROM",
+        "hint": "Memory chip that keeps data even with no power?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHECKLST",
+        "hint": "List where you tap boxes when done?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "UNINSTAL",
+        "hint": "Remove software you no longer want?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TCP",
+        "hint": "Protocol that ensures packets arrive in order?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "DELETE",
+        "hint": "Key that removes the letter ahead?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PINCODE",
+        "hint": "Four-digit code used to unlock?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CLI",
+        "hint": "Short for command-line interface?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PASSCODE",
+        "hint": "Number lock on a phone or tablet?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "GAMECONS",
+        "hint": "Device like PlayStation or Xbox?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LAPTOP",
+        "hint": "Portable computer that folds like a book?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "BLOCKLY",
+        "hint": "Block coding tool used in schools?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "CHIP",
+        "hint": "Small piece of silicon that does the work?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "DELETE",
+        "hint": "Key that removes the letter ahead?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FLASH",
+        "hint": "Small chip storage used in phones?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BUFFER",
+        "hint": "Extra data stored to keep video smooth?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CABLE",
+        "hint": "Cord that carries power or data?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RESTORE",
+        "hint": "Put settings back to an earlier time?",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "POINTS",
+        "hint": "Score units you earn in games?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "KEYS",
+        "hint": "Buttons you press on a keyboard?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SMS",
+        "hint": "Simple text message sent by phone service?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VERIFY",
+        "hint": "Check that a code or password is correct?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BIOMETR",
+        "hint": "Unlock method using face or finger?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CELPHONE",
+        "hint": "Phone you carry in your pocket?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "WINDOW",
+        "hint": "Box that shows a program on your screen?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "INDENT",
+        "hint": "Move text inward from the margin?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TABLE",
+        "hint": "Grid of rows and columns in a database?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CLOUD",
+        "hint": "Online place where files are stored?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "RAM",
+        "hint": "Fast memory chips that help programs run?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "NUMBER",
+        "hint": "Digits stored in a variable?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "SIGNOFF",
+        "hint": "Little note with your name at the bottom?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HISTORY",
+        "hint": "List of websites you visited before?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SHARE",
+        "hint": "Send a file or link to someone else?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LEVEL",
+        "hint": "Stage or area inside a game?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "EVENT",
+        "hint": "Appointment you add to the calendar?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "UPDATE",
+        "hint": "Install the newest version of an app?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SPAM",
+        "hint": "Unwanted junk email?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "WIRE",
+        "hint": "Thin metal line covered in plastic?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ENGINE",
+        "hint": "Program that searches the internet for you?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "RUBY",
+        "hint": "Programming language named after a gem?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NETWORK",
+        "hint": "Group of devices sharing information?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SENSOR",
+        "hint": "Part that detects light, sound, or motion?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ROM",
+        "hint": "Memory chip that keeps data even with no power?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STOPWCH",
+        "hint": "Clock that counts up to time a race?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SDCARD",
+        "hint": "Tiny memory card you slide into a slot?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "REDO",
+        "hint": "Repeat the last action again?",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CODING",
+        "hint": "Act of writing instructions for computers?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POWERUP",
+        "hint": "Item that gives extra strength?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EXPORT",
+        "hint": "Save a copy in a different format?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "FORWARD",
+        "hint": "Pass an email along to another friend?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "REDO",
+        "hint": "Repeat the last action again?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BREAKPT",
+        "hint": "Spot where the debugger pauses your code?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "VIRUS",
+        "hint": "Bad program that can damage files?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "ROW",
+        "hint": "Horizontal line of data in a table?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HOTSPOT",
+        "hint": "Place where you can join a wifi network?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "INDENT",
+        "hint": "Move text inward from the margin?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PASTE",
+        "hint": "Place the text or file you copied?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ERROR",
+        "hint": "Message that something went wrong?",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CLOUD",
+        "hint": "Online place where files are stored?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HEATSINK",
+        "hint": "Metal block that pulls heat away from chips?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "LIBRARY",
+        "hint": "Collection of helpful code tools?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CASE",
+        "hint": "Outer shell that protects your computer?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOOLEAN",
+        "hint": "Value that is true or false?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PRINT",
+        "hint": "Send a file to the printer?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SPAM",
+        "hint": "Unwanted junk email?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MOUSE",
+        "hint": "Device you move to control the cursor?",
+        "startx": 1,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "LAYER",
+        "hint": "Transparent sheet used in art apps?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "XML",
+        "hint": "Markup language that stores data with tags?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHANNEL",
+        "hint": "Page with all the videos made by one creator?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ESCAPE",
+        "hint": "Key you tap to close a menu?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SLEEP",
+        "hint": "Low-power mode that keeps work ready?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TICKET",
+        "hint": "Record of work that must be done?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "USBCABLE",
+        "hint": "New rounded cable used for modern phones?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "STOPWCH",
+        "hint": "Clock that counts up to time a race?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "GRID",
+        "hint": "Pattern of lines that help things line up?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TRASH",
+        "hint": "Folder on a Mac that holds deleted files?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CACHE",
+        "hint": "Hidden storage that keeps files for speed?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "CALENDAR",
+        "hint": "App that shows days, weeks, and months?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LIST",
+        "hint": "Simple collection of items?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PYTHON",
+        "hint": "Programming language with a snake mascot?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SAVE",
+        "hint": "Store the latest changes in a file?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CODE",
+        "hint": "Instructions written for a computer?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OBJECT",
+        "hint": "Data that groups both info and actions?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SLOT",
+        "hint": "Opening where you slide a card or stick?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "UNDO",
+        "hint": "Reverse the last thing you did?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DRIVE",
+        "hint": "Device that stores your files?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ONLINE",
+        "hint": "State when your device is connected?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MEMORY",
+        "hint": "Place where the computer keeps things it is using?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BLURAY",
+        "hint": "High-definition movie disc?",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "HOMEPAGE",
+        "hint": "First page that loads when browser starts?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HERO",
+        "hint": "Main character you control in a game?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PRINT",
+        "hint": "Send a file to the printer?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TEXT",
+        "hint": "Short message you send by phone?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BOOKMARK",
+        "hint": "Saved link to a page you like?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ZOOMIN",
+        "hint": "Make the picture bigger on the screen?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ESCAPE",
+        "hint": "Key you tap to close a menu?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ENCRYPT",
+        "hint": "Scramble data so only trusted people can read it?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TABLET",
+        "hint": "Flat computer you tap with your finger?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BKSPACE",
+        "hint": "Key that erases the letter behind?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TEXT",
+        "hint": "Short message you send by phone?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TABBAR",
+        "hint": "Row of tabs across the top of a browser?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "REDO",
+        "hint": "Repeat the last action again?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "HOST",
+        "hint": "Computer that shares files or web pages?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TIMER",
+        "hint": "Clock that counts down from a set number?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DOWNLOAD",
+        "hint": "Copy a file from the internet to your device?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FORWARD",
+        "hint": "Pass an email along to another friend?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "BUFFER",
+        "hint": "Extra data stored to keep video smooth?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DEBUG",
+        "hint": "Find and fix the mistakes in code?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TEMPLATE",
+        "hint": "Ready-made design you can fill in?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BLUR",
+        "hint": "Effect that makes a photo look soft?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TAP",
+        "hint": "Touch the screen quickly once?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "LOGIN",
+        "hint": "Enter your name and password to sign in?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "LAYER",
+        "hint": "Transparent sheet used in art apps?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HERO",
+        "hint": "Main character you control in a game?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HDMI",
+        "hint": "Cable that carries video to a TV?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "WINDOW",
+        "hint": "Box that shows a program on your screen?",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "INPUT",
+        "hint": "Information a program receives from you?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CLICK",
+        "hint": "Press the mouse button once?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WIDGET",
+        "hint": "Mini app that lives on the home screen?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LOGIN",
+        "hint": "Enter your name and password to sign in?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HIGHLIT",
+        "hint": "Highlight text with a bright color?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CHIP",
+        "hint": "Small piece of silicon that does the work?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VIRUS",
+        "hint": "Bad program that can damage files?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DOCK",
+        "hint": "Bar with favorite apps at the bottom of screen?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SAVE",
+        "hint": "Store the latest changes in a file?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "LOGGER",
+        "hint": "Tool that writes down debug messages?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "BOARD",
+        "hint": "Flat plate that holds chips and circuits?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "WEATHER",
+        "hint": "App that shows sunshine, clouds, or rain?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "KEYS",
+        "hint": "Buttons you press on a keyboard?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "INPUT",
+        "hint": "Information a program receives from you?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COLUMN",
+        "hint": "Vertical section in a table?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "THREAD",
+        "hint": "Small job inside a program?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "DEBUG",
+        "hint": "Find and fix the mistakes in code?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EXTENSN",
+        "hint": "Letters at the end of a filename?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOYSTICK",
+        "hint": "Stick you move to fly a plane in a game?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FOLDER",
+        "hint": "Place where you store files together?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "UPLOAD",
+        "hint": "Send a file from your device to the internet?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CHIP",
+        "hint": "Small piece of silicon that does the work?",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "DECRYPT",
+        "hint": "Turn scrambled data back to normal?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "HDMI",
+        "hint": "Cable that carries video to a TV?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "FUNCTION",
+        "hint": "Reusable chunk of code?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TRACE",
+        "hint": "Log the steps a program takes?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POINTS",
+        "hint": "Score units you earn in games?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PRINT",
+        "hint": "Send a file to the printer?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "REQUEST",
+        "hint": "Message you send to an API?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PAPER",
+        "hint": "Printed sheet that comes out of a printer?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "TASK",
+        "hint": "Single job you need to complete?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "WEBCAM",
+        "hint": "Camera on your computer for video chats?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TEXT",
+        "hint": "Short message you send by phone?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CURSOR",
+        "hint": "Little arrow that shows where you point?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "SCAN",
+        "hint": "Copy paper into the computer as a picture?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "INBOX",
+        "hint": "Folder where new emails arrive?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ZOOMOUT",
+        "hint": "Make the picture smaller on the screen?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "REMOTE",
+        "hint": "Computer located somewhere far away?",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SIGNOFF",
+        "hint": "Little note with your name at the bottom?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GAMECONS",
+        "hint": "Device like PlayStation or Xbox?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "FLASH",
+        "hint": "Small chip storage used in phones?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "CREATOR",
+        "hint": "Person who makes online videos or art?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EMAIL",
+        "hint": "Electronic letter sent through the internet?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OUTBOX",
+        "hint": "Folder that holds messages waiting to send?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TASKMGR",
+        "hint": "Tool that shows which programs are running?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "CODING",
+        "hint": "Act of writing instructions for computers?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ARCHIVE",
+        "hint": "Store old files that you don't use daily?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ADDRESS",
+        "hint": "Number assigned to a device or website?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ARGUMENT",
+        "hint": "Value you pass into a function?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "USBCABLE",
+        "hint": "New rounded cable used for modern phones?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SWIPE",
+        "hint": "Slide your finger across the screen?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "QUEST",
+        "hint": "Adventure or task inside a game?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "MODEM",
+        "hint": "Box that connects your home to the internet?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ENCRYPT",
+        "hint": "Scramble data so only trusted people can read it?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RESET",
+        "hint": "Erase settings and start over?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TOUCHID",
+        "hint": "Fingerprint lock on many phones?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "DRIVES",
+        "hint": "Several storage devices in one computer?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RAM",
+        "hint": "Fast memory chips that help programs run?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ROM",
+        "hint": "Memory chip that keeps data even with no power?",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "WIRE",
+        "hint": "Thin metal line covered in plastic?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SIGNAL",
+        "hint": "Bars that show how strong your connection is?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NETWORK",
+        "hint": "Group of devices sharing information?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "JSON",
+        "hint": "Text format with curly braces?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "BOOKMARK",
+        "hint": "Saved link to a page you like?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PINCODE",
+        "hint": "Four-digit code used to unlock?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HOTSPOT",
+        "hint": "Place where you can join a wifi network?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SCORE",
+        "hint": "Number showing how well you did?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BLURAY",
+        "hint": "High-definition movie disc?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "KEYS",
+        "hint": "Buttons you press on a keyboard?",
+        "startx": 1,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ANTENNA",
+        "hint": "Metal rod that helps pick up signals?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "JOYSTICK",
+        "hint": "Stick you move to fly a plane in a game?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "UPLOAD",
+        "hint": "Send a file from your device to the internet?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SENDUP",
+        "hint": "Send a file from your device to the internet?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BUTTON",
+        "hint": "Small switch you press to turn things on?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CONSOLE",
+        "hint": "Window where you see logs or type commands?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EXPORT",
+        "hint": "Save a copy in a different format?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FILTER",
+        "hint": "Tool that removes junk emails?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TOKEN",
+        "hint": "Short code sent to prove who you are?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ERASER",
+        "hint": "Tool that removes pencil or paint marks?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JOYSTICK",
+        "hint": "Stick you move to fly a plane in a game?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BUFFER",
+        "hint": "Extra data stored to keep video smooth?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SDCARD",
+        "hint": "Tiny memory card you slide into a slot?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SEND",
+        "hint": "Button you tap to deliver an email?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CLOCK",
+        "hint": "App that shows the current time?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "FLASH",
+        "hint": "Small chip storage used in phones?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "REDO",
+        "hint": "Repeat the last action again?",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ARCADE",
+        "hint": "Place filled with noisy video games?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TASK",
+        "hint": "Single job you need to complete?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TERMINAL",
+        "hint": "Text window where you type commands?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HIGHLIT",
+        "hint": "Highlight text with a bright color?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HDMI",
+        "hint": "Cable that carries video to a TV?",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "HANDLE",
+        "hint": "Nickname used on social media?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "RAM",
+        "hint": "Fast memory chips that help programs run?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "FACTORY",
+        "hint": "Full reset that makes a device like new?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DOCK",
+        "hint": "Bar with favorite apps at the bottom of screen?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "RUBY",
+        "hint": "Programming language named after a gem?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FACEID",
+        "hint": "Face scan unlock on some devices?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "STOPWCH",
+        "hint": "Clock that counts up to time a race?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PRINT",
+        "hint": "Send a file to the printer?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "HTTP",
+        "hint": "Common protocol used on the web?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "USB",
+        "hint": "Common port used for cables and drives?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "LOCK",
+        "hint": "Secure the screen so others cannot use it?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SECURITY",
+        "hint": "Steps that keep data safe?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SQL",
+        "hint": "Language used to talk to many databases?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TERMINAL",
+        "hint": "Text window where you type commands?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "APPSTORE",
+        "hint": "Place where you download new apps?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PLAYLIST",
+        "hint": "List of songs you save in order?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HTTPS",
+        "hint": "Secure version of HTTP?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TEXT",
+        "hint": "Short message you send by phone?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SCANNER",
+        "hint": "Machine that copies paper into a file?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ROM",
+        "hint": "Memory chip that keeps data even with no power?",
+        "startx": 9,
+        "starty": 14,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "FILE",
+        "hint": "Document, picture, or video saved on a device?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "INBOX",
+        "hint": "Folder where new emails arrive?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PASSWORD",
+        "hint": "Secret word that protects your account?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DROP",
+        "hint": "Let go of the mouse button to place something?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ENDPOINT",
+        "hint": "URL where an API listens?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PROMPT",
+        "hint": "Text that shows you can type a command?",
+        "startx": 4,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SSH",
+        "hint": "Secure way to log into another computer?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "WIDGET",
+        "hint": "Mini app that lives on the home screen?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "WAKE",
+        "hint": "Bring a sleeping computer back to life?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TIMELINE",
+        "hint": "List of posts sorted by time?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SWIPE",
+        "hint": "Slide your finger across the screen?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BOOLEAN",
+        "hint": "Value that is true or false?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CLEANUP",
+        "hint": "Tool that removes temporary files?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SERVER",
+        "hint": "Powerful computer that hosts websites?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ISSUE",
+        "hint": "Problem ticket that needs fixing?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      }
+    ]
+  ]
+}
