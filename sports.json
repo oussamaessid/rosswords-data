@@ -2,666 +2,2302 @@
   "levels": [
     [
       {
-        "answer": "KITBAG",
-        "hint": "Which piece of sports gear carries spikes, tape, and uniforms to the venue?",
-        "startx": 2,
-        "starty": 5,
+        "answer": "MARK",
+        "hint": "What do you do when you stay close to your matchup?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PARSAVE",
-        "hint": "Which athletic skill chips and putts to avoid a bogey?",
-        "startx": 6,
-        "starty": 1,
+        "answer": "NERVES",
+        "hint": "What butterflies do you feel before a race starts?",
+        "startx": 7,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RUNNING",
-        "hint": "Which sport covers distances from 100 meters to ultramarathons?",
+        "answer": "DODGE",
+        "hint": "What do you do when you duck out of the way?",
         "startx": 3,
-        "starty": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BOWLING",
+        "hint": "What sport rolls a heavy ball to knock pins down?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GOLF",
+        "hint": "What sport swings clubs to sink balls into holes?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "CATCHES",
+        "hint": "What grabs stop passes from reaching the other team?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HALFTIM",
+        "hint": "What longer break lets bands and dancers perform?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BALLS",
+        "hint": "What round objects fill cages at the sporting goods store?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TROPHY",
+        "hint": "What shiny prize the champions lift high?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RACKET",
+        "hint": "What stringed tool hits tennis and badminton shots?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CLAP",
+        "hint": "What do you do when you smack your hands together for support?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "GUARDS",
+        "hint": "What protective items keep shins, wrists, or mouths safe?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "NET",
+        "hint": "What mesh wall stops a flying ball?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "FIELD",
+        "hint": "What grassy area hosts jumps and throws?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PUTTER",
+        "hint": "What golf club rolls the ball gently toward the cup?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CLAP",
+        "hint": "What do you do when you smack your hands together for support?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CROWD",
+        "hint": "What noisy group fills the stadium seats?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RACKET",
+        "hint": "What stringed tool hits tennis and badminton shots?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CARD",
+        "hint": "What colored warning soccer refs hold up?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "NETS",
+        "hint": "What mesh walls stretch across courts and pools?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STICKS",
+        "hint": "What long tools move pucks, lacrosse balls, or rings?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FANS",
+        "hint": "Who wave signs and sing songs for their team?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SKIP",
+        "hint": "What do you do when you hop with a swing of arms?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "DEFEND",
+        "hint": "What do you do when you stay between a player and a goal?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HUDDLES",
+        "hint": "What quick circles happen before each down?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOARD",
+        "hint": "What board holds the coach's plays and lineups?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SUBS",
+        "hint": "What fresh players rotate into the game?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CARD",
+        "hint": "What colored warning soccer refs hold up?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PLAYERS",
+        "hint": "Who train together to improve every season?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "COOLDOWN",
+        "hint": "What light jog and stretch settle your heartbeat?",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "PITCH",
+        "hint": "What grassy surface hosts soccer or rugby?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "TEAMS",
+        "hint": "What groups face each other during a match?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CORNER",
+        "hint": "What soccer kick happens when defenders send the ball out near the goal?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARCHERY",
+        "hint": "What sport shoots arrows at a paper target?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SURFBO",
+        "hint": "What board sport uses paddles on calm lakes?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "What sport throws an oval ball toward an end zone?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "VETERAN",
+        "hint": "What experienced player has many seasons played?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CENTER",
+        "hint": "What circle tips off a basketball game?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SHIELD",
+        "hint": "What clear visor keeps pucks from your eyes?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "REF",
+        "hint": "Who blows the whistle to enforce the rules?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SHOUT",
+        "hint": "What do you do when you call out plays to teammates?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "STREAK",
+        "hint": "What word means several wins in a row?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "BOARD",
+        "hint": "What board holds the coach's plays and lineups?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "CONES",
+        "hint": "What bright markers set up drills on the field?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "FUELING",
+        "hint": "What balanced eating plan fuels strong performance?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FUTSAL",
+        "hint": "What indoor soccer game uses a smaller ball?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CYCLING",
+        "hint": "What sport races bikes around roads or tracks?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MINDSET",
+        "hint": "What focus helps you stay confident under pressure?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BALL",
+        "hint": "What round object do most games throw, kick, or hit?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DARTS",
+        "hint": "What bar game tosses pointed darts at a board?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ALLSTAR",
+        "hint": "Who is chosen to play in a special showcase game?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "KAYAK",
+        "hint": "What narrow boat sport paddles through rapids?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "STICK",
+        "hint": "What long piece of wood controls a puck or ball?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GUARD",
+        "hint": "What plastic piece protects your teeth or shins?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "KICKS",
+        "hint": "What foot swings send the ball across the pitch?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "RUNS",
+        "hint": "What trips around the bases score in baseball?",
+        "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "BREAK",
+        "hint": "What do players yell when they leave the huddle?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "DODGE",
+        "hint": "What do you do when you duck out of the way?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "LOSING",
+        "hint": "What streak happens when a team drops many games?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SCUBA",
+        "hint": "What underwater sport uses tanks to breathe?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TIMEOUT",
+        "hint": "What short break lets coaches draw up new plays?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "UMPIRE",
+        "hint": "Who calls balls and strikes behind the plate?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CYCLING",
+        "hint": "What sport races bikes around roads or tracks?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GAMER",
+        "hint": "Who practices aiming and timing with controllers?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "DIVISION",
+        "hint": "What grouping of teams plays each other often?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ENDZONE",
+        "hint": "What painted rectangle football players dive into for six points?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "STEALS",
+        "hint": "What takeaways lead to fast breaks?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PINGPONG",
+        "hint": "What fast table game uses a tiny white ball?",
+        "startx": 5,
+        "starty": 2,
         "orientation": "down",
         "position": 3
       }
     ],
     [
       {
-        "answer": "HANDBALL",
-        "hint": "Which sport fires a small ball into nets from a seven-meter line?",
-        "startx": 1,
-        "starty": 5,
+        "answer": "TUNNEL",
+        "hint": "What walkway players use to enter the field?",
+        "startx": 4,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "BARBELL",
-        "hint": "Which piece of sports gear holds iron plates for heavy lifts?",
-        "startx": 5,
+        "answer": "HEADSET",
+        "hint": "What gear lets gamers talk to teammates in matches?",
+        "startx": 4,
         "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "FRASER",
-        "hint": "Which athlete Jamaican sprinter with three Olympic 100m crowns?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
+        "answer": "HIGHJUMP",
+        "hint": "What event has athletes leap over a high bar with no pole?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "CLOSER",
-        "hint": "Which player role slams the door in the ninth inning?",
-        "startx": 8,
-        "starty": 4,
+        "answer": "FLIP",
+        "hint": "What do you call a fast somersault in the air?",
+        "startx": 9,
+        "starty": 7,
         "orientation": "down",
         "position": 4
       }
     ],
     [
       {
-        "answer": "REVERSAL",
-        "hint": "Which athletic skill turns defense into offense on the mat?",
-        "startx": 1,
-        "starty": 5,
+        "answer": "CLAP",
+        "hint": "What do you do when you smack your hands together for support?",
+        "startx": 5,
+        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "BELT",
-        "hint": "Which piece of sports gear shows rank progression in disciplines like judo?",
+        "answer": "MASCOT",
+        "hint": "Who dresses up to hype the crowd and dance?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SET",
+        "hint": "What do you do when you push the volleyball up with fingers?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "KICKBOX",
+        "hint": "What sport mixes punches and high kicks in a ring?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BLOCK",
+        "hint": "What do you do when you stop a shot or pass?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "JOGGING",
+        "hint": "What easy run helps warm up before games?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SURFING",
+        "hint": "What sport rides waves on a board?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OWNER",
+        "hint": "Who pays the bills and hires the team staff?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SLIDES",
+        "hint": "What low moves prevent tags at the plate?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BUZZER",
+        "hint": "What loud sound ends a period or quarter?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "JERSEYS",
+        "hint": "What matching shirts hang above each locker?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "TAEKWON",
+        "hint": "What martial art focuses on high spinning kicks?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MOUTH",
+        "hint": "What guard sits between your teeth during games?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STREAK",
+        "hint": "What word means several wins in a row?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PENBOX",
+        "hint": "What bench holds players serving time for penalties?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RIM",
+        "hint": "What orange metal ring do you try to swish?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "GUARD",
+        "hint": "What plastic piece protects your teeth or shins?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "THROWIN",
+        "hint": "What soccer restart tosses the ball from the sideline?",
         "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "TEAM",
+        "hint": "What group of players works toward one goal?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SPRINTIN",
+        "hint": "What do you call running as fast as you can?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MEDIC",
+        "hint": "Who runs onto the field with bandages and ice?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FOOTBALL",
+        "hint": "What sport throws an oval ball toward an end zone?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PADDLES",
+        "hint": "What flat bats splash in dragon boat races?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DISC",
+        "hint": "What round disk do you throw during discus events?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MARATHN",
+        "hint": "What very long race covers 26 miles on roads?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "AEROBIC",
+        "hint": "What lively workout steps to music in a studio?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BURPEE",
+        "hint": "What move mixes a squat, jump, and push-up?",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CARBLOAD",
+        "hint": "What do runners do when they eat pasta before a race?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HURDLES",
+        "hint": "What mini obstacles help sprinters practice high knees?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "PROTEIN",
+        "hint": "What nutrient helps repair muscles after lifting?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SHOOTOUT",
+        "hint": "What tie-breaker uses penalty kicks or shots?",
+        "startx": 6,
         "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "STUDS",
-        "hint": "Which piece of sports gear thread into boots to adjust traction on muddy pitches?",
+        "answer": "BALLS",
+        "hint": "What round objects fill cages at the sporting goods store?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CUTS",
+        "hint": "What sharp turns do receivers make on routes?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SLIDE",
+        "hint": "What do you do when you drop low to reach a base safely?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "POLO",
+        "hint": "What horse sport hits a ball while galloping?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CROSS",
+        "hint": "What country race runs over mud, hills, and grass?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "SUB",
+        "hint": "What player enters the game to replace a teammate?",
         "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LOSSES",
+        "hint": "What column grows when a team struggles?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DECATH",
+        "hint": "What track event has ten different challenges?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "COOLDOWN",
+        "hint": "What light jog and stretch settle your heartbeat?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ANNOUNCR",
+        "hint": "Who calls the play-by-play on TV or radio?",
+        "startx": 10,
         "starty": 1,
         "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ULTIMATE",
+        "hint": "What running sport tosses a flying disc to teammates?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "BAND",
+        "hint": "Who plays drums and horns during halftime shows?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "TIES",
+        "hint": "What results show up when overtime is not played?",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SLEEP",
+        "hint": "What nightly rest rebuilds muscles and energy?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HURDLE",
+        "hint": "What race jumps over gates while sprinting?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BLOCKS",
+        "hint": "What jumps stop the other team's spike?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
         "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ASSIST",
+        "hint": "What helpful pass leads directly to a score?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MOUTH",
+        "hint": "What guard sits between your teeth during games?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOARD",
+        "hint": "What board holds the coach's plays and lineups?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GAMER",
+        "hint": "Who practices aiming and timing with controllers?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ASSISTS",
+        "hint": "What helpful passes get counted by the stat crew?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MITT",
+        "hint": "What extra-deep glove first basemen wear?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "TRIATH",
+        "hint": "What race mixes swimming, biking, and running?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "HALFTIM",
+        "hint": "What longer break lets bands and dancers perform?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CYCLING",
+        "hint": "What sport races bikes around roads or tracks?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GUARD",
+        "hint": "What plastic piece protects your teeth or shins?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "WIN",
+        "hint": "What do you call finishing ahead of the other team?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AUDIBLE",
+        "hint": "What new play does the quarterback shout at the line?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MARATHN",
+        "hint": "What very long race covers 26 miles on roads?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TRAINING",
+        "hint": "What daily practice keeps athletes ready for games?",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DRAG",
+        "hint": "What straight-line race measures the quickest burst?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GOLF",
+        "hint": "What sport swings clubs to sink balls into holes?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "SHOOTS",
+        "hint": "What attempts try to score points for the team?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "THROWS",
+        "hint": "What strong arm motions send the ball downfield?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DOCTOR",
+        "hint": "Who checks injuries and keeps players healthy?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GOALS",
+        "hint": "What netted frames stand at each end of the field?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "LEAGUE",
+        "hint": "What organization schedules games and titles?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "TENNIS",
+        "hint": "What sport hits a fuzzy ball over a net with rackets?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SEASON",
+        "hint": "What months of games lead up to the playoffs?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRILLS",
+        "hint": "What repeated exercises make players faster or stronger?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ALLSTAR",
+        "hint": "Who is chosen to play in a special showcase game?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FOUL",
+        "hint": "What rule break stops play in basketball or soccer?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ENDZONE",
+        "hint": "What painted rectangle football players dive into for six points?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
       }
     ],
     [
       {
         "answer": "GOLF",
-        "hint": "Which sport involves clubs driving dimpled balls toward cups?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FELIX",
-        "hint": "Which athlete American runner with the most women's Olympic track medals?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BERLIN",
-        "hint": "Which competition or trophy flat marathon renowned for repeated world records?",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CYCLING",
-        "hint": "Which sport pushes lightweight bikes through peloton packs?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DONCIC",
-        "hint": "Which athlete Slovenian prodigy piling up triple-doubles?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "NAVRATIL",
-        "hint": "Which athlete serve-and-volley queen with 18 majors?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SMASH",
-        "hint": "Which athletic skill hammering overhead finish after a weak reply?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SUMO",
-        "hint": "Which sport crowns wrestlers who force foes outside the dohyo?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "PIVOT",
-        "hint": "Which player role holds the ball with back to goal inside the paint?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "JUDO",
-        "hint": "Which sport emphasizes throws and holds born in Japanese dojos?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SNAPDOWN",
-        "hint": "Which athletic skill pulls an opponent to the mat off a tie-up?",
+        "hint": "What sport swings clubs to sink balls into holes?",
         "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SERVE",
-        "hint": "Which athletic skill starts a rally with a toss and swing?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "GATLIN",
-        "hint": "Which athlete American sprinter with world titles 12 years apart?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "KABADDI",
-        "hint": "Which sport links raiders holding their breath to tag defenders?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PACQUIAO",
-        "hint": "Which athlete Filipino icon winning belts across eight divisions?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "DONCIC",
-        "hint": "Which athlete Slovenian prodigy piling up triple-doubles?",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "BAT",
-        "hint": "Which piece of sports gear swings through the strike zone to drive a pitch?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CENTER",
-        "hint": "Which player role wins jump balls and anchors the paint?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CLASICO",
-        "hint": "Which competition or trophy fierce rivalry match between Barcelona and Real Madrid?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "DUATHLON",
-        "hint": "Which sport alternates run-bike-run legs without a swim?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MARADONA",
-        "hint": "Which athlete slalomed through England in 1986 for the Goal of the Century?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SHOELACE",
-        "hint": "Which piece of sports gear tightens footwear snugly around arches?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "DINK",
-        "hint": "Which athletic skill drops a pickleball barely over the net?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "MIDOFF",
-        "hint": "Which player role patrols the straight boundary in cricket?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "CASILLAS",
-        "hint": "Which athlete Real Madrid keeper lifting multiple European Cups?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GIANNIS",
-        "hint": "Which athlete back-to-back MVP nicknamed the Greek Freak?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "STRIKER",
-        "hint": "Which player role stays highest upfield hunting for goals?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "SWIMMING",
-        "hint": "Which sport stages freestyle, breaststroke, backstroke, and fly?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "STRIKER",
-        "hint": "Which player role stays highest upfield hunting for goals?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "RYDERCUP",
-        "hint": "Which competition or trophy biennial golf duel between Europe and the United States?",
-        "startx": 2,
         "starty": 8,
         "orientation": "across",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "HOOKSHOT",
-        "hint": "Which athletic skill swings the arm across the lane one-handed?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "DARTS",
-        "hint": "Which sport targets narrow triples and bullseyes on a board?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GOALIE",
-        "hint": "Which player role protects the net with pads and reflex saves?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PIVOT",
-        "hint": "Which player role holds the ball with back to goal inside the paint?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "FARAH",
-        "hint": "Which athlete Somali-born Briton sweeping 5000 and 10000 in 2012?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "ENFORCER",
-        "hint": "Which player role drops gloves to protect skilled teammates?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LINEBACK",
-        "hint": "Which player role fills gaps against the run and blitzes passers?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CENTER",
-        "hint": "Which player role wins jump balls and anchors the paint?",
+        "answer": "FIELD",
+        "hint": "What grassy area hosts jumps and throws?",
         "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "VENUS",
-        "hint": "Which athlete paved the way at Wimbledon with booming groundstrokes?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CURLING",
-        "hint": "Which sport sweeps polished stones toward the button?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "COMRADES",
-        "hint": "Which competition or trophy South African ultramarathon stretching about 90 kilometers?",
-        "startx": 1,
         "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NETBALL",
-        "hint": "Which sport forbids dribbling while shooting on raised hoops?",
-        "startx": 5,
-        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "KROOS",
-        "hint": "Which athlete German midfielder known for laser diagonals?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SHORTS",
-        "hint": "Which piece of sports gear pair with jerseys for most field sports?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "POLES",
-        "hint": "Which piece of sports gear steady skiers and Nordic walkers?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DARTS",
-        "hint": "Which sport targets narrow triples and bullseyes on a board?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BMXRACE",
-        "hint": "Which sport sprints pedalers over jumps and banked turns?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BOWLER",
-        "hint": "Which player role delivers cricket balls toward the stumps?",
+        "answer": "SPRINT",
+        "hint": "What race is the fastest short dash on a track?",
         "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "FOREMAN",
-        "hint": "Which athlete regained the heavyweight title at age 45?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      }
-    ],
-    [
-      {
-        "answer": "INIESTA",
-        "hint": "Which athlete scored Spain's winner in the 2010 World Cup final?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BRACES",
-        "hint": "Which piece of sports gear support joints recovering from sprains?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ASHES",
-        "hint": "Which competition or trophy historic cricket urn contested by England and Australia?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "IRONMAN",
-        "hint": "Which sport combines swim, bike, and marathon distances back to back?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PUNTER",
-        "hint": "Which player role flips field position with booming punts?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MANTLE",
-        "hint": "Which athlete switch hitter patrolling center at Yankee Stadium?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "PARSAVE",
-        "hint": "Which athletic skill chips and putts to avoid a bogey?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DRIVER",
-        "hint": "Which piece of sports gear launches tee shots with minimal loft?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "STINGER",
-        "hint": "Which athletic skill keeps a golf shot piercing low into wind?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "FARAH",
-        "hint": "Which athlete Somali-born Briton sweeping 5000 and 10000 in 2012?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      }
-    ],
-    [
-      {
-        "answer": "GLOVES",
-        "hint": "Which piece of sports gear insulate hands and improve grip in many sports?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LUGE",
-        "hint": "Which sport steers supine at highway speeds down an ice chute?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SNIPER",
-        "hint": "Which player role snaps pucks home from the faceoff circle?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      }
-    ],
-    [
-      {
-        "answer": "CAPOEIRA",
-        "hint": "Which sport blends martial arts with dance and music?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "SHORTS",
-        "hint": "Which piece of sports gear pair with jerseys for most field sports?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "CURLING",
-        "hint": "Which sport sweeps polished stones toward the button?",
-        "startx": 1,
         "starty": 6,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "GREYCUP",
-        "hint": "Which competition or trophy Canadian Football League's ultimate prize?",
-        "startx": 1,
-        "starty": 1,
+        "answer": "SPORT",
+        "hint": "What word means games that make you active and strong?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "POLO",
+        "hint": "What horse sport hits a ball while galloping?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "ROLL",
+        "hint": "What do you do when you somersault on a mat?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FOULLINE",
+        "hint": "What line players stand on for free throws?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HELMETS",
+        "hint": "What head protectors line the locker room shelves?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CONE",
+        "hint": "What plastic marker shows where to run or stop?",
+        "startx": 3,
+        "starty": 14,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "FUTSAL",
-        "hint": "Which sport shrinks soccer to five-a-side indoor battles?",
-        "startx": 1,
-        "starty": 8,
+        "answer": "GOAL",
+        "hint": "What net do you aim for to score points?",
+        "startx": 3,
+        "starty": 10,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "GRAF",
-        "hint": "Which athlete captured the Golden Slam in 1988?",
+        "answer": "TUBING",
+        "hint": "What water sport hangs onto an inner tube behind a boat?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "STEAL",
+        "hint": "What do you call taking the ball away without fouling?",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "DUMBBELL",
+        "hint": "What short handled weight you lift in each hand?",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "BOWLING",
+        "hint": "What sport rolls a heavy ball to knock pins down?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SPRINTS",
+        "hint": "What short races last only a few seconds?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRAW",
+        "hint": "What soccer result gives each team one point?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ICEBATH",
+        "hint": "What cold tub reduces swelling after hard games?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CYCLING",
+        "hint": "What sport races bikes around roads or tracks?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "DANCE",
+        "hint": "What sporty art performs routines to music?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MITT",
+        "hint": "What extra-deep glove first basemen wear?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "PENALTY",
+        "hint": "What punishment moves the ball back or sends someone out?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOXOUT",
+        "hint": "What do you call pushing for rebound position with hips?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KICKBALL",
+        "hint": "What playground game mixes soccer kicks and baseball bases?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GOGGLES",
+        "hint": "What clear glasses protect eyes in the pool or snow?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SURFBO",
+        "hint": "What board sport uses paddles on calm lakes?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MARK",
+        "hint": "What do you do when you stay close to your matchup?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LANES",
+        "hint": "What parallel strips help keep races fair?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CARBLOAD",
+        "hint": "What do runners do when they eat pasta before a race?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SCOREBD",
+        "hint": "What board shows the points for each team?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TACKLES",
+        "hint": "What stops keep the other team from scoring?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "CLAP",
+        "hint": "What do you do when you smack your hands together for support?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "REPORT",
+        "hint": "Who interviews players after the game ends?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HOP",
+        "hint": "What do you call jumping on one foot?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KARATE",
+        "hint": "What martial art uses strong kicks and punches?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CATCH",
+        "hint": "What do you do when you grab a flying ball?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "PADDLE",
+        "hint": "What solid racket hits pickleball or ping pong shots?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUDO",
+        "hint": "What martial art flips opponents using balance?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CARBLOAD",
+        "hint": "What do runners do when they eat pasta before a race?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ULTIMATE",
+        "hint": "What running sport tosses a flying disc to teammates?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CARD",
+        "hint": "What colored warning soccer refs hold up?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ARC",
+        "hint": "What curved line marks three points instead of two?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CLAP",
+        "hint": "What do you do when you smack your hands together for support?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AEROBIC",
+        "hint": "What lively workout steps to music in a studio?",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SWIM",
+        "hint": "What sport moves your arms and legs through water lanes?",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "FOCUS",
+        "hint": "What do you do when you block out loud fans?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SUB",
+        "hint": "What player enters the game to replace a teammate?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "THROWS",
+        "hint": "What strong arm motions send the ball downfield?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CENTER",
+        "hint": "What circle tips off a basketball game?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "LOCKER",
+        "hint": "What metal cabinet stores uniforms and shoes?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "JUDO",
+        "hint": "What martial art flips opponents using balance?",
         "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "STRAPS",
+        "hint": "What bands buckle helmets, pads, or goggles?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "STRETCH",
+        "hint": "What do you do when you reach to loosen muscles?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SLIDES",
+        "hint": "What low moves prevent tags at the plate?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STPWATCH",
+        "hint": "What handheld timer tracks race seconds?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "DIAMOND",
+        "hint": "What dirt and grass shape hosts baseball games?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "REPORT",
+        "hint": "Who interviews players after the game ends?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LADDER",
+        "hint": "What flat rope ladder helps players practice quick feet?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GOAL",
+        "hint": "What net do you aim for to score points?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SOCKS",
+        "hint": "What long tubes pull over legs before cleats?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FUTSAL",
+        "hint": "What indoor soccer game uses a smaller ball?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SCUBA",
+        "hint": "What underwater sport uses tanks to breathe?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GOALS",
+        "hint": "What netted frames stand at each end of the field?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DODGES",
+        "hint": "What fast moves help you avoid a defender?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "REBOUND",
+        "hint": "What do you call grabbing the ball after a missed shot?",
+        "startx": 3,
         "starty": 1,
         "orientation": "down",
         "position": 6
+      },
+      {
+        "answer": "TRAINING",
+        "hint": "What daily practice keeps athletes ready for games?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "CHANT",
+        "hint": "What do fans do when they shout for their team?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CARDS",
+        "hint": "What yellow and red warnings send players off?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ANNOUNCR",
+        "hint": "Who calls the play-by-play on TV or radio?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FOULS",
+        "hint": "What rule breaks add up and give free throws?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "SPINTURN",
+        "hint": "What do you do when you twirl to slip past a tackle?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BACKBRD",
+        "hint": "What flat board bounces the basketball toward the rim?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SHUTTLE",
+        "hint": "What feathered object players smack in badminton?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "BOXING",
+        "hint": "What ring sport punches with padded gloves?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VOLLEY",
+        "hint": "What sport bumps a ball over a high net?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POLEVAUL",
+        "hint": "What event vaults athletes over a high bar with a pole?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "REBOUND",
+        "hint": "What do you call grabbing the ball after a missed shot?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DRAG",
+        "hint": "What straight-line race measures the quickest burst?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "DRAFT",
+        "hint": "What event lets teams pick new players from school?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PITCHOUT",
+        "hint": "What toss sends the football to a running back outside?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DISC",
+        "hint": "What round disk do you throw during discus events?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COACH",
+        "hint": "Who teaches skills and plans the plays?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      }
+    ],
+    [
+      {
+        "answer": "WARMUP",
+        "hint": "What do you call the stretches before a game?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BADMINT",
+        "hint": "What racket sport hits a shuttle back and forth?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TRAIL",
+        "hint": "What do you call being behind on the scoreboard?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PARKOUR",
+        "hint": "What street sport jumps, rolls, and climbs city walls?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ANNOUNCR",
+        "hint": "Who calls the play-by-play on TV or radio?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TWIST",
+        "hint": "What do you do when you turn your torso midair?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "WRESTLE",
+        "hint": "What mat sport tries to pin an opponent to the floor?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BIB",
+        "hint": "What numbered vest marks runners in a race?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "BENCH",
+        "hint": "What long seat holds subs waiting to play?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POLEVAUL",
+        "hint": "What event vaults athletes over a high bar with a pole?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOYSTIK",
+        "hint": "What controller helps gamers move characters around?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "GUARD",
+        "hint": "What plastic piece protects your teeth or shins?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "WARMUP",
+        "hint": "What do you call the stretches before a game?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ARC",
+        "hint": "What curved line marks three points instead of two?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LOCKER",
+        "hint": "What metal cabinet stores uniforms and shoes?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CROSSBAR",
+        "hint": "What top pole connects both goal posts?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "BREAK",
+        "hint": "What do players yell when they leave the huddle?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ROWER",
+        "hint": "What indoor machine simulates boat rowing workouts?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "CLUB",
+        "hint": "What stick do golfers swing to hit a ball?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "REBOUND",
+        "hint": "What do you call grabbing the ball after a missed shot?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DRILLS",
+        "hint": "What repeated exercises make players faster or stronger?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SLEDDING",
+        "hint": "What winter sport rides a sled down a hill?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "TRAINER",
+        "hint": "Who helps stretch, tape, and rehab athletes?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CUTS",
+        "hint": "What sharp turns do receivers make on routes?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FOULLINE",
+        "hint": "What line players stand on for free throws?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FIELD",
+        "hint": "What grassy area hosts jumps and throws?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "PLAYOFF",
+        "hint": "What series decides which teams reach the finals?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "FACEOFF",
+        "hint": "What drop of the puck starts hockey periods?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "JERSEYS",
+        "hint": "What matching shirts hang above each locker?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TRAINER",
+        "hint": "Who helps stretch, tape, and rehab athletes?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BAT",
+        "hint": "What wooden stick hits baseballs and softballs?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      }
+    ],
+    [
+      {
+        "answer": "ICEPACK",
+        "hint": "What cold wrap keeps swelling down after a fall?",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "KARATE",
+        "hint": "What martial art uses strong kicks and punches?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WHISTLE",
+        "hint": "What noisemaker hangs on the referee's neck?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SEED",
+        "hint": "What number ranks a team entering a tournament?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HANDOFF",
+        "hint": "What move places the football into a teammate's hands?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "BALL",
+        "hint": "What round object do most games throw, kick, or hit?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ESPORTS",
+        "hint": "What video competitions have teams playing games on stage?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "JOYSTIK",
+        "hint": "What controller helps gamers move characters around?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SLEEP",
+        "hint": "What nightly rest rebuilds muscles and energy?",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "REFS",
+        "hint": "Who wear stripes and watch every play closely?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MOTOGP",
+        "hint": "What motorcycle sport speeds around road courses?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "AUDIBLE",
+        "hint": "What new play does the quarterback shout at the line?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "OWNER",
+        "hint": "Who pays the bills and hires the team staff?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      }
+    ],
+    [
+      {
+        "answer": "BYE",
+        "hint": "What round lets a top team skip to the next game?",
+        "startx": 6,
+        "starty": 8,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LOCKERS",
+        "hint": "What rows of cabinets line the team hallway?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DRIVES",
+        "hint": "What trips down the court end with layups or threes?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ONSIDE",
+        "hint": "What kickoff rule says players must stay behind the ball?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
       }
     ]
   ]
