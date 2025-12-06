@@ -2,1330 +2,1290 @@
   "levels": [
     [
       {
-        "answer": "ليبتين",
-        "hint": "هرمون شبع تفرزه الخلايا الدهنية للرياضيين؟",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
+        "answer": "سيتوبلاز",
+        "hint": "محتوى الخلية السائل المحيط بالعضيات للرياضيين؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "تحويل",
-        "hint": "نقل اللعب من جهة لاخرى بسرعة؟",
-        "startx": 5,
-        "starty": 6,
+        "answer": "اختبار",
+        "hint": "تقييم بدني يسبق اختيار اللاعبين؟",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "غلايكول",
+        "hint": "تحلل السكر في السيتوبلازم لانتاج طاقة للرياضيين؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صفراء",
+        "hint": "بطاقة تحذير يلوح بها الحكم؟",
+        "startx": 10,
+        "starty": 4,
         "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تكيف",
+        "hint": "قدرة الجسم على التعود على جهد متكرر للرياضيين؟",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كيكبوكس",
+        "hint": "اسلوب قتالي يمزج الركلات واللكمات؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "كياك",
+        "hint": "قارب ضيق لسباقات النهر؟",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كارنيتين",
+        "hint": "مركب ينقل الاحماض الدهنية للميتوكوندريا للرياضيين؟",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "فترة",
+        "hint": "جزء من الموسم مخصص للتحضير؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "فسفرة",
+        "hint": "اضافة مجموعة فوسفات لجزيء طاقي للرياضيين؟",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ساركومر",
+        "hint": "وحدة تقلص في العضلة الهيكلية للرياضيين؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بولو",
+        "hint": "رياضة تلعب على ظهر حصان؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كلوريلا",
+        "hint": "طحلب اخضر غني بالبروتين للرياضيين؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تسارع",
+        "hint": "زيادة تدريجية في السرعة؟",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سباح",
+        "hint": "شخص يقطع المسافات سباحة؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "شراع",
+        "hint": "قماش يلتقط الريح لدفع القارب؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "حاسب",
+        "hint": "شخص يسجل النقاط والاخطاء؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تمسخ",
+        "hint": "فقدان البروتين شكله الثلاثي للرياضيين؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تمارين",
+        "hint": "سلسلة انشطة تدريبية؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مزيج",
+        "hint": "تركيب من مهارات متعددة؟",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تصفيات",
+        "hint": "سلسلة مباريات للتأهل؟",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ماراتون",
+        "hint": "سباق جري طويل المسافة؟",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "هرولة",
+        "hint": "جري خفيف للتسخين؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ركض",
+        "hint": "حركة جري سريعة؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
         "position": 2
       },
       {
         "answer": "عضية",
         "hint": "بنية صغيرة داخل الخلية تؤدي وظيفة للرياضيين؟",
-        "startx": 2,
+        "startx": 4,
         "starty": 4,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "جولف",
-        "hint": "رياضة عصا وكرة في مسارات عشبية؟",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "قناة",
-        "hint": "منفذ تلفزيوني يعرض الرياضة؟",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "جناح",
-        "hint": "لاعب يتحرك قرب الخط الجانبي؟",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ابطاء",
-        "hint": "ابطاء اللعب للحفاظ على النتيجة؟",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "زاوية",
-        "hint": "نقطة التقاء الخطين الجانبي والنهائي؟",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "عضلات",
-        "hint": "مجموعة الانسجة المسؤولة عن الحركة؟",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "مسكة",
-        "hint": "نمط محدد من القبض على الذراع؟",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "انيون",
-        "hint": "ايون سالب الشحنة في الدم للرياضيين؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "نشاط",
-        "hint": "حيوية وحركة مستمرة؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "بليومتري",
-        "hint": "تمرين قفز متفجر لزيادة القوة؟",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "تخمير",
-        "hint": "تحويل السكريات بفعل الخمائر للرياضيين؟",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "بيورين",
-        "hint": "قواعد نيتروجينية تدخل في تركيب الجينات للرياضيين؟",
-        "startx": 0,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "رنين",
-        "hint": "تردد صوتي نقيس به انسجة الجسم للرياضيين؟",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "زلاجة",
-        "hint": "مركبة تنزلق على الجليد؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "توتر",
-        "hint": "درجة شد العضلات الساكنة للرياضيين؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "تليف",
-        "hint": "تصلب نسيج بسبب تراكم الياف للرياضيين؟",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "غريلين",
-        "hint": "هرمون جوع يرتفع قبل الوجبات للرياضيين؟",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "مؤشر",
-        "hint": "رقم يبين اداء لاعب معين؟",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "مباشر",
-        "hint": "نقل يحدث في اللحظة ذاتها؟",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "تميع",
-        "hint": "ذوبان مادة دسمة بفعل الحرارة للرياضيين؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ركلة",
-        "hint": "ضربة بالقدم نحو المرمى؟",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "لجنة",
-        "hint": "مجموعة تشرف على تنظيم البطولة؟",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "خطة",
-        "hint": "تصور مسبق لكيفية اللعب؟",
-        "startx": 5,
+        "answer": "حوض",
+        "hint": "وعاء كبير يحتضن ماء التسابق؟",
+        "startx": 9,
         "starty": 9,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "رنين",
-        "hint": "تردد صوتي نقيس به انسجة الجسم للرياضيين؟",
-        "startx": 7,
-        "starty": 13,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "غوص",
-        "hint": "رياضة القفز في الماء مع حركات فنية؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "توتر",
-        "hint": "درجة شد العضلات الساكنة للرياضيين؟",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "مطرقة",
-        "hint": "كرة معدنية متصلة بسلسلة للرمي؟",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "مضارب",
-        "hint": "جمع الاداة التي تضرب الكرة؟",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "قفص",
-        "hint": "هيكل محاط بشبك لمواجهات فنون القتال؟",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "سرعة",
-        "hint": "عامل يقاس بالثواني في السباقات؟",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "خصم",
-        "hint": "الطرف الذي نريد التفوق عليه؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "عنصر",
-        "hint": "جزء تكتيكي ضمن تشكيل؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "مشجع",
-        "hint": "شخص يساند فريقه بالصوت؟",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "معالجة",
-        "hint": "تدخل تقني لتحسين القيمة الغذائية للرياضيين؟",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "برج",
-        "hint": "منصة مرتفعة للقفز المائي؟",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "بطولات",
-        "hint": "سلسلة احداث تنافسية؟",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "تمارين",
-        "hint": "سلسلة انشطة تدريبية؟",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "لياقة",
-        "hint": "قدرة بدنية عامة جيدة؟",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "ركض",
-        "hint": "حركة جري سريعة؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "كاتشا",
-        "hint": "عشب ايروفيدي ينقي الجسم للرياضيين؟",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "تصفيات",
-        "hint": "سلسلة مباريات للتأهل؟",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "فروسية",
-        "hint": "مجال سباقات القفز بالخيل؟",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "لعبة",
-        "hint": "اسم النشاط الرياضي نفسه؟",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "مشي",
-        "hint": "سباق يعتمد خطوات محسوبة؟",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "هرولة",
-        "hint": "جري خفيف للتسخين؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "نهائي",
-        "hint": "اخر لقاء يحدد البطل؟",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "فوسفاجن",
-        "hint": "مركب فوسفاتي يخزن الطاقة السريعة للرياضيين؟",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "سعة",
-        "hint": "قدرة الملعب على استقبال الجمهور؟",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "عمق",
-        "hint": "مستوى الغوص المطلوب في القفز؟",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "قسط",
-        "hint": "جذر عطري يدخل في وصفات الاعشاب للرياضيين؟",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "منصة",
-        "hint": "موقع تسليم الجوائز؟",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "مشجع",
-        "hint": "شخص يساند فريقه بالصوت؟",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "تمارين",
-        "hint": "سلسلة انشطة تدريبية؟",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "منافسة",
-        "hint": "مواجهة بين طرفين في الرياضة؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "فسفرة",
-        "hint": "اضافة مجموعة فوسفات لجزيء طاقي للرياضيين؟",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "قتال",
-        "hint": "مواجهة مباشرة ضمن رياضات الفنون؟",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "توتر",
-        "hint": "درجة شد العضلات الساكنة للرياضيين؟",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ركلات",
-        "hint": "جمع الحركات التي تعتمد القدم؟",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "هرولة",
-        "hint": "جري خفيف للتسخين؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "قرعة",
-        "hint": "اجراء يحدد المواجهات عشوائيا؟",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "غلوكاغون",
-        "hint": "هرمون يحرر الجلوكوز من المخزون الكبدي للرياضيين؟",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "احماء",
-        "hint": "تسخين عضلات قبل اللعب؟",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "تحميض",
-        "hint": "اضافة وسط حامض لحفظ الخضر للرياضيين؟",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "تصنيف",
-        "hint": "مستوى ترتيبي للمنتخبات؟",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "نياسين",
-        "hint": "فيتامين ب٣ يخفض الكوليسترول الضار للرياضيين؟",
-        "startx": 0,
-        "starty": 2,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "محور",
-        "hint": "لاعب يربط بين الدفاع والهجوم؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "تحميض",
-        "hint": "اضافة وسط حامض لحفظ الخضر للرياضيين؟",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "كريبس",
-        "hint": "دورة طاقة تحدث في الميتوكوندريا للرياضيين؟",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "كالسيتون",
-        "hint": "هرمون من الغدة الدرقية يخفض الكالسيوم للرياضيين؟",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "جنسنج",
-        "hint": "جذر اسيوي يعزز التكيف للرياضيين؟",
-        "startx": 0,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "جناح",
-        "hint": "لاعب يتحرك قرب الخط الجانبي؟",
-        "startx": 0,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ممر",
-        "hint": "طريق ضيق يحيط بحلبة؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "سوبر",
-        "hint": "لقاء يجمع بطلين من بطولات مختلفة؟",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "نتيجة",
-        "hint": "حصيلة الاهداف والنقاط؟",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "مطرقة",
-        "hint": "كرة معدنية متصلة بسلسلة للرمي؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "تتابع",
-        "hint": "سباق يسلم فيه العداء العصا لزميله؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "مرجع",
-        "hint": "دليل يشرح قوانين اللعبة؟",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "مؤقت",
-        "hint": "جهاز يحسب الثواني في السباق؟",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ايروبيك",
-        "hint": "سلسلة حركات سريعة للياقة؟",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ميلاتون",
-        "hint": "هرمون ليلي يضبط الساعة الحيوية للرياضيين؟",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "هيستامين",
-        "hint": "مركب التهابي يتحرر في نوبات الحساسية للرياضيين؟",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ماراتون",
-        "hint": "سباق جري طويل المسافة؟",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "جمهور",
-        "hint": "مجموعة الحاضرين في الملعب؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "رماة",
-        "hint": "لاعبون متخصصون في الرماية؟",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "نيفرون",
-        "hint": "وحدة ترشيح داخل الكلية للرياضيين؟",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "اسيتيل",
-        "hint": "مجموعة كيميائية تدخل في دورة كريبس للرياضيين؟",
-        "startx": 5,
-        "starty": 4,
         "orientation": "across",
         "position": 4
       },
       {
         "answer": "توزيع",
         "hint": "تقسيم الجهد على شوطي المباراة؟",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "هيستامين",
-        "hint": "مركب التهابي يتحرر في نوبات الحساسية للرياضيين؟",
-        "startx": 4,
+        "answer": "كرات",
+        "hint": "جمع الاداة المستديرة في الملاعب؟",
+        "startx": 8,
         "starty": 1,
-        "orientation": "across",
+        "orientation": "down",
         "position": 6
       },
       {
-        "answer": "نقطة",
-        "hint": "وحدة تحتسب عند التسجيل؟",
-        "startx": 3,
-        "starty": 8,
+        "answer": "رباعي",
+        "hint": "خطة تعتمد على اربعة لاعبين؟",
+        "startx": 8,
+        "starty": 2,
         "orientation": "across",
         "position": 7
-      },
-      {
-        "answer": "طيف",
-        "hint": "مجال ترددي يظهر في التحاليل للرياضيين؟",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "مكافاة",
-        "hint": "جائزة مالية تمنح للفائزين؟",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 9
       }
     ],
     [
       {
-        "answer": "رتم",
-        "hint": "سرعة ايقاع الفريق داخل الملعب؟",
-        "startx": 6,
-        "starty": 6,
+        "answer": "باسكت",
+        "hint": "اختصار شائع لكرة السلة؟",
+        "startx": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "تمويه",
-        "hint": "حركة تخدع الخصم قبل الانطلاق؟",
-        "startx": 5,
+        "answer": "قسط",
+        "hint": "جذر عطري يدخل في وصفات الاعشاب للرياضيين؟",
+        "startx": 6,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "استلام",
-        "hint": "السيطرة على كرة قادمة؟",
-        "startx": 4,
-        "starty": 1,
+        "answer": "باكوبا",
+        "hint": "عشب هندي يدعم الذاكرة للرياضيين؟",
+        "startx": 8,
+        "starty": 7,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "لبان",
-        "hint": "صمغ عطري يستنشق لدعم التنفس للرياضيين؟",
+        "answer": "تحفيز",
+        "hint": "تشجيع معنوي للاستمرار؟",
         "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سباقات",
+        "hint": "اختبارات متعددة لقياس السرعة؟",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تمويه",
+        "hint": "حركة تخدع الخصم قبل الانطلاق؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مسكة",
+        "hint": "نمط محدد من القبض على الذراع؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تسلسل",
+        "hint": "ترتيب مكونات حمض نووي للرياضيين؟",
+        "startx": 7,
         "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تنس",
+        "hint": "رياضة تعتمد المضرب والشبكة؟",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مؤقت",
+        "hint": "جهاز يحسب الثواني في السباق؟",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نتيجة",
+        "hint": "حصيلة الاهداف والنقاط؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رنين",
+        "hint": "تردد صوتي نقيس به انسجة الجسم للرياضيين؟",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عمق",
+        "hint": "مستوى الغوص المطلوب في القفز؟",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ثنائي",
+        "hint": "تنسيق يضم لاعبين في كل جانب؟",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "لاعبة",
+        "hint": "متنافسة تشارك في البطولات؟",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ممر",
+        "hint": "طريق ضيق يحيط بحلبة؟",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "سيزيوم",
+        "hint": "عنصر يستخدم في تتبع العمليات الحيوية للرياضيين؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كروي",
+        "hint": "صفة تصف شكل الكرة؟",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تمرين",
+        "hint": "نشاط تدريبي منظم؟",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "معسكر",
+        "hint": "فترة تحضيرية مغلقة للفريق؟",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "باكوبا",
+        "hint": "عشب هندي يدعم الذاكرة للرياضيين؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "اعاقة",
+        "hint": "خطأ يمنع تقدم الخصم؟",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "خوذة",
+        "hint": "غطاء يحمي الرأس من الاصابات؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معالجة",
+        "hint": "تدخل تقني لتحسين القيمة الغذائية للرياضيين؟",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "موسم",
+        "hint": "سلسلة منافسات تمتد شهورا؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تحمل",
+        "hint": "قدرة على مواصلة الجهد طويلا؟",
+        "startx": 7,
+        "starty": 2,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "جرمانيوم",
-        "hint": "عنصر شبه موصل يدخل في بعض المكملات للرياضيين؟",
+        "answer": "انعكاس",
+        "hint": "تغير مفاجئ في نسق المباراة؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تمويه",
+        "hint": "حركة تخدع الخصم قبل الانطلاق؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تكتيك",
+        "hint": "خطة تفصيلية لتقسيم الادوار؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تحوير",
+        "hint": "تعديل وراثي لمادة نباتية للرياضيين؟",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "مفاتيح",
+        "hint": "عناصر رئيسة لفتح دفاع الخصم؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "خانة",
+        "hint": "موقع تكتيكي في خطة رسمية؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تمرير",
+        "hint": "ارسال الكرة الى زميل؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تصنيف",
+        "hint": "مستوى ترتيبي للمنتخبات؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "انسجام التحركات بين اللاعبين؟",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تعليق",
+        "hint": "كلام يصف مجريات اللقاء؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كيتوز",
+        "hint": "حالة استقلابية تعتمد على حرق الدهون للرياضيين؟",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مسكة",
+        "hint": "نمط محدد من القبض على الذراع؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "قضبان",
+        "hint": "اعمدة معدنية للتدريب؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قائم",
+        "hint": "عمود يحدد اطار المرمى؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "باكوبا",
+        "hint": "عشب هندي يدعم الذاكرة للرياضيين؟",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "استرخاء",
+        "hint": "تهدئة الجسم بعد الجهد؟",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رمي",
+        "hint": "اطلاق جسم مثل الرمح؟",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قناة",
+        "hint": "منفذ تلفزيوني يعرض الرياضة؟",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "خولنجان",
+        "hint": "جذر عطري يستخدم في وصفات علاجية للرياضيين؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حذاء",
+        "hint": "حذاء رياضي يمنح ثباتا؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "زومبا",
+        "hint": "تمرين ايقاعي يعتمد الرقص؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تحميض",
+        "hint": "اضافة وسط حامض لحفظ الخضر للرياضيين؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ليبتين",
+        "hint": "هرمون شبع تفرزه الخلايا الدهنية للرياضيين؟",
         "startx": 2,
         "starty": 1,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "مرسال",
-        "hint": "جزيء يحمل رسالة هرمونية للرياضيين؟",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "جناح",
-        "hint": "لاعب يتحرك قرب الخط الجانبي؟",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 7
-      },
-      {
         "answer": "سكواش",
         "hint": "لعبة مضرب داخل جدران؟",
-        "startx": 0,
-        "starty": 8,
-        "orientation": "down",
-        "position": 8
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
       }
     ],
     [
       {
-        "answer": "عارضة",
-        "hint": "عمود افقي يقفز فوقه المتسابق؟",
-        "startx": 7,
-        "starty": 6,
+        "answer": "حذاء",
+        "hint": "حذاء رياضي يمنح ثباتا؟",
+        "startx": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "قارب",
-        "hint": "وسيلة سباق مائي صغيرة؟",
-        "startx": 5,
+        "answer": "خانة",
+        "hint": "موقع تكتيكي في خطة رسمية؟",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صفيحة",
+        "hint": "طبقة رقيقة تشكل جزءا من العظم للرياضيين؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قفاز",
+        "hint": "حماية لليد في الرياضة؟",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مسبح",
+        "hint": "حوض ماء مخصص للتدريب؟",
+        "startx": 8,
         "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مفاتيح",
+        "hint": "عناصر رئيسة لفتح دفاع الخصم؟",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ماكا",
+        "hint": "جذر اندي داعم للطاقة للرياضيين؟",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "اطار",
+        "hint": "حدود تحيط بالمرمى او الملعب؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استلام",
+        "hint": "السيطرة على كرة قادمة؟",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لوحة",
+        "hint": "شاشة تعرض النتيجة والوقت؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تكرار",
+        "hint": "عدد مرات تنفيذ تمرين معين؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مورينجا",
+        "hint": "شجرة استوائية غنية بالكاروتينات للرياضيين؟",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ناقلية",
+        "hint": "قدرة العصب على تمرير الاشارات للرياضيين؟",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "قبعة",
+        "hint": "غطاء رأس خفيف للعدائين؟",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "قوائم",
+        "hint": "اعمدة تحدد الاطار؟",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "استراحة",
+        "hint": "فاصل قصير لالتقاط الانفاس؟",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "مسكة",
+        "hint": "نمط محدد من القبض على الذراع؟",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "غشاء",
+        "hint": "طبقة رقيقة تفصل حجرات الجسم للرياضيين؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بلازما",
+        "hint": "جزء سائل من الدم يحمل المغذيات للرياضيين؟",
+        "startx": 6,
+        "starty": 2,
         "orientation": "down",
         "position": 2
       },
       {
         "answer": "صالة",
         "hint": "قاعة مغلقة للتدريب؟",
-        "startx": 3,
+        "startx": 8,
         "starty": 3,
-        "orientation": "down",
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "انتصار",
-        "hint": "تحقيق فوز واضح؟",
-        "startx": 3,
-        "starty": 4,
+        "answer": "توزيع",
+        "hint": "تقسيم الجهد على شوطي المباراة؟",
+        "startx": 8,
+        "starty": 5,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "ايقاع",
-        "hint": "تناغم الحركات خلال اللعب؟",
-        "startx": 7,
-        "starty": 2,
+        "answer": "غلايكول",
+        "hint": "تحلل السكر في السيتوبلازم لانتاج طاقة للرياضيين؟",
+        "startx": 8,
+        "starty": 7,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "استراحة",
-        "hint": "فاصل قصير لالتقاط الانفاس؟",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "كابويرا",
-        "hint": "فن برازيلي يجمع القتال والرقص؟",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "تحليل",
-        "hint": "مراجعة فنية بعد المباراة؟",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "وثب",
-        "hint": "قفزة تعتمد القوة والانطلاق؟",
-        "startx": 0,
-        "starty": 0,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "منافس",
-        "hint": "شخص يواجهك في البطولة؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "رابطة",
-        "hint": "هيئة تجمع اندية او اتحادات؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "اعاقة",
-        "hint": "خطأ يمنع تقدم الخصم؟",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "زلاجة",
-        "hint": "مركبة تنزلق على الجليد؟",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "سليلوز",
-        "hint": "الياف غير قابلة للهضم تشكل الجدران النباتية للرياضيين؟",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "كرة",
-        "hint": "جسم مستدير نركل او نرمي؟",
-        "startx": 0,
-        "starty": 0,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "هزيمة",
-        "hint": "خسارة مباراة رسمية؟",
-        "startx": 0,
-        "starty": 7,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "تذكرة",
-        "hint": "وثيقة تسمح بدخول الملعب؟",
-        "startx": 2,
-        "starty": 0,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "بطولة",
-        "hint": "حدث رياضي كبير يجمع الفرق؟",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "شباك",
-        "hint": "جمع الشبكة الرياضية؟",
-        "startx": 4,
+        "answer": "كاتيون",
+        "hint": "ايون موجب الشحنة في سوائل الجسم للرياضيين؟",
+        "startx": 11,
         "starty": 10,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "جولف",
-        "hint": "رياضة عصا وكرة في مسارات عشبية؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "كاتيون",
-        "hint": "ايون موجب الشحنة في سوائل الجسم للرياضيين؟",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "قتال",
-        "hint": "مواجهة مباشرة ضمن رياضات الفنون؟",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "فسفرة",
-        "hint": "اضافة مجموعة فوسفات لجزيء طاقي للرياضيين؟",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ثقل",
-        "hint": "وزن يستخدم في تمارين الرفع؟",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ريشي",
-        "hint": "فطر طبي يعزز المناعة للرياضيين؟",
-        "startx": 4,
-        "starty": 9,
         "orientation": "across",
         "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "نقطة",
-        "hint": "وحدة تحتسب عند التسجيل؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "مصارعة",
-        "hint": "مواجهة جسدية على بساط؟",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "قناة",
-        "hint": "منفذ تلفزيوني يعرض الرياضة؟",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "قميص",
-        "hint": "لباس رسمي موحد للفريق؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "معايرة",
-        "hint": "ضبط تركيز محلول بمحلول قياسي للرياضيين؟",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "جرمانيوم",
-        "hint": "عنصر شبه موصل يدخل في بعض المكملات للرياضيين؟",
-        "startx": 0,
-        "starty": 0,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "مراسل",
-        "hint": "صحفي يتابع الحدث من الميدان؟",
-        "startx": 0,
-        "starty": 7,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "قفص",
-        "hint": "هيكل محاط بشبك لمواجهات فنون القتال؟",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "ايروبيك",
-        "hint": "سلسلة حركات سريعة للياقة؟",
-        "startx": 0,
-        "starty": 3,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "سقوط",
-        "hint": "هبوط لاعب بعد محاولة لم تكتمل؟",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "بطاقة",
-        "hint": "كارت يستخدم للتحكيم او الدخول؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "كاتيون",
-        "hint": "ايون موجب الشحنة في سوائل الجسم للرياضيين؟",
-        "startx": 5,
+        "answer": "تمريرات",
+        "hint": "سلسلة من المناولات المنظمة؟",
+        "startx": 10,
         "starty": 5,
         "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "نسبة",
-        "hint": "جزء مئوي يصف امتلاك الكرة؟",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "سوبر",
-        "hint": "لقاء يجمع بطلين من بطولات مختلفة؟",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "شراع",
-        "hint": "قماش يلتقط الريح لدفع القارب؟",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "مطرقة",
-        "hint": "كرة معدنية متصلة بسلسلة للرمي؟",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "هوميوست",
-        "hint": "مصطلح يعني ثبات البيئة الداخلية للرياضيين؟",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
         "position": 7
       },
       {
-        "answer": "بطولات",
-        "hint": "سلسلة احداث تنافسية؟",
-        "startx": 1,
-        "starty": 0,
-        "orientation": "down",
+        "answer": "ثلاثي",
+        "hint": "تنظيم يشمل ثلاثة مشاركين؟",
+        "startx": 9,
+        "starty": 13,
+        "orientation": "across",
         "position": 8
       },
       {
-        "answer": "عضلة",
-        "hint": "نسيج يمنح القوة للحركة؟",
-        "startx": 3,
-        "starty": 11,
+        "answer": "مرمى",
+        "hint": "منطقة الهدف التي تحمى؟",
+        "startx": 12,
+        "starty": 6,
         "orientation": "across",
         "position": 9
-      },
-      {
-        "answer": "ناقلية",
-        "hint": "قدرة العصب على تمرير الاشارات للرياضيين؟",
-        "startx": 0,
-        "starty": 6,
-        "orientation": "down",
-        "position": 10
       }
     ],
     [
       {
-        "answer": "حصان",
-        "hint": "جهاز قفز يستعمله الجمبازيون؟",
-        "startx": 7,
-        "starty": 6,
+        "answer": "رسمية",
+        "hint": "صفة لقاء يدخل في حسابات رسمية؟",
+        "startx": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ابطاء",
-        "hint": "ابطاء اللعب للحفاظ على النتيجة؟",
-        "startx": 5,
-        "starty": 6,
+        "answer": "تحمض",
+        "hint": "تراكم حمض لبني يبطئ عداء المسافات؟",
+        "startx": 6,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
         "answer": "ماراتون",
         "hint": "سباق جري طويل المسافة؟",
-        "startx": 4,
-        "starty": 0,
+        "startx": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "ممر",
-        "hint": "طريق ضيق يحيط بحلبة؟",
-        "startx": 5,
-        "starty": 0,
+        "answer": "رتم",
+        "hint": "سرعة ايقاع الفريق داخل الملعب؟",
+        "startx": 10,
+        "starty": 5,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "التفاف",
-        "hint": "دوران سريع لتغيير الاتجاه؟",
-        "startx": 5,
-        "starty": 9,
+        "answer": "جنسنج",
+        "hint": "جذر اسيوي يعزز التكيف للرياضيين؟",
+        "startx": 9,
+        "starty": 11,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "مباراة",
-        "hint": "لقاء رسمي بين فريقين؟",
+        "answer": "نزول",
+        "hint": "هبوط متعمد لامتصاص صدمة؟",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مراقبة",
+        "hint": "تكليف لاعب بملاحقة خصم؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "اجهزة",
+        "hint": "مجموعة المعدات المستخدمة في الصالة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ميلاتون",
+        "hint": "هرمون ليلي يضبط الساعة الحيوية للرياضيين؟",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مصفوفة",
+        "hint": "بيئة خارج خلوية تدعم الخلايا للرياضيين؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "فجوة",
+        "hint": "حجرة خلوية تخزن الماء او المغذيات للرياضيين؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قتال",
+        "hint": "مواجهة مباشرة ضمن رياضات الفنون؟",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سلالم",
+        "hint": "عوارض يتسلقها الجمبازي؟",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "هرولة",
+        "hint": "جري خفيف للتسخين؟",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "غطاس",
+        "hint": "متسابق يؤدي قفزات فنية في الماء؟",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تماس",
+        "hint": "اعادة اللعب برمية جانبية؟",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "مسبح",
+        "hint": "حوض ماء مخصص للتدريب؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "زغابة",
+        "hint": "نتوء صغير يزيد سطح الامعاء للرياضيين؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ضغط",
+        "hint": "اسلوب يضيق المساحات على الخصم؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيورين",
+        "hint": "قواعد نيتروجينية تدخل في تركيب الجينات للرياضيين؟",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تيتانيوم",
+        "hint": "عنصر خفيف يدخل في غرسات طبية للرياضيين؟",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بولو",
+        "hint": "رياضة تلعب على ظهر حصان؟",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ناقلية",
+        "hint": "قدرة العصب على تمرير الاشارات للرياضيين؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "منافس",
+        "hint": "شخص يواجهك في البطولة؟",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تضخم",
+        "hint": "زيادة غير طبيعية في حجم نسيج للرياضيين؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "منغنيز",
+        "hint": "عنصر يزيد نشاط الانزيمات المضادة للاكسدة للرياضيين؟",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هيبوكسيا",
+        "hint": "نقص اوكسجين متعمد لتحفيز التحمل؟",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "غشاء",
+        "hint": "طبقة رقيقة تفصل حجرات الجسم للرياضيين؟",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "انتصار",
+        "hint": "تحقيق فوز واضح؟",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "صالة",
+        "hint": "قاعة مغلقة للتدريب؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "قيمة",
+        "hint": "رقم يحدد اهمية لاعب في السوق؟",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رتم",
+        "hint": "سرعة ايقاع الفريق داخل الملعب؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تذكرة",
+        "hint": "وثيقة تسمح بدخول الملعب؟",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "لعبة",
+        "hint": "اسم النشاط الرياضي نفسه؟",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "كربون",
+        "hint": "عنصر يشكل اساس المركبات العضوية للرياضيين؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شراع",
+        "hint": "قماش يلتقط الريح لدفع القارب؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "زاوية",
+        "hint": "نقطة التقاء الخطين الجانبي والنهائي؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تتابع",
+        "hint": "سباق يسلم فيه العداء العصا لزميله؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "هوميوست",
+        "hint": "مصطلح يعني ثبات البيئة الداخلية للرياضيين؟",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حكم",
+        "hint": "شخص يدير اللقاء ويطبق القوانين؟",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "بولينغ",
+        "hint": "رياضة اسقاط القوارير بكرة ثقيلة؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تحوير",
+        "hint": "تعديل وراثي لمادة نباتية للرياضيين؟",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "مساحة",
+        "hint": "رقعة اللعب المسموح بها؟",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "جزاء",
+        "hint": "مكان تنفذ منه الركلة الحاسمة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مهاجم",
+        "hint": "لاعب يتقدم نحو المرمى للتسجيل؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هوميوست",
+        "hint": "مصطلح يعني ثبات البيئة الداخلية للرياضيين؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "بيروفات",
+        "hint": "ناتج نهائي لتحلل الجلوكوز للرياضيين؟",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سيرف",
+        "hint": "رياضة ركوب الامواج بلوح؟",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "باكوبا",
+        "hint": "عشب هندي يدعم الذاكرة للرياضيين؟",
         "startx": 6,
         "starty": 3,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "وثب",
-        "hint": "قفزة تعتمد القوة والانطلاق؟",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
+        "answer": "قتال",
+        "hint": "مواجهة مباشرة ضمن رياضات الفنون؟",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
         "position": 7
       },
       {
-        "answer": "انيون",
-        "hint": "ايون سالب الشحنة في الدم للرياضيين؟",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "down",
+        "answer": "تمارين",
+        "hint": "سلسلة انشطة تدريبية؟",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
         "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "ركنية",
-        "hint": "كرة تلعب من الزاوية الهجومية؟",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "منافسة",
-        "hint": "مواجهة بين طرفين في الرياضة؟",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "باسكت",
-        "hint": "اختصار شائع لكرة السلة؟",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "قارب",
-        "hint": "وسيلة سباق مائي صغيرة؟",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "تحمل",
-        "hint": "قدرة على مواصلة الجهد طويلا؟",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "رماية",
-        "hint": "مسابقة اصابة هدف بعيد؟",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
       }
     ]
   ]
