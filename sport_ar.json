@@ -2,1846 +2,58 @@
   "levels": [
     [
       {
-        "answer": "تزلج",
-        "hint": "رياضة على الجليد أو الماء أو الرمل.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "غولف",
-        "hint": "رياضة بالعصا والكرة الصغيرة",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "تايكو",
-        "hint": "فن قتالي كوري يركز على ركلات القدم.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "كأس",
-        "hint": "جائزة كبرى تمنح للفائز.",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "عصا",
-        "hint": "تستخدم لضرب الكرة في الهوكي أو البولو.",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "سباح",
-        "hint": "من يمارس رياضة السباحة.",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "حلبة",
-        "hint": "مكان مخصص للملاكمة او المصارعة.",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "مرونة",
-        "hint": "القدرة على تحريك المفاصل والعضلات في نطاق واسع من الحركة.",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "رمح",
-        "hint": "اداة طويلة تستخدم في رياضة الرمي.",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "حكم",
-        "hint": "يدير المباراة ويطبق القوانين.",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "قفز",
-        "hint": "الارتفاع عن الأرض بالدفع بالقدمين.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "جمباز",
-        "hint": "رياضة تعتمد على المرونة والقوة البدنية.",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سباح",
-        "hint": "الشخص الذي يمارس رياضة السباحة.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "دراج",
-        "hint": "رياضة ركوب الدراجات الهوائية على الطرق أو المسارات.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "جري",
-        "hint": "الركض السريع لمسافات مختلفة في المضمار.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "قفاز",
-        "hint": "يلبس لحماية اليد في بعض الرياضات.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "هدف",
-        "hint": "النقطة التي يسعى اللاعبون لتسجيلها.",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "حكم",
-        "hint": "الشخص الذي يدير المباراة ويطبق القوانين.",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "عجلة",
-        "hint": "جزء دوار من الدراجة أو المركبة الرياضية.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "دراج",
-        "hint": "من يركب الدراجة في السباقات.",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "جودو",
-        "hint": "فن قتالي ياباني يعتمد على الرمي والتثبيت.",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "كرة",
-        "hint": "تلعب بالقدم",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "رماية",
-        "hint": "رياضة دقيقة تستخدم القوس أو السلاح لإصابة الأهداف.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "بطولة",
-        "hint": "مسابقة كبيرة يتنافس فيها الأبطال على لقب.",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "جمهور",
-        "hint": "مجموعة المشجعين الحاضرين في الملعب.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "مضرب",
-        "hint": "أداة التنس",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "حلبة",
-        "hint": "مكان مخصص للملاكمة او المصارعة.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "حزام",
-        "hint": "علامة مستوى في الفنون القتالية.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "قوة",
-        "hint": "القدرة البدنية على بذل الجهد الكبير.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "اوليم",
-        "hint": "أكبر حدث رياضي عالمي يقام كل أربع سنوات.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "وثب",
-        "hint": "قفزة طويلة أو ثلاثية تستخدم في ألعاب القوى لقطع أطول مسافة.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "مصارع",
-        "hint": "رياضي في المصارعة",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "فردي",
-        "hint": "رياضة يمارسها لاعب واحد ضد آخر أو ضد الزمن.",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "ضربة",
-        "hint": "حركة قوية بالقدم أو اليد لتسجيل نقطة أو بدء اللعب.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "وزن",
-        "hint": "رياضة رفع الأثقال",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "قفاز",
-        "hint": "غطاء لليد يستخدم للحماية في رياضات مثل الملاكمة أو حراسة المرمى.",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
         "answer": "دفاع",
-        "hint": "استراتيجية لمنع الخصم من التسجيل.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "نهاية",
-        "hint": "خط الوصول في السباقات.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "دراج",
-        "hint": "رياضة ركوب الدراجات الهوائية على الطرق أو المسارات.",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ملعب",
-        "hint": "المكان المخصص لاقامة المباريات.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ماراث",
-        "hint": "سباق جري لمسافة طويلة جداً.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "حفرة",
-        "hint": "هدف الغولف",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "حلبة",
-        "hint": "مكان مخصص للملاكمة او المصارعة.",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "سبح",
-        "hint": "حركة في الماء",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "مشجع",
-        "hint": "شخص يحضر لمساندة فريقه أو لاعبه المفضل.",
+        "hint": "تكتيك رياضي يهدف إلى منع الخصم من تسجيل النقاط أو الأهداف.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "جمباز",
-        "hint": "رياضة تتطلب المرونة والقوة والتوازن.",
+        "answer": "صالات",
+        "hint": "كرة تلعب داخل الصالات المغلقة.",
         "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "هزيمة",
-        "hint": "عكس الفوز",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "طاولة",
-        "hint": "تنس الطاولة",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "دفاع",
-        "hint": "استراتيجية لمنع الخصم من التسجيل.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "حلبة",
-        "hint": "مكان مخصص للملاكمة او المصارعة.",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "جري",
-        "hint": "رياضة السرعة",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "جودو",
-        "hint": "فن قتالي ياباني.",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "فائز",
-        "hint": "الشخص الذي يحقق الانتصار.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "حكم",
-        "hint": "الشخص الذي يدير المباراة ويطبق القوانين الرياضية.",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "سباح",
-        "hint": "الشخص الذي يمارس رياضة السباحة.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سرعة",
-        "hint": "القدرة على التحرك بسرعة قصوى في وقت قصير.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "كرة",
-        "hint": "رياضة تلعب بالقدم أو اليد.",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "لياقة",
-        "hint": "القدرة البدنية على أداء الأنشطة اليومية والرياضية دون تعب مفرط.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ملاكمة",
-        "hint": "رياضة قتالية يتبادل فيها الملاكمان اللكمات.",
-        "startx": 10,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "لاعب",
-        "hint": "الفرد الذي يمارس الرياضة.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "تعادل",
-        "hint": "انتهاء المباراة بنفس النتيجة للفريقين.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "مدرب",
-        "hint": "الشخص المسؤول عن تدريب الفريق أو اللاعبين.",
-        "startx": 5,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "حلبة",
-        "hint": "مضمار خاص برياضة الملاكمة أو المصارعة.",
+        "answer": "خاسر",
+        "hint": "الشخص الذي لم يفز بالمنافسة.",
         "startx": 7,
         "starty": 9,
         "orientation": "across",
         "position": 3
-      },
-      {
-        "answer": "رفع",
-        "hint": "رياضة تعتمد على رفع أثقال ثقيلة.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "حكم",
-        "hint": "الشخص الذي يدير المباراة ويطبق القوانين الرياضية.",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
       },
       {
         "answer": "درع",
         "hint": "جائزة تذكارية تمنح للفائزين أو الفرق.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ماراث",
-        "hint": "سباق جري لمسافة طويلة جداً.",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "بليارد",
-        "hint": "رياضة بالعصا والكرات",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "رامي",
-        "hint": "من يمارس رياضة الرماية بالقوس والسهم.",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "مضمار",
-        "hint": "المسار المخصص للجري أو سباق الخيل.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "جري",
-        "hint": "الركض السريع لمسافات مختلفة في المضمار.",
-        "startx": 7,
+        "startx": 4,
         "starty": 8,
-        "orientation": "across",
+        "orientation": "down",
         "position": 4
-      },
-      {
-        "answer": "حكم",
-        "hint": "الشخص الذي يدير المباراة ويطبق القوانين الرياضية.",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "لاعب",
-        "hint": "الشخص الذي يمارس رياضة معينة كجزء من فريق أو فردياً.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "شباك",
-        "hint": "الشبكة الموجودة في المرمى.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "اولمبي",
-        "hint": "صفة تخص الألعاب الرياضية الدولية الكبرى.",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "هوكي",
-        "hint": "رياضة بالعصا والكرة",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "تدريب",
-        "hint": "ممارسة مستمرة",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
       },
       {
         "answer": "هدف",
         "hint": "النقطة التي يتم تسجيلها في ألعاب الكرة بإدخالها في مرمى الخصم.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "بطل",
-        "hint": "الشخص الذي يفوز بمسابقة أو بطولة رياضية.",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "تهدئة",
-        "hint": "تمارين خفيفة بعد الجهد الرياضي لخفض النبض.",
         "startx": 8,
         "starty": 6,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "لياقة",
-        "hint": "القدرة البدنية على أداء الأنشطة اليومية والرياضية دون تعب مفرط.",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "سلة",
-        "hint": "رياضة رمي الكرة",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "يوجا",
-        "hint": "تمارين استرخاء",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "قدم",
-        "hint": "رياضة جماعية مشهورة",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "صحة",
-        "hint": "الحالة الجيدة للجسم والعقل، والتي تعززها ممارسة الرياضة.",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "قوس",
-        "hint": "اداة تستخدم في رياضة الرماية.",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "قرص",
-        "hint": "جسم دائري ثقيل يرمى لمسافة في ألعاب القوى.",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "جودو",
-        "hint": "فن قتالي ياباني يركز على الرمي والتثبيت دون استخدام اللكمات.",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "اصابة",
-        "hint": "ضرر جسدي يلحق باللاعب أثناء ممارسته الرياضة.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "قوة",
-        "hint": "القدرة البدنية على بذل الجهد الكبير.",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "بولنج",
-        "hint": "رياضة رمي كرة ثقيلة لإسقاط قوارير خشبية.",
+        "answer": "دوري",
+        "hint": "مسابقة رياضية منتظمة بين فرق متعددة.",
         "startx": 4,
         "starty": 8,
         "orientation": "across",
         "position": 6
-      },
-      {
-        "answer": "تنس",
-        "hint": "رياضة تلعب بالمضارب والكرة.",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "انذار",
-        "hint": "عقوبة يوجهها الحكم للاعب المخالف.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "وزن",
-        "hint": "فئة في رياضات مثل الملاكمة ورفع الاثقال.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "جمهور",
-        "hint": "المشاهدون الذين يحضرون المباريات.",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 10
       }
     ],
     [
       {
-        "answer": "لياقة",
-        "hint": "الحالة الجسدية الجيدة والقدرة على التحمل.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "تهدئة",
-        "hint": "تمارين خفيفة بعد النشاط البدني لخفض ضربات القلب والعضلات.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "تجدي",
-        "hint": "رياضة دفع قارب في الماء باستخدام مجاديف طويلة.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "غولف",
-        "hint": "رياضة بالعصا والكرة الصغيرة",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ميدال",
-        "hint": "جائزة تمنح للفائزين عادة ذهبية.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "تمارين",
-        "hint": "حركات رياضية",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "مضمار",
-        "hint": "مسار مخصص لسباقات الجري أو الدراجات.",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "لفة",
-        "hint": "دورة كاملة حول مضمار الجري.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "قفاز",
-        "hint": "يلبس في اليد لحماية الملاكم أو حارس المرمى.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "نقطة",
-        "hint": "وحدة احتساب الأهداف أو النقاط في اللعبة.",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "نهاية",
-        "hint": "خط الوصول في السباقات.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "تنس",
-        "hint": "رياضة تلعب بالمضارب والكرة.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "وزن",
-        "hint": "ثقل يستخدم في رياضة رفع الأثقال لتقوية العضلات.",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "قوة",
-        "hint": "القدرة البدنية على بذل جهد كبير أو رفع أوزان ثقيلة.",
-        "startx": 10,
-        "starty": 9,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "قرص",
-        "hint": "أداة دائرية ترمى في رياضة ألعاب القوى.",
-        "startx": 10,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "جمباز",
-        "hint": "رياضة بهلوانية",
-        "startx": 9,
-        "starty": 2,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "قفاز",
-        "hint": "يلبس لحماية اليد في بعض الرياضات.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني باليدين والقدمين للدفاع عن النفس.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "فريق",
-        "hint": "مجموعة من اللاعبين يتنافسون معا.",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "جمباز",
-        "hint": "رياضة حركات بهلوانية ومرونة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ميدان",
-        "hint": "مكان إقامة الرياضات",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ملاكم",
-        "hint": "رياضة قتالية بين شخصين يتبادلان اللكمات بقفازات خاصة.",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ركبي",
-        "hint": "رياضة جماعية عنيفة شبيهة بكرة القدم الأمريكية.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "كأس",
-        "hint": "جائزة على شكل وعاء أو مجسم تمنح للفائز بالبطولات الكبرى.",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "قوس",
-        "hint": "اداة تستخدم في رياضة الرماية.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "دفاع",
-        "hint": "استراتيجية لمنع الخصم من التسجيل.",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "تزلج",
-        "hint": "حركة على الجليد",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "جري",
-        "hint": "رياضة تعتمد على الركض السريع.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "لياقة",
-        "hint": "الحالة البدنية الجيدة.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "صافرة",
-        "hint": "أداة يستخدمها الحكم للإشارة إلى بدء أو انتهاء اللعب أو الأخطاء.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "تحمل",
-        "hint": "قدرة اللاعب على الاستمرار طويلا.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "حفرة",
-        "hint": "هدف الغولف",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "بطل",
-        "hint": "الفائز بالمركز الأول في مسابقة.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "مدرب",
-        "hint": "الشخص الذي يشرف على تدريب الفريق.",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "قوس",
-        "hint": "أداة رياضة القوس والسهم",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "مضمار",
-        "hint": "مسار دائري لسباقات الجري.",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "احماء",
-        "hint": "تمارين خفيفة قبل البدء بالجهد الرياضي الرئيسي.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "قفاز",
-        "hint": "غطاء لليد يستخدم للحماية في رياضات مثل الملاكمة أو حراسة المرمى.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "حكم",
-        "hint": "شخص يدير المباراة ويطبق القوانين.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "يوجا",
-        "hint": "تمارين استرخاء",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "قوس",
-        "hint": "أداة تستخدم لرمي السهام في رياضة الرماية.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "جري",
-        "hint": "رياضة تعتمد على السرعة أو التحمل.",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "راكب",
-        "hint": "من يمارس رياضة ركوب الأمواج.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سباح",
-        "hint": "الشخص الذي يمارس رياضة السباحة.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "مضرب",
-        "hint": "أداة تستخدم لضرب الكرة في رياضات مثل التنس والريشة.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ابطال",
-        "hint": "اللاعبون أو الفرق التي تفوز بالبطولات.",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "شباك",
-        "hint": "الشبكة الموجودة في المرمى.",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "سهم",
-        "hint": "جسم مدبب يطلق من القوس بسرعة.",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "لوح",
-        "hint": "أداة مسطحة تستخدم للتزلج على الماء أو الجليد.",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "سباق",
-        "hint": "منافسة تعتمد على السرعة.",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "يوجا",
-        "hint": "تمارين استرخاء",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ملاكم",
-        "hint": "رياضي يقاتل بالقبضتين في حلبة.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "قدم",
-        "hint": "رياضة شعبية تلعب بالقدم وهدفها تسجيل الأهداف في مرمى الخصم.",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "تدريب",
-        "hint": "القيام بتمارين رياضية منتظمة لتحسين اللياقة البدنية والأداء.",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ملاكمة",
-        "hint": "رياضة قتالية يتبادل فيها الملاكمان اللكمات.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "شبك",
-        "hint": "يستخدم في المرمى",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "شوط",
-        "hint": "مدة زمنية محددة من المباراة أو المنافسة.",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "حبل",
-        "hint": "اداة تستخدم في رياضة القفز او شد الحبل.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "اولمب",
-        "hint": "أكبر حدث رياضي",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "مضمار",
-        "hint": "المسار المخصص للجري أو سباق الخيل.",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "بطولة",
-        "hint": "منافسة كبرى لتحديد البطل.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "هواة",
-        "hint": "لاعبون يمارسون الرياضة للمتعة.",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "صافرة",
-        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "اصابة",
-        "hint": "ضرر جسدي يلحق باللاعب أثناء ممارسته الرياضة.",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "سباق",
-        "hint": "منافسة بين متسابقين لمعرفة الأسرع.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ملعب",
-        "hint": "المكان المخصص للعب الرياضي.",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "رمح",
-        "hint": "يرمى بعيداً",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "خطا",
-        "hint": "مخالفة لقوانين اللعبة يرتكبها اللاعب.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "قوس",
-        "hint": "أداة تستخدم لرمي السهام في رياضة الرماية.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "جري",
-        "hint": "رياضة بدنية تعتمد على السرعة والتحمل في قطع المسافات.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "جزاء",
-        "hint": "ضربة حرة مباشرة تمنح للفريق بسبب خطأ داخل منطقة محددة.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "حذاء",
-        "hint": "يلبس في القدم لحماية ودعم الرياضي أثناء اللعب.",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "رماية",
-        "hint": "رياضة تتطلب الدقة في إصابة الأهداف بالسهام أو الأسلحة النارية.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "هزيمة",
-        "hint": "عكس الفوز",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "قفاز",
-        "hint": "غطاء لليد يستخدم للحماية في رياضات مثل الملاكمة أو حراسة المرمى.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "وثب",
-        "hint": "قفزة طويلة أو ثلاثية تستخدم في ألعاب القوى لقطع أطول مسافة.",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "هواة",
-        "hint": "لاعبون يمارسون الرياضة للمتعة.",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "جمباز",
-        "hint": "رياضة تعتمد على المرونة والقوة والتوازن والأداء الحركي.",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "جودو",
-        "hint": "فن قتالي ياباني.",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "وزن",
-        "hint": "رياضة رفع الأثقال",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "كرة",
-        "hint": "اداة رئيسية في العاب كثيرة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ركن",
-        "hint": "ضربة تلعب من زاوية الملعب بعد خروج الكرة.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "جمباز",
-        "hint": "رياضة تتطلب المرونة والقوة والتوازن.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سباح",
-        "hint": "من يمارس رياضة السباحة.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "جولف",
-        "hint": "رياضة تُضرب فيها كرة صغيرة بعصا في حفر.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ملعب",
-        "hint": "المكان المخصص لاقامة المباريات.",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "غطس",
-        "hint": "القفز في الماء",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "بطاقة",
-        "hint": "أداة يستخدمها الحكم لتنبيه اللاعبين أو طردهم (حمراء أو صفراء).",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "جمهور",
-        "hint": "يشاهد المباراة",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني يستخدم الضربات والركلات والدفاع عن النفس.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "قدم",
-        "hint": "رياضة جماعية مشهورة",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "حكم",
-        "hint": "الشخص الذي يدير المباراة ويطبق القوانين الرياضية.",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "فريق",
-        "hint": "مجموعة من اللاعبين يتنافسون معا.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "جري",
-        "hint": "رياضة بدنية تعتمد على السرعة والتحمل في قطع المسافات.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "رياضي",
-        "hint": "الشخص الذي يمارس الرياضة بانتظام ويتمتع بلياقة بدنية.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "ركض",
-        "hint": "جري سريع",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "رفع",
-        "hint": "رياضة حمل الأثقال الثقيلة.",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "رمح",
-        "hint": "أداة طويلة مدببة ترمى لمسافة بعيدة.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "طائر",
-        "hint": "كرة تلعب في الهواء فوق شبكة.",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "استاد",
-        "hint": "ملعب كبير مجهز لمشاهدة الألعاب الرياضية الجماهيرية.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "جمباز",
-        "hint": "رياضة تعتمد على المرونة والقوة والتوازن والأداء الحركي.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ملاكم",
-        "hint": "رياضي يمارس الملاكمة",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "سباح",
-        "hint": "الشخص الذي يمارس رياضة السباحة.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "حذاء",
-        "hint": "ما يلبسه الرياضي في قدمه لممارسة الرياضة.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "ميدال",
-        "hint": "جائزة دائرية تمنح للأوائل في المنافسات.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "رماية",
-        "hint": "رياضة التصويب على هدف.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ملاكم",
-        "hint": "رياضة قتالية بين شخصين يتبادلان اللكمات بقفازات خاصة.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ابطال",
-        "hint": "اللاعبون أو الفرق التي تفوز بالبطولات.",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "خطا",
-        "hint": "مخالفة لقوانين اللعبة يرتكبها اللاعب.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "حلقة",
-        "hint": "جهاز يستخدم في رياضة الجمباز لأداء الحركات.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "رمي",
-        "hint": "رياضة دفع او قذف الادوات.",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "محترف",
-        "hint": "لاعب يمارس الرياضة كمهنة.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "خسار",
-        "hint": "عدم الفوز في مسابقة رياضية.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "قوس",
-        "hint": "أداة تستخدم لرمي السهام في رياضة الرماية.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "مضرب",
-        "hint": "أداة تستخدم لضرب الكرة في التنس أو الريشة.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "مصارعة",
-        "hint": "رياضة قتالية فردية تهدف إلى تثبيت الخصم.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "سباق",
-        "hint": "مسابقة سرعة بين متنافسين في الجري أو السيارات أو الخيل.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "سيف",
-        "hint": "أداة تستخدم في رياضة المبارزة بالأيدي.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "هدف",
-        "hint": "النقطة التي يسعى اللاعبون لتحقيقها في معظم الألعاب.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "بحار",
-        "hint": "من يمارس رياضة الإبحار بالقوارب.",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "فرس",
-        "hint": "حيوان يستخدم في رياضة الفروسية وسباقاتها.",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "ابطال",
-        "hint": "اللاعبون أو الفرق التي تفوز بالبطولات.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "طاولة",
-        "hint": "جزء اساسي في كرة الطاولة.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني يعتمد على اليدين والقدمين.",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "بليارد",
-        "hint": "لعبة طاولة بالعصا والكرات الملونة.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "اولمب",
-        "hint": "أكبر حدث رياضي",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "حكم",
-        "hint": "يدير المباراة ويطبق القوانين.",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "جمهور",
-        "hint": "مجموعة المشجعين الحاضرين في الملعب.",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "رماية",
-        "hint": "رياضة التصويب على هدف.",
+        "answer": "مصارع",
+        "hint": "رياضي في المصارعة",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
@@ -1856,133 +68,289 @@
         "position": 2
       },
       {
-        "answer": "ضربة",
-        "hint": "حركة قوية بالقدم أو اليد لتسجيل نقطة أو بدء اللعب.",
-        "startx": 4,
-        "starty": 4,
+        "answer": "حكم",
+        "hint": "شخص يدير المباراة ويطبق القوانين.",
+        "startx": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "فريق",
-        "hint": "مجموعة من اللاعبين يلعبون معًا في رياضة جماعية.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس عدد الأهداف للفريقين.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "تعادل",
-        "hint": "انتهاء المباراة بنفس عدد النقاط أو الأهداف لكل فريق.",
-        "startx": 6,
-        "starty": 9,
+        "answer": "سباح",
+        "hint": "الشخص الذي يمارس رياضة السباحة.",
+        "startx": 11,
+        "starty": 5,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "جولف",
-        "hint": "رياضة فردية تهدف إلى ضرب كرة صغيرة بعصا في حفر بأقل عدد من الضربات.",
-        "startx": 2,
+        "answer": "سرعة",
+        "hint": "القدرة على الحركة بسرعة كبيرة.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قارب",
+        "hint": "رياضة التجديف",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يمارس الملاكمة",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "كارات",
+        "hint": "فن قتالي ياباني يعتمد على اليدين والقدمين.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تزلج",
+        "hint": "الانزلاق على الجليد أو الماء باللوح.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دراج",
+        "hint": "رياضة ركوب الدراجات الهوائية على الطرق أو المسارات.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة استخدام السلاح",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "عجلة",
+        "hint": "جزء دوار من الدراجة أو المركبة الرياضية.",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "منافس",
+        "hint": "الشخص أو الفريق الذي يتنافس ضدك.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس عدد النقاط أو الأهداف لكل فريق.",
+        "startx": 8,
         "starty": 7,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "جمهور",
-        "hint": "مجموعة المشجعين الحاضرين في الملعب.",
-        "startx": 8,
+        "answer": "حواجز",
+        "hint": "سباق جري يتطلب القفز فوق عوائق.",
+        "startx": 7,
         "starty": 3,
         "orientation": "down",
         "position": 7
       },
       {
-        "answer": "قدم",
-        "hint": "رياضة جماعية مشهورة",
-        "startx": 10,
-        "starty": 4,
+        "answer": "دراجة",
+        "hint": "مركبة بعجلتين تستخدم للسباق أو التنقل.",
+        "startx": 8,
+        "starty": 10,
         "orientation": "across",
         "position": 8
       },
       {
-        "answer": "لياقة",
-        "hint": "قدرة بدنية عالية",
-        "startx": 10,
-        "starty": 1,
+        "answer": "جمباز",
+        "hint": "رياضة تعتمد على المرونة والقوة البدنية.",
+        "startx": 5,
+        "starty": 10,
         "orientation": "down",
         "position": 9
       },
       {
-        "answer": "فروس",
-        "hint": "رياضة ركوب الخيل",
-        "startx": 2,
-        "starty": 10,
+        "answer": "ركل",
+        "hint": "استخدام القدم لضرب الكرة أو الخصم.",
+        "startx": 10,
+        "starty": 11,
         "orientation": "across",
         "position": 10
       }
     ],
     [
       {
-        "answer": "ركن",
-        "hint": "ضربة تلعب من زاوية الملعب بعد خروج الكرة.",
-        "startx": 7,
+        "answer": "جودو",
+        "hint": "فن قتالي ياباني آخر",
+        "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "رشاقة",
-        "hint": "القدرة على التحرك بسرعة وخفة وسهولة في الأداء الرياضي.",
-        "startx": 7,
-        "starty": 7,
+        "answer": "قوس",
+        "hint": "اداة تستخدم في رياضة الرماية.",
+        "startx": 5,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "شراع",
-        "hint": "قطعة قماش كبيرة تدفع القارب بالرياح.",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
+        "answer": "دراج",
+        "hint": "من يركب الدراجة في السباقات.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "لفة",
-        "hint": "دورة كاملة حول مضمار الجري.",
-        "startx": 9,
-        "starty": 11,
+        "answer": "يوغا",
+        "hint": "مجموعة من التمارين الجسدية والعقلية.",
+        "startx": 11,
+        "starty": 6,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "برونز",
-        "hint": "لون ميدالية المركز الثالث",
-        "startx": 5,
-        "starty": 4,
+        "answer": "اولمبياد",
+        "hint": "أكبر حدث رياضي دولي يقام كل أربع سنوات.",
+        "startx": 11,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "خاسر",
-        "hint": "الشخص الذي لم يفز بالمنافسة.",
-        "startx": 8,
-        "starty": 5,
+        "answer": "احتراف",
+        "hint": "ممارسة الرياضة كمهنة للحصول على المال.",
+        "startx": 11,
+        "starty": 1,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "وثب",
-        "hint": "قفزة طويلة أو ثلاثية تستخدم في ألعاب القوى لقطع أطول مسافة.",
+        "answer": "قفز",
+        "hint": "حركة رياضية تتضمن دفع الجسم للأعلى أو للأمام من الأرض.",
         "startx": 5,
         "starty": 6,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "فردي",
-        "hint": "رياضة يمارسها لاعب واحد ضد آخر أو ضد الزمن.",
-        "startx": 8,
-        "starty": 11,
+        "answer": "تزلج",
+        "hint": "رياضة الانزلاق على الجليد أو الثلج.",
+        "startx": 3,
+        "starty": 5,
         "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "رمح",
+        "hint": "أداة ترمى لمسافة بعيدة في الألعاب الأولمبية.",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "هدف",
+        "hint": "النقطة التي يسعى اللاعبون لتسجيلها.",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "سهم",
+        "hint": "المقذوف الذي يرمى بالقوس.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاس",
+        "hint": "جائزة كبيرة تمنح للفائز بالبطولة.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تحمل",
+        "hint": "قدرة اللاعب على الاستمرار طويلا.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تزلج",
+        "hint": "رياضة الانزلاق على الجليد أو الثلج.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نتيجة",
+        "hint": "الحصيلة النهائية للأهداف أو النقاط في مباراة.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "معدات",
+        "hint": "الأدوات اللازمة لممارسة الرياضة.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "رمي",
+        "hint": "فعل قذف شيء باليد لمسافة محددة.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "جمهور",
+        "hint": "المشاهدون الذين يحضرون المباريات.",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "across",
         "position": 8
       }
     ],
@@ -1996,388 +364,124 @@
         "position": 1
       },
       {
-        "answer": "سباحة",
-        "hint": "رياضة مائية.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "توازن",
-        "hint": "القدرة على الحفاظ على استقرار الجسم أثناء الحركة أو الثبات.",
+        "answer": "دوري",
+        "hint": "مسابقة رياضية منظمة تضم عدة فرق أو لاعبين.",
         "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "شوط",
-        "hint": "مدة زمنية محددة من المباراة أو المنافسة.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "مرونة",
-        "hint": "القدرة على تحريك المفاصل في نطاق واسع.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "مضرب",
-        "hint": "أداة لضرب الكرة في رياضات مثل التنس.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "منافس",
-        "hint": "الشخص أو الفريق الذي يتنافس ضدك.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "سباحة",
-        "hint": "رياضة مائية.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "فرس",
-        "hint": "حيوان يستخدم في رياضة الفروسية وسباقاتها.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "استاد",
-        "hint": "ملعب كبير مجهز لمشاهدة الألعاب الرياضية الجماهيرية.",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "تعادل",
-        "hint": "انتهاء المباراة بنفس عدد النقاط أو الأهداف لكل فريق.",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ميدالية",
-        "hint": "جائزة تُمنح للفائزين في المسابقات الرياضية.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "يوجا",
-        "hint": "مجموعة تمارين لتوازن الجسد والذهن والاسترخاء.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني باليدين والقدمين للدفاع عن النفس.",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "شباك",
-        "hint": "الجزء الذي يجب أن تعبره الكرة لتسجيل هدف أو نقطة.",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "توازن",
-        "hint": "القدرة على الحفاظ على استقرار الجسم.",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "ميدان",
-        "hint": "مساحة واسعة تقام فيها المنافسات الرياضية.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "صافرة",
-        "hint": "أداة يستخدمها الحكم للإشارة إلى بدء أو انتهاء اللعب أو الأخطاء.",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "دراجة",
-        "hint": "تستخدم في سباقات الدراجات.",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ميدالية",
-        "hint": "جائزة الفائز",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "بولنج",
-        "hint": "رياضة رمي كرة ثقيلة لإسقاط قوارير خشبية.",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ريشة",
-        "hint": "رياضة مضرب تُلعب بريشة خفيفة.",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "شبك",
-        "hint": "يستخدم في المرمى",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "كرة",
-        "hint": "جسم مستدير يرمى أو يركل في الألعاب الرياضية.",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "مضرب",
-        "hint": "أداة لضرب الكرة في رياضات مثل التنس.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "قارب",
-        "hint": "مركبة صغيرة تستخدم في رياضات التجديف أو الشراع في الماء.",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "جمباز",
-        "hint": "رياضة بهلوانية",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "مدرب",
-        "hint": "الشخص المسؤول عن تعليم وتوجيه اللاعبين وتطوير مهاراتهم.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني باليدين والقدمين للدفاع عن النفس.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "تزلج",
-        "hint": "رياضة انزلاق على الجليد أو الثلج باستخدام معدات خاصة.",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "كأس",
-        "hint": "جائزة كبرى تُمنح للفريق أو اللاعب الفائز ببطولة.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "كاس",
-        "hint": "جائزة كبيرة تمنح للفائز بالبطولة.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "اولمب",
-        "hint": "أكبر حدث رياضي",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "ابطال",
-        "hint": "اللاعبون أو الفرق التي تفوز بالبطولات.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "قارب",
-        "hint": "رياضة التجديف",
-        "startx": 8,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ملعب",
-        "hint": "المكان المخصص لممارسة الرياضة.",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "وثب",
-        "hint": "قفزة طويلة أو ثلاثية تستخدم في ألعاب القوى لقطع أطول مسافة.",
+        "answer": "نهائي",
+        "hint": "المباراة الحاسمة لتحديد الفائز بالبطولة.",
         "startx": 10,
         "starty": 9,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "معدات",
-        "hint": "الأدوات اللازمة لممارسة الرياضة.",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني باليدين والقدمين للدفاع عن النفس.",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "فريق",
-        "hint": "مجموعة من اللاعبين يتنافسون معا.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "مسار",
-        "hint": "الطريق المحدد للجري أو المشي أو التزلج في الأماكن المخصصة.",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سرعة",
-        "hint": "القدرة على التحرك بسرعة قصوى في وقت قصير.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "فائز",
-        "hint": "الشخص الذي يحقق الانتصار.",
-        "startx": 8,
-        "starty": 7,
+        "answer": "تهدئة",
+        "hint": "تمارين خفيفة بعد النشاط البدني لخفض ضربات القلب والعضلات.",
+        "startx": 9,
+        "starty": 8,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "تزلج",
-        "hint": "رياضة الانزلاق على الجليد او الماء.",
-        "startx": 9,
-        "starty": 10,
-        "orientation": "across",
+        "answer": "ملاكمة",
+        "hint": "رياضة قتالية يتبادل فيها الملاكمان اللكمات.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "سهم",
-        "hint": "جسم مدبب يطلق من القوس بسرعة.",
-        "startx": 9,
+        "answer": "عصا",
+        "hint": "أداة الهوكي",
+        "startx": 6,
         "starty": 4,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "دراجة",
-        "hint": "تستخدم في سباقات الدراجات.",
+        "answer": "ملعب",
+        "hint": "المكان المخصص لاقامة المباريات.",
         "startx": 4,
-        "starty": 1,
-        "orientation": "down",
+        "starty": 6,
+        "orientation": "across",
         "position": 7
       },
       {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني باليدين والقدمين للدفاع عن النفس.",
-        "startx": 5,
-        "starty": 3,
+        "answer": "سلة",
+        "hint": "رياضة ترمى فيها الكرة في سلة عالية.",
+        "startx": 11,
+        "starty": 12,
         "orientation": "across",
         "position": 8
       }
     ],
     [
       {
-        "answer": "تنس",
-        "hint": "رياضة مضرب تُلعب بكرة صغيرة وشبكة.",
+        "answer": "اوليم",
+        "hint": "أكبر حدث رياضي عالمي يقام كل أربع سنوات.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بولينج",
+        "hint": "لعبة يتم فيها رمي كرة ثقيلة لإسقاط عشرة دبابيس خشبية.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيسبول",
+        "hint": "رياضة أمريكية بالمضرب والكرة وقواعد محددة.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "دراجة",
+        "hint": "تستخدم في سباقات الدراجات.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تدريب",
+        "hint": "عملية ممارسة مستمرة لتحسين الاداء.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حلبة",
+        "hint": "مضمار مخصص لسباقات السيارات أو الخيل أو المصارعة.",
+        "startx": 11,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لاعب",
+        "hint": "الشخص الذي يمارس رياضة معينة كجزء من فريق أو فردياً.",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "عصا",
+        "hint": "تستخدم لضرب الكرة في الهوكي أو البولو.",
         "startx": 7,
         "starty": 7,
         "orientation": "across",
@@ -2387,123 +491,387 @@
         "answer": "ساحة",
         "hint": "مكان لعب التنس او كرة السلة.",
         "startx": 5,
-        "starty": 7,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "هواة",
-        "hint": "لاعبون يمارسون الرياضة للمتعة.",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
+        "answer": "ملعب",
+        "hint": "المكان المخصص لممارسة الرياضات المختلفة، مثل كرة القدم أو التنس.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "قوس",
-        "hint": "أداة رياضة القوس والسهم",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "down",
+        "answer": "تحمل",
+        "hint": "قدرة اللاعب على الاستمرار طويلا.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "وزن",
-        "hint": "فئة في رياضات مثل الملاكمة ورفع الاثقال.",
+        "answer": "ابطال",
+        "hint": "اللاعبون أو الفرق التي تفوز بالبطولات.",
         "startx": 6,
-        "starty": 5,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "وثب",
-        "hint": "قفزة طويلة أو ثلاثية في ألعاب القوى.",
-        "startx": 6,
-        "starty": 5,
+        "answer": "جائزة",
+        "hint": "ما يحصل عليه الفائز.",
+        "startx": 7,
+        "starty": 1,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "متسابق",
-        "hint": "شخص يشارك بسباق",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "سهم",
+        "hint": "المقذوف الذي يرمى بالقوس.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
         "position": 7
       },
       {
-        "answer": "قرص",
-        "hint": "أداة دائرية ترمى في رياضة ألعاب القوى.",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس عدد النقاط أو الأهداف لكل فريق.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
         "position": 8
       }
     ],
     [
       {
-        "answer": "تدريب",
-        "hint": "ممارسة مستمرة",
+        "answer": "لاعب",
+        "hint": "الشخص الذي يمارس رياضة معينة كجزء من فريق أو فردياً.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "جمهور",
-        "hint": "يشاهد المباراة",
-        "startx": 6,
-        "starty": 3,
+        "answer": "بولينج",
+        "hint": "لعبة يتم فيها رمي كرة ثقيلة لإسقاط عشرة دبابيس خشبية.",
+        "startx": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "حلبة",
-        "hint": "مكان مخصص للملاكمة او المصارعة.",
-        "startx": 4,
+        "answer": "جمباز",
+        "hint": "رياضة حركات بهلوانية ومرونة.",
+        "startx": 5,
         "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "رمح",
-        "hint": "يرمى بعيداً",
-        "startx": 7,
-        "starty": 4,
+        "answer": "ضربة",
+        "hint": "حركة قوية باليد أو القدم لتسديد الكرة.",
+        "startx": 10,
+        "starty": 5,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "لاعب",
-        "hint": "الشخص الذي يمارس الرياضة بشكل احترافي أو هاوٍ.",
-        "startx": 4,
-        "starty": 6,
+        "answer": "جزاء",
+        "hint": "ضربة حرة مباشرة تمنح للفريق بسبب خطأ داخل منطقة محددة.",
+        "startx": 5,
+        "starty": 5,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "مدرب",
-        "hint": "يوجه الفريق أو اللاعبين فنياً وتكتيكياً.",
-        "startx": 1,
-        "starty": 3,
+        "answer": "جري",
+        "hint": "رياضة تعتمد على الركض السريع.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ميدالية",
+        "hint": "جائزة الفائز",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "رفع",
+        "hint": "فعل الأثقال",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رمح",
+        "hint": "يرمى بعيداً",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حكم",
+        "hint": "الشخص الذي يدير المباراة ويطبق القوانين.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "شراع",
+        "hint": "قطعة قماش كبيرة تدفع القارب بالرياح.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حزام",
+        "hint": "علامة مستوى في الفنون القتالية.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بحار",
+        "hint": "من يمارس رياضة الإبحار بالقوارب.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "احماء",
+        "hint": "تمارين خفيفة قبل البدء بالجهد الرياضي الرئيسي.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "بيسبول",
+        "hint": "رياضة أمريكية بالمضرب والكرة وقواعد محددة.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طول",
+        "hint": "مسابقة قفز رياضي لتحقيق أطول مسافة أفقية.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جري",
+        "hint": "رياضة تعتمد على السرعة أو التحمل.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سباح",
+        "hint": "رياضي يمارس رياضة السباحة في الماء.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "صافرة",
+        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بطل",
+        "hint": "الفائز باللقب.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مضرب",
+        "hint": "أداة تستخدم لضرب الكرة في التنس أو الريشة.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رفع",
+        "hint": "فعل الأثقال",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "قارب",
+        "hint": "رياضة التجديف",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طاولة",
+        "hint": "جزء اساسي في كرة الطاولة.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حبل",
+        "hint": "يستخدم للقفز أو التسلق في التمارين.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نظارة",
+        "hint": "تستخدم لحماية العينين في السباحة أو غيرها.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ميدان",
+        "hint": "منطقة واسعة للالعاب الرياضية.",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس عدد النقاط أو الأهداف لكل فريق.",
+        "startx": 9,
+        "starty": 8,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "ملعب",
-        "hint": "المكان المخصص لاقامة المباريات.",
-        "startx": 1,
-        "starty": 3,
+        "answer": "تزلج",
+        "hint": "رياضة انزلاق على الجليد أو الثلج باستخدام معدات خاصة.",
+        "startx": 11,
+        "starty": 12,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "دراج",
-        "hint": "رياضة ركوب الدراجات الهوائية على الطرق أو المسارات.",
-        "startx": 7,
-        "starty": 7,
+        "answer": "جودو",
+        "hint": "فن قتالي ياباني يعتمد على الرمي والتثبيت.",
+        "startx": 8,
+        "starty": 12,
         "orientation": "down",
         "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "نتيجة",
+        "hint": "الحصيلة النهائية للأهداف أو النقاط في مباراة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة استخدام السلاح",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يقاتل بالقبضتين في حلبة.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مضمار",
+        "hint": "مسار دائري لسباقات الجري.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "خوذة",
+        "hint": "غطاء للرأس لحماية اللاعب في رياضات معينة.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سباق",
+        "hint": "مسابقة سرعة بين متنافسين في الجري أو السيارات أو الخيل.",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "وثب",
+        "hint": "قفزة طويلة أو ثلاثية في ألعاب القوى.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حلبة",
+        "hint": "مكان مخصص للملاكمة او المصارعة.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ركض",
+        "hint": "مرادف للجري، حركة سريعة بالاقدام.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "سباحة",
+        "hint": "رياضة فردية أو جماعية في الماء.",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "down",
+        "position": 10
       }
     ],
     [
@@ -2516,486 +884,222 @@
         "position": 1
       },
       {
-        "answer": "غوص",
-        "hint": "النزول تحت سطح الماء لاستكشاف العالم البحري أو المنافسة.",
-        "startx": 7,
-        "starty": 5,
+        "answer": "فائز",
+        "hint": "الشخص الذي يحقق الانتصار.",
+        "startx": 6,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "مدرب",
-        "hint": "الشخص المسؤول عن تعليم وتوجيه اللاعبين وتطوير مهاراتهم.",
-        "startx": 5,
-        "starty": 4,
+        "answer": "قفاز",
+        "hint": "غطاء لليد يستخدم للحماية في رياضات مثل الملاكمة أو حراسة المرمى.",
+        "startx": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 3
+      },
+      {
+        "answer": "فريق",
+        "hint": "مجموعة من اللاعبين يتنافسون معا.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
       },
       {
         "answer": "رماية",
         "hint": "رياضة تتطلب الدقة في إصابة الأهداف بالسهام أو الأسلحة النارية.",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ركبي",
-        "hint": "رياضة جماعية عنيفة شبيهة بكرة القدم الأمريكية.",
-        "startx": 3,
-        "starty": 1,
+        "startx": 4,
+        "starty": 3,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "صافرة",
-        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
-        "startx": 6,
-        "starty": 1,
+        "answer": "تزلج",
+        "hint": "الانزلاق على الجليد أو الماء باللوح.",
+        "startx": 7,
+        "starty": 9,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "ابطال",
-        "hint": "اللاعبون أو الفرق التي تفوز بالبطولات.",
-        "startx": 6,
-        "starty": 7,
+        "answer": "ركض",
+        "hint": "مرادف للجري، حركة سريعة بالاقدام.",
+        "startx": 10,
+        "starty": 5,
         "orientation": "down",
         "position": 7
-      },
-      {
-        "answer": "خسار",
-        "hint": "عدم الفوز في مسابقة رياضية.",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
       }
     ],
     [
       {
-        "answer": "مشجع",
-        "hint": "شخص يحضر لمساندة فريقه أو لاعبه المفضل.",
+        "answer": "حلبة",
+        "hint": "مضمار مخصص لسباقات السيارات أو الخيل أو المصارعة.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "يوجا",
-        "hint": "مجموعة من التمارين البدنية والعقلية للتأمل والاسترخاء.",
+        "answer": "مدرب",
+        "hint": "من يقود الفريق ويعلمه.",
         "startx": 6,
-        "starty": 5,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "لياقة",
-        "hint": "قدرة بدنية عالية",
-        "startx": 7,
-        "starty": 5,
+        "answer": "محترف",
+        "hint": "لاعب يمارس الرياضة كمهنة.",
+        "startx": 6,
+        "starty": 4,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ماء",
-        "hint": "رياضة جماعية تلعب في المسبح بكرة.",
+        "answer": "رمح",
+        "hint": "أداة طويلة مدببة ترمى لمسافة بعيدة.",
         "startx": 8,
-        "starty": 7,
+        "starty": 5,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "صافرة",
-        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "حكم",
+        "hint": "الشخص الذي يدير المباراة ويطبق القوانين.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "مضمار",
-        "hint": "مسار مخصص لسباقات الجري أو الدراجات.",
-        "startx": 6,
+        "answer": "دراجة",
+        "hint": "تستخدم في سباقات الدراجات.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سباح",
+        "hint": "رياضي يمارس رياضة السباحة في الماء.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "اولمب",
+        "hint": "أكبر حدث رياضي",
+        "startx": 9,
         "starty": 2,
         "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "رشاقة",
-        "hint": "القدرة على التحرك بسرعة وخفة وسهولة في الأداء الرياضي.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "كارات",
-        "hint": "فن قتالي ياباني يستخدم الضربات والركلات والدفاع عن النفس.",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
         "position": 8
       },
-      {
-        "answer": "لاعب",
-        "hint": "شخص يمارس رياضة ما.",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "طول",
-        "hint": "مسابقة قفز رياضي لتحقيق أطول مسافة أفقية.",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "ريشة",
-        "hint": "رياضة مضرب تُلعب بريشة خفيفة.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "خشبة",
-        "hint": "تستخدم بالجمباز",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "انذار",
-        "hint": "عقوبة يوجهها الحكم للاعب المخالف.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "شبك",
-        "hint": "يستخدم في المرمى",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "بطل",
-        "hint": "الشخص الذي يفوز بمسابقة أو بطولة رياضية.",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "عجلة",
-        "hint": "جزء دوار من الدراجة أو المركبة الرياضية.",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "وزن",
-        "hint": "ثقل يستخدم في رياضة رفع الأثقال لتقوية العضلات.",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
       {
         "answer": "سباق",
-        "hint": "منافسة تعتمد على السرعة.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "بطل",
-        "hint": "الفائز بالمسابقة",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "تسلق",
-        "hint": "رياضة صعود الجبال أو الجدران الصخرية باستخدام الحبال والمعدات.",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "غطاس",
-        "hint": "من يمارس رياضة الغطس تحت الماء.",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "تدريب",
-        "hint": "القيام بتمارين رياضية منتظمة لتحسين اللياقة البدنية والأداء.",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "قفز",
-        "hint": "حركة رياضية تستخدم لدفع الجسم في الهواء.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "مصار",
-        "hint": "رياضة قتالية يتم فيها محاولة إسقاط الخصم وتثبيته على الأرض.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "قدم",
-        "hint": "رياضة جماعية مشهورة",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "حفرة",
-        "hint": "هدف الغولف",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "صفارة",
-        "hint": "اداة يستخدمها الحكم.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "جري",
-        "hint": "رياضة السرعة",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "صحة",
-        "hint": "الحالة الجيدة للجسم والعقل، والتي تعززها ممارسة الرياضة.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "لياقة",
-        "hint": "قدرة بدنية عالية",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "ملاكم",
-        "hint": "رياضي يمارس الملاكمة",
+        "hint": "منافسة بين متسابقين لمعرفة الأسرع.",
         "startx": 5,
         "starty": 1,
         "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "كأس",
-        "hint": "جائزة كبرى تمنح للفائز.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "ملاكم",
-        "hint": "رياضي يمارس الملاكمة",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "بولنج",
-        "hint": "رياضة رمي كرة ثقيلة لإسقاط قوارير خشبية.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "بطل",
-        "hint": "الفائز باللقب.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "كرة",
-        "hint": "رياضة تلعب بالقدم أو اليد.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ميدال",
-        "hint": "جائزة تعطى للفائزين في المسابقات الرياضية، تكون ذهبية أو فضية أو برونزية.",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "هجوم",
-        "hint": "تكتيك رياضي يهدف إلى تسجيل النقاط أو الأهداف في مرمى الخصم.",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "فردي",
-        "hint": "رياضة يمارسها لاعب واحد ضد آخر أو ضد الزمن.",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "عجلة",
-        "hint": "جزء دوار من الدراجة أو المركبة الرياضية.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "لاعب",
-        "hint": "الشخص الذي يمارس رياضة معينة كجزء من فريق أو فردياً.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "down",
         "position": 9
       },
       {
-        "answer": "عصا",
-        "hint": "تستخدم لضرب الكرة في الهوكي أو البولو.",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
+        "answer": "شوط",
+        "hint": "جزء من المباراة.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
         "position": 10
       }
     ],
     [
       {
-        "answer": "ضربة",
-        "hint": "حركة قوية بالقدم أو اليد لتسجيل نقطة أو بدء اللعب.",
+        "answer": "ريشة",
+        "hint": "رياضة مضرب تُلعب بريشة خفيفة.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "كرة",
-        "hint": "الجسم الكروي المستخدم في العديد من الرياضات مثل القدم والسلة.",
+        "answer": "سلة",
+        "hint": "رياضة جماعية يتم فيها رمي الكرة في سلة مرتفعة.",
         "startx": 5,
         "starty": 5,
         "orientation": "down",
         "position": 2
       },
-      {
-        "answer": "ملاكم",
-        "hint": "رياضي يمارس الملاكمة",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "طول",
-        "hint": "مسابقة قفز رياضي لتحقيق أطول مسافة أفقية.",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "سهم",
-        "hint": "المقذوف الذي يرمى بالقوس.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ركن",
-        "hint": "ضربة تلعب من زاوية الملعب بعد خروج الكرة.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "انذار",
-        "hint": "عقوبة يوجهها الحكم للاعب المخالف.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "هدف",
-        "hint": "النقطة التي يسعى اللاعبون لتسجيلها.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "ريشة",
-        "hint": "رياضة مضرب تُلعب بريشة خفيفة.",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
       {
         "answer": "سهم",
         "hint": "جسم مدبب يطلق من القوس بسرعة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يمارس الملاكمة",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نادي",
+        "hint": "مؤسسة رياضية تضم فرقاً ومدربين وأنشطة رياضية متنوعة.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة تتطلب الدقة في إصابة الأهداف بالسهام أو الأسلحة النارية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جمباز",
+        "hint": "رياضة تعتمد على المرونة والقوة والتوازن والأداء الحركي.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صافرة",
+        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "مضمار",
+        "hint": "مسار مخصص للعدو والسباقات الجارية.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مضرب",
+        "hint": "أداة التنس",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "حكم",
+        "hint": "الشخص الذي يدير المباراة ويطبق القوانين.",
         "startx": 7,
         "starty": 7,
         "orientation": "across",
@@ -3003,131 +1107,139 @@
       },
       {
         "answer": "ملعب",
-        "hint": "المكان المخصص لاقامة المباريات.",
+        "hint": "مكان لعب كرة القدم",
         "startx": 5,
         "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "شبك",
-        "hint": "يستخدم في المرمى",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "كرة",
-        "hint": "تلعب بالقدم",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ركض",
-        "hint": "مرادف للجري، حركة سريعة بالاقدام.",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "بطولة",
-        "hint": "منافسة كبرى لتحديد البطل.",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "سلة",
-        "hint": "رياضة جماعية يتم فيها رمي الكرة في سلة مرتفعة.",
+        "answer": "حذاء",
+        "hint": "ما يلبسه الرياضي في قدمه لممارسة الرياضة.",
         "startx": 7,
         "starty": 7,
         "orientation": "down",
-        "position": 7
+        "position": 3
       },
       {
-        "answer": "قوة",
-        "hint": "قدرة بدنية مهمة في رفع الاثقال.",
-        "startx": 9,
-        "starty": 9,
+        "answer": "بطل",
+        "hint": "الشخص الذي يفوز بمسابقة أو بطولة رياضية.",
+        "startx": 5,
+        "starty": 10,
         "orientation": "across",
-        "position": 8
+        "position": 4
+      },
+      {
+        "answer": "طرد",
+        "hint": "إخراج اللاعب من المباراة بسبب مخالفة خطيرة.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس النقاط أو الأهداف لكل فريق.",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عصا",
+        "hint": "أداة الهوكي",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 7
       }
     ],
     [
       {
-        "answer": "سباحة",
-        "hint": "التحرك في الماء باستخدام الجسم والذراعين.",
+        "answer": "دفاع",
+        "hint": "استراتيجية لمنع الخصم من التسجيل.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "جمباز",
-        "hint": "رياضة تتطلب المرونة والقوة والتوازن.",
-        "startx": 7,
+        "answer": "تجدي",
+        "hint": "رياضة دفع قارب في الماء باستخدام مجاديف طويلة.",
+        "startx": 8,
         "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "جماهير",
-        "hint": "المشجعون الذين يحضرون لمشاهدة المباريات.",
-        "startx": 7,
+        "answer": "رفع",
+        "hint": "رياضة حمل الأثقال الثقيلة.",
+        "startx": 5,
         "starty": 5,
-        "orientation": "across",
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "حلبة",
-        "hint": "مكان مخصص للملاكمة او المصارعة.",
-        "startx": 5,
+        "answer": "اطالة",
+        "hint": "تمارين تهدف إلى زيادة مرونة العضلات.",
+        "startx": 6,
         "starty": 7,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "محترف",
-        "hint": "لاعب يمارس الرياضة كمهنة.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "لاعب",
+        "hint": "الشخص الذي يمارس رياضة معينة كجزء من فريق أو فردياً.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "بطاقة",
-        "hint": "أداة يستخدمها الحكم لتنبيه اللاعبين أو طردهم (حمراء أو صفراء).",
+        "answer": "رمح",
+        "hint": "اداة طويلة تستخدم في رياضة الرمي.",
         "startx": 5,
-        "starty": 9,
+        "starty": 5,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "حبل",
-        "hint": "اداة تستخدم في رياضة القفز او شد الحبل.",
-        "startx": 2,
-        "starty": 3,
+        "answer": "جري",
+        "hint": "رياضة بدنية تعتمد على السرعة والتحمل في قطع المسافات.",
+        "startx": 10,
+        "starty": 8,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "صالات",
-        "hint": "كرة تلعب داخل الصالات المغلقة.",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
+        "answer": "بطولة",
+        "hint": "مسابقة كبيرة يتنافس فيها الأبطال على لقب.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
         "position": 8
+      },
+      {
+        "answer": "بولينج",
+        "hint": "لعبة يتم فيها رمي كرة ثقيلة لإسقاط عشرة دبابيس خشبية.",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "غوص",
+        "hint": "النزول تحت الماء بقصد استكشاف الأعماق.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 10
       }
     ],
     [
       {
-        "answer": "هجوم",
-        "hint": "استراتيجية لتسجيل النقاط.",
+        "answer": "فائز",
+        "hint": "الشخص الذي يحقق الانتصار.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
@@ -3136,164 +1248,288 @@
       {
         "answer": "ميدالية",
         "hint": "جائزة رمزية للفائزين الثلاثة الاوائل.",
-        "startx": 5,
-        "starty": 7,
+        "startx": 7,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "تزلج",
-        "hint": "رياضة الانزلاق على الجليد أو الثلج.",
-        "startx": 7,
+        "answer": "حكم",
+        "hint": "شخص يدير المباراة ويطبق القوانين.",
+        "startx": 9,
         "starty": 4,
-        "orientation": "down",
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "مضمار",
-        "hint": "مسار دائري لسباقات الجري.",
-        "startx": 8,
-        "starty": 10,
+        "answer": "تدريب",
+        "hint": "عملية ممارسة مستمرة لتحسين الاداء.",
+        "startx": 10,
+        "starty": 9,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "بليارد",
-        "hint": "رياضة بالعصا والكرات",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "across",
+        "answer": "تجديف",
+        "hint": "حركة القارب",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "جزاء",
-        "hint": "ضربة حرة مباشرة تمنح للفريق بسبب خطأ داخل منطقة محددة.",
-        "startx": 8,
+        "answer": "فوز",
+        "hint": "تحقيق النصر",
+        "startx": 5,
         "starty": 5,
-        "orientation": "across",
+        "orientation": "down",
         "position": 6
-      },
-      {
-        "answer": "هزيمة",
-        "hint": "عكس الفوز",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "جليد",
-        "hint": "سطح رياضة التزلج",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "قفز",
-        "hint": "رياضة تخطي الحواجز",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "across",
-        "position": 9
       }
     ],
     [
       {
-        "answer": "سباح",
-        "hint": "الشخص الذي يمارس رياضة السباحة.",
+        "answer": "بولو",
+        "hint": "رياضة تلعب على الخيل بكرة وعصا.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ميدال",
-        "hint": "جائزة تمنح للفائزين عادة ذهبية.",
+        "answer": "غولف",
+        "hint": "رياضة تستخدم العصا لضرب الكرة في حفر.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بطل",
+        "hint": "الفائز بالمركز الأول في مسابقة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "شوط",
+        "hint": "جزء من المباراة.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "دفاع",
+        "hint": "تكتيك رياضي يهدف إلى منع الخصم من تسجيل النقاط أو الأهداف.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "جودو",
+        "hint": "فن قتالي ياباني يعتمد على الرمي والتثبيت.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "غطاس",
+        "hint": "من يمارس رياضة الغطس تحت الماء.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "اصابة",
+        "hint": "ضرر جسدي يصيب الرياضي.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "هواة",
+        "hint": "أشخاص يمارسون الرياضة للمتعة وليس للاحتراف.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مدرب",
+        "hint": "الشخص المسؤول عن تدريب الفريق أو اللاعبين.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مصارع",
+        "hint": "رياضي يمارس المصارعة.",
         "startx": 6,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "سلة",
-        "hint": "الهدف الذي ترمى فيه الكرة في لعبة معينة.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
+        "answer": "جماهير",
+        "hint": "المشجعون الذين يحضرون لمشاهدة المباريات.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "تايكو",
-        "hint": "فن قتالي كوري يركز على ركلات القدم.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
+        "answer": "يوجا",
+        "hint": "مجموعة تمارين لتوازن الجسد والذهن والاسترخاء.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "فضة",
-        "hint": "لون ميدالية المركز الثاني",
-        "startx": 10,
-        "starty": 9,
-        "orientation": "across",
+        "answer": "هدف",
+        "hint": "النقطة التي يسعى اللاعبون لتحقيقها في معظم الألعاب.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "غوص",
-        "hint": "النزول تحت سطح الماء لاستكشاف العالم البحري أو المنافسة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
+        "answer": "بولنج",
+        "hint": "رياضة يتم فيها رمي كرة لضرب دبابيس.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
         "position": 6
       },
       {
-        "answer": "فردي",
-        "hint": "رياضة يمارسها لاعب واحد ضد آخر أو ضد الزمن.",
-        "startx": 10,
-        "starty": 9,
+        "answer": "قدم",
+        "hint": "الرياضة الأشهر في العالم حيث تُلعب بقدم اللاعبين.",
+        "startx": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 7
-      },
-      {
-        "answer": "غطاس",
-        "hint": "من يمارس رياضة الغطس تحت الماء.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
       }
     ],
     [
       {
-        "answer": "حكم",
-        "hint": "يدير المباراة ويطبق القوانين.",
-        "startx": 7,
+        "answer": "سباق",
+        "hint": "مسابقة سرعة بين متنافسين في الجري أو السيارات أو الخيل.",
+        "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
         "answer": "جمباز",
-        "hint": "رياضة تعتمد على المرونة والقوة البدنية.",
-        "startx": 5,
-        "starty": 6,
+        "hint": "رياضة تعتمد على المرونة والقوة والتوازن والأداء الحركي.",
+        "startx": 7,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "مضمار",
-        "hint": "المسار المخصص للجري أو سباق الخيل.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
+        "answer": "قارب",
+        "hint": "مركبة صغيرة تستخدم في رياضات التجديف أو الشراع في الماء.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "جري",
-        "hint": "رياضة تعتمد على الركض السريع.",
+        "answer": "بطل",
+        "hint": "الفائز بالمركز الأول في مسابقة.",
         "startx": 5,
-        "starty": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "طاولة",
+        "hint": "جزء اساسي في كرة الطاولة.",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "زلاجة",
+        "hint": "مركبة تستخدم للتزلج على الثلج أو الجليد بسرعة.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حلبة",
+        "hint": "مضمار مخصص لسباقات السيارات أو الخيل أو المصارعة.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ميدال",
+        "hint": "جائزة تعطى للفائزين في المسابقات الرياضية، تكون ذهبية أو فضية أو برونزية.",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تدريب",
+        "hint": "ممارسة مستمرة لتحسين الأداء الرياضي.",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "لفة",
+        "hint": "دورة كاملة حول مضمار الجري.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس النقاط أو الأهداف لكل فريق.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تنس",
+        "hint": "رياضة المضرب والكرة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لياقة",
+        "hint": "الحالة البدنية الجيدة.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سباح",
+        "hint": "رياضي يمارس رياضة السباحة في الماء.",
+        "startx": 6,
+        "starty": 9,
         "orientation": "across",
         "position": 4
       },
@@ -3301,30 +1537,170 @@
         "answer": "رماية",
         "hint": "رياضة دقيقة تستخدم القوس أو السلاح لإصابة الأهداف.",
         "startx": 8,
-        "starty": 8,
-        "orientation": "down",
+        "starty": 11,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "جمهور",
-        "hint": "يشاهد المباراة",
-        "startx": 4,
-        "starty": 2,
+        "answer": "رمي",
+        "hint": "رياضة القرص والرمح",
+        "startx": 8,
+        "starty": 11,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "حرة",
-        "hint": "ضربة مباشرة أو غير مباشرة تمنح للفريق بعد خطأ.",
-        "startx": 10,
-        "starty": 12,
+        "answer": "نادي",
+        "hint": "مؤسسة رياضية.",
+        "startx": 11,
+        "starty": 13,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "تزلج",
-        "hint": "رياضة على الجليد أو الماء أو الرمل.",
+        "answer": "شباك",
+        "hint": "حاجز يفصل بين اللاعبين أو يمثل هدفًا.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "استاد",
+        "hint": "ملعب كبير مجهز لمشاهدة الألعاب الرياضية الجماهيرية.",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "صافرة",
+        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
         "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "احماء",
+        "hint": "تمارين خفيفة قبل البدء بالرياضة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مضمار",
+        "hint": "مسار مخصص لسباقات الجري أو الدراجات.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خاسر",
+        "hint": "الشخص الذي لم يفز بالمنافسة.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مصارعة",
+        "hint": "رياضة قتالية فردية تهدف إلى تثبيت الخصم.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رمح",
+        "hint": "يرمى بعيداً",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حكم",
+        "hint": "شخص يدير المباراة ويطبق القوانين.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "فضة",
+        "hint": "لون ميدالية المركز الثاني",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مدرب",
+        "hint": "من يقود الفريق ويعلمه.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دراج",
+        "hint": "من يركب الدراجة في السباقات.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تحمل",
+        "hint": "القدرة على مواصلة الجهد البدني لفترة طويلة.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كارات",
+        "hint": "فن قتالي ياباني يعتمد على اليدين والقدمين.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "اطالة",
+        "hint": "تمارين تهدف إلى زيادة مرونة العضلات.",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "طول",
+        "hint": "مسابقة قفز رياضي لتحقيق أطول مسافة أفقية.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "يوجا",
+        "hint": "تمارين استرخاء",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "لياقة",
+        "hint": "الحالة الجسدية الجيدة والقدرة على التحمل.",
+        "startx": 10,
         "starty": 2,
         "orientation": "across",
         "position": 8
@@ -3332,76 +1708,1644 @@
     ],
     [
       {
+        "answer": "حكم",
+        "hint": "يدير المباراة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رمح",
+        "hint": "أداة ترمى لمسافة بعيدة في الألعاب الأولمبية.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حلقة",
+        "hint": "جهاز يستخدم في رياضة الجمباز لأداء الحركات.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صحة",
+        "hint": "الحالة الجيدة للجسم والعقل، والتي تعززها ممارسة الرياضة.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس عدد الأهداف للفريقين.",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تزلج",
+        "hint": "حركة على الجليد",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حلبة",
+        "hint": "مكان مخصص للملاكمة او المصارعة.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "اصابة",
+        "hint": "ضرر جسدي يصيب الرياضي.",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة إطلاق السهام أو الرصاص نحو هدف.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "قارب",
+        "hint": "وسيلة تستخدم للتجديف في الماء.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "رمي",
+        "hint": "رياضة القرص والرمح",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضة قتالية بين شخصين يتبادلان اللكمات بقفازات خاصة.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حكم",
+        "hint": "الشخص الذي يدير المباراة ويطبق القوانين.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "بطاقة",
+        "hint": "أداة يستخدمها الحكم لتنبيه اللاعبين أو طردهم (حمراء أو صفراء).",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "حلقة",
+        "hint": "جهاز يستخدم في رياضة الجمباز لأداء الحركات.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قفاز",
+        "hint": "يلبس لحماية اليد في بعض الرياضات.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لياقة",
+        "hint": "قدرة بدنية عالية",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
         "answer": "رياضي",
         "hint": "الشخص الذي يمارس الرياضة بانتظام ويتمتع بلياقة بدنية.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "جمباز",
+        "hint": "رياضة تعتمد على المرونة والقوة البدنية.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "حزام",
+        "hint": "علامة مستوى في الفنون القتالية.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "تعادل",
-        "hint": "انتهاء المباراة بنفس النقاط أو الأهداف لكل فريق.",
+        "answer": "قفاز",
+        "hint": "يلبس لحماية اليد في بعض الرياضات.",
         "startx": 6,
         "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "استاد",
-        "hint": "ملعب كبير مجهز لمشاهدة الألعاب الرياضية الجماهيرية.",
-        "startx": 8,
+        "answer": "متسابق",
+        "hint": "شخص يشارك بسباق",
+        "startx": 11,
         "starty": 5,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ركلة",
-        "hint": "فعل ركل الكرة بالقدم.",
+        "answer": "حذاء",
+        "hint": "ما يلبسه الرياضي في قدمه لممارسة الرياضة.",
         "startx": 8,
         "starty": 7,
         "orientation": "down",
         "position": 4
       },
       {
+        "answer": "تنس",
+        "hint": "رياضة المضرب والكرة",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة استخدام السلاح",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تعادل",
+        "hint": "انتهاء المباراة بنفس النتيجة للفريقين.",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "سلة",
+        "hint": "رياضة رمي الكرة",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "حرة",
+        "hint": "ضربة مباشرة أو غير مباشرة تمنح للفريق بعد خطأ.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رمح",
+        "hint": "يرمى بعيداً",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كارات",
+        "hint": "فن قتالي ياباني يعتمد على اليدين والقدمين.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كرة",
+        "hint": "جسم مستدير يرمى أو يركل في الألعاب الرياضية.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سرعة",
+        "hint": "عامل حاسم في سباقات الجري.",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قارب",
+        "hint": "مركبة صغيرة تستخدم في رياضات التجديف أو الشراع في الماء.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "جمهور",
+        "hint": "يشاهد المباراة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فريق",
+        "hint": "مجموعة من اللاعبين يتنافسون معا.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قفز",
+        "hint": "حركة رياضية تتضمن دفع الجسم للأعلى أو للأمام من الأرض.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سهم",
+        "hint": "جسم مدبب يطلق من القوس بسرعة.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قفاز",
+        "hint": "غطاء لليد يستخدم للحماية في رياضات مثل الملاكمة أو حراسة المرمى.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "فوز",
+        "hint": "تحقيق النصر",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "خطا",
+        "hint": "مخالفة لقوانين اللعبة يرتكبها اللاعب.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "خسارة",
+        "hint": "عدم تحقيق النتيجة الأفضل في المنافسة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هزيمة",
+        "hint": "عكس الفوز",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سباق",
+        "hint": "منافسة تعتمد على السرعة.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قفز",
+        "hint": "حركة رياضية يتجاوز بها اللاعب حاجزاً.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "هدف",
+        "hint": "نقطة تسجل عند دخول الكرة للمرمى.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جولف",
+        "hint": "رياضة فردية تهدف إلى ضرب كرة صغيرة بعصا في حفر بأقل عدد من الضربات.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يمارس الملاكمة.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "جري",
+        "hint": "رياضة بدنية تعتمد على السرعة والتحمل في قطع المسافات.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "فائز",
+        "hint": "الشخص الذي يحقق الانتصار.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "احماء",
+        "hint": "تمارين خفيفة قبل البدء بالرياضة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مضرب",
+        "hint": "اداة تستخدم في التنس.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هدف",
+        "hint": "النقطة التي يسعى اللاعبون لتسجيلها.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "هوكي",
+        "hint": "رياضة جماعية تلعب بعصا وكرة أو قرص على الجليد أو العشب.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سباحة",
+        "hint": "رياضة فردية أو جماعية في الماء.",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سباح",
+        "hint": "الشخص الذي يمارس رياضة السباحة بانتظام.",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يقاتل بقفازات خاصة في حلبة.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "كرة",
+        "hint": "جسم مستدير يستخدم في العديد من الألعاب الرياضية.",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مضرب",
+        "hint": "أداة تستخدم لضرب الكرة في التنس أو الريشة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رشاقة",
+        "hint": "القدرة على التحرك بسرعة وخفة وسهولة في الأداء الرياضي.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ركض",
+        "hint": "مرادف للجري، حركة سريعة بالاقدام.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صحة",
+        "hint": "الحالة الجيدة للجسم والعقل، والتي تعززها ممارسة الرياضة.",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رمي",
+        "hint": "رياضة القرص والرمح",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قوة",
+        "hint": "القدرة البدنية على بذل الجهد الكبير.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حكم",
+        "hint": "الشخص الذي يدير المباراة ويطبق القوانين الرياضية.",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "حزام",
+        "hint": "علامة مستوى في الفنون القتالية.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "مجداف",
+        "hint": "أداة خشبية لدفع القارب في الماء أثناء التجديف.",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "حذاء",
+        "hint": "يلبس في القدم لحماية ودعم الرياضي أثناء اللعب.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "رمح",
+        "hint": "أداة ترمى لمسافة بعيدة في الألعاب الأولمبية.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مدرب",
+        "hint": "الشخص الذي يشرف على تدريب الفريق.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خسار",
+        "hint": "عدم الفوز في مسابقة رياضية.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سباق",
+        "hint": "منافسة تعتمد على السرعة.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "شباك",
+        "hint": "حاجز يفصل بين اللاعبين أو يمثل هدفًا.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سباح",
+        "hint": "رياضي يمارس رياضة السباحة في الماء.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "جمباز",
+        "hint": "رياضة حركات بهلوانية ومرونة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سباق",
+        "hint": "منافسة تعتمد على السرعة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جري",
+        "hint": "رياضة بدنية تعتمد على السرعة والتحمل في قطع المسافات.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رمي",
+        "hint": "فعل دفع جسم بقوة لمسافة معينة.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ميدالية",
+        "hint": "جائزة رمزية للفائزين الثلاثة الاوائل.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كاس",
+        "hint": "جائزة البطولة",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تسلل",
+        "hint": "موقف غير قانوني للاعب مهاجم في كرة القدم.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ميدال",
+        "hint": "جائزة دائرية تمنح للأوائل في المنافسات.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "هواة",
+        "hint": "أشخاص يمارسون الرياضة للمتعة وليس للاحتراف.",
+        "startx": 12,
+        "starty": 15,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "قدم",
+        "hint": "الرياضة الأشهر في العالم حيث تُلعب بقدم اللاعبين.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "هواة",
+        "hint": "أشخاص يمارسون الرياضة للمتعة وليس للاحتراف.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بيسبول",
+        "hint": "رياضة أمريكية بالمضرب والكرة وقواعد محددة.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة دقيقة تستخدم القوس أو السلاح لإصابة الأهداف.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مصارع",
+        "hint": "رياضي في المصارعة",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جماهير",
+        "hint": "المشجعون الذين يحضرون لمشاهدة المباريات.",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سلة",
+        "hint": "رياضة ترمى فيها الكرة في سلة عالية.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "لياقة",
+        "hint": "القدرة البدنية على أداء الأنشطة الرياضية.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "متسابق",
+        "hint": "شخص يشارك بسباق",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "تمارين",
+        "hint": "حركات رياضية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تحمل",
+        "hint": "قدرة اللاعب على الاستمرار طويلا.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فردي",
+        "hint": "رياضة يمارسها لاعب واحد ضد آخر أو ضد الزمن.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "هدف",
+        "hint": "نقطة في كرة القدم",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مضمار",
+        "hint": "مسار مخصص لسباقات الجري أو الدراجات.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رفع",
+        "hint": "حمل الأثقال الثقيلة في مسابقة محددة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ماراث",
+        "hint": "سباق جري لمسافة طويلة جداً.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "جليد",
+        "hint": "سطح رياضة التزلج",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
         "answer": "لياقة",
         "hint": "الحالة البدنية الجيدة.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ماراث",
+        "hint": "سباق جري لمسافة طويلة جداً، عادة 42.195 كيلومترًا.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملاكمة",
+        "hint": "رياضة قتالية يتبادل فيها الملاكمان اللكمات.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طاولة",
+        "hint": "تنس الطاولة",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تهدئة",
+        "hint": "تمارين خفيفة بعد الجهد الرياضي لخفض النبض.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رمح",
+        "hint": "أداة طويلة مدببة ترمى لمسافة بعيدة.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سبح",
+        "hint": "حركة في الماء",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تنس",
+        "hint": "رياضة المضرب والكرة",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "هدف",
+        "hint": "نقطة تسجل في مرمى الخصم.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "طائر",
+        "hint": "كرة تلعب في الهواء فوق شبكة.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "حارس",
+        "hint": "اللاعب الذي يحمي المرمى.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ملعب",
+        "hint": "المكان المخصص لممارسة الرياضة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "برونز",
+        "hint": "لون ميدالية المركز الثالث",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يمارس الملاكمة.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رفع",
+        "hint": "رياضة حمل الأثقال الثقيلة.",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تزلج",
+        "hint": "رياضة انزلاق على الجليد أو الثلج باستخدام معدات خاصة.",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مصارعة",
+        "hint": "رياضة قتالية فردية تهدف إلى تثبيت الخصم.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رمي",
+        "hint": "فعل قذف شيء باليد لمسافة محددة.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "سيف",
+        "hint": "أداة تستخدم في رياضة المبارزة بالأيدي.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة تتطلب الدقة في إصابة الأهداف بالسهام أو الأسلحة النارية.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "اولمبي",
+        "hint": "صفة تخص الألعاب الرياضية الدولية الكبرى.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "منافس",
+        "hint": "الشخص أو الفريق الذي يتنافس ضدك.",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حكم",
+        "hint": "يدير المباراة ويطبق القوانين.",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "غطس",
+        "hint": "القفز في الماء",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "عجلة",
+        "hint": "جزء دوار من الدراجة أو المركبة الرياضية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملعب",
+        "hint": "المكان المخصص للعب الرياضي.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عصا",
+        "hint": "تستخدم لضرب الكرة في الهوكي أو البولو.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بطاقة",
+        "hint": "صفراء او حمراء يرفعها الحكم.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "لاعب",
+        "hint": "الشخص الذي يمارس رياضة معينة كجزء من فريق أو فردياً.",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كرة",
+        "hint": "جسم مستدير يرمى أو يركل في الألعاب الرياضية.",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "يوغا",
+        "hint": "مجموعة من التمارين الجسدية والعقلية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "جري",
+        "hint": "رياضة السرعة",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ركبي",
+        "hint": "رياضة جماعية عنيفة شبيهة بكرة القدم الأمريكية.",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "قرص",
+        "hint": "جسم دائري ثقيل يرمى لمسافة في ألعاب القوى.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اصابة",
+        "hint": "ضرر جسدي يصيب الرياضي.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طاولة",
+        "hint": "جزء اساسي في كرة الطاولة.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "جودو",
+        "hint": "رياضة قتالية يابانية تعتمد على الرمي والسيطرة.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تتويج",
+        "hint": "مراسم منح الجوائز والميداليات للفائزين في البطولات.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بطاقة",
+        "hint": "صفراء او حمراء يرفعها الحكم.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بطاقة",
+        "hint": "أداة يستخدمها الحكم لتنبيه اللاعبين أو طردهم (حمراء أو صفراء).",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ريشة",
+        "hint": "رياضة مضرب تُلعب بريشة خفيفة.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ماراث",
+        "hint": "سباق جري لمسافة طويلة جداً.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "لياقة",
+        "hint": "قدرة بدنية عالية",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "احماء",
+        "hint": "تمارين خفيفة قبل البدء بالرياضة.",
         "startx": 6,
         "starty": 9,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "اوليم",
-        "hint": "أكبر حدث رياضي عالمي يقام كل أربع سنوات.",
-        "startx": 4,
-        "starty": 9,
+        "answer": "فائز",
+        "hint": "الشخص الذي يحقق الانتصار.",
+        "startx": 3,
+        "starty": 8,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "مصارعة",
-        "hint": "رياضة قتالية فردية تهدف إلى تثبيت الخصم.",
-        "startx": 2,
-        "starty": 4,
+        "answer": "سباح",
+        "hint": "الشخص الذي يمارس رياضة السباحة.",
+        "startx": 8,
+        "starty": 6,
         "orientation": "down",
         "position": 7
       },
       {
-        "answer": "قارب",
-        "hint": "رياضة التجديف",
-        "startx": 3,
+        "answer": "كاس",
+        "hint": "جائزة كبيرة تمنح للفائز بالبطولة.",
+        "startx": 10,
         "starty": 6,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "فريق",
+        "hint": "مجموعة لاعبين",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هدف",
+        "hint": "نقطة في كرة القدم",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رمي",
+        "hint": "فعل قذف شيء باليد لمسافة محددة.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رماية",
+        "hint": "رياضة دقيقة تستخدم القوس أو السلاح لإصابة الأهداف.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضة قتالية بين شخصين يتبادلان اللكمات بقفازات خاصة.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قفز",
+        "hint": "الارتفاع عن الأرض بالدفع بالقدمين.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حكم",
+        "hint": "يدير المباراة ويطبق القوانين.",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "جزاء",
+        "hint": "ضربة حرة مباشرة تمنح للفريق بسبب خطأ داخل منطقة محددة.",
+        "startx": 6,
+        "starty": 9,
         "orientation": "across",
         "position": 8
       },
       {
-        "answer": "ملاكم",
-        "hint": "رياضي يمارس الملاكمة",
-        "startx": 5,
-        "starty": 11,
+        "answer": "قفاز",
+        "hint": "يلبس لحماية اليد في بعض الرياضات.",
+        "startx": 7,
+        "starty": 3,
         "orientation": "across",
         "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مدرب",
+        "hint": "يوجه الفريق أو اللاعبين فنياً وتكتيكياً.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مضمار",
+        "hint": "مسار مخصص لسباقات الجري أو الدراجات.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جمهور",
+        "hint": "مجموعة من المشجعين الذين يحضرون لمشاهدة الأحداث الرياضية.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مضرب",
+        "hint": "اداة تستخدم في التنس.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رامي",
+        "hint": "من يمارس رياضة الرماية بالقوس والسهم.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "اولمب",
+        "hint": "أكبر حدث رياضي عالمي يقام كل 4 سنوات.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حذاء",
+        "hint": "يلبس في القدم لحماية ودعم الرياضي أثناء اللعب.",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "سبح",
+        "hint": "حركة في الماء",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاس",
+        "hint": "جائزة كبيرة تمنح للفائز بالبطولة.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملاكمة",
+        "hint": "رياضة قتالية يتبادل فيها الملاكمان اللكمات.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "صافرة",
+        "hint": "أداة يستخدمها الحكم للإشارة لبدء أو إنهاء اللعب.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مضمار",
+        "hint": "مسار مخصص للعدو والسباقات الجارية.",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كرة",
+        "hint": "اداة رئيسية في العاب كثيرة.",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "دراج",
+        "hint": "رياضي يركب الدراجة",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ركل",
+        "hint": "استخدام القدم لضرب الكرة أو الخصم.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حارة",
+        "hint": "مسار مخصص للسباحين في المسبح.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "مصارع",
+        "hint": "رياضي في المصارعة",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يمارس الملاكمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مدرب",
+        "hint": "يشرف على اللاعبين",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عصا",
+        "hint": "تستخدم لضرب الكرة في الهوكي أو البولو.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "احماء",
+        "hint": "تمارين خفيفة قبل البدء بالرياضة.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ملعب",
+        "hint": "المكان المخصص لإقامة المباريات والتدريبات.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سلة",
+        "hint": "رياضة رمي الكرة",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "نهاية",
+        "hint": "خط الوصول في السباقات.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بليارد",
+        "hint": "رياضة بالعصا والكرات",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جمباز",
+        "hint": "رياضة حركات بهلوانية ومرونة.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هدف",
+        "hint": "النقطة التي تسجلها الفرق في مرمى الخصم.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "حكم",
+        "hint": "الشخص الذي يدير المباراة ويطبق القوانين.",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "هوكي",
+        "hint": "رياضة جماعية تلعب بعصا وكرة أو قرص على الجليد أو العشب.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "فائز",
+        "hint": "الشخص الذي يحقق الانتصار.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "لاعب",
+        "hint": "شخص يمارس رياضة ما.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سبح",
+        "hint": "حركة في الماء",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حلقة",
+        "hint": "جهاز يستخدم في رياضة الجمباز لأداء الحركات.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "دورة",
+        "hint": "مجموعة من المباريات المتتالية.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "لفة",
+        "hint": "دورة كاملة حول مضمار الجري.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تهدئة",
+        "hint": "تمارين خفيفة بعد النشاط البدني لخفض ضربات القلب والعضلات.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رفع",
+        "hint": "رياضة حمل الأثقال الثقيلة.",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ركض",
+        "hint": "مرادف للجري، حركة سريعة بالاقدام.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملاكم",
+        "hint": "رياضي يمارس الملاكمة",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لفة",
+        "hint": "دورة كاملة حول مضمار الجري.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هواة",
+        "hint": "لاعبون يمارسون الرياضة للمتعة.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "هدف",
+        "hint": "النقطة التي يسعى اللاعبون لتسجيلها.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قفاز",
+        "hint": "يلبس في الملاكمة",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حكم",
+        "hint": "يدير المباراة",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
       }
     ]
   ]
