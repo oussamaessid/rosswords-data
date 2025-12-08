@@ -2,387 +2,99 @@
   "levels": [
     [
       {
-        "answer": "طوارئ",
-        "hint": "قسم في المستشفى يستقبل الحالات الصحية الملحة والخطيرة.",
+        "answer": "جراحة",
+        "hint": "تدخل طبي بالقطع",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "كربوهيدر",
-        "hint": "مصدر رئيسي للطاقة في الجسم.",
+        "answer": "علاج",
+        "hint": "جميع الإجراءات المتخذة للتخلص من مرض او تخفيف اعراضه.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فيتامين",
+        "hint": "مركب عضوي ضروري للجسم",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "فحص",
+        "hint": "معاينة طبية لتحديد الحالة الصحية",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أذن",
+        "hint": "عضو السمع في جسم الانسان.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "لقاح",
+        "hint": "مادة تقي من الامراض",
         "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عضلة",
+        "hint": "نسيج في الجسم يسمح بالحركة والانقباض.",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ضغط",
+        "hint": "قوة دفع الدم على جدران الاوعية الدموية.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عضلة",
+        "hint": "نسيج يساعد الجسم على الحركة.",
+        "startx": 7,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "تشخيص",
-        "hint": "تحديد نوع المرض او المشكلة الصحية بناء على الاعراض والفحوصات.",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
+        "answer": "عطاس",
+        "hint": "طرد مفاجئ وقوي للهواء من الانف والفم.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
         "position": 3
       },
       {
         "answer": "اكتئاب",
         "hint": "حالة نفسية تتميز بالحزن العميق وفقدان الاهتمام.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "دواء",
-        "hint": "مادة تستخدم للشفاء",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "سموم",
-        "hint": "مواد ضارة يمكن ان تسبب تسمما للجسم.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "سرطان",
-        "hint": "مرض يتميز بنمو خلايا غير طبيعية خارجة عن السيطرة.",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "علاج",
-        "hint": "الوسيلة او الطريقة المستخدمة للشفاء من مرض.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "إغماء",
-        "hint": "فقدان وعي مؤقت",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سعرات",
-        "hint": "وحدة قياس الطاقة الموجودة في الطعام والمشروبات.",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "لمس",
-        "hint": "حاسة تمكننا من الشعور بالاشياء عن طريق اللمس.",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "خلية",
-        "hint": "الوحدة الأساسية للحياة",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "إسعاف",
-        "hint": "خدمة طبية طارئة لنقل المصابين أو المرضى؟",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "صداع",
-        "hint": "الم في منطقة الراس.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "كبد",
-        "hint": "غدة كبيرة تقوم بتنقية الدم.",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "كلى",
-        "hint": "عضو يزيل الفضلات والسوائل الزائدة من الدم؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سائل",
-        "hint": "مادة غير صلبة",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "جراحة",
-        "hint": "تدخل طبي يتم فيه فتح الجسم لإصلاح مشكلة داخلية.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "جرعة",
-        "hint": "كمية محددة من الدواء",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "عطاس",
-        "hint": "طرد الهواء بقوة من الأنف والفم",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "اذن",
-        "hint": "عضو السمع",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "جلد",
-        "hint": "الغطاء الخارجي الذي يحمي الجسم.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "علاج",
-        "hint": "الوسيلة او الطريقة المستخدمة للشفاء من مرض.",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "تنفس",
-        "hint": "عملية تبادل الغازات في الرئتين",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "عين",
-        "hint": "عضو الرؤية في جسم الانسان.",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "سمع",
-        "hint": "حاسة تمكننا من ادراك الاصوات من حولنا.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "مصل",
-        "hint": "جزء من الدم يستخدم لعلاج أو للوقاية من الأمراض؟",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "قلب",
-        "hint": "عضو عضلي يضخ الدم في جميع أنحاء الجسم؟",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "فيروس",
-        "hint": "كائن دقيق يسبب العدوى",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "رئه",
-        "hint": "عضو للتنفس",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "شفاء",
-        "hint": "استعادة الصحة بعد الاصابة بمرض.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "بكتيريا",
-        "hint": "كائنات حية دقيقة قد تسبب الأمراض أو تكون مفيدة؟",
         "startx": 5,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "كلى",
-        "hint": "عضوان يقومان بتصفية الدم وإزالة الفضلات.",
-        "startx": 5,
-        "starty": 10,
+        "starty": 8,
         "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "عدوى",
-        "hint": "انتقال مسببات الأمراض مثل البكتيريا والفيروسات.",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "ولادة",
-        "hint": "عملية خروج الجنين من رحم الأم إلى العالم الخارجي.",
-        "startx": 7,
-        "starty": 15,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "جسم",
-        "hint": "الهيكل المادي للكائن الحي",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "مطهر",
-        "hint": "مادة تستخدم لقتل الجراثيم على الاسطح او الجلد.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "جهاز",
-        "hint": "مجموعة من الاعضاء تعمل معا لأداء وظيفة حيوية معينة في الجسم.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "علاج",
-        "hint": "وسيلة للتخلص من مرض",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "عظم",
-        "hint": "جزء صلب يشكل الهيكل العظمي.",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "الم",
-        "hint": "شعور مزعج بالضيق او الضرر الجسدي.",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "غذاء",
-        "hint": "ما يؤكل لتوفير الطاقة للجسم",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "قلب",
-        "hint": "عضو عضلي يضخ الدم في جميع أنحاء الجسم؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "بروتين",
-        "hint": "مادة أساسية لبناء الأنسجة والعضلات في الجسم.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "صيدلي",
-        "hint": "الشخص المتخصص في تركيب وتوزيع الأدوية.",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "كلى",
-        "hint": "أعضاء تنقي الدم وتنتج البول",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "لقاح",
-        "hint": "مادة تستخدم لتحفيز المناعة ضد مرض معين؟",
-        "startx": 7,
+        "answer": "صيام",
+        "hint": "الامتناع عن الطعام والشراب",
+        "startx": 1,
         "starty": 6,
         "orientation": "down",
         "position": 5
@@ -390,994 +102,106 @@
       {
         "answer": "رئة",
         "hint": "عضو رئيسي في الجهاز التنفسي",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "جراحة",
-        "hint": "تدخل طبي بالقطع",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "انف",
-        "hint": "العضو المسؤول عن حاسة الشم والتنفس.",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "صداع",
-        "hint": "الم في منطقة الراس.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "جهاز",
-        "hint": "مجموعة اعضاء تعمل معا",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "فحص",
-        "hint": "معاينة طبية دورية لتقييم الحالة الصحية العامة.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "جسم",
-        "hint": "الهيكل المادي للكائن الحي",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "نوم",
-        "hint": "فترة راحة للجسم والعقل",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "عين",
-        "hint": "عضو للرؤية",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "جرح",
-        "hint": "قطع أو تمزق في أنسجة الجسم بسبب إصابة؟",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "جراحة",
-        "hint": "تدخل طبي يتم فيه فتح الجسم لإصلاح مشكلة داخلية.",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "وقاية",
-        "hint": "إجراءات تتخذ لمنع حدوث الامراض.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "نظافة",
-        "hint": "ممارسات للحفاظ على الصحة والوقاية من الأمراض؟",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "تنفس",
-        "hint": "عملية ادخال الهواء الى الرئتين وإخراجه.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "شفاء",
-        "hint": "استعادة الصحة بعد المرض",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ماء",
-        "hint": "سائل حيوي ضروري لوظائف الجسم الحيوية.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الامراض والعدوى.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "اسنان",
-        "hint": "هياكل صلبة في الفم للطحن",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "اعصاب",
-        "hint": "شبكة من الألياف تنقل الإشارات بين الدماغ والجسم.",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "قلب",
-        "hint": "العضو الذي يضخ الدم في الجسم.",
-        "startx": 7,
-        "starty": 15,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "رئة",
-        "hint": "عضو رئيسي في الجهاز التنفسي",
-        "startx": 10,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "ممرض",
-        "hint": "الشخص الذي يقدم الرعاية للمرضى تحت إشراف الطبيب.",
-        "startx": 10,
-        "starty": 11,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "اذن",
-        "hint": "العضو المسؤول عن السمع والتوازن.",
-        "startx": 5,
-        "starty": 14,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "جراحة",
-        "hint": "تدخل طبي بالقطع",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "رياضة",
-        "hint": "نشاط بدني لتقوية الجسم",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "اذن",
-        "hint": "العضو المسؤول عن السمع والتوازن.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "فيتامين",
-        "hint": "مركب عضوي حيوي يحتاجه الجسم بكميات قليلة؟",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية تفرز في الجسم لتنظيم وظائفه؟",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "التهاب",
-        "hint": "استجابة الجسم لإصابة أو عدوى تتميز بالاحمرار والتورم؟",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "نوم",
-        "hint": "فترة راحة طبيعية وضرورية لتجديد طاقة الجسم.",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "علاج",
-        "hint": "الوسيلة او الطريقة المستخدمة للشفاء من مرض.",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الأمراض",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "لقاح",
-        "hint": "مادة تقي من الامراض",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "فواكه",
-        "hint": "ثمرة نباتية حلوة المذاق ومفيدة للصحة.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "انف",
-        "hint": "عضو الشم والتنفس",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "جهاز",
-        "hint": "مجموعة اعضاء تعمل معا",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية تفرز في الجسم لتنظيم وظائفه؟",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "رئة",
-        "hint": "عضو مهم لعملية التنفس.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "اسنان",
-        "hint": "هياكل صلبة في الفم للطحن",
-        "startx": 5,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "الم",
-        "hint": "شعور مزعج بالضيق او الضرر الجسدي.",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "ألم",
-        "hint": "شعور غير مريح او مؤلم في جزء من الجسم.",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "جلد",
-        "hint": "الغطاء الخارجي الواقي للجسم",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "وزن",
-        "hint": "كتلة الجسم",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "عدوى",
-        "hint": "انتقال الجراثيم",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "عافية",
-        "hint": "حالة من الصحة الجيدة والرخاء؟",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "نوم",
-        "hint": "حالة طبيعية من الراحة الجسدية والعقلية.",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "وصفة",
-        "hint": "امر الطبيب بالدواء",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "صحة",
-        "hint": "حالة اكتمال السلامة البدنية والعقلية والاجتماعية؟",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "عين",
-        "hint": "العضو المسؤول عن الإبصار والرؤية.",
         "startx": 9,
         "starty": 9,
         "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "كبد",
-        "hint": "غدة كبيرة تقوم بتنقية الدم.",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "لقاح",
-        "hint": "مادة تستخدم لتحفيز المناعة ضد مرض معين؟",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "حساسية",
-        "hint": "رد فعل مفرط من الجهاز المناعي لمواد معينة.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سكري",
-        "hint": "مرض مزمن يؤثر على كيفية استخدام الجسم للسكر؟",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "حمية",
-        "hint": "خطة غذائية محددة لإنقاص الوزن أو لأسباب صحية اخرى.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "سكر",
-        "hint": "مرض ارتفاع الجلوكوز في الدم",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "وقاية",
-        "hint": "حماية النفس من المرض",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
         "position": 6
       },
       {
-        "answer": "رئة",
-        "hint": "العضو المسؤول عن عملية التنفس وتبادل الغازات.",
-        "startx": 9,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "دماغ",
-        "hint": "مركز التحكم في الجهاز العصبي ووظائف الجسم.",
+        "answer": "عقل",
+        "hint": "مركز التفكير والوعي",
         "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "وقاية",
-        "hint": "حماية النفس من المرض",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "دهون",
-        "hint": "مواد عضوية مخزنة",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "نحافة",
-        "hint": "حالة نقص الوزن عن المعدل الطبيعي بشكل ملحوظ.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "رئة",
-        "hint": "العضو المسؤول عن عملية التنفس وتبادل الغازات.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ربو",
-        "hint": "مرض مزمن يصيب الجهاز التنفسي ويسبب صعوبة في التنفس.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية تفرزها الغدد لتنظيم وظائف الجسم.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "مطهر",
-        "hint": "مادة تستخدم لقتل الجراثيم على الاسطح او الجلد.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "معدة",
-        "hint": "عضو يقوم بهضم الطعام وتخزينه.",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "نوم",
-        "hint": "فترة راحة للجسم والعقل",
-        "startx": 2,
         "starty": 6,
         "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "حساسية",
-        "hint": "استجابة مفرطة لجهاز المناعة لمواد غير ضارة عادة؟",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الأمراض والعدوى؟",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "فيروس",
-        "hint": "كائن دقيق يسبب العدوى",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "نظافة",
-        "hint": "الحفاظ على الجسم والبيئة خاليين من الجراثيم.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "اشعة",
-        "hint": "تصوير داخلي للجسم",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "صداع",
-        "hint": "ألم في منطقة الرأس يمكن أن يكون خفيفا أو شديدا.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "دهون",
-        "hint": "مصدر للطاقة ومكون اساسي للخلايا.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
         "position": 7
-      },
-      {
-        "answer": "حمى",
-        "hint": "ارتفاع درجة حرارة الجسم عن المعدل الطبيعي؟",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "عطاس",
-        "hint": "طرد الهواء بقوة من الأنف والفم",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سموم",
-        "hint": "مواد ضارة بالجسم",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "جرعة",
-        "hint": "كمية محددة من الدواء",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ممرض",
-        "hint": "الشخص الذي يقدم الرعاية للمرضى تحت إشراف الطبيب.",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "بروتين",
-        "hint": "عنصر غذائي مهم لبناء العضلات والانسجة.",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "نظافة",
-        "hint": "الحفاظ على الجسم والبيئة خالية من الجراثيم.",
-        "startx": 3,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "صداع",
-        "hint": "ألم في الرأس قد يكون خفيفا او شديدا.",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "رئة",
-        "hint": "العضو المسؤول عن عملية التنفس وتبادل الغازات.",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "ربو",
-        "hint": "مرض مزمن يصيب الجهاز التنفسي ويسبب صعوبة في التنفس.",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "صحة",
-        "hint": "حالة اكتمال السلامة البدنية والعقلية والاجتماعية؟",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "ممرض",
-        "hint": "الشخص الذي يقدم الرعاية للمرضى تحت إشراف الطبيب.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "فيتامن",
-        "hint": "مادة عضوية أساسية يحتاجها الجسم بكميات قليلة.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "تغذية",
-        "hint": "توفير الغذاء الضروري للجسم",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الامراض والعدوى.",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
       },
       {
         "answer": "سعال",
-        "hint": "طرد هواء من الرئة",
-        "startx": 6,
+        "hint": "رد فعل لإخراج شيء من الحلق",
+        "startx": 3,
         "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ضماد",
-        "hint": "قطعة قماش أو مادة تستخدم لتغطية الجروح.",
-        "startx": 5,
-        "starty": 7,
         "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "شفاء",
-        "hint": "عملية استعادة الصحة بعد مرض أو إصابة؟",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "مشفى",
-        "hint": "مكان لعلاج المرضى",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
         "position": 8
       },
       {
-        "answer": "انف",
-        "hint": "العضو المسؤول عن حاسة الشم والتنفس.",
-        "startx": 10,
-        "starty": 3,
+        "answer": "عملية",
+        "hint": "تدخل جراحي لعلاج مشكلة صحية.",
+        "startx": 3,
+        "starty": 4,
         "orientation": "across",
         "position": 9
       }
     ],
     [
       {
-        "answer": "نحافة",
-        "hint": "حالة نقص الوزن عن المعدل الطبيعي بشكل ملحوظ.",
+        "answer": "تنفس",
+        "hint": "عملية تبادل الغازات في الرئتين",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "أعصاب",
-        "hint": "خلايا متخصصة تنقل الإشارات بين الدماغ والجسم؟",
-        "startx": 6,
-        "starty": 4,
+        "answer": "تمارين",
+        "hint": "نشاط بدني لتقوية العضلات وتحسين اللياقة.",
+        "startx": 7,
+        "starty": 2,
         "orientation": "down",
         "position": 2
-      },
-      {
-        "answer": "رياضة",
-        "hint": "نشاط بدني منتظم للحفاظ على اللياقة وتقوية الجسم؟",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية تفرزها الغدد لتنظيم وظائف الجسم.",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ارق",
-        "hint": "صعوبة أو عدم القدرة على النوم",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "فيتامين",
-        "hint": "مركب عضوي ضروري للجسم",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "نزف",
-        "hint": "خروج الدم من الأوعية الدموية",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "ربو",
-        "hint": "مرض مزمن يؤثر على الشعب الهوائية ويسبب صعوبة في التنفس.",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "سائل",
-        "hint": "مادة غير صلبة",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "فيروس",
-        "hint": "كائن دقيق يسبب العدوى",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "فحص",
-        "hint": "معاينة طبية دورية",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
       },
       {
         "answer": "سعال",
         "hint": "رد فعل منعكس لطرد المواد الغريبة من الجهاز التنفسي؟",
-        "startx": 5,
+        "startx": 9,
         "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "علاج",
-        "hint": "إجراءات للتخلص من المرض",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الأمراض والعدوى.",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ماء",
-        "hint": "سائل أساسي للحياة يشكل معظم وزن الجسم؟",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "انف",
-        "hint": "العضو المسؤول عن حاسة الشم والتنفس.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "سكر",
-        "hint": "نوع من الكربوهيدرات يوفر طاقة سريعة للجسم؟",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "وصفة",
-        "hint": "تعليمات الطبيب للصيدلي حول الدواء والمقدار؟",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "عضلات",
-        "hint": "أنسجة في الجسم مسؤولة عن الحركة؟",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "عظم",
-        "hint": "هيكل صلب يدعم الجسم ويحمي الاعضاء الداخلية.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سمين",
-        "hint": "كثير الشحم",
-        "startx": 9,
-        "starty": 9,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "سمنة",
-        "hint": "زيادة مفرطة بالوزن",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "down",
+        "answer": "تحليل",
+        "hint": "فحص عينات من الدم او البول للكشف عن الامراض او تقييم الصحة.",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "اسنان",
-        "hint": "تستخدم لمضغ الطعام وتقطيعه.",
-        "startx": 5,
-        "starty": 4,
+        "answer": "عطاس",
+        "hint": "طرد الهواء بقوة من الأنف والفم",
+        "startx": 9,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "لقاح",
-        "hint": "مادة تستخدم لتحفيز المناعة ضد مرض معين؟",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "across",
+        "answer": "علاج",
+        "hint": "مجموعة من الإجراءات لتخفيف أو شفاء مرض ما؟",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
         "position": 6
       },
       {
-        "answer": "نبض",
-        "hint": "دقات القلب المحسوسة في الشرايين",
-        "startx": 9,
-        "starty": 11,
-        "orientation": "across",
+        "answer": "سكر",
+        "hint": "نوع من الكربوهيدرات يوفر طاقة سريعة للجسم؟",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
         "position": 7
       },
       {
-        "answer": "قلب",
-        "hint": "عضو يضخ الدم في الجسم",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
+        "answer": "عظام",
+        "hint": "الهيكل الصلب الذي يدعم الجسم",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
         "position": 8
       }
     ],
     [
       {
-        "answer": "جراحة",
-        "hint": "إجراء طبي يتضمن فتح الجسم لإصلاح مشكلة؟",
+        "answer": "شفاء",
+        "hint": "استعادة الصحة بعد الاصابة بمرض.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
@@ -1392,760 +216,50 @@
         "position": 2
       },
       {
-        "answer": "صحة",
-        "hint": "حالة جسدية ونفسية جيدة وخالية من الأمراض.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "اجهاد",
-        "hint": "ضغط جسدي أو عقلي شديد يؤثر على صحة الفرد.",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "نوم",
-        "hint": "حالة طبيعية من الراحة الجسدية والعقلية.",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "انف",
-        "hint": "العضو المسؤول عن حاسة الشم والتنفس.",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "مرض",
-        "hint": "حالة غير طبيعية تصيب الجسم وتؤثر على وظائفه.",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "جلد",
-        "hint": "الغطاء الخارجي الواقي للجسم",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "وزن",
-        "hint": "كتلة الجسم",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "عضلة",
-        "hint": "نسيج يساعد الجسم على الحركة.",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "قلب",
-        "hint": "العضو الذي يضخ الدم إلى جميع أنحاء الجسم.",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "عضلات",
-        "hint": "أنسجة في الجسم مسؤولة عن الحركة؟",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "عدوى",
-        "hint": "انتقال مسببات الأمراض مثل البكتيريا والفيروسات.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ربو",
-        "hint": "مرض مزمن يصيب الجهاز التنفسي ويسبب صعوبة في التنفس.",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "راحة",
-        "hint": "فترة استرخاء",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "توتر",
-        "hint": "حالة نفسية تسبب ضيقاً وانزعاجاً",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "نحيل",
-        "hint": "قليل الشحم",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "وقاية",
-        "hint": "إجراءات تتخذ لتجنب حدوث الأمراض؟",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "لقاح",
-        "hint": "مادة تحفز الجهاز المناعي لحماية الجسم من مرض معين.",
+        "answer": "فيروس",
+        "hint": "كائن دقيق يسبب العدوى",
         "startx": 7,
         "starty": 5,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الامراض والجراثيم.",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "فحص",
-        "hint": "معاينة طبية لتحديد الحالة الصحية",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "فيتامن",
-        "hint": "مادة عضوية أساسية يحتاجها الجسم بكميات قليلة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "عظم",
-        "hint": "جزء صلب يشكل الهيكل العظمي.",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "فيتامين",
-        "hint": "مركب عضوي ضروري للجسم",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "عضلات",
-        "hint": "أنسجة في الجسم مسؤولة عن الحركة؟",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "علاج",
-        "hint": "التدابير المتخذة للتخلص من المرض أو تخفيف أعراضه.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سرطان",
-        "hint": "مرض يتميز بنمو خلايا غير طبيعية خارجة عن السيطرة.",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "اسعاف",
-        "hint": "مساعدة طبية أولية تقدم لشخص مصاب أو مريض فجأة.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "رئة",
-        "hint": "عضو مهم لعملية التنفس.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "لياقة",
-        "hint": "قدرة الجسم على أداء النشاط البدني",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ماء",
-        "hint": "سائل ضروري للحياة",
-        "startx": 5,
+        "answer": "نفس",
+        "hint": "عملية الشهيق والزفير",
+        "startx": 3,
         "starty": 3,
-        "orientation": "across",
-        "position": 6
+        "orientation": "down",
+        "position": 4
       },
       {
-        "answer": "ألم",
-        "hint": "شعور غير مريح ينذر بوجود ضرر أو مشكلة؟",
-        "startx": 5,
-        "starty": 1,
+        "answer": "نظافة",
+        "hint": "الحفاظ على الجسم والبيئة خالية من الجراثيم.",
+        "startx": 6,
+        "starty": 10,
         "orientation": "across",
-        "position": 7
+        "position": 5
       },
       {
         "answer": "نزف",
         "hint": "خروج الدم من الأوعية الدموية",
-        "startx": 10,
-        "starty": 9,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "نفسي",
-        "hint": "متعلق بالحالة العقلية والعاطفية للشخص.",
-        "startx": 10,
-        "starty": 9,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "سمع",
-        "hint": "حاسة تمكننا من ادراك الاصوات من حولنا.",
-        "startx": 10,
-        "starty": 11,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "دهون",
-        "hint": "مواد عضوية مهمة لتخزين الطاقة",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "هضم",
-        "hint": "عملية تحويل الطعام",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سمع",
-        "hint": "حاسة تمكننا من ادراك الاصوات من حولنا.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "سمنة",
-        "hint": "تراكم مفرط للدهون في الجسم يؤثر على الصحة.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "عظم",
-        "hint": "هيكل صلب يدعم الجسم ويحمي الاعضاء الداخلية.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "امعاء",
-        "hint": "انابيب طويلة تهضم الطعام وتستخلص المغذيات.",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "دواء",
-        "hint": "مادة تستخدم لعلاج الامراض او تخفيفها.",
         "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "طبيب",
-        "hint": "شخص متخصص في علاج الامراض ورعاية المرضى.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "فيتامين",
-        "hint": "مركب عضوي حيوي يحتاجه الجسم بكميات قليلة؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية منظمة",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "اذن",
-        "hint": "عضو مسؤول عن حاسة السمع.",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "عين",
-        "hint": "عضو للرؤية",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "الم",
-        "hint": "إحساس غير سار في الجسم",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الأمراض",
-        "startx": 8,
-        "starty": 14,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "ضغط",
-        "hint": "ارتفاع التوتر الشرياني",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "هضم",
-        "hint": "عملية تكسير الطعام لامتصاصه",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "إمساك",
-        "hint": "صعوبة في التبرز أو تبرز غير منتظم؟",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "حمية",
-        "hint": "خطة غذائية محددة لإنقاص الوزن أو لأسباب صحية اخرى.",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "جراحة",
-        "hint": "تدخل طبي يتم فيه فتح الجسم لإصلاح مشكلة داخلية.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "صحة",
-        "hint": "حالة خالية من المرض",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "حساسية",
-        "hint": "استجابة مفرطة لجهاز المناعة لمواد غير ضارة عادة؟",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "جلد",
-        "hint": "الغطاء الخارجي للجسم الذي يحميه من العوامل الخارجية.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "سموم",
-        "hint": "مواد ضارة يمكن أن تسبب ضررا للجسم.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "دواء",
-        "hint": "ما هو علاج يستخدم لتخفيف الألم أو الشفاء من الأمراض؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "تنفس",
-        "hint": "عملية تبادل الغازات في الرئتين",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "تغذية",
-        "hint": "عملية تناول الطعام للحصول على الطاقة والعناصر اللازمة للجسم.",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "أذن",
-        "hint": "عضو السمع في جسم الانسان.",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "أعصاب",
-        "hint": "خلايا متخصصة تنقل الإشارات بين الدماغ والجسم؟",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "صحة",
-        "hint": "حالة اكتمال السلامة البدنية والعقلية والاجتماعية؟",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "حمية",
-        "hint": "خطة غذائية محددة لإنقاص الوزن أو لأسباب صحية اخرى.",
-        "startx": 4,
         "starty": 3,
         "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "سكر",
-        "hint": "نوع من الكربوهيدرات يوفر طاقة سريعة للجسم؟",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "جرعة",
-        "hint": "كمية محددة من الدواء",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "حرارة",
-        "hint": "ارتفاع درجة حرارة الجسم",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "استرخاء",
-        "hint": "حالة من الهدوء والراحة الجسدية والعقلية.",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "حساسية",
-        "hint": "رد فعل مفرط من الجهاز المناعي لمواد معينة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "علاج",
-        "hint": "جميع الإجراءات المتخذة للتخلص من مرض او تخفيف اعراضه.",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
         "position": 6
       },
       {
-        "answer": "سرطان",
-        "hint": "مرض يتميز بنمو غير طبيعي لخلايا الجسم.",
-        "startx": 8,
+        "answer": "ارق",
+        "hint": "صعوبة أو عدم القدرة على النوم",
+        "startx": 4,
         "starty": 10,
-        "orientation": "across",
+        "orientation": "down",
         "position": 7
-      },
-      {
-        "answer": "رياضة",
-        "hint": "نشاط بدني منتظم للحفاظ على اللياقة وتقوية الجسم؟",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "down",
-        "position": 8
       }
     ],
     [
       {
-        "answer": "وزن",
-        "hint": "كتلة الجسم",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "فيتامين",
-        "hint": "مركب عضوي حيوي للجسم",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "حساسية",
-        "hint": "رد فعل مفرط من الجهاز المناعي لمواد معينة.",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "راحة",
-        "hint": "فترة توقف عن النشاط لاستعادة الطاقة والقوى؟",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "فحص",
-        "hint": "تقييم طبي شامل للحالة الصحية للشخص؟",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "سائل",
-        "hint": "مادة غير صلبة",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ولادة",
-        "hint": "عملية خروج الجنين من رحم الأم إلى العالم الخارجي.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سائل",
-        "hint": "مادة غير صلبة",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "دماغ",
-        "hint": "مركز التحكم في الجهاز العصبي ووظائف الجسم.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "راحة",
-        "hint": "فترة استرخاء",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "تغذية",
-        "hint": "عملية الحصول على الغذاء",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "لياقة",
-        "hint": "قدرة الجسم على الأداء",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ضغط",
-        "hint": "قوة دفع الدم على جدران الشرايين",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "مضاد",
-        "hint": "مادة تقاوم عمل مادة اخرى او تقتل الكائنات الدقيقة الضارة.",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "عدوى",
-        "hint": "انتقال مسببات الأمراض مثل البكتيريا والفيروسات.",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "الم",
-        "hint": "إحساس غير سار في الجسم",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "لقاح",
-        "hint": "مادة تحمي الجسم من الاصابة بالامراض المعدية.",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "عظم",
-        "hint": "نسيج صلب يشكل الهيكل العظمي للجسم؟",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "وقاية",
-        "hint": "إجراءات تتخذ لتجنب حدوث الأمراض؟",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "عين",
-        "hint": "عضو للرؤية",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "حمية",
-        "hint": "نظام غذائي معين لتحسين الصحة",
+        "answer": "مفصل",
+        "hint": "نقطة التقاء عظمتين",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
@@ -2153,223 +267,75 @@
       },
       {
         "answer": "ضماد",
-        "hint": "قطعة قماش تستخدم لتغطية الجروح وحمايتها؟",
-        "startx": 7,
+        "hint": "قطعة قماش أو مادة تستخدم لتغطية الجروح.",
+        "startx": 8,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "صداع",
-        "hint": "ألم في الرأس",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
+        "answer": "خلية",
+        "hint": "الوحدة الأساسية للحياة",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "صحة",
-        "hint": "حالة خالية من المرض",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
+        "answer": "دوخة",
+        "hint": "إحساس بالدوار وعدم الاتزان",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "وصفة",
-        "hint": "تعليمات الطبيب للصيدلي حول الدواء والمقدار؟",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "علاج",
-        "hint": "وسيلة للتخلص من مرض",
-        "startx": 5,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "طعام",
-        "hint": "ما يؤكل للحصول على طاقة",
+        "answer": "وقاية",
+        "hint": "حماية النفس من المرض",
         "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "رياضة",
-        "hint": "نشاط بدني منتظم للحفاظ على اللياقة وتقوية الجسم؟",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "جراحة",
-        "hint": "تدخل طبي بالقطع",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "صداع",
-        "hint": "ألم في منطقة الرأس يمكن أن يكون خفيفا أو شديدا.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "سمنة",
-        "hint": "زيادة مفرطة بالوزن",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "إسعاف",
-        "hint": "رعاية أولية للمصاب",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "علاج",
-        "hint": "وسيلة للتخلص من مرض",
-        "startx": 2,
-        "starty": 2,
+        "starty": 9,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "معدة",
-        "hint": "العضو الذي يهضم الطعام بعد بلعه.",
-        "startx": 3,
-        "starty": 2,
+        "answer": "لياقة",
+        "hint": "قدرة الجسم على أداء النشاط البدني",
+        "startx": 8,
+        "starty": 12,
         "orientation": "across",
         "position": 6
       }
     ],
     [
       {
-        "answer": "مريض",
-        "hint": "من يعاني من مرض",
+        "answer": "امعاء",
+        "hint": "انابيب طويلة تهضم الطعام وتستخلص المغذيات.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "رياضة",
-        "hint": "ممارسة النشاط البدني بانتظام.",
+        "answer": "هضم",
+        "hint": "عملية تحويل الطعام إلى مواد بسيطة يمكن للجسم امتصاصها.",
         "startx": 7,
-        "starty": 7,
+        "starty": 5,
         "orientation": "down",
         "position": 2
+      },
+      {
+        "answer": "علاج",
+        "hint": "التدابير المتخذة للتخلص من المرض أو تخفيف أعراضه.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
       },
       {
         "answer": "التهاب",
         "hint": "استجابة الجسم لإصابة أو عدوى تتميز بالاحمرار والتورم؟",
-        "startx": 7,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "قلب",
-        "hint": "عضو عضلي يضخ الدم في جميع أنحاء الجسم؟",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "نوم",
-        "hint": "فترة راحة للجسم والعقل",
         "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "لمس",
-        "hint": "حاسة تمكننا من الشعور بالاشياء عن طريق اللمس.",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "هضم",
-        "hint": "عملية تحويل الطعام إلى مواد مغذية يمكن للجسم امتصاصها؟",
-        "startx": 4,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "انف",
-        "hint": "عضو مسؤول عن حاسة الشم والتنفس.",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "سموم",
-        "hint": "مواد ضارة بالجسم",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "نبض",
-        "hint": "دقات القلب المحسوسة في الشرايين",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "مرض",
-        "hint": "حالة غير طبيعية تؤثر على وظائف الجسم.",
-        "startx": 7,
         "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية منظمة",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "حقنة",
-        "hint": "إدخال سائل أو دواء إلى الجسم باستخدام إبرة؟",
-        "startx": 9,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "صحة",
-        "hint": "حالة خالية من المرض",
-        "startx": 9,
-        "starty": 8,
         "orientation": "down",
         "position": 4
       },
@@ -2382,390 +348,1470 @@
         "position": 5
       },
       {
-        "answer": "ربو",
-        "hint": "مرض مزمن يؤثر على الشعب الهوائية ويسبب صعوبة في التنفس.",
+        "answer": "الم",
+        "hint": "شعور مزعج بالضيق او الضرر الجسدي.",
         "startx": 6,
-        "starty": 3,
-        "orientation": "down",
+        "starty": 9,
+        "orientation": "across",
         "position": 6
       },
       {
-        "answer": "سكر",
-        "hint": "مرض ارتفاع مستوى الجلوكوز في الدم.",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
+        "answer": "ممرضة",
+        "hint": "شخص مدرب على تقديم الرعاية الصحية للمرضى في المستشفيات.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
         "position": 7
       },
       {
-        "answer": "لمس",
-        "hint": "حاسة تمكننا من الشعور بالاشياء عن طريق اللمس.",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "ممرض",
+        "hint": "شخص يقدم الرعاية للمرضى",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
         "position": 8
       },
       {
-        "answer": "نوم",
-        "hint": "فترة راحة طبيعية وضرورية لتجديد طاقة الجسم.",
-        "startx": 10,
-        "starty": 2,
+        "answer": "ماء",
+        "hint": "سائل ضروري للحياة",
+        "startx": 9,
+        "starty": 11,
         "orientation": "across",
         "position": 9
       }
     ],
     [
       {
-        "answer": "اسنان",
-        "hint": "تراكيب صلبة في الفم تستخدم لمضغ الطعام.",
+        "answer": "نخاع",
+        "hint": "نسيج لين يوجد داخل العظام وينتج خلايا الدم.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فيتامين",
+        "hint": "مركبات عضوية ضرورية لوظائف الجسم الحيوية بكميات قليلة.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دواء",
+        "hint": "مادة تستخدم لعلاج الأمراض وتخفيف الآلام.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "الم",
+        "hint": "إحساس غير سار في الجسم",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "جهاز",
+        "hint": "مجموعة اعضاء تعمل معا",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تنفس",
+        "hint": "عملية ادخال الهواء الى الرئتين وإخراجه.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "فيروس",
+        "hint": "كائن دقيق يسبب العديد من الامراض.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "دهون",
+        "hint": "مجموعة من المركبات العضوية ضرورية للطاقة وامتصاص الفيتامينات؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "عظم",
+        "hint": "جزء صلب يشكل الهيكل العظمي.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معدن",
+        "hint": "عناصر كيميائية يحتاجها الجسم بكميات متفاوتة مثل الكالسيوم.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "انف",
+        "hint": "عضو مسؤول عن حاسة الشم والتنفس.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "امعاء",
+        "hint": "انابيب طويلة تهضم الطعام وتستخلص المغذيات.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "شراب",
+        "hint": "السوائل التي يشربها الانسان ليروي عطشه او يتغذى.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "فواكه",
+        "hint": "ثمرة نباتية حلوة المذاق ومفيدة للصحة.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نظافة",
+        "hint": "ممارسات للحفاظ على الصحة والوقاية من الأمراض؟",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "راحة",
+        "hint": "فترة توقف عن العمل او الجهد لتجديد الطاقة.",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ذهن",
+        "hint": "القدرة العقلية على التفكير والفهم والادراك.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اذن",
+        "hint": "عضو مسؤول عن حاسة السمع.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حقنة",
+        "hint": "إدخال سائل أو دواء إلى الجسم باستخدام إبرة؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "وزن",
+        "hint": "كتلة الجسم",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "وقاية",
+        "hint": "إجراءات تتخذ لمنع حدوث الامراض.",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قلب",
+        "hint": "عضو يضخ الدم الى جميع اجزاء الجسم.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ارق",
+        "hint": "صعوبة في النوم أو البقاء نائماً لفترة كافية؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طعام",
+        "hint": "ما يؤكل للحصول على طاقة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جلطة",
+        "hint": "تخثر الدم داخل وعاء دموي",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هضم",
+        "hint": "عملية تحويل الطعام الى مواد يمتصها الجسم ويستفيد منها.",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "جراحة",
+        "hint": "إجراء طبي يتضمن فتح الجسم لإصلاح مشكلة؟",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "غذاء",
+        "hint": "ما يأكله الإنسان أو الحيوان للحصول على الطاقة.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لقاح",
+        "hint": "مادة تعطى للوقاية من الأمراض",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "اذن",
+        "hint": "عضو السمع",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سرطان",
+        "hint": "نمو خلايا غير طبيعية وخبيثة",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "سرطان",
+        "hint": "مرض يتميز بنمو غير طبيعي لخلايا الجسم.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عين",
+        "hint": "عضو مسؤول عن حاسة البصر.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سكر",
+        "hint": "مرض ارتفاع مستوى الجلوكوز في الدم.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ربو",
+        "hint": "مرض مزمن يؤثر على الشعب الهوائية ويسبب صعوبة في التنفس.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إسعاف",
+        "hint": "رعاية أولية للمصاب",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "عطاس",
+        "hint": "طرد مفاجئ وقوي للهواء من الانف والفم.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عضلة",
+        "hint": "نسيج في الجسم يسمح بالحركة والانقباض.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فواكه",
+        "hint": "ثمرة نباتية حلوة المذاق ومفيدة للصحة.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "انعاش",
+        "hint": "اجراءات طبية لاعادة وظائف القلب والرئة للحياة.",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "بكتريا",
+        "hint": "كائنات حية دقيقة قد تسبب الامراض او تكون مفيدة.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "صداع",
+        "hint": "ألم في منطقة الرأس يمكن أن يكون خفيفاً أو شديداً؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شفاء",
+        "hint": "استعادة الصحة بعد المرض",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فحص",
+        "hint": "معاينة طبية لتحديد الحالة الصحية",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "انف",
+        "hint": "عضو الشم والتنفس",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "عضلات",
+        "hint": "أنسجة في الجسم مسؤولة عن الحركة؟",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "عين",
+        "hint": "عضو الرؤية في جسم الانسان.",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "شراب",
+        "hint": "السوائل التي يشربها الانسان ليروي عطشه او يتغذى.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ورم",
+        "hint": "كتلة من الأنسجة المتضخمة قد تكون حميدة أو خبيثة؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فيتامين",
+        "hint": "مركب عضوي ضروري لصحة الجسم ونموه.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سمنة",
+        "hint": "تراكم مفرط للدهون في الجسم يؤثر على الصحة.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ممرض",
+        "hint": "الشخص الذي يقدم الرعاية للمرضى تحت إشراف الطبيب.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "فيروس",
+        "hint": "كائن دقيق يسبب العدوى",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سموم",
+        "hint": "مواد ضارة تنتجها الكائنات الحية",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حمى",
+        "hint": "ارتفاع درجة حرارة الجسم عن المعدل الطبيعي.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل حيوي وضروري جدا للحياة والصحة.",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "جراحة",
+        "hint": "إجراء طبي يتضمن فتح الجسم لإصلاح مشكلة؟",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "حرارة",
+        "hint": "ارتفاع درجة حرارة الجسم",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "عضل",
+        "hint": "نسيج في الجسم يسمح بالحركة والانقباض.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "تحليل",
+        "hint": "فحص عينات من الدم او البول للكشف عن الامراض او تقييم الصحة.",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "سعرات",
+        "hint": "وحدة قياس الطاقة الموجودة في الطعام والمشروبات.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "لياقة",
+        "hint": "قدرة الجسم على أداء النشاط البدني",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نظافة",
+        "hint": "الحفاظ على الجسم والبيئة خالية من الجراثيم.",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ضماد",
+        "hint": "قطعة قماش تستخدم لتغطية الجروح وحمايتها؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سكر",
+        "hint": "نوع من الكربوهيدرات يوفر طاقة سريعة للجسم؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "فحص",
+        "hint": "معاينة طبية دورية لتقييم الحالة الصحية العامة.",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "إغماء",
+        "hint": "فقدان وعي مؤقت",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "ضماد",
+        "hint": "قطعة قماش أو مادة تستخدم لتغطية الجروح.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "بدانة",
+        "hint": "حالة تراكم الدهون الزائدة في الجسم مما يؤثر على الصحة.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بكتيريا",
+        "hint": "كائنات حية دقيقة تسبب الأمراض",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل ضروري للحياة",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سمنة",
+        "hint": "تراكم مفرط للدهون في الجسم يؤثر على الصحة؟",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صحة",
+        "hint": "حالة السلامة الجسدية والعقلية",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نحافة",
+        "hint": "حالة نقص الوزن عن المعدل الطبيعي بشكل ملحوظ.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "بروتين",
+        "hint": "مركب عضوي كبير ضروري لبناء وإصلاح الأنسجة؟",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "اذن",
+        "hint": "عضو مسؤول عن حاسة السمع.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وقاية",
+        "hint": "إجراءات تتخذ لتجنب حدوث الأمراض؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بروتين",
+        "hint": "مادة أساسية لبناء الأنسجة والعضلات في الجسم.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "راحة",
+        "hint": "الاسترخاء الجسدي والعقلي بعد مجهود أو تعب.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ذوق",
+        "hint": "حاسة تمكننا من تمييز طعم الاطعمة.",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حمية",
+        "hint": "خطة غذائية محددة لإنقاص الوزن أو لأسباب صحية اخرى.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قلب",
+        "hint": "عضو عضلي يضخ الدم في جميع أنحاء الجسم؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صحة",
+        "hint": "حالة العافية الجسدية والعقلية والنفسية.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "صيام",
+        "hint": "الامتناع عن الاكل والشرب لفترة زمنية محددة.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "لياقة",
+        "hint": "القدرة على أداء الأنشطة البدنية اليومية بكفاءة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جلطة",
+        "hint": "تخثر الدم داخل وعاء دموي",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بكتيريا",
+        "hint": "كائنات حية دقيقة",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "لقاح",
+        "hint": "مادة تستخدم لتحفيز المناعة ضد مرض معين؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "طعام",
+        "hint": "المواد التي يتناولها الانسان ليتغذى عليها.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مطهر",
+        "hint": "مادة تستخدم لقتل الجراثيم على الاسطح او الجلد.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عين",
+        "hint": "العضو المسؤول عن الإبصار والرؤية.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "سكر",
+        "hint": "مادة حلوة الطعم يمكن أن تضر بالصحة عند الإفراط.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "طبيب",
+        "hint": "شخص متخصص في تشخيص الأمراض وعلاجها.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فيروس",
+        "hint": "كائن دقيق يسبب العديد من الامراض.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سمنة",
+        "hint": "حالة زيادة الوزن المفرطة.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "عملية",
+        "hint": "تدخل جراحي لعلاج مشكلة صحية.",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "عظام",
+        "hint": "الهيكل الصلب الذي يدعم الجسم",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نظافة",
+        "hint": "الحفاظ على الجسم والبيئة خاليين من الاوساخ والجراثيم.",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نحافة",
+        "hint": "حالة نقص الوزن عن المعدل الطبيعي بشكل ملحوظ.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مفصل",
+        "hint": "نقطة التقاء عظمتين",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "عين",
+        "hint": "عضو مسؤول عن حاسة البصر.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "ربو",
+        "hint": "مرض مزمن يصيب الجهاز التنفسي ويسبب صعوبة في التنفس.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "عظم",
+        "hint": "نسيج صلب يشكل الهيكل العظمي للجسم؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عقل",
+        "hint": "مركز التفكير والوعي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مريض",
+        "hint": "من يعاني من مرض",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مضاد",
+        "hint": "مادة تقاوم عمل مادة اخرى او تقتل الكائنات الدقيقة الضارة.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "عضل",
+        "hint": "نسيج في الجسم يسمح بالحركة والانقباض.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سعال",
+        "hint": "رد فعل منعكس لطرد المواد الغريبة من الجهاز التنفسي؟",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صداع",
+        "hint": "ألم في منطقة الرأس يمكن أن يكون خفيفاً أو شديداً؟",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مرض",
+        "hint": "حالة غير طبيعية تؤثر على الكائن الحي وتسبب أعراضاً؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "الم",
+        "hint": "إحساس غير سار في الجسم",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "هرمون",
+        "hint": "مادة كيميائية تفرز في الجسم لتنظيم وظائفه؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سمين",
+        "hint": "كثير الشحم",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مناعة",
+        "hint": "قدرة الجسم على مقاومة الأمراض والعدوى.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "عظم",
+        "hint": "جزء صلب يشكل الهيكل العظمي.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إسهال",
+        "hint": "تكرار التبرز مع براز سائل؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "صيام",
+        "hint": "الامتناع عن الاكل والشرب لفترة زمنية محددة.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عقل",
+        "hint": "مركز التفكير والوعي",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "عين",
+        "hint": "عضو الرؤية في جسم الانسان.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "فحص",
+        "hint": "معاينة طبية دورية",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نحافة",
+        "hint": "نقص بالوزن",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فيتامين",
+        "hint": "مركب عضوي ضروري لصحة الجسم ونموه.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "اشعة",
+        "hint": "تقنية تصوير تستخدم للكشف عن مشاكل داخل الجسم.",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "وقاية",
+        "hint": "مجموعة إجراءات تهدف إلى منع حدوث المرض.",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "لياقة",
+        "hint": "قدرة الجسم على الأداء",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل حيوي وضروري جدا للحياة والصحة.",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "بروتين",
+        "hint": "عنصر غذائي مهم لبناء العضلات والانسجة.",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "صحة",
+        "hint": "حالة جسدية ونفسية جيدة وخالية من الأمراض.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مريض",
+        "hint": "من يعاني من مرض",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سمنة",
+        "hint": "زيادة مفرطة بالوزن",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "غثيان",
+        "hint": "شعور بعدم الارتياح في المعدة مع رغبة في التقيؤ؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "اذن",
+        "hint": "العضو المسؤول عن السمع والتوازن.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "صداع",
+        "hint": "ألم في منطقة الرأس يمكن أن يكون خفيفا أو شديدا.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نحافة",
+        "hint": "حالة نقص الوزن عن المعدل الطبيعي بشكل ملحوظ.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "اسعاف",
+        "hint": "مساعدة طبية أولية تقدم لشخص مصاب أو مريض فجأة.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "حمية",
+        "hint": "نظام غذائي خاص يتبع لتحقيق أهداف صحية معينة.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "حمية",
+        "hint": "نظام غذائي خاص يتبع لتحقيق أهداف صحية معينة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بروتين",
+        "hint": "مادة أساسية لبناء الأنسجة والعضلات في الجسم.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نحافة",
+        "hint": "نقص بالوزن",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جرثوم",
+        "hint": "كائن حي دقيق يسبب الامراض والعدوى.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "امعاء",
+        "hint": "انابيب طويلة تهضم الطعام وتستخلص المغذيات.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "اذن",
+        "hint": "عضو مسؤول عن حاسة السمع.",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "اكتئاب",
+        "hint": "حالة نفسية تتميز بالحزن العميق وفقدان الاهتمام.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مناعة",
+        "hint": "قدرة الجسم على مقاومة الأمراض والعدوى؟",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ارق",
+        "hint": "صعوبة في النوم أو عدم الحصول على نوم كافٍ ومريح.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
         "position": 1
       },
       {
         "answer": "حرارة",
         "hint": "ارتفاع درجة حرارة الجسم",
         "startx": 8,
-        "starty": 5,
-        "orientation": "down",
+        "starty": 6,
+        "orientation": "across",
         "position": 2
-      },
-      {
-        "answer": "شفاء",
-        "hint": "استعادة الصحة بعد الاصابة بمرض.",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
       },
       {
         "answer": "صحة",
-        "hint": "حالة السلامة الجسدية والعقلية",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "فحص",
-        "hint": "معاينة طبية لتحديد الحالة الصحية",
-        "startx": 9,
-        "starty": 3,
+        "hint": "حالة العافية الجسدية والعقلية والنفسية.",
+        "startx": 4,
+        "starty": 4,
         "orientation": "down",
-        "position": 5
+        "position": 3
       },
       {
-        "answer": "جراحة",
-        "hint": "تدخل طبي بالقطع",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "رياضة",
-        "hint": "نشاط بدني للحفاظ على اللياقة",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "سكر",
-        "hint": "مرض ارتفاع مستوى الجلوكوز في الدم.",
-        "startx": 10,
+        "answer": "قدم",
+        "hint": "جزء من الساق يستخدم للمشي",
+        "startx": 6,
         "starty": 8,
         "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "نفس",
-        "hint": "عملية الشهيق والزفير",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "تنفس",
-        "hint": "عملية أخذ الأكسجين وطرد ثاني أكسيد الكربون؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "بدانة",
-        "hint": "حالة تراكم الدهون الزائدة في الجسم مما يؤثر على الصحة.",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "شراب",
-        "hint": "السوائل التي يشربها الانسان ليروي عطشه او يتغذى.",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "سكر",
-        "hint": "مرض مزمن يتميز بارتفاع مستوى الجلوكوز في الدم.",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "فيتامين",
-        "hint": "مركب عضوي حيوي للجسم",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "حقنة",
-        "hint": "إدخال سائل أو دواء إلى الجسم باستخدام إبرة؟",
-        "startx": 8,
-        "starty": 13,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "سموم",
-        "hint": "مواد ضارة تنتجها الكائنات الحية",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "اذن",
-        "hint": "عضو السمع",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "هضم",
-        "hint": "عملية تحويل الطعام الى مواد يمتصها الجسم ويستفيد منها.",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "نحافة",
-        "hint": "نقص بالوزن",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "راحة",
-        "hint": "فترة توقف عن العمل او الجهد لتجديد الطاقة.",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "حمية",
-        "hint": "نظام غذائي خاص يتبع لتحقيق أهداف صحية معينة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "حساسية",
-        "hint": "استجابة مفرطة لجهاز المناعة لمواد غير ضارة عادة؟",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "اشعة",
-        "hint": "تستخدم لتصوير الاعضاء الداخلية للجسم.",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "فحص",
-        "hint": "معاينة طبية لتحديد الحالة الصحية",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "علاج",
-        "hint": "جميع الإجراءات المتخذة للتخلص من مرض او تخفيف اعراضه.",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "سكر",
-        "hint": "مرض مزمن يتميز بارتفاع مستوى الجلوكوز في الدم.",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "صيام",
-        "hint": "الامتناع عن الطعام والشراب",
-        "startx": 5,
-        "starty": 9,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "صداع",
-        "hint": "ألم في الرأس",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "راحة",
-        "hint": "فترة استرخاء",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "فحص",
-        "hint": "معاينة طبية دورية",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "رئة",
-        "hint": "العضو المسؤول عن عملية التنفس وتبادل الغازات.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "انف",
-        "hint": "العضو المسؤول عن حاسة الشم والتنفس.",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "شفاء",
-        "hint": "عملية استعادة الصحة بعد مرض أو إصابة؟",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ماء",
-        "hint": "سائل أساسي للحياة يشكل معظم وزن الجسم؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "دواء",
-        "hint": "مادة تستخدم لعلاج الامراض او تخفيفها.",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "فيروس",
-        "hint": "كائن دقيق يسبب العدوى",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "اذن",
-        "hint": "عضو مسؤول عن حاسة السمع.",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
         "position": 4
       },
       {
         "answer": "مناعة",
         "hint": "قدرة الجسم على مقاومة الأمراض",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حمية",
+        "hint": "نظام غذائي خاص يتبع لتحقيق أهداف صحية معينة.",
         "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سمين",
+        "hint": "كثير الشحم",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "اسنان",
+        "hint": "هياكل صلبة في الفم للطحن",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سرطان",
+        "hint": "نمو خلايا غير طبيعية وخبيثة",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "وعي",
+        "hint": "حالة إدراك الشخص لذاته ولمحيطه.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "نخاع",
+        "hint": "نسيج لين يوجد داخل العظام وينتج خلايا الدم.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "اذن",
+        "hint": "عضو مسؤول عن حاسة السمع.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "وقاية",
+        "hint": "إجراءات تتخذ لمنع حدوث الامراض.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سعرات",
+        "hint": "وحدة قياس الطاقة الموجودة في الطعام والمشروبات.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "عافية",
+        "hint": "حالة من الصحة الجيدة والرخاء؟",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "رئة",
+        "hint": "عضو رئيسي في الجهاز التنفسي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استرخاء",
+        "hint": "حالة من الهدوء والراحة الجسدية والعقلية.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سائل",
+        "hint": "مادة غير صلبة",
+        "startx": 8,
         "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حساسية",
+        "hint": "رد فعل مبالغ فيه من الجهاز المناعي تجاه مواد معينة.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سرطان",
+        "hint": "مرض ينجم عن نمو غير طبيعي للخلايا في الجسم.",
+        "startx": 5,
+        "starty": 3,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "مريض",
-        "hint": "من يعاني من مرض",
-        "startx": 7,
-        "starty": 9,
+        "answer": "جهاز",
+        "hint": "مجموعة اعضاء تعمل معا",
+        "startx": 2,
+        "starty": 1,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "ضماد",
-        "hint": "قطعة قماش أو مادة تستخدم لتغطية الجروح.",
-        "startx": 7,
-        "starty": 12,
+        "answer": "سكر",
+        "hint": "مرض ارتفاع مستوى الجلوكوز في الدم.",
+        "startx": 5,
+        "starty": 5,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "مصل",
-        "hint": "جزء من الدم يستخدم لعلاج أو للوقاية من الأمراض؟",
-        "startx": 6,
-        "starty": 12,
+        "answer": "لمس",
+        "hint": "حاسة تمكننا من الشعور بالاشياء عن طريق اللمس.",
+        "startx": 5,
+        "starty": 9,
         "orientation": "down",
         "position": 8
-      },
+      }
+    ],
+    [
       {
-        "answer": "عضلة",
-        "hint": "نسيج في الجسم يسمح بالحركة والانقباض.",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "جلد",
-        "hint": "الغطاء الخارجي الواقي للجسم",
+        "answer": "صحة",
+        "hint": "حالة العافية الجسدية والعقلية والنفسية.",
         "startx": 7,
-        "starty": 14,
+        "starty": 7,
         "orientation": "across",
-        "position": 10
+        "position": 1
+      },
+      {
+        "answer": "حساسية",
+        "hint": "رد فعل مبالغ فيه من الجهاز المناعي تجاه مواد معينة.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مستشفى",
+        "hint": "مؤسسة صحية لتقديم العلاج والرعاية الطبية.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "وصفة",
+        "hint": "تعليمات الطبيب للصيدلي حول الدواء والمقدار؟",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "دواء",
+        "hint": "مادة تستخدم لعلاج الأمراض وتخفيف الآلام.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صيدلية",
+        "hint": "محل لبيع الادوية والمستلزمات الطبية.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "كبد",
+        "hint": "غدة كبيرة تقوم بتنقية الدم.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
       }
     ],
     [
@@ -2778,50 +1824,50 @@
         "position": 1
       },
       {
-        "answer": "بروتين",
-        "hint": "مادة أساسية لبناء الأنسجة والعضلات في الجسم.",
-        "startx": 5,
-        "starty": 2,
+        "answer": "ارق",
+        "hint": "صعوبة أو عدم القدرة على النوم",
+        "startx": 7,
+        "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "بكتيريا",
-        "hint": "كائنات حية دقيقة قد تسبب الأمراض أو تكون مفيدة؟",
-        "startx": 7,
-        "starty": 1,
+        "answer": "تنفس",
+        "hint": "عملية تبادل الغازات في الرئتين",
+        "startx": 5,
+        "starty": 6,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "تغذية",
-        "hint": "توفير الغذاء الضروري للجسم",
+        "answer": "سمنة",
+        "hint": "حالة زيادة الوزن المفرطة.",
         "startx": 5,
-        "starty": 5,
+        "starty": 9,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "راحة",
-        "hint": "فترة توقف عن النشاط لاستعادة الطاقة والقوى؟",
+        "answer": "تمارين",
+        "hint": "نشاط بدني لتقوية العضلات وتحسين اللياقة.",
         "startx": 5,
-        "starty": 3,
+        "starty": 6,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "قلب",
-        "hint": "العضو الذي يضخ الدم في الجسم.",
-        "startx": 9,
-        "starty": 1,
-        "orientation": "across",
+        "answer": "ماء",
+        "hint": "سائل أساسي للحياة يشكل معظم وزن الجسم؟",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "معدة",
-        "hint": "عضو يقوم بهضم الطعام وتخزينه.",
+        "answer": "وقاية",
+        "hint": "مجموعة إجراءات تهدف إلى منع حدوث المرض.",
         "startx": 8,
         "starty": 7,
         "orientation": "across",
@@ -2829,389 +1875,125 @@
       },
       {
         "answer": "فيتامين",
-        "hint": "مركب عضوي حيوي للجسم",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "نخاع",
-        "hint": "نسيج لين يوجد داخل العظام وينتج خلايا الدم.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "حمية",
-        "hint": "نظام غذائي محدد يتبع لأهداف صحية معينة؟",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "إمساك",
-        "hint": "صعوبة في التبرز أو تبرز غير منتظم؟",
+        "hint": "مركبات عضوية يحتاجها الجسم بكميات صغيرة لوظائفه.",
         "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "عطاس",
-        "hint": "طرد هواء بقوة من الأنف",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "امعاء",
-        "hint": "انابيب طويلة تهضم الطعام وتستخلص المغذيات.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "رئة",
-        "hint": "عضو تنفسي يقوم بتبادل الغازات بين الدم والهواء؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "حمية",
-        "hint": "نظام غذائي خاص يتبع لتحقيق أهداف صحية معينة.",
-        "startx": 5,
         "starty": 4,
         "orientation": "down",
         "position": 2
-      },
-      {
-        "answer": "راحة",
-        "hint": "فترة توقف عن النشاط لاستعادة الطاقة والقوى؟",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "سكري",
-        "hint": "مرض مزمن يؤثر على كيفية استخدام الجسم للسكر؟",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "سكر",
-        "hint": "مادة حلوة الطعم يمكن أن تضر بالصحة عند الإفراط.",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
       },
       {
         "answer": "وعي",
         "hint": "حالة إدراك الشخص لذاته ولمحيطه.",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "سمنة",
-        "hint": "حالة زيادة الوزن المفرطة.",
         "startx": 8,
         "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "دوخة",
-        "hint": "إحساس بالدوار وعدم الاتزان",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "مصل",
-        "hint": "جزء من الدم يستخدم لعلاج أو للوقاية من الأمراض؟",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "نوم",
-        "hint": "فترة راحة طبيعية وضرورية لتجديد طاقة الجسم.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ولادة",
-        "hint": "عملية خروج الجنين من رحم الأم إلى العالم الخارجي.",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "وقاية",
-        "hint": "إجراءات تتخذ لتجنب حدوث الأمراض؟",
-        "startx": 8,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "دواء",
-        "hint": "مادة تستخدم لعلاج الامراض او تخفيفها.",
-        "startx": 5,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "الم",
-        "hint": "شعور مزعج بالضيق او الضرر الجسدي.",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "مناعة",
-        "hint": "قدرة الجسم على مقاومة الامراض والجراثيم.",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية ينتجها الجسم لتنظيم وظائفه.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "سكر",
-        "hint": "مرض ارتفاع الجلوكوز في الدم",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "مستشفى",
-        "hint": "مؤسسة طبية تقدم الرعاية الصحية للمرضى؟",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "بدانة",
-        "hint": "حالة تراكم الدهون الزائدة في الجسم مما يؤثر على الصحة.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "دواء",
-        "hint": "مادة تستخدم لعلاج المرض",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "اسنان",
-        "hint": "تستخدم لمضغ الطعام وتقطيعه.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "قلب",
-        "hint": "عضو عضلي يضخ الدم في جميع أنحاء الجسم؟",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "لقاح",
-        "hint": "مادة تحمي الجسم من الاصابة بالامراض المعدية.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "صداع",
-        "hint": "ألم في الرأس قد يكون خفيفا او شديدا.",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "عضلات",
-        "hint": "أنسجة في الجسم مسؤولة عن الحركة؟",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "صحة",
-        "hint": "حالة اكتمال السلامة البدنية والعقلية والاجتماعية؟",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "صدمة",
-        "hint": "حالة خطيرة تحدث عند نقص تدفق الدم للاعضاء الحيوية.",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "كبد",
-        "hint": "العضو الذي يقوم بتصفية الدم وإزالة السموم.",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "مستشفى",
-        "hint": "مؤسسة صحية لتقديم العلاج والرعاية الطبية.",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "استرخاء",
-        "hint": "حالة من الهدوء والراحة الجسدية والعقلية.",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "اسعاف",
-        "hint": "مساعدة طبية أولية تقدم لشخص مصاب أو مريض فجأة.",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "اذن",
-        "hint": "عضو السمع",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "عطاس",
-        "hint": "طرد هواء بقوة من الأنف",
-        "startx": 7,
-        "starty": 4,
         "orientation": "down",
         "position": 3
       },
       {
         "answer": "طبيب",
-        "hint": "شخص متخصص في تشخيص وعلاج الامراض.",
-        "startx": 7,
+        "hint": "شخص متخصص في تشخيص الأمراض وعلاجها.",
+        "startx": 8,
         "starty": 5,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "الم",
-        "hint": "إحساس غير سار في الجسم",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
+        "answer": "مناعة",
+        "hint": "قدرة الجسم على مقاومة الامراض والجراثيم.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "أعصاب",
-        "hint": "خلايا متخصصة تنقل الإشارات بين الدماغ والجسم؟",
-        "startx": 4,
-        "starty": 1,
+        "answer": "ماء",
+        "hint": "سائل أساسي للحياة يشكل معظم وزن الجسم؟",
+        "startx": 7,
+        "starty": 10,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "سعرات",
-        "hint": "وحدة لقياس الطاقة الموجودة في الطعام؟",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "انعاش",
-        "hint": "اجراءات طبية لاعادة وظائف القلب والرئة للحياة.",
+        "answer": "عدوى",
+        "hint": "انتقال الجراثيم",
         "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "تنفس",
-        "hint": "عملية ادخال الهواء الى الرئتين وإخراجه.",
-        "startx": 6,
-        "starty": 9,
-        "orientation": "across",
-        "position": 9
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
       }
     ],
     [
       {
-        "answer": "مرض",
-        "hint": "حالة غير طبيعية تؤثر على وظائف الجسم.",
+        "answer": "هضم",
+        "hint": "عملية تحويل الطعام إلى مواد بسيطة يمكن للجسم امتصاصها.",
         "startx": 7,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "سموم",
-        "hint": "مواد ضارة بالجسم",
+        "answer": "حمية",
+        "hint": "نظام غذائي محدد يتبع لأهداف صحية معينة؟",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سمنة",
+        "hint": "تراكم مفرط للدهون في الجسم يؤثر على الصحة؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مرض",
+        "hint": "حالة غير طبيعية تؤثر على وظائف الجسم.",
         "startx": 7,
-        "starty": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حساسية",
+        "hint": "رد فعل مبالغ فيه من الجهاز المناعي تجاه مواد معينة.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إغماء",
+        "hint": "فقدان وعي مؤقت",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "إسهال",
+        "hint": "تكرار التبرز مع براز سائل؟",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "إجهاد",
+        "hint": "استجابة الجسم للضغوط البدنية أو العقلية؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هرمون",
+        "hint": "مادة كيميائية تفرزها الغدد",
+        "startx": 6,
+        "starty": 7,
         "orientation": "down",
         "position": 2
       },
@@ -3219,149 +2001,1375 @@
         "answer": "اسنان",
         "hint": "تراكيب صلبة في الفم تستخدم لمضغ الطعام.",
         "startx": 8,
-        "starty": 4,
+        "starty": 11,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ضماد",
-        "hint": "قطعة قماش أو مادة تستخدم لتغطية الجروح.",
-        "startx": 5,
-        "starty": 7,
+        "answer": "عطاس",
+        "hint": "طرد هواء بقوة من الأنف",
+        "startx": 8,
+        "starty": 9,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "جهاز",
-        "hint": "مجموعة اعضاء تعمل معا",
-        "startx": 5,
-        "starty": 2,
+        "answer": "عين",
+        "hint": "عضو للرؤية",
+        "startx": 4,
+        "starty": 9,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "مطهر",
-        "hint": "مادة تستخدم لقتل الجراثيم على الاسطح او الجلد.",
+        "answer": "بكتيريا",
+        "hint": "كائنات حية دقيقة قد تسبب الأمراض أو تكون مفيدة؟",
         "startx": 5,
-        "starty": 8,
-        "orientation": "across",
+        "starty": 1,
+        "orientation": "down",
         "position": 6
+      },
+      {
+        "answer": "اشعة",
+        "hint": "تصوير داخلي للجسم",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
       }
     ],
     [
       {
-        "answer": "كبد",
-        "hint": "عضو كبير له دور حيوي في الهضم وإزالة السموم.",
+        "answer": "سمنة",
+        "hint": "زيادة مفرطة في الوزن",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني منتظم للحفاظ على اللياقة.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "معدن",
+        "hint": "عناصر كيميائية يحتاجها الجسم بكميات متفاوتة مثل الكالسيوم.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صيدلية",
+        "hint": "محل لبيع الادوية والمستلزمات الطبية.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "عافية",
+        "hint": "حالة الصحة الجيدة والسلامة",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "عظم",
+        "hint": "جزء صلب يشكل الهيكل العظمي.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ضغط",
+        "hint": "قوة دفع الدم على جدران الأوعية الدموية.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صدمة",
+        "hint": "حالة خطيرة تحدث عند نقص تدفق الدم للاعضاء الحيوية.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "لمس",
+        "hint": "حاسة تمكننا من الشعور بالاشياء عن طريق اللمس.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "طبيب",
+        "hint": "من يعالج المرضى",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "غثيان",
+        "hint": "شعور بعدم الارتياح في المعدة مع رغبة في التقيؤ؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل حيوي لا غنى عنه للحياة ويشكل غالبية الجسم.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ضغط",
+        "hint": "قوة دفع الدم على جدران الشرايين.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نبض",
+        "hint": "دقات القلب المحسوسة في الشرايين",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قلب",
+        "hint": "عضو يضخ الدم في الجسم.",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة من الاطعمة والمشروبات التي يتناولها الشخص بشكل منتظم.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قيء",
+        "hint": "طرد محتويات المعدة بقوة عبر الفم؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "هضم",
+        "hint": "عملية تحويل الطعام إلى مواد مغذية يمكن للجسم امتصاصها؟",
         "startx": 7,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "مكمل",
-        "hint": "إضافة غذائية لدعم الصحة",
+        "answer": "اسهال",
+        "hint": "خروج براز سائل ومتكرر اكثر من المعتاد.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جلد",
+        "hint": "الغطاء الخارجي الواقي للجسم",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل ضروري للحياة",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "جسم",
+        "hint": "الهيكل المادي للكائن الحي",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "إغماء",
+        "hint": "فقدان وعي مؤقت",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "اكتئاب",
+        "hint": "حالة نفسية تتميز بالحزن العميق وفقدان الاهتمام.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "عظام",
+        "hint": "الهيكل الصلب الذي يدعم الجسم",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "حمى",
+        "hint": "ارتفاع درجة حرارة الجسم عن المعدل الطبيعي.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "توتر",
+        "hint": "حالة نفسية تسبب ضيقاً وانزعاجاً",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني منتظم للحفاظ على اللياقة والصحة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اعصاب",
+        "hint": "شبكة من الألياف تنقل الإشارات بين الدماغ والجسم.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حرارة",
+        "hint": "ارتفاع درجة حرارة الجسم فوق المعدل الطبيعي.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "معدة",
+        "hint": "عضو يقوم بهضم الطعام وتخزينه.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كحة",
+        "hint": "انعكاس دفاعي للجهاز التنفسي لطرد المهيجات.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "هضم",
+        "hint": "عملية تكسير الطعام لامتصاصه",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عين",
+        "hint": "العضو المسؤول عن الإبصار والرؤية.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "وعي",
+        "hint": "حالة اليقظة والإدراك للمحيط والذات؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "سمنة",
+        "hint": "زيادة مفرطة في الوزن",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "نحافة",
+        "hint": "نقص بالوزن",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صداع",
+        "hint": "ألم في منطقة الرأس",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فحص",
+        "hint": "معاينة طبية دورية",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "صدمة",
+        "hint": "حالة خطيرة تحدث عند نقص تدفق الدم للاعضاء الحيوية.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نزف",
+        "hint": "خروج الدم من الأوعية الدموية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "معدة",
+        "hint": "عضو يقوم بهضم الطعام وتخزينه.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "هضم",
+        "hint": "عملية تحويل الطعام إلى مواد بسيطة يمكن للجسم امتصاصها.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عظم",
+        "hint": "هيكل صلب بالجسم",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عافية",
+        "hint": "حالة الصحة الجيدة والسلامة",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ممرضة",
+        "hint": "شخص مدرب على تقديم الرعاية الصحية للمرضى في المستشفيات.",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جراحة",
+        "hint": "تدخل طبي يتم فيه فتح الجسم لإصلاح مشكلة داخلية.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "اجهاد",
+        "hint": "ضغط جسدي أو عقلي شديد يؤثر على صحة الفرد.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "فيتامين",
+        "hint": "مركب عضوي حيوي للجسم",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "شفاء",
+        "hint": "استعادة الصحة بعد المرض",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "غدة",
+        "hint": "عضو في الجسم ينتج ويفرز مواد حيوية مثل الهرمونات.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ألياف",
+        "hint": "جزء من النباتات لا يهضم ويساعد في صحة الجهاز الهضمي؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني لتقوية الجسم",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "ضغط",
+        "hint": "قوة دفع الدم على جدران الشرايين",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "راحة",
+        "hint": "فترة توقف عن النشاط لاستعادة الطاقة والقوى؟",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "طوارئ",
+        "hint": "قسم في المستشفى يستقبل الحالات الصحية الملحة والخطيرة.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بكتيريا",
+        "hint": "كائنات حية دقيقة",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ارهاق",
+        "hint": "تعب شديد في الجسم والعقل",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "بروتين",
+        "hint": "مركب عضوي كبير ضروري لبناء وإصلاح الأنسجة؟",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "طبيب",
+        "hint": "شخص متخصص في الطب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مطهر",
+        "hint": "مادة تستخدم لقتل الجراثيم على الاسطح او الجلد.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حساسية",
+        "hint": "رد فعل مفرط من الجهاز المناعي لمواد معينة.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "اكتئاب",
+        "hint": "حالة نفسية تتميز بالحزن العميق وفقدان الاهتمام.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "عطاس",
+        "hint": "طرد هواء بقوة من الأنف",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "وعي",
+        "hint": "حالة إدراك الشخص لذاته ولمحيطه.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سكر",
+        "hint": "مرض ارتفاع الجلوكوز في الدم",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فيروس",
+        "hint": "كائنات دقيقة جدا تتكاثر داخل الخلايا وتسبب الامراض.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "صحة",
+        "hint": "حالة خالية من المرض",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "ربو",
+        "hint": "مرض مزمن يصيب الجهاز التنفسي ويسبب صعوبة في التنفس.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "نحافة",
+        "hint": "حالة نقص الوزن عن المعدل الطبيعي بشكل ملحوظ.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معدن",
+        "hint": "عناصر كيميائية يحتاجها الجسم بكميات متفاوتة مثل الكالسيوم.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة من الاطعمة والمشروبات التي يتناولها الشخص بشكل منتظم.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "لياقة",
+        "hint": "قدرة الجسم على الأداء",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "اعصاب",
+        "hint": "شبكة من الألياف تنقل الإشارات بين الدماغ والجسم.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قلق",
+        "hint": "شعور بعدم الارتياح أو الخوف من شيء غير معروف.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بروتين",
+        "hint": "مركب عضوي أساسي لبناء الخلايا",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "جرعة",
+        "hint": "كمية محددة من الدواء",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "صيدلية",
+        "hint": "محل لبيع الادوية والمستلزمات الطبية.",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قلب",
+        "hint": "عضو عضلي يضخ الدم في جميع أنحاء الجسم؟",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حمية",
+        "hint": "نظام غذائي محدد",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "جراحة",
+        "hint": "عملية طبية يتم فيها شق الجسم لاصلاح او ازالة نسيج.",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سمنة",
+        "hint": "زيادة مفرطة بالوزن",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "إغماء",
+        "hint": "فقدان وعي مؤقت",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تغذية",
+        "hint": "تناول الطعام الصحي للحفاظ على الجسم.",
         "startx": 7,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "صداع",
-        "hint": "ألم في الرأس",
+        "answer": "ولادة",
+        "hint": "عملية خروج الجنين من رحم الأم إلى العالم الخارجي.",
         "startx": 5,
-        "starty": 6,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "علاج",
-        "hint": "إجراءات للتخلص من المرض",
+        "answer": "وقاية",
+        "hint": "إجراءات تتخذ لمنع حدوث الامراض.",
         "startx": 5,
-        "starty": 9,
+        "starty": 5,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "استرخا",
-        "hint": "حالة من الهدوء والراحة الجسدية والعقلية.",
-        "startx": 3,
-        "starty": 9,
+        "answer": "مناعة",
+        "hint": "قدرة الجسم على مقاومة الأمراض",
+        "startx": 1,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "هرمون",
-        "hint": "مادة كيميائية تفرز في الجسم لتنظيم وظائفه؟",
-        "startx": 4,
-        "starty": 12,
+        "answer": "راحة",
+        "hint": "فترة توقف عن النشاط لاستعادة الطاقة والقوى؟",
+        "startx": 2,
+        "starty": 3,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "سرطان",
-        "hint": "مرض ينجم عن نمو غير طبيعي للخلايا في الجسم.",
-        "startx": 6,
-        "starty": 14,
+        "answer": "صحة",
+        "hint": "حالة جسدية ونفسية جيدة وخالية من الأمراض.",
+        "startx": 9,
+        "starty": 10,
         "orientation": "across",
         "position": 7
+      },
+      {
+        "answer": "فيتامن",
+        "hint": "مادة عضوية أساسية يحتاجها الجسم بكميات قليلة.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ذوق",
+        "hint": "حاسة تمكننا من تمييز طعم الاطعمة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دهون",
+        "hint": "مركبات عضوية تخزن الطاقة وتوجد في الأطعمة.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "معدة",
+        "hint": "العضو الذي يهضم الطعام بعد بلعه.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نوم",
+        "hint": "حالة طبيعية من الراحة الجسدية والعقلية.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "وقاية",
+        "hint": "حماية النفس من المرض",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "اسعاف",
+        "hint": "رعاية طبية فورية تقدم للمصابين قبل وصولهم للمستشفى.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نظافة",
+        "hint": "الحفاظ على الجسم والبيئة خاليين من الاوساخ والجراثيم.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "دواء",
+        "hint": "ما هو علاج يستخدم لتخفيف الألم أو الشفاء من الأمراض؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "خضار",
+        "hint": "نباتات صالحة للأكل غنية بالفيتامينات والمعادن.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "معدة",
+        "hint": "عضو يقوم بهضم الطعام وتخزينه.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رئة",
+        "hint": "العضو المسؤول عن عملية التنفس وتبادل الغازات.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "شراب",
+        "hint": "السوائل التي يشربها الانسان ليروي عطشه او يتغذى.",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نوم",
+        "hint": "حالة طبيعية من الراحة البدنية",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "بصر",
+        "hint": "حاسة الرؤية التي تمكننا من رؤية الاشياء.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "سرطان",
+        "hint": "مرض يتميز بنمو غير طبيعي لخلايا الجسم.",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "صحة",
+        "hint": "حالة جسدية ونفسية جيدة وخالية من الأمراض.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ربو",
+        "hint": "مرض مزمن يؤثر على الشعب الهوائية ويسبب صعوبة في التنفس.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جرثوم",
+        "hint": "كائن حي دقيق يسبب الامراض والعدوى.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بروتين",
+        "hint": "مركب عضوي أساسي لبناء الخلايا",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كبد",
+        "hint": "عضو يزيل السموم",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ألم",
+        "hint": "إحساس غير مريح",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أذن",
+        "hint": "عضو السمع في جسم الانسان.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نوم",
+        "hint": "حالة طبيعية من الراحة الجسدية والعقلية.",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نبض",
+        "hint": "دقات القلب المحسوسة في الشرايين",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سموم",
+        "hint": "مواد ضارة يمكن أن تسبب ضررا للجسم.",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "دهون",
+        "hint": "مصدر للطاقة ومكون اساسي للخلايا.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نوم",
+        "hint": "فترة الراحة الضرورية للجسم والعقل.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دماغ",
+        "hint": "مركز التحكم في الجهاز العصبي ووظائف الجسم.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ضغط",
+        "hint": "قوة دفع الدم على جدران الشرايين",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قدم",
+        "hint": "جزء من الساق يستخدم للمشي",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "طبيب",
+        "hint": "شخص مؤهل لتقديم الرعاية الطبية وعلاج المرضى؟",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عين",
+        "hint": "عضو الرؤية في جسم الانسان.",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ارهاق",
+        "hint": "تعب شديد في الجسم والعقل",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "رئة",
+        "hint": "عضو رئيسي في الجهاز التنفسي",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "عافية",
+        "hint": "حالة الصحة الجيدة والسلامة",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
       }
     ],
     [
       {
         "answer": "ارق",
-        "hint": "صعوبة أو عدم القدرة على النوم",
+        "hint": "صعوبة في النوم أو البقاء نائماً لفترة كافية؟",
         "startx": 7,
         "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "سرطان",
-        "hint": "مرض يتميز بنمو غير طبيعي لخلايا الجسم.",
+        "answer": "وقاية",
+        "hint": "حماية النفس من المرض",
         "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "توتر",
+        "hint": "حالة نفسية تسبب ضيقاً وانزعاجاً",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قدم",
+        "hint": "جزء من الساق يستخدم للمشي",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مناعة",
+        "hint": "قدرة الجسم على مقاومة الأمراض",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صحي",
+        "hint": "مفيد للصحة",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "شفاء",
+        "hint": "استعادة الصحة",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني منتظم للحفاظ على اللياقة والصحة.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "هرمون",
+        "hint": "مادة كيميائية منظمة",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "قلق",
+        "hint": "شعور بعدم الارتياح أو الخوف من شيء غير معروف.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سائل",
+        "hint": "مادة غير صلبة",
+        "startx": 6,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "سعرات",
-        "hint": "وحدة لقياس الطاقة الموجودة في الطعام؟",
+        "answer": "عافية",
+        "hint": "حالة الصحة الجيدة والسلامة",
         "startx": 7,
-        "starty": 4,
+        "starty": 5,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "تشخيص",
-        "hint": "تحديد نوع المرض او المشكلة الصحية بناء على الاعراض والفحوصات.",
-        "startx": 3,
+        "answer": "وعي",
+        "hint": "حالة اليقظة والإدراك للمحيط والذات؟",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "دواء",
+        "hint": "مادة تستخدم لعلاج الامراض او تخفيفها.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قلب",
+        "hint": "عضو يضخ الدم الى جميع اجزاء الجسم.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "لقاح",
+        "hint": "مادة تقي من الامراض",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حبوب",
+        "hint": "بذور النباتات مثل القمح والأرز أو أقراص الدواء.",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "دهون",
+        "hint": "مجموعة من المركبات العضوية ضرورية للطاقة وامتصاص الفيتامينات؟",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "كبد",
+        "hint": "عضو يقوم بتنقية السموم",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "إسعاف",
+        "hint": "خدمة طبية طارئة لنقل المصابين أو المرضى؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مفصل",
+        "hint": "نقطة التقاء عظمتين",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كلى",
+        "hint": "عضوان يقومان بتصفية الدم وإزالة الفضلات.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "صداع",
+        "hint": "ألم في الرأس قد يكون خفيفا او شديدا.",
+        "startx": 6,
         "starty": 4,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "قلب",
-        "hint": "العضو الذي يضخ الدم إلى جميع أنحاء الجسم.",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
+        "answer": "مستشفى",
+        "hint": "مؤسسة صحية لتقديم العلاج والرعاية الطبية.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "سكر",
-        "hint": "داء يرفع الجلوكوز",
+        "answer": "صيدلي",
+        "hint": "الشخص المتخصص في تركيب وتوزيع الأدوية.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "صحي",
+        "hint": "مفيد للصحة",
         "startx": 5,
         "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "جلد",
+        "hint": "الغطاء الخارجي الذي يحمي الجسم.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "صدمة",
+        "hint": "حالة خطيرة تحدث عند نقص تدفق الدم للاعضاء الحيوية.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "كلية",
+        "hint": "عضو ينقي الدم",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "علاج",
+        "hint": "مجموعة من الإجراءات لتخفيف أو شفاء مرض ما؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نظافة",
+        "hint": "الحفاظ على الجسم والبيئة خاليين من الجراثيم.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صداع",
+        "hint": "ألم في منطقة الرأس يمكن أن يكون خفيفاً أو شديداً؟",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كلية",
+        "hint": "العضو الذي يزيل الفضلات والسوائل الزائدة من الدم.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نوم",
+        "hint": "فترة راحة طبيعية وضرورية للجسم والعقل.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سكري",
+        "hint": "مرض مزمن يؤثر على كيفية استخدام الجسم للسكر؟",
+        "startx": 9,
+        "starty": 8,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "سائل",
-        "hint": "مادة غير صلبة",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
+        "answer": "حمى",
+        "hint": "ارتفاع درجة حرارة الجسم عن المعدل الطبيعي؟",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
         "position": 7
+      },
+      {
+        "answer": "كبد",
+        "hint": "غدة كبيرة تقوم بتنقية الدم.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
       }
     ]
   ]
