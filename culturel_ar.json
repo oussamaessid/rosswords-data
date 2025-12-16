@@ -1,0 +1,3432 @@
+{
+  "levels": [
+    [
+      {
+        "answer": "مفاهيم",
+        "hint": "افكار تشكل الخلفية النظرية؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاملات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يمتليء بالتفعيلات المتتابعة؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "توليفات",
+        "hint": "جمع يشير الى حالات جمع مواد مختلفة في عمل واحد؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تنغيم",
+        "hint": "رفع وخفض الصوت حسب العاطفة؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تلوين",
+        "hint": "مصطلح يعني تغيير الطبقات الصوتية؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سيميائي",
+        "hint": "منهج يركز على الرموز والاشارات؟",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تلوينات",
+        "hint": "جمع يشير الى حالات تغيير الطبقات الصوتية؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ترصيص",
+        "hint": "تقنية ترتيب احجار الزينة؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "توريات",
+        "hint": "جمع يشير الى حالات اخفاء معنى خلف لفظ ظاهر؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ماكياج",
+        "hint": "تلوين الوجوه لاكمال الدور؟",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "متقارب",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن يتكرر فيه متفاعلن؟",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رمل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر لين النبرات والايقاع؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تحويرات",
+        "hint": "جمع يشير الى حالات تغيير طفيف في اللحن؟",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "متحف",
+        "hint": "مبنى يعرض قطعاً تاريخية؟",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تكراري",
+        "hint": "صفة لنص يكثر فيه اعادة لفظ لخلق ايقاع؟",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "حسي",
+        "hint": "تعبير يستدعي الحواس المختلفة؟",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "هجينة",
+        "hint": "قطعة تعدد مصادرها البصرية؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تنغيم",
+        "hint": "رفع وخفض الصوت حسب العاطفة؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فنية",
+        "hint": "مدرسة تعلم الرسم والنحت؟",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رجزات",
+        "hint": "جمع يضم انواعا مشابهة من وزن سريع الايقاع في المعلقات؟",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "اهازيج",
+        "hint": "اغان شعبية جماعية في المواسم؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "راقص",
+        "hint": "فنان يؤدي حركات راقصة؟",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سيمفوني",
+        "hint": "نوع من الاعمال الموسيقية الكبرى؟",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "منسرح",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر يمزج تفعيلات متعددة؟",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "عربية",
+        "hint": "لغة واسعة الانتشار في الادب؟",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "غنائية",
+        "hint": "مقاطع يغلب عليها الغناء؟",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "متحفي",
+        "hint": "اسلوب عرض يحاكي قاعات المتاحف؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "توليفات",
+        "hint": "جمع يشير الى حالات جمع مواد مختلفة في عمل واحد؟",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "محاكاة",
+        "hint": "تقليد فني للواقع بنظرة خاصة؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تقفيات",
+        "hint": "جمع يشير الى حالات تنظيم تكرار القوافي؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "صوفي",
+        "hint": "طابع موسيقي روحاني؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "لحن",
+        "hint": "سلسلة نغمات منسجمة؟",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "فعولاتات",
+        "hint": "جمع يضم انواعا مشابهة من نمط لحني في التواشيح؟",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "اسطورة",
+        "hint": "حكاية خيالية تفسر ظاهرة؟",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "مقامية",
+        "hint": "قطع موسيقية تستعرض السلم؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "بلاغة",
+        "hint": "فن صياغة الكلام بايقاع ومعنى؟",
+        "startx": 12,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "بحر",
+        "hint": "وزن شعري من اوزان الخليل؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اسطورة",
+        "hint": "حكاية خيالية تفسر ظاهرة؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سيمياء",
+        "hint": "علم العلامات في تحليل النصوص؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "لقطة",
+        "hint": "مشهد قصير ضمن الفيلم؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رسامة",
+        "hint": "فنانة تمارس الرسم؟",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "فني",
+        "hint": "صفة لكل ما يتعلق بالابداع؟",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مفاهيمي",
+        "hint": "فن يركز على الفكرة اكثر من الشكل؟",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مخيال",
+        "hint": "مصطلح يصف ما تختزنه الذاكرة من صور؟",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "الة",
+        "hint": "اداة تصدر نغما؟",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مفاعيلن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة تتردد في بحر الهزج؟",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "محاكاة",
+        "hint": "تقليد فني للواقع بنظرة خاصة؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محبرة",
+        "hint": "وعاء حبر يستعمله الخطاط؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مقامات",
+        "hint": "انظمة لحنية متعددة؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "غناء",
+        "hint": "اداء صوتي للالحان؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قناع",
+        "hint": "غطاء وجه يستخدم في المسرح؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "فعولنة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة تفعيلة اساس في بحر الطويل؟",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عرض",
+        "hint": "تقديم فني امام جمهور؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تصميم",
+        "hint": "عمل بصري ينسق شكل العرض؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "موشح",
+        "hint": "ما البحر او التفعيلة التي تمثل قالب اندلسي متعدد القوافي؟",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مترجم",
+        "hint": "شخص يحول النص بين لغات؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تكراري",
+        "hint": "صفة لنص يكثر فيه اعادة لفظ لخلق ايقاع؟",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملونة",
+        "hint": "لوحة تمتلئ بطبقات لونية؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "متفاعلن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة تتكرر في كثير من البحور؟",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مجلة",
+        "hint": "اصدار دوري يعرض مقالات؟",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تحرير",
+        "hint": "تنسيق مادة لاصدار مطبوع؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تمثال",
+        "hint": "شكل مجسم يجسد شخصية؟",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فعولات",
+        "hint": "ما البحر او التفعيلة التي تمثل نمط لحني في التواشيح؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "مكعبات",
+        "hint": "قطع صغيرة تلصق لتوليد لوحة؟",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "جناس",
+        "hint": "تشابه لفظي مع اختلاف معنى؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فنون",
+        "hint": "جمع اشكال التعبير الابداعي؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سيميائي",
+        "hint": "منهج يركز على الرموز والاشارات؟",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "هجينة",
+        "hint": "قطعة تعدد مصادرها البصرية؟",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "هزجات",
+        "hint": "جمع يضم انواعا مشابهة من بحر غنائي خفيف؟",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مقالة",
+        "hint": "صيغة اخرى للنص الصحفي؟",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "بروفة",
+        "hint": "تمرين عام قبل العرض؟",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "عابر",
+        "hint": "اسلوب يتجاوز حدود النوع الفني؟",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "فعولن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة اساس في بحر الطويل؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "متقاطعة",
+        "hint": "فعالية تربط مدارس فنية مختلفة؟",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تناصات",
+        "hint": "جمع يشير الى حالات تداخل نص مع نص اخر؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تحليلية",
+        "hint": "مدرسة تبحث في تفكيك المعاني؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تمثال",
+        "hint": "شكل مجسم يجسد شخصية؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ملصق",
+        "hint": "ورقة كبيرة تعلن عن حدث؟",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "طار",
+        "hint": "اطار جلدي يقرع في الاحتفالات؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حفلة",
+        "hint": "سهرة موسيقية او مسرحية؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تكرار",
+        "hint": "مصطلح يعني اعادة لفظ لخلق ايقاع؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مضارعات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يجمع فعولن وفاعلاتن؟",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "موشح",
+        "hint": "ما البحر او التفعيلة التي تمثل قالب اندلسي متعدد القوافي؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تماثيل",
+        "hint": "جمع الاشكال المجسمة؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هجينة",
+        "hint": "قطعة تعدد مصادرها البصرية؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "منهج",
+        "hint": "طريق مدروس لتحليل الاعمال؟",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مراوحات",
+        "hint": "جمع يشير الى حالات تنقل بين ايقاعات متباينة؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سيتار",
+        "hint": "الة وترية من جنوب اسيا؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نحت",
+        "hint": "فن تشكيل الحجر او الخشب؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مسارح",
+        "hint": "جمع الاماكن التي تستضيف العروض؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "راقص",
+        "hint": "فنان يؤدي حركات راقصة؟",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "فعولن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة اساس في بحر الطويل؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اوبرا",
+        "hint": "عرض موسيقي تمثيلي كبير؟",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "انجليزية",
+        "hint": "لغة تنتج افلاما وكتبا كثيرة؟",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حرير",
+        "hint": "قماش فني لامع يصنع الازياء؟",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "حفرية",
+        "hint": "طبعة ناتجة عن الحفر في الخشب؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "شاعر",
+        "hint": "من يكتب الشعر المقفى؟",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "اسطوريه",
+        "hint": "تسمية لسرد خارق ينتقل شفهيا؟",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رجز",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن سريع الايقاع في المعلقات؟",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "صورة",
+        "hint": "قسم بصري يظهر على الخشبة او الشاشة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تحبيرات",
+        "hint": "جمع يشير الى حالات تزويق النص بالحبر والالوان؟",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خطابي",
+        "hint": "اسلوب يعتمد قوة الكلمة الملقاة؟",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تكرارات",
+        "hint": "جمع يشير الى حالات اعادة لفظ لخلق ايقاع؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سطر",
+        "hint": "خط افقي في الصفحة؟",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سريعة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة وزن نابض يكثر في المسرح الغنائي؟",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تلوينات",
+        "hint": "جمع يشير الى حالات تغيير الطبقات الصوتية؟",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كولاج",
+        "hint": "تقنية تلصق صورا وورقا متعدد؟",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ازياء",
+        "hint": "ملابس خاصة بالعروض؟",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "منتج",
+        "hint": "من يمول ويشرف على العمل؟",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "مجسمات",
+        "hint": "منحوتات تعرض في الميادين؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تفاعلي",
+        "hint": "عرض يسمح للجمهور بالمشاركة الحية؟",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تركيبي",
+        "hint": "اسلوب يمزج عناصر متباينة في عمل؟",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رواية",
+        "hint": "كتاب طويل يسرد احداثا؟",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مخطوطة",
+        "hint": "كتاب قديم مكتوب باليد؟",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رملة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة بحر لين النبرات والايقاع؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رسم",
+        "hint": "خطوط والوان تصنع صورة؟",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تغريب",
+        "hint": "مصطلح يعني ابعاد المتلقي ليعيد التفكير؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هجين",
+        "hint": "عمل يمزج اساليب فنية متعددة؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "منهج",
+        "hint": "طريق مدروس لتحليل الاعمال؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تصويرية",
+        "hint": "لوحة تميل الى محاكاة الواقع؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رمزيون",
+        "hint": "فنانون يكثرون من الاشارات الباطنية؟",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قلم",
+        "hint": "اداة كتابة تقليدية؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نصوص",
+        "hint": "مجموعة مواد مكتوبة؟",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "غناء",
+        "hint": "اداء صوتي للالحان؟",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "خفيفات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يجمع بين الرقة والحركة؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طويلات",
+        "hint": "جمع يضم انواعا مشابهة من بحر شعري ذو اشطر ممتدة؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مخرج",
+        "hint": "من يقود رؤية العرض؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "موشح",
+        "hint": "ما البحر او التفعيلة التي تمثل قالب اندلسي متعدد القوافي؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بسيط",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن يعتمد تفعيلات متمايلة؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "موشحات",
+        "hint": "جمع يضم انواعا مشابهة من قالب اندلسي متعدد القوافي؟",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حرير",
+        "hint": "قماش فني لامع يصنع الازياء؟",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تحرير",
+        "hint": "تنسيق مادة لاصدار مطبوع؟",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ممثل",
+        "hint": "شخص يجسد شخصية على المسرح؟",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "عرض",
+        "hint": "تقديم فني امام جمهور؟",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "شعر",
+        "hint": "كلام موزون يصور مشاعر؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شعبية",
+        "hint": "اغنية او رقصة من التراث العام؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مغني",
+        "hint": "فنان يؤدي الغناء؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "شعري",
+        "hint": "متعلق بنص موزون؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "خاتم",
+        "hint": "قطعة زينة توضع في الاصبع؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "توشيحات",
+        "hint": "جمع يشير الى حالات بناء الموشح الاندلسي؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لمسي",
+        "hint": "اثر ملموس نشعر به عند لمس الخامة؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "قناع",
+        "hint": "غطاء وجه يستخدم في المسرح؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاتبة",
+        "hint": "اخرى تكتب الاعمال؟",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تجريبي",
+        "hint": "عمل يختبر تقنيات جديدة؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تصفيح",
+        "hint": "تغليف لوحة لحمايتها؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رقصة",
+        "hint": "حركة جسدية بايقاع؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نحت",
+        "hint": "فن تشكيل الحجر او الخشب؟",
+        "startx": 11,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نقش",
+        "hint": "صورة محفورة على سطح؟",
+        "startx": 11,
+        "starty": 13,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "شعبية",
+        "hint": "اغنية او رقصة من التراث العام؟",
+        "startx": 11,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "قصة",
+        "hint": "حكاية قصيرة؟",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ملصق",
+        "hint": "ورقة كبيرة تعلن عن حدث؟",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "جمالية",
+        "hint": "دراسة الذوق والمعايير الفنية؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "انفعالي",
+        "hint": "تقنية تعبر عن مشاعر فورية؟",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عابرة",
+        "hint": "تجربة تتخطى تصنيفا واحدا؟",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تجريبية",
+        "hint": "حركة تهتم بالانماط غير المألوفة؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ترصيعي",
+        "hint": "صفة لنص يكثر فيه تنظيم الكلمات بتوازن صوتي؟",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "جماليات",
+        "hint": "مجال يبحث في قيمة الشكل واللون؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تغريبات",
+        "hint": "جمع يشير الى حالات ابعاد المتلقي ليعيد التفكير؟",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تلوين",
+        "hint": "مصطلح يعني تغيير الطبقات الصوتية؟",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "تشعيب",
+        "hint": "مصطلح يعني تفريع الحكاية الى مسارات؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طويلة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة بحر شعري ذو اشطر ممتدة؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لوكيشن",
+        "hint": "مكان تصوير خارجي؟",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جمالية",
+        "hint": "دراسة الذوق والمعايير الفنية؟",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رجزة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة وزن سريع الايقاع في المعلقات؟",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "طويل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر شعري ذو اشطر ممتدة؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "طار",
+        "hint": "اطار جلدي يقرع في الاحتفالات؟",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "فعولاتة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة نمط لحني في التواشيح؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ترصيع",
+        "hint": "مصطلح يعني تنظيم الكلمات بتوازن صوتي؟",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "اوركسترا",
+        "hint": "فرقة موسيقية ضخمة؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "زخارف",
+        "hint": "جمع رسوم الزينة؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "معاصر",
+        "hint": "اسلوب حديث مواكب للحاضر؟",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مقامية",
+        "hint": "قطع موسيقية تستعرض السلم؟",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مضارعات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يجمع فعولن وفاعلاتن؟",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "بسيطات",
+        "hint": "جمع يضم انواعا مشابهة من وزن يعتمد تفعيلات متمايلة؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "حرير",
+        "hint": "قماش فني لامع يصنع الازياء؟",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ايقاعي",
+        "hint": "متعلق بنبض الاغنية؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "فضي",
+        "hint": "طيف لوني بارد يوحي بالهدوء؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مقامي",
+        "hint": "نسبة الى السلالم العربية؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سلالم",
+        "hint": "انظمة نغمية شرقية متعددة؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "خفيف",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر يجمع بين الرقة والحركة؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سريعة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة وزن نابض يكثر في المسرح الغنائي؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "لاشكلي",
+        "hint": "اتجاه فني يبتعد عن التشبيه المباشر؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ملحمة",
+        "hint": "قصة شعرية كبيرة عن بطولة؟",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "شعري",
+        "hint": "متعلق بنص موزون؟",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مقتضبات",
+        "hint": "جمع يضم انواعا مشابهة من وزن قصير الايقاع؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاتبة",
+        "hint": "اخرى تكتب الاعمال؟",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مقالة",
+        "hint": "صيغة اخرى للنص الصحفي؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بحر",
+        "hint": "وزن شعري من اوزان الخليل؟",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مسرح",
+        "hint": "مكان يقدم عروض تمثيلية؟",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بروفة",
+        "hint": "تمرين عام قبل العرض؟",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تصويري",
+        "hint": "نمط يستحضر رموزا مرئية واضحة؟",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مسرحي",
+        "hint": "صفة تصف عملا يعتمد العرض الحي؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تصميم",
+        "hint": "عمل بصري ينسق شكل العرض؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رمزية",
+        "hint": "حركة فنية تفضل الاشارات على المباشر؟",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "شعبوي",
+        "hint": "نمط فني يخاطب الجمهور الواسع؟",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ترجمة",
+        "hint": "نقل نص من لغة الى اخرى؟",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "متقاربات",
+        "hint": "جمع يضم انواعا مشابهة من وزن يتكرر فيه متفاعلن؟",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "توريي",
+        "hint": "صفة لنص يكثر فيه اخفاء معنى خلف لفظ ظاهر؟",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تحرير",
+        "hint": "تنسيق مادة لاصدار مطبوع؟",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "اسهابات",
+        "hint": "جمع يشير الى حالات اطالة متعمدة في العبارة؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جمالية",
+        "hint": "دراسة الذوق والمعايير الفنية؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملحمي",
+        "hint": "اسلوب سردي طويل يصف بطولات؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "معرض",
+        "hint": "مساحة تعرض اعمال فنية؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "محبرة",
+        "hint": "وعاء حبر يستعمله الخطاط؟",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "كولاج",
+        "hint": "تقنية تلصق صورا وورقا متعدد؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تحرير",
+        "hint": "تنسيق مادة لاصدار مطبوع؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نقري",
+        "hint": "زخرفة تنتج بخدش السطح؟",
+        "startx": 12,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "رمل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر لين النبرات والايقاع؟",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "حركية",
+        "hint": "منحوتة تعتمد على الحركة المستمرة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عابر",
+        "hint": "اسلوب يتجاوز حدود النوع الفني؟",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "موسيقي",
+        "hint": "شخص يعزف على آلة؟",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طويلات",
+        "hint": "جمع يضم انواعا مشابهة من بحر شعري ذو اشطر ممتدة؟",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "توريات",
+        "hint": "جمع يشير الى حالات اخفاء معنى خلف لفظ ظاهر؟",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "انفعالي",
+        "hint": "تقنية تعبر عن مشاعر فورية؟",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مراوحات",
+        "hint": "جمع يشير الى حالات تنقل بين ايقاعات متباينة؟",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رملات",
+        "hint": "جمع يضم انواعا مشابهة من بحر لين النبرات والايقاع؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "فعولات",
+        "hint": "ما البحر او التفعيلة التي تمثل نمط لحني في التواشيح؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "التفاتي",
+        "hint": "صفة لنص يكثر فيه تحويل الضمائر لاثارة الانتباه؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ثقافة",
+        "hint": "مجموعة عادات ومعارف مجتمع؟",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "الات",
+        "hint": "جمع الادوات الموسيقية؟",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ترصيعي",
+        "hint": "صفة لنص يكثر فيه تنظيم الكلمات بتوازن صوتي؟",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نحتي",
+        "hint": "متعلق بفن التشكيل بالحجر او الخشب؟",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "متفاعلن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة تتكرر في كثير من البحور؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تقني",
+        "hint": "عمل يبرز براعة تشغيل الاجهزة؟",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تحليل",
+        "hint": "قراءة تفكك مكونات العمل؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مجتثة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة وزن مشتق من بحر البسيط؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تمثيل",
+        "hint": "فن تجسيد الشخصيات؟",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مسحوبة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة وزن نجدي ذو ايقاع سريع؟",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تكرارات",
+        "hint": "جمع يشير الى حالات اعادة لفظ لخلق ايقاع؟",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "نقش",
+        "hint": "صورة محفورة على سطح؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نقريات",
+        "hint": "اعمال تعرض اثر الحفر؟",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حركية",
+        "hint": "منحوتة تعتمد على الحركة المستمرة؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "منمنمات",
+        "hint": "مجموعة صور صغيرة على الورق؟",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "الات",
+        "hint": "جمع الادوات الموسيقية؟",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مقام",
+        "hint": "سلم موسيقي عربي؟",
+        "startx": 9,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ممثلة",
+        "hint": "فنانة تؤدي دورا في عمل؟",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "لحن",
+        "hint": "سلسلة نغمات منسجمة؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "مسرح",
+        "hint": "مكان يقدم عروض تمثيلية؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "متقاربات",
+        "hint": "جمع يضم انواعا مشابهة من وزن يتكرر فيه متفاعلن؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ربتوار",
+        "hint": "مجموعة اعمال يحفظها فنان؟",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فعولنة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة تفعيلة اساس في بحر الطويل؟",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تقنية",
+        "hint": "طريقة تستخدم ادوات حديثة في العرض؟",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جماليات",
+        "hint": "مجال يبحث في قيمة الشكل واللون؟",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بحر",
+        "hint": "وزن شعري من اوزان الخليل؟",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مكتبة",
+        "hint": "مكان لحفظ الكتب وقراءتها؟",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فني",
+        "hint": "صفة لكل ما يتعلق بالابداع؟",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "مجتث",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن مشتق من بحر البسيط؟",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "حروفي",
+        "hint": "فن يعتمد تجريد الحروف؟",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "حركي",
+        "hint": "فن يستخدم الحركة كعنصر اساسي؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معاصر",
+        "hint": "اسلوب حديث مواكب للحاضر؟",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صالون",
+        "hint": "قاعة لقاءات ادبية او فنية؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "منمنمات",
+        "hint": "مجموعة صور صغيرة على الورق؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رمز",
+        "hint": "علامة تحمل معنى ثقافيا؟",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مجاز",
+        "hint": "استخدام لفظ في غير معناه لغاية فنية؟",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "رمزية",
+        "hint": "حركة فنية تفضل الاشارات على المباشر؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "اسهابي",
+        "hint": "صفة لنص يكثر فيه اطالة متعمدة في العبارة؟",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "هجينة",
+        "hint": "قطعة تعدد مصادرها البصرية؟",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "لحن",
+        "hint": "سلسلة نغمات منسجمة؟",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "مضارعات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يجمع فعولن وفاعلاتن؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طار",
+        "hint": "اطار جلدي يقرع في الاحتفالات؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سمعي",
+        "hint": "مرتبط بما نسمعه في العرض؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نحت",
+        "hint": "فن تشكيل الحجر او الخشب؟",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ترقين",
+        "hint": "اسلوب حفر يبرز الحروف؟",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رمل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر لين النبرات والايقاع؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "خفيفات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يجمع بين الرقة والحركة؟",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "لمسي",
+        "hint": "اثر ملموس نشعر به عند لمس الخامة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تجريبية",
+        "hint": "حركة تهتم بالانماط غير المألوفة؟",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مجتث",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن مشتق من بحر البسيط؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "قافية",
+        "hint": "حرف يختتم شطر البيت؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رجز",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن سريع الايقاع في المعلقات؟",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بسيطات",
+        "hint": "جمع يضم انواعا مشابهة من وزن يعتمد تفعيلات متمايلة؟",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "موشحات",
+        "hint": "جمع يضم انواعا مشابهة من قالب اندلسي متعدد القوافي؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملحن",
+        "hint": "من يكتب الالحان؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ناي",
+        "hint": "الة نفخ رفيعة؟",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كواليس",
+        "hint": "مساحات خلف المسرح؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تكراري",
+        "hint": "صفة لنص يكثر فيه اعادة لفظ لخلق ايقاع؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "جماليات",
+        "hint": "مجال يبحث في قيمة الشكل واللون؟",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "اسهابي",
+        "hint": "صفة لنص يكثر فيه اطالة متعمدة في العبارة؟",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "رمل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر لين النبرات والايقاع؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شاعر",
+        "hint": "من يكتب الشعر المقفى؟",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مجتث",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن مشتق من بحر البسيط؟",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نقريات",
+        "hint": "اعمال تعرض اثر الحفر؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "اسطوريه",
+        "hint": "تسمية لسرد خارق ينتقل شفهيا؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قانون",
+        "hint": "الة وترية مشهورة؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مطلع",
+        "hint": "بداية قصيدة او اغنية؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جمهور",
+        "hint": "حشد يشاهد العرض؟",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جماليات",
+        "hint": "مجال يبحث في قيمة الشكل واللون؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تقفيات",
+        "hint": "جمع يشير الى حالات تنظيم تكرار القوافي؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "حركية",
+        "hint": "منحوتة تعتمد على الحركة المستمرة؟",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مسرح",
+        "hint": "مكان يقدم عروض تمثيلية؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تلويني",
+        "hint": "صفة لنص يكثر فيه تغيير الطبقات الصوتية؟",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تقطيعي",
+        "hint": "صفة لنص يكثر فيه وزن الشعر عبر وحدات محددة؟",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "عابر",
+        "hint": "اسلوب يتجاوز حدود النوع الفني؟",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تفكيكية",
+        "hint": "مقاربة نقدية تحلل النص الى عناصره؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مراوحات",
+        "hint": "جمع يشير الى حالات تنقل بين ايقاعات متباينة؟",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فلكلوريه",
+        "hint": "مدرسة تهتم بجمع التراث الشفهي؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تكراري",
+        "hint": "صفة لنص يكثر فيه اعادة لفظ لخلق ايقاع؟",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "متفاعلن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة تتكرر في كثير من البحور؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مضارعات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يجمع فعولن وفاعلاتن؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حروفي",
+        "hint": "فن يعتمد تجريد الحروف؟",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قافية",
+        "hint": "حرف يختتم شطر البيت؟",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "مقطع",
+        "hint": "جزء من اغنية او نص؟",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "رملة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة بحر لين النبرات والايقاع؟",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "فلكلوريه",
+        "hint": "مدرسة تهتم بجمع التراث الشفهي؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اسهابي",
+        "hint": "صفة لنص يكثر فيه اطالة متعمدة في العبارة؟",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "منابر",
+        "hint": "منصات ثقافية لالقاء الخطب والادب؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ازياء",
+        "hint": "ملابس خاصة بالعروض؟",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "لاشكلي",
+        "hint": "اتجاه فني يبتعد عن التشبيه المباشر؟",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "محبرة",
+        "hint": "وعاء حبر يستعمله الخطاط؟",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تشعيب",
+        "hint": "مصطلح يعني تفريع الحكاية الى مسارات؟",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تعبيرية",
+        "hint": "حركة فنية تمتليء بالعاطفة؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ايقاع",
+        "hint": "نمط زمني يضبط الموسيقى؟",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طار",
+        "hint": "اطار جلدي يقرع في الاحتفالات؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كولاج",
+        "hint": "تقنية تلصق صورا وورقا متعدد؟",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رملة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة بحر لين النبرات والايقاع؟",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تحبير",
+        "hint": "مصطلح يعني تزويق النص بالحبر والالوان؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تراثيات",
+        "hint": "قطع تعرض في المتاحف الشعبية؟",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حكائي",
+        "hint": "اسلوب يعتمد الحكاية المتتابعة؟",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "كامل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر يمتليء بالتفعيلات المتتابعة؟",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "خطاطون",
+        "hint": "فنانون يتقنون رسم الحروف؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "موشح",
+        "hint": "ما البحر او التفعيلة التي تمثل قالب اندلسي متعدد القوافي؟",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تلخيص",
+        "hint": "عملية اختصار نص؟",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ازياء",
+        "hint": "ملابس خاصة بالعروض؟",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "راقصة",
+        "hint": "فنانة تقدم الرقص؟",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ورق",
+        "hint": "سطح يخط عليه النص؟",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ممثل",
+        "hint": "شخص يجسد شخصية على المسرح؟",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ملصق",
+        "hint": "ورقة كبيرة تعلن عن حدث؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "استعارة",
+        "hint": "نقل معنى من شيء لآخر لابراز الصلة؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "متحفي",
+        "hint": "اسلوب عرض يحاكي قاعات المتاحف؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عربية",
+        "hint": "لغة واسعة الانتشار في الادب؟",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "فنية",
+        "hint": "مدرسة تعلم الرسم والنحت؟",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "كاملات",
+        "hint": "جمع يضم انواعا مشابهة من بحر يمتليء بالتفعيلات المتتابعة؟",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "التفات",
+        "hint": "مصطلح يعني تحويل الضمائر لاثارة الانتباه؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "فني",
+        "hint": "صفة لكل ما يتعلق بالابداع؟",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "جماليات",
+        "hint": "مجال يبحث في قيمة الشكل واللون؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كناية",
+        "hint": "تعبير غير مباشر يوصل فكرة؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رسام",
+        "hint": "فنان يستخدم الالوان؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مقامية",
+        "hint": "قطع موسيقية تستعرض السلم؟",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تجميعي",
+        "hint": "نهج يضم مقتنيات من مدارس شتى؟",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "معاصر",
+        "hint": "اسلوب حديث مواكب للحاضر؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رجزة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة وزن سريع الايقاع في المعلقات؟",
+        "startx": 9,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قربة",
+        "hint": "الة نفخ شعبية مليئة بالهواء؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "لوحة",
+        "hint": "عمل فني مرسوم؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "لاكانية",
+        "hint": "مرجعية نقدية تنسب لمدرسة لاكان؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فقرة",
+        "hint": "مجموعة جمل في نص؟",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رمل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر لين النبرات والايقاع؟",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "بروفة",
+        "hint": "تمرين عام قبل العرض؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "خطابي",
+        "hint": "اسلوب يعتمد قوة الكلمة الملقاة؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خشبة",
+        "hint": "سطح يقف عليه الممثلون؟",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تقطيعي",
+        "hint": "صفة لنص يكثر فيه وزن الشعر عبر وحدات محددة؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "الة",
+        "hint": "اداة تصدر نغما؟",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "طباق",
+        "hint": "جمع لفظين متضادين لخلق توتر؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "جمهور",
+        "hint": "حشد يشاهد العرض؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "متحفي",
+        "hint": "اسلوب عرض يحاكي قاعات المتاحف؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هزج",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر غنائي خفيف؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حرير",
+        "hint": "قماش فني لامع يصنع الازياء؟",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تكرارات",
+        "hint": "جمع يشير الى حالات اعادة لفظ لخلق ايقاع؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ملحن",
+        "hint": "من يكتب الالحان؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مجاز",
+        "hint": "استخدام لفظ في غير معناه لغاية فنية؟",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "موشحة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة قالب اندلسي متعدد القوافي؟",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "رمز",
+        "hint": "علامة تحمل معنى ثقافيا؟",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "منهج",
+        "hint": "طريق مدروس لتحليل الاعمال؟",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "راقصة",
+        "hint": "فنانة تقدم الرقص؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عنوان",
+        "hint": "اسم عمل ادبي او فني؟",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "منمنمات",
+        "hint": "مجموعة صور صغيرة على الورق؟",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مجسم",
+        "hint": "عمل ثلاثي الابعاد يعرض في صالة؟",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "لوحات",
+        "hint": "جمع الاعمال المرسومة؟",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مقطوعة",
+        "hint": "مصطلح يعني قطعة موسيقية صغيرة؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تلوين",
+        "hint": "مصطلح يعني تغيير الطبقات الصوتية؟",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مجتث",
+        "hint": "ما البحر او التفعيلة التي تمثل وزن مشتق من بحر البسيط؟",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "غناء",
+        "hint": "اداء صوتي للالحان؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مقام",
+        "hint": "سلم موسيقي عربي؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "منسرح",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر يمزج تفعيلات متعددة؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حكائيات",
+        "hint": "دراسات تبحث في بنية الحكاية؟",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جماليات",
+        "hint": "مجال يبحث في قيمة الشكل واللون؟",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مفاهيم",
+        "hint": "افكار تشكل الخلفية النظرية؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "خفيف",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر يجمع بين الرقة والحركة؟",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مفاعيلن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة تتردد في بحر الهزج؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رمل",
+        "hint": "ما البحر او التفعيلة التي تمثل بحر لين النبرات والايقاع؟",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نقشية",
+        "hint": "لوحة تبرز تفاصيل النقش؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تغريبات",
+        "hint": "جمع يشير الى حالات ابعاد المتلقي ليعيد التفكير؟",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "شعر",
+        "hint": "كلام موزون يصور مشاعر؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نقريات",
+        "hint": "اعمال تعرض اثر الحفر؟",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مفاعيلن",
+        "hint": "ما البحر او التفعيلة التي تمثل تفعيلة تتردد في بحر الهزج؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مطلع",
+        "hint": "بداية قصيدة او اغنية؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "استعارة",
+        "hint": "نقل معنى من شيء لآخر لابراز الصلة؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "عالمي",
+        "hint": "اتجاه منفتح على ثقافات اخرى؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كولاج",
+        "hint": "تقنية تلصق صورا وورقا متعدد؟",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "فرنسية",
+        "hint": "لغة تستعمل في الادب العالمي؟",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "قربة",
+        "hint": "الة نفخ شعبية مليئة بالهواء؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "منتج",
+        "hint": "من يمول ويشرف على العمل؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سطر",
+        "hint": "خط افقي في الصفحة؟",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "رمزية",
+        "hint": "حركة فنية تفضل الاشارات على المباشر؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اسهابي",
+        "hint": "صفة لنص يكثر فيه اطالة متعمدة في العبارة؟",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "متقاطعة",
+        "hint": "فعالية تربط مدارس فنية مختلفة؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "زخرفة",
+        "hint": "تزيين جدران او منسوجات؟",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مراوحي",
+        "hint": "صفة لنص يكثر فيه تنقل بين ايقاعات متباينة؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سينما",
+        "hint": "قاعة تعرض افلاما على شاشة؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سجع",
+        "hint": "اتساق فواصل في النثر الموسيقي؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "لوحات",
+        "hint": "جمع الاعمال المرسومة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "توليفي",
+        "hint": "صفة لنص يكثر فيه جمع مواد مختلفة في عمل واحد؟",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ازياء",
+        "hint": "ملابس خاصة بالعروض؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "وتري",
+        "hint": "طابع موسيقي يرتكز على الاوتار؟",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "اوبرا",
+        "hint": "عرض موسيقي تمثيلي كبير؟",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "غرافيك",
+        "hint": "فنون تشكيل الصور والرموز؟",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "زخرفي",
+        "hint": "نمط يكرر وحدات جمالية؟",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "حرير",
+        "hint": "قماش فني لامع يصنع الازياء؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "لوحات",
+        "hint": "جمع الاعمال المرسومة؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تحليلية",
+        "hint": "مدرسة تبحث في تفكيك المعاني؟",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "فعولنات",
+        "hint": "جمع يضم انواعا مشابهة من تفعيلة اساس في بحر الطويل؟",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فرنسية",
+        "hint": "لغة تستعمل في الادب العالمي؟",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "وتري",
+        "hint": "طابع موسيقي يرتكز على الاوتار؟",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "موال",
+        "hint": "غناء حر بلا ايقاع صارم؟",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مقطع",
+        "hint": "جزء من اغنية او نص؟",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "متفاعلنة",
+        "hint": "صيغة مؤنثة تشير الى تفعيلة تفعيلة تتكرر في كثير من البحور؟",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مقالة",
+        "hint": "صيغة اخرى للنص الصحفي؟",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ]
+  ]
+}
