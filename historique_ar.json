@@ -1,0 +1,6564 @@
+{
+  "levels": [
+    [
+      {
+        "answer": "بيبرس",
+        "hint": "سلطان مملوكي لقب بالظاهر وهزم الصليبيين والمغول",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اغريق",
+        "hint": "الشعب الذي وضع أسس الفلسفة والديمقراطية في أوروبا القديمة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مجاعة",
+        "hint": "نقص شديد وممتد في الغذاء يؤدي إلى هلاك جماعي للسكان وتغيير ديموغرافي.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "خليفة",
+        "hint": "لقب استخدمه الخلفاء الراشدون ومن تبعهم كرمز للقيادة الروحية والسياسية.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "هيرقليس",
+        "hint": "البطل الأسطوري اليوناني الذي اشتهر بقوته وقيامه باثني عشر عملاً.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "منجنيق",
+        "hint": "آلة حصار ضخمة كانت تستخدم لقذف المقذوفات الثقيلة على أسوار المدن.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "قبور",
+        "hint": "الموقع الذي يوضع فيه جسد الميت، ويستخدم كدليل تاريخي لتحديد العصور.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نبوخذ",
+        "hint": "الملك البابلي الذي قام بغزو القدس وتدمير الهيكل الأول.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "فرعون",
+        "hint": "اللقب الذي كان يحمله ملوك مصر القديمة الذين بنوا الأهرامات.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "خلاف",
+        "hint": "نزاع سياسي أو ديني تسبب في انقسام دائم في التاريخ الإسلامي.",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تتابع",
+        "hint": "السرد التاريخي المتسلسل للأحداث وفق ترتيبها الزمني.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تمرد",
+        "hint": "عصيان مسلح ضد سلطة الدولة أو الحاكم الشرعي.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "رمسيس",
+        "hint": "أشهر الفراعنة المحاربين، ويشار إليه غالبًا بالثاني.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نازية",
+        "hint": "النظام الشمولي الذي قاده أدولف هتلر في ألمانيا.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بلال",
+        "hint": "مؤذن الرسول وصحابي صبر على تعذيب قريش",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ماركس",
+        "hint": "فيلسوف ألماني ومؤسس الفكر الشيوعي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ملوك",
+        "hint": "جمع لكلمة 'ملك'، وهم أعلى سلطة في الأنظمة الوراثية التي حكمت عبر العصور.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "يوليوس",
+        "hint": "القائد الروماني الذي أنهى الجمهورية واغتيل في مجلس الشيوخ عام 44 ق.م.",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "اسكندر",
+        "hint": "القائد المقدوني الذي غزا مساحات شاسعة من آسيا وأسس المدن.",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ردم",
+        "hint": "تغطية موقع أثري بالتراب للحفاظ عليه أو إخفائه لحين استكمال التنقيب.",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "يافا",
+        "hint": "مدينة فلسطينية تاريخية تعد من أقدم مدن العالم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تيتانيك",
+        "hint": "الباخرة العملاقة التي غرقت في أول رحلة لها عام 1912م.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "آياصوفيا",
+        "hint": "المبنى التاريخي الضخم في إسطنبول الذي كان كنيسة ثم مسجداً ثم متحفاً.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "قوطي",
+        "hint": "نمط معماري أوروبي ظهر في العصور الوسطى، يتميز بالأقواس المدببة والارتفاع.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قلاع",
+        "hint": "المنشآت الحجرية المحصنة التي كانت تستخدم للدفاع والإقامة في العصور الوسطى؟",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تنقيب",
+        "hint": "عملية حفر وبحث منظمة يقوم بها علماء الآثار للكشف عن بقايا الماضي المدفونة.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سقراط",
+        "hint": "الفيلسوف اليوناني الذي اشتهر بمنهج التساؤل وتم إعدامه بالسم.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "اسبرطة",
+        "hint": "مدينة إغريقية اشتهرت بالقوة العسكرية الصارمة والتدريب القاسي.",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "وثب",
+        "hint": "الانقلاب العسكري أو السياسي السريع والمفاجئ.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "يوليوس",
+        "hint": "القائد الروماني الذي أنهى الجمهورية واغتيل في مجلس الشيوخ عام 44 ق.م.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تبع",
+        "hint": "لقب ملوك حمير في اليمن القديم",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بابوية",
+        "hint": "منصب السلطة الروحية والدنيوية لحاكم الكنيسة الكاثوليكية في روما.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مسماري",
+        "hint": "نوع الكتابة القديمة التي استخدمها السومريون والبابليون على الألواح الطينية؟",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حطين",
+        "hint": "المعركة الفاصلة التي انتصر فيها المسلمون بقيادة صلاح الدين الأيوبي عام 1187م.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تنقيب",
+        "hint": "عملية حفر وبحث منظمة يقوم بها علماء الآثار للكشف عن بقايا الماضي المدفونة.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مراد",
+        "hint": "اسم لعدة سلاطين في الدولة العثمانية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نازية",
+        "hint": "النظام الشمولي الذي قاده أدولف هتلر في ألمانيا.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "راشدة",
+        "hint": "أول فترة حكم إسلامي بعد وفاة النبي محمد، وشملت الخلفاء الأربعة الأوائل.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "يافا",
+        "hint": "مدينة فلسطينية تاريخية تعد من أقدم مدن العالم",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "باردة",
+        "hint": "الصراع الجيوسياسي الذي لم يشهد قتالًا مباشرًا بين الولايات المتحدة والاتحاد السوفيتي.",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قيامة",
+        "hint": "الحدث العظيم الذي ينهي حقبة ويبدأ حقبة جديدة (استخدام مجازي تاريخي).",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "يرموك",
+        "hint": "المعركة الفاصلة التي أدت لسيطرة المسلمين على بلاد الشام في عهد عمر.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مسماري",
+        "hint": "نوع الكتابة القديمة التي استخدمها السومريون والبابليون على الألواح الطينية؟",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تمثال",
+        "hint": "مجسم ثلاثي الأبعاد يمثل شخصية تاريخية أو إله أو حيوان.",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "أثرية",
+        "hint": "صفة تطلق على الأشياء القديمة التي خلفها لنا الأجداد والتي تدرسها العلوم الإنسانية.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "أهرام",
+        "hint": "جمع يطلق على البنايات الضخمة المدفنية في الجيزة التي تعد من عجائب الدنيا القديمة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "الأهرام",
+        "hint": "الإنشاءات الضخمة التي بناها المصريون القدماء كمقابر ملكية.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "آياصوفيا",
+        "hint": "المبنى التاريخي الضخم في إسطنبول الذي كان كنيسة ثم مسجداً ثم متحفاً.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رمح",
+        "hint": "سلاح قديم يستخدم في القتال اليدوي، يتكون من عصا طويلة ورأس حاد.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "أسطول",
+        "hint": "مجموعة كبيرة من السفن الحربية أو التجارية تسير معًا تحت قيادة واحدة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حقبة",
+        "hint": "مدة طويلة من الزمن في سياق زمني أو حضاري.",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ردم",
+        "hint": "تغطية موقع أثري بالتراب للحفاظ عليه أو إخفائه لحين استكمال التنقيب.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "إنجلترا",
+        "hint": "الدولة التي انتصرت على الأسطول الإسباني \"الأرمادا\" عام 1588م وأصبحت قوة بحرية؟",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "كنز",
+        "hint": "مجموعة من الأشياء الثمينة أو العملات القديمة المدفونة والمكتشفة صدفة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حكمة",
+        "hint": "خلاصة التجارب التاريخية التي يستفيد منها البشر في اتخاذ القرارات.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هزيمة",
+        "hint": "الفشل في القتال أو الخسارة أمام العدو في مواجهة عسكرية.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مايا",
+        "hint": "حضارة قديمة ازدهرت في أمريكا الوسطى واشتهرت بتقويمها الفلكي.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "لويس",
+        "hint": "اسم حمله العديد من ملوك فرنسا",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قادسية",
+        "hint": "المعركة الحاسمة التي انتصر فيها المسلمون على الإمبراطورية الفارسية.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "غيلة",
+        "hint": "عملية اغتيال تتم خفية وبطريقة مفاجئة ودون إعلان مسبق.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "راشدة",
+        "hint": "أول فترة حكم إسلامي بعد وفاة النبي محمد، وشملت الخلفاء الأربعة الأوائل.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "أهرام",
+        "hint": "جمع يطلق على البنايات الضخمة المدفنية في الجيزة التي تعد من عجائب الدنيا القديمة.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "هيكل",
+        "hint": "المبنى المقدس الذي بناه اليهود في القدس وتم تدميره مرتين عبر التاريخ.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "متحف",
+        "hint": "مكان مخصص لحفظ وعرض الآثار والمقتنيات التاريخية القديمة.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حصار",
+        "hint": "عملية عسكرية تهدف لعزل مدينة أو قلعة وقطع الإمدادات عنها لإجبارها على الاستسلام.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رسالة",
+        "hint": "نص مكتوب يحمل أوامر أو معلومات موجهة من سلطة إلى تابع.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "اسكندر",
+        "hint": "القائد المقدوني الذي غزا مساحات شاسعة من آسيا وأسس المدن.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "منجم",
+        "hint": "الشخص الذي كان يعتقد أنه يتنبأ بالمستقبل أو يقرأ الطالع قديماً.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تمثال",
+        "hint": "مجسم ثلاثي الأبعاد يمثل شخصية تاريخية أو إله أو حيوان.",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "دينار",
+        "hint": "عملة ذهبية تاريخية كانت تستخدم في الدولة الإسلامية كأداة للتبادل التجاري.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "أرشيف",
+        "hint": "مكان حفظ السجلات والوثائق التاريخية الهامة التي تشكل المصادر الأساسية للتاريخ.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "روما",
+        "hint": "عاصمة الإمبراطورية التي سيطرت على حوض البحر الأبيض المتوسط لقرون طويلة.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "أسطول",
+        "hint": "مجموعة كبيرة من السفن الحربية أو التجارية تسير معًا تحت قيادة واحدة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استباق",
+        "hint": "حدث يقع قبل الموعد المقرر له أو قبل أن تتخذ الأحداث مسارها المعتاد.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هوميروس",
+        "hint": "شاعر يوناني قديم صاحب ملحمتي الإلياذة والأوديسة",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سويسرا",
+        "hint": "الدولة الأوروبية التي حافظت على حيادها التام في معظم الصراعات العالمية الكبرى؟",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فرنسية",
+        "hint": "الثورة الكبرى التي أطاحت بالنظام الملكي المطلق في أواخر القرن الثامن عشر.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "فرنسا",
+        "hint": "الدولة الأوروبية التي قامت فيها ثورة كبرى عام 1789م ضد الحكم الملكي المطلق؟",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سبأ",
+        "hint": "مملكة عربية قديمة ازدهرت في جنوب شبه الجزيرة العربية (اليمن).",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "بيت",
+        "hint": "مركز العلم والمعرفة الذي أنشئ في بغداد في العصر العباسي ويعرف بالحكمة.",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مؤرخ",
+        "hint": "الشخص الذي يدرس ويسجل الأحداث الماضية ويسعى لتفسيرها وتحليلها.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ميريت",
+        "hint": "أول ملكة في التاريخ حكمت مصر القديمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "إرث",
+        "hint": "ما تخلفه الحضارات السابقة للأجيال اللاحقة من قيم وممتلكات.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بونيقية",
+        "hint": "اسم الحروب الطاحنة التي دارت بين روما ومدينة قرطاجة للسيطرة على غرب المتوسط.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "آشور",
+        "hint": "إمبراطورية قديمة اشتهرت بقسوتها العسكرية في بلاد الرافدين.",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ياباني",
+        "hint": "الساموراي هو المحارب النبيل الذي خدم الإقطاعيين في هذا البلد الآسيوي القديم.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "قبور",
+        "hint": "الموقع الذي يوضع فيه جسد الميت، ويستخدم كدليل تاريخي لتحديد العصور.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "خوفو",
+        "hint": "فرعون مصري بنى الهرم الأكبر في الجيزة",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سمرقند",
+        "hint": "مدينة تاريخية على طريق الحرير اشتهرت بالعلم والتجارة وكانت عاصمة تيمورلنك.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "خليفة",
+        "hint": "لقب استخدمه الخلفاء الراشدون ومن تبعهم كرمز للقيادة الروحية والسياسية.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فارس",
+        "hint": "اسم الإمبراطورية القديمة التي كانت منافسة دائمة للإمبراطورية الرومانية في الشرق.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "عشتار",
+        "hint": "إلهة الحب والحرب والجنس والخصوبة في حضارات بلاد الرافدين.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "دمشق",
+        "hint": "أقدم عاصمة استمرت في التاريخ الإسلامي وكانت مقر الأمويين.",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ماري",
+        "hint": "ملكة اسكتلندا التي واجهت صراعات سياسية مريرة",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "جندي",
+        "hint": "الفرد الذي يخدم في الجيش ويشارك في القتال دفاعاً عن الدولة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نازية",
+        "hint": "النظام الشمولي الذي قاده أدولف هتلر في ألمانيا.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيزنطة",
+        "hint": "الاسم التاريخي لمدينة القسطنطينية قبل الفتح العثماني، وكانت عاصمة الإمبراطورية الشرقية.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نبكذ",
+        "hint": "الملك البابلي الذي اشتهر بغزواته وتدميره لأورشليم القديمة؟",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "خليفة",
+        "hint": "لقب استخدمه الخلفاء الراشدون ومن تبعهم كرمز للقيادة الروحية والسياسية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مانيلا",
+        "hint": "عاصمة الفلبين التي كانت مركزا للتجارة الإسبانية",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جهاد",
+        "hint": "المفهوم الإسلامي للكفاح أو القتال في سبيل الدفاع عن الدين.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "سجين",
+        "hint": "شخص احتجز لمعارضته النظام السياسي أو لسبب آخر تاريخي.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "دكتاتور",
+        "hint": "حاكم يستولي على السلطة بالقوة ويحكم مطلقاً دون قيود.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "نمرود",
+        "hint": "ملك بابل الذي ورد ذكره في القصص الدينية القديمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "برلين",
+        "hint": "المدينة الألمانية التي تم تقسيمها بجدار شهير بعد الحرب العالمية الثانية.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قنصل",
+        "hint": "لقب لأعلى مسؤولين منتخبين في روما القديمة أو ممثل دبلوماسي حالي.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نسب",
+        "hint": "دراسة أصول العائلات وتاريخها وتسلسلها عبر الأجيال.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مهد",
+        "hint": "المصطلح الذي يطلق على المنطقة التي نشأت فيها الحضارات الأولى مثل بلاد الرافدين؟",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قوطي",
+        "hint": "نمط معماري أوروبي ظهر في العصور الوسطى، يتميز بالأقواس المدببة والارتفاع.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مصر",
+        "hint": "الدولة التي حكمها الفراعنة وازدهرت على ضفاف نهر النيل.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "أهلية",
+        "hint": "الصراع المسلح الذي يحدث داخل حدود الدولة الواحدة وغالبًا ما يكون بين فصائلها.",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "قرطاجة",
+        "hint": "المدينة الفينيقية التي نافست روما على السيطرة على غرب البحر المتوسط.",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "إمبراطورية",
+        "hint": "دولة واسعة تضم عدة شعوب وممالك تحت سلطة مركزية واحدة.",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أيديولوجيا",
+        "hint": "مجموعة الأفكار والمعتقدات التي شكلت أساس العديد من الصراعات التاريخية الكبرى.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قرطاجة",
+        "hint": "المدينة الفينيقية التي نافست روما على السيطرة على غرب البحر المتوسط.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طباعة",
+        "hint": "الاختراع الذي يُنسب إلى جوتنبرج وساهم في نشر المعرفة وقيام الإصلاح الديني؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سبأ",
+        "hint": "مملكة عربية قديمة ازدهرت في جنوب شبه الجزيرة العربية (اليمن).",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رشيد",
+        "hint": "الحجر الذي اكتشف في مصر ومكّن العلماء من فك رموز الكتابة المصرية القديمة.",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "أحمس",
+        "hint": "الملك المصري الذي طرد الهكسوس من مصر",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "هتلر",
+        "hint": "زعيم الحزب النازي ومستشار ألمانيا الذي أشعل فتيل الحرب العالمية الثانية.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "منجم",
+        "hint": "الشخص الذي كان يعتقد أنه يتنبأ بالمستقبل أو يقرأ الطالع قديماً.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سلطان",
+        "hint": "لقب استخدمه العديد من حكام الدول الإسلامية، لا سيما العثمانيين.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قماش",
+        "hint": "المادة التي كانت سبباً في ازدهار طريق الحرير التجاري بين الشرق والغرب؟",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سيرة",
+        "hint": "قصة حياة شخصية تاريخية مهمة، توثق الأحداث التي مرت بها.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مؤرخ",
+        "hint": "الشخص الذي يدرس ويسجل الأحداث الماضية ويسعى لتفسيرها وتحليلها.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ترحال",
+        "hint": "الحركة المستمرة للقبائل والجماعات بحثًا عن الموارد، وهي سمة للعصور البدوية.",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تتابع",
+        "hint": "السرد التاريخي المتسلسل للأحداث وفق ترتيبها الزمني.",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تمرد",
+        "hint": "عصيان مسلح ضد سلطة الدولة أو الحاكم الشرعي.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "يوليوس",
+        "hint": "القائد الروماني الذي أنهى الجمهورية واغتيل في مجلس الشيوخ عام 44 ق.م.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فرعون",
+        "hint": "اللقب الذي كان يحمله ملوك مصر القديمة الذين بنوا الأهرامات.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "الفاتح",
+        "hint": "لقب السلطان العثماني محمد الثاني الذي قام بفتح القسطنطينية.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حطين",
+        "hint": "المعركة الفاصلة التي انتصر فيها المسلمون بقيادة صلاح الدين الأيوبي عام 1187م.",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قتيبة",
+        "hint": "فاتح بلاد ما وراء النهر في العصر الأموي",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مديان",
+        "hint": "قوم النبي شعيب الذين سكنوا شمال غرب الجزيرة",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "أحمس",
+        "hint": "الملك المصري الذي طرد الهكسوس من مصر",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "موحدون",
+        "hint": "دولة إسلامية كبرى نشأت في المغرب الأقصى وسيطرت على الأندلس.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إبادة",
+        "hint": "القتل المتعمد والمنظم لمجموعة كبيرة من الناس بسبب عرقهم أو دينهم أو انتمائهم.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قنبلة",
+        "hint": "النوع من السلاح الذي ألقي على مدينتي هيروشيما وناغازاكي اليابانيتين.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "يهودا",
+        "hint": "المملكة القديمة التي ظهرت في الشام وعاصمتها أورشليم بعد انقسام مملكة إسرائيل؟",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نبلاء",
+        "hint": "الطبقة العليا التي امتلكت الأراضي في المجتمعات الإقطاعية والملكية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بردي",
+        "hint": "مادة ورقية كانت تستخدم للكتابة في مصر القديمة قبل اكتشاف الورق الحديث.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قتيبة",
+        "hint": "فاتح بلاد ما وراء النهر في العصر الأموي",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قائد",
+        "hint": "الشخص الذي يقود جيشاً أو مجموعة في المعارك والحروب.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "دمشق",
+        "hint": "أقدم عاصمة استمرت في التاريخ الإسلامي وكانت مقر الأمويين.",
+        "startx": 12,
+        "starty": 15,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "هوميروس",
+        "hint": "شاعر يوناني قديم صاحب ملحمتي الإلياذة والأوديسة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "موحدون",
+        "hint": "دولة إسلامية كبرى نشأت في المغرب الأقصى وسيطرت على الأندلس.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مأدبة",
+        "hint": "حفل عشاء كبير يقيمه الملك أو القيصر احتفالاً بانتصار أو معاهدة سلام.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "فرنسية",
+        "hint": "الثورة الكبرى التي أطاحت بالنظام الملكي المطلق في أواخر القرن الثامن عشر.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بواتييه",
+        "hint": "موقع معركة بلاط الشهداء في فرنسا",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مصدر",
+        "hint": "أي وثيقة أو أثر مادي يعتمد عليه المؤرخ لاستخلاص المعلومات عن الماضي.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "غليون",
+        "hint": "سفينة شراعية كبيرة ومسلحة استخدمها الأوروبيون في عصر الاكتشافات الكبرى.",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "أرشيف",
+        "hint": "مكان حفظ السجلات والوثائق التاريخية الهامة التي تشكل المصادر الأساسية للتاريخ.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "غيلة",
+        "hint": "عملية اغتيال تتم خفية وبطريقة مفاجئة ودون إعلان مسبق.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قتيبة",
+        "hint": "فاتح بلاد ما وراء النهر في العصر الأموي",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "وزير",
+        "hint": "منصب رفيع يساعد الحاكم أو الخليفة في إدارة شؤون الدولة.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قناة",
+        "hint": "ممر مائي اصطناعي مشهور يربط البحر الأحمر بالمتوسط.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قرون",
+        "hint": "وحدة زمنية تعادل مئة عام وتستخدم في حساب فترات التاريخ الطويلة.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "إغريق",
+        "hint": "الاسم الذي يطلق على سكان اليونان القديمة.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "هيرودوت",
+        "hint": "لقب بأبي التاريخ ويعد أول مؤرخ يوناني معروف.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "يثرب",
+        "hint": "الاسم القديم للمدينة التي هاجر إليها الرسول محمد وأصبحت مقر الدولة الإسلامية الأولى.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "يوليوس",
+        "hint": "القائد الروماني الذي أنهى الجمهورية واغتيل في مجلس الشيوخ عام 44 ق.م.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أوديسة",
+        "hint": "الملحمة الشعرية اليونانية التي تصف عودة البطل أوديسيوس إلى وطنه بعد الحرب.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جندي",
+        "hint": "الفرد الذي يخدم في الجيش ويشارك في القتال دفاعاً عن الدولة.",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مسلة",
+        "hint": "عمود حجري طويل ونحيف استخدمه قدماء المصريين لتخليد الإنجازات.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "طروادة",
+        "hint": "المدينة الأسطورية التي حوصرت لمدة عشر سنوات بسبب حصان خشبي كبير.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رومل",
+        "hint": "قائد عسكري ألماني لقب بـثعلب الصحراء",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سجين",
+        "hint": "شخص احتجز لمعارضته النظام السياسي أو لسبب آخر تاريخي.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "بوسطن",
+        "hint": "المدينة الأمريكية التي شهدت حادثة رمي الشاي الشهيرة عام 1773م كاحتجاج؟",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "صلب",
+        "hint": "طريقة إعدام قديمة ومهينة اشتهر بها الرومان.",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "معبد",
+        "hint": "بناء مخصص لعبادة الآلهة وتقديم القرابين في الحضارات القديمة.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ميسون",
+        "hint": "ملكة حميرية وقيل أنها زوجة معاوية بن أبي سفيان",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "قماش",
+        "hint": "المادة التي كانت سبباً في ازدهار طريق الحرير التجاري بين الشرق والغرب؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "قسطنطين",
+        "hint": "الإمبراطور الروماني الذي نقل العاصمة إلى بيزنطة وسميت باسمه.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "عثمان",
+        "hint": "مؤسس السلالة التي حملت اسمه وحكمت لعدة قرون بعد سقوط السلاجقة.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سبارتا",
+        "hint": "مدينة إغريقية اشتهرت بقوتها العسكرية والانضباط الشديد، وكانت منافسة لأثينا.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صلاح",
+        "hint": "القائد الأيوبي الذي استرد القدس من الصليبيين بعد معركة حطين الشهيرة.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مظلمة",
+        "hint": "وصف يطلق على الفترة المبكرة من العصور الوسطى في أوروبا بسبب التدهور الحضاري.",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "اسكندر",
+        "hint": "القائد المقدوني الذي غزا مساحات شاسعة من آسيا وأسس المدن.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "روما",
+        "hint": "عاصمة الإمبراطورية التي سيطرت على حوض البحر الأبيض المتوسط لقرون طويلة.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "نازية",
+        "hint": "النظام الشمولي الذي قاده أدولف هتلر في ألمانيا.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وادي",
+        "hint": "منخفض جغرافي شهد نشأة العديد من الحضارات الكبرى كالفرعونية.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مغول",
+        "hint": "الغزاة الذين اجتاحوا العالم الإسلامي ودمروا بغداد عام 1258م.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "باريس",
+        "hint": "المدينة التي اندلعت فيها الثورة الفرنسية عام 1789.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "غاندي",
+        "hint": "الزعيم الروحي والسياسي الهندي الذي قاد حركة الاستقلال باللاعنف.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "طباعة",
+        "hint": "الاختراع الذي يُنسب إلى جوتنبرج وساهم في نشر المعرفة وقيام الإصلاح الديني؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سجن",
+        "hint": "المكان الذي قضى فيه نيلسون مانديلا أكثر من ربع قرن.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "جلجامش",
+        "hint": "البطل الأسطوري لملحمة سومرية تعد من أقدم الأعمال الأدبية المعروفة للبشر.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مايا",
+        "hint": "حضارة قديمة ازدهرت في أمريكا الوسطى واشتهرت بتقويمها الفلكي.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مغولية",
+        "hint": "الحملات العسكرية المدمرة التي قادها تيمورلنك وسببت دمارًا واسعًا في آسيا.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خنادق",
+        "hint": "الحفر الطويلة التي استخدمت كخطوط دفاع ثابتة في الحرب العالمية الأولى.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "قرطبة",
+        "hint": "عاصمة الخلافة الأموية في الأندلس، وازدهرت كمركز ثقافي وعلمي في أوروبا.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فكتوريا",
+        "hint": "ملكة بريطانيا التي حكمت في أوج العصر الإمبراطوري",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تمرد",
+        "hint": "عصيان مسلح ضد سلطة الدولة أو الحاكم الشرعي.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تدمير",
+        "hint": "الفعل الذي يلحق بالمدن والمباني أثناء الحروب العنيفة والاحتلالات.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "سقوط",
+        "hint": "اللحظة التي تنهار فيها إمبراطورية أو دولة قوية بعد فترة طويلة من الازدهار.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سيف",
+        "hint": "السلاح الأبيض الرئيسي المستخدم في معظم المعارك التاريخية قبل اختراع البارود.",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "أحمس",
+        "hint": "الملك المصري الذي طرد الهكسوس من مصر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عمارة",
+        "hint": "الفن الذي يدرس تصميم وبناء المباني والآثار التاريخية.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "يرموك",
+        "hint": "المعركة الفاصلة التي أدت لسيطرة المسلمين على بلاد الشام في عهد عمر.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كسرى",
+        "hint": "لقب كان يطلق على ملوك الإمبراطورية الفارسية الساسانية.",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سيف",
+        "hint": "السلاح الأبيض الرئيسي المستخدم في معظم المعارك التاريخية قبل اختراع البارود.",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "خلاف",
+        "hint": "نزاع سياسي أو ديني تسبب في انقسام دائم في التاريخ الإسلامي.",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قصر",
+        "hint": "مقر إقامة الحاكم أو الملك، يمثل مركز السلطة والثراء في الدولة.",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "بغداد",
+        "hint": "المدينة التي أصبحت مركزًا للعلم والثقافة في العصر العباسي، وعُرفت بدار الحكمة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قبيلة",
+        "hint": "تجمع بشري قديم يعتمد على النسب المشترك ويرأسه عادة شيخ أو زعيم.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جفاف",
+        "hint": "ظاهرة طبيعية تسببت في انهيار العديد من الحضارات الزراعية القديمة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "هتلر",
+        "hint": "زعيم الحزب النازي ومستشار ألمانيا الذي أشعل فتيل الحرب العالمية الثانية.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سجين",
+        "hint": "شخص احتجز لمعارضته النظام السياسي أو لسبب آخر تاريخي.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إغريق",
+        "hint": "الاسم الذي يطلق على سكان اليونان القديمة.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سفارة",
+        "hint": "بعثة دبلوماسية تمثل دولة في بلد آخر لتنظيم العلاقات.",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "هرقل",
+        "hint": "إمبراطور بيزنطي عاصر بزوغ فجر الإسلام",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مراد",
+        "hint": "اسم لعدة سلاطين في الدولة العثمانية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شهيد",
+        "hint": "من يموت دفاعاً عن قضية أو وطنه أو دينه في معركة.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جلجامش",
+        "hint": "البطل الأسطوري لملحمة سومرية تعد من أقدم الأعمال الأدبية المعروفة للبشر.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طليطلة",
+        "hint": "المدينة الأندلسية التي سقطت في أيدي المسيحيين وكانت مركزاً مهماً للترجمة.",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قيصر",
+        "hint": "لقب كان يطلق على حكام الإمبراطورية الرومانية.",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قسطنطين",
+        "hint": "الإمبراطور الروماني الذي نقل العاصمة إلى بيزنطة وسميت باسمه.",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ترحال",
+        "hint": "الحركة المستمرة للقبائل والجماعات بحثًا عن الموارد، وهي سمة للعصور البدوية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أيديولوجيا",
+        "hint": "مجموعة الأفكار والمعتقدات التي شكلت أساس العديد من الصراعات التاريخية الكبرى.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "يوميات",
+        "hint": "سجلات شخصية يومية تعتبر مصدر تاريخي غير رسمي لحياة الأفراد.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "إتروريا",
+        "hint": "الحضارة القديمة التي سبقت تأسيس الجمهورية الرومانية في إيطاليا وكان لها تأثير عليها؟",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "معاوية",
+        "hint": "مؤسس الدولة الأموية في دمشق",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "جفاف",
+        "hint": "ظاهرة طبيعية تسببت في انهيار العديد من الحضارات الزراعية القديمة.",
+        "startx": 4,
+        "starty": 15,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "كنيسة",
+        "hint": "مكان العبادة الرئيسي للمسيحيين منذ العصور القديمة، وغالباً ما تكون ذات طابع تاريخي.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سقوط",
+        "hint": "اللحظة التي تنهار فيها إمبراطورية أو دولة قوية بعد فترة طويلة من الازدهار.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ميسون",
+        "hint": "ملكة حميرية وقيل أنها زوجة معاوية بن أبي سفيان",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "عباسية",
+        "hint": "ثاني السلالات الإسلامية الحاكمة التي اتخذت بغداد عاصمة لها وشهدت العصر الذهبي.",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "عشرون",
+        "hint": "القرن الميلادي الذي شهد اندلاع الحربين العالميتين وسقوط العديد من الإمبراطوريات.",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خلافة",
+        "hint": "نظام حكم إسلامي ظهر بعد وفاة الرسول، اشتهر ببني العباس والأمويين.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بيت",
+        "hint": "مركز العلم والمعرفة الذي أنشئ في بغداد في العصر العباسي ويعرف بالحكمة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هيرودت",
+        "hint": "المؤرخ اليوناني الذي عاش في القرن الخامس قبل الميلاد ويُلقب بأبي التاريخ.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ثمود",
+        "hint": "قوم النبي صالح الذين نحتوا البيوت في الجبال",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قيامة",
+        "hint": "الحدث العظيم الذي ينهي حقبة ويبدأ حقبة جديدة (استخدام مجازي تاريخي).",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "يالطا",
+        "hint": "المؤتمر الذي عقده الحلفاء الكبار في عام 1945م لمناقشة إعادة تشكيل أوروبا.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مدافن",
+        "hint": "المكان الذي يخصص لدفن الموتى، ويمكن أن يحوي آثارًا قيمة تعكس ثقافة.",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عثمانية",
+        "hint": "الإمبراطورية الإسلامية التي حكمت من الأناضول لستة قرون وسيطرت على البلقان.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مسماري",
+        "hint": "نوع الكتابة القديمة التي استخدمها السومريون والبابليون على الألواح الطينية؟",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مومياء",
+        "hint": "الجسد المحنط للمتوفى للحفاظ عليه في مصر القديمة كطقس ديني.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نفي",
+        "hint": "إبعاد شخص مهم أو سياسي قسراً عن وطنه كنوع من العقاب أو الإبعاد.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "انتداب",
+        "hint": "شكل من أشكال السيطرة الاستعمارية وضعته عصبة الأمم على بعض مناطق الشرق الأوسط.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حطين",
+        "hint": "المعركة الفاصلة التي انتصر فيها المسلمون بقيادة صلاح الدين الأيوبي عام 1187م.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بردي",
+        "hint": "مادة ورقية كانت تستخدم للكتابة في مصر القديمة قبل اكتشاف الورق الحديث.",
+        "startx": 9,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عاد",
+        "hint": "قوم النبي هود الذين اشتهروا ببناء إرم ذات العماد",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "زنوبيا",
+        "hint": "ملكة تدمر التي تمردت على الإمبراطورية الرومانية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "توت",
+        "hint": "فرعون مصري شاب اشتهر بكنزه المذهل الذي اكتشف عام 1922م.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ايوبية",
+        "hint": "السلالة التي أسسها صلاح الدين الأيوبي في مصر والشام.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "باستيل",
+        "hint": "القلعة التي كان اقتحامها عام 1789م إيذانًا ببدء الثورة الفرنسية.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "داوود",
+        "hint": "ملك نبي اشتهر بقتل جالوت وحكم بني إسرائيل",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "داروين",
+        "hint": "العالم البريطاني الذي وضع نظرية التطور والانتخاب الطبيعي.",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "طباعة",
+        "hint": "الاختراع الذي يُنسب إلى جوتنبرج وساهم في نشر المعرفة وقيام الإصلاح الديني؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أوديسة",
+        "hint": "الملحمة الشعرية اليونانية التي تصف عودة البطل أوديسيوس إلى وطنه بعد الحرب.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سجن",
+        "hint": "المكان الذي قضى فيه نيلسون مانديلا أكثر من ربع قرن.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مغولية",
+        "hint": "الحملات العسكرية المدمرة التي قادها تيمورلنك وسببت دمارًا واسعًا في آسيا.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إنكا",
+        "hint": "إمبراطورية واسعة ازدهرت في جبال الأنديز بأمريكا الجنوبية قبل الغزو الإسباني.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تتابع",
+        "hint": "السرد التاريخي المتسلسل للأحداث وفق ترتيبها الزمني.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "توت",
+        "hint": "فرعون مصري شاب اشتهر بكنزه المذهل الذي اكتشف عام 1922م.",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "شهيد",
+        "hint": "من يموت دفاعاً عن قضية أو وطنه أو دينه في معركة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تقاليد",
+        "hint": "مجموعة من العادات والممارسات المتوارثة عبر الأجيال في مجتمع ما.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طائفة",
+        "hint": "مجموعة دينية أو اجتماعية تنفصل عن المجموعة الكبرى ولها معتقدات خاصة.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تتابع",
+        "hint": "السرد التاريخي المتسلسل للأحداث وفق ترتيبها الزمني.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "هوميروس",
+        "hint": "شاعر يوناني قديم صاحب ملحمتي الإلياذة والأوديسة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "منجنيق",
+        "hint": "آلة حصار ضخمة كانت تستخدم لقذف المقذوفات الثقيلة على أسوار المدن.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عمارة",
+        "hint": "الفن الذي يدرس تصميم وبناء المباني والآثار التاريخية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "انتداب",
+        "hint": "شكل من أشكال السيطرة الاستعمارية وضعته عصبة الأمم على بعض مناطق الشرق الأوسط.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سبأ",
+        "hint": "مملكة عربية قديمة ازدهرت في جنوب شبه الجزيرة العربية (اليمن).",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طوائف",
+        "hint": "ممالك صغيرة متناحرة ظهرت في الأندلس بعد تفكك الخلافة الأموية.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ديانة",
+        "hint": "المصطلح الذي يشير إلى المعتقدات الروحية التي شكلت تاريخ العديد من الشعوب؟",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "بيعة",
+        "hint": "طريقة تقليدية في الإسلام لتنصيب الخليفة أو الحاكم بناءً على الإجماع والرضا.",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "خليفة",
+        "hint": "لقب استخدمه الخلفاء الراشدون ومن تبعهم كرمز للقيادة الروحية والسياسية.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لينين",
+        "hint": "قائد الثورة البلشفية في روسيا وأول رئيس للاتحاد السوفيتي.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "برلين",
+        "hint": "المدينة الألمانية التي تم تقسيمها بجدار شهير بعد الحرب العالمية الثانية.",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تيتانيك",
+        "hint": "الباخرة العملاقة التي غرقت في أول رحلة لها عام 1912م.",
+        "startx": 10,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "فاشية",
+        "hint": "النظام السياسي الشمولي الذي ظهر في إيطاليا تحت قيادة موسوليني.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بلقيس",
+        "hint": "ملكة سبأ التي ورد ذكرها في القصص التاريخية والدينية.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ازتك",
+        "hint": "إمبراطورية سيطرت على وسط المكسيك قبل الغزو الإسباني في القرن السادس عشر.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سليم",
+        "hint": "السلطان العثماني الذي ضم مصر والشام للدولة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "الفاتح",
+        "hint": "لقب السلطان العثماني محمد الثاني الذي قام بفتح القسطنطينية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إقطاع",
+        "hint": "نظام اجتماعي وسياسي ساد أوروبا في العصور الوسطى، قائم على الأرض.",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "خفرع",
+        "hint": "صاحب الهرم الثاني وتمثال أبي الهول",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "قديم",
+        "hint": "صفة تطلق على العصور التي سبقت العصور الوسطى، مثل الحضارة المصرية؟",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "هرقل",
+        "hint": "إمبراطور بيزنطي عاصر بزوغ فجر الإسلام",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "متحف",
+        "hint": "مكان مخصص لحفظ وعرض الآثار والمقتنيات التاريخية القديمة.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "امبراطور",
+        "hint": "اللقب الذي كان يطلق على حاكم الإمبراطورية الرومانية المقدسة؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بطليموس",
+        "hint": "سلالة يونانية حكمت مصر بعد وفاة الإسكندر الأكبر.",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تبع",
+        "hint": "لقب ملوك حمير في اليمن القديم",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سفنكس",
+        "hint": "تمثال ضخم بجسم أسد ورأس إنسان يحرس أهرامات الجيزة في مصر.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ثورة",
+        "hint": "تغيير جذري ومفاجئ في نظام الحكم أو البنية الاجتماعية يؤدي إلى قلب الموازين.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حصار",
+        "hint": "عملية عسكرية تهدف لعزل مدينة أو قلعة وقطع الإمدادات عنها لإجبارها على الاستسلام.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "فخار",
+        "hint": "أدوات مصنوعة من الطين المحروق، وتدل على تاريخ الحضارات القديمة.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "أوديسة",
+        "hint": "الملحمة الشعرية اليونانية التي تصف عودة البطل أوديسيوس إلى وطنه بعد الحرب.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سقراط",
+        "hint": "الفيلسوف اليوناني الذي اشتهر بمنهج التساؤل وتم إعدامه بالسم.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رومل",
+        "hint": "قائد عسكري ألماني لقب بـثعلب الصحراء",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طقوس",
+        "hint": "مجموعة من الممارسات الدينية أو الاجتماعية القديمة ذات الطابع الاحتفالي.",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "معركة",
+        "hint": "قتال كبير ومنظم بين جيشين لتحديد مصير منطقة أو صراع.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كنوز",
+        "hint": "مقتنيات ثمينة مدفونة أو مفقودة ذات قيمة تاريخية وأثرية.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بيبرس",
+        "hint": "سلطان مملوكي لقب بالظاهر وهزم الصليبيين والمغول",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جينكيز",
+        "hint": "المؤسس والقائد العسكري للإمبراطورية المغولية، واسمه الحقيقي تيموجين.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قتيبة",
+        "hint": "فاتح بلاد ما وراء النهر في العصر الأموي",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "منارة",
+        "hint": "برج عالٍ بني لإرشاد السفن في البحر، وأشهرها كان في الإسكندرية.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قناع",
+        "hint": "غطاء للوجه كان يستخدم في الطقوس أو لدفن الملوك القدماء مثل توت عنخ آمون.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "دوقية",
+        "hint": "إقليم يحكمه دوق أو دوقة، وهي مرتبة أقل من الملكية في أوروبا.",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قناة",
+        "hint": "ممر مائي اصطناعي مشهور يربط البحر الأحمر بالمتوسط.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "استباق",
+        "hint": "حدث يقع قبل الموعد المقرر له أو قبل أن تتخذ الأحداث مسارها المعتاد.",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نبكذ",
+        "hint": "الملك البابلي الذي اشتهر بغزواته وتدميره لأورشليم القديمة؟",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "هيرودت",
+        "hint": "المؤرخ اليوناني الذي عاش في القرن الخامس قبل الميلاد ويُلقب بأبي التاريخ.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "داوود",
+        "hint": "ملك نبي اشتهر بقتل جالوت وحكم بني إسرائيل",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جاهلية",
+        "hint": "الفترة التي سبقت ظهور الإسلام في الجزيرة العربية.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تيمور",
+        "hint": "قائد مغولي تركية أسس إمبراطورية واسعة في القرن الرابع عشر.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "يافا",
+        "hint": "مدينة فلسطينية تاريخية تعد من أقدم مدن العالم",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "وثب",
+        "hint": "الانقلاب العسكري أو السياسي السريع والمفاجئ.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "أهرام",
+        "hint": "جمع يطلق على البنايات الضخمة المدفنية في الجيزة التي تعد من عجائب الدنيا القديمة.",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "سومر",
+        "hint": "أول حضارة معروفة في جنوب بلاد الرافدين، ابتكرت الكتابة المسمارية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قصر",
+        "hint": "مقر إقامة الحاكم أو الملك، يمثل مركز السلطة والثراء في الدولة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لوفر",
+        "hint": "المتحف الباريسي الشهير الذي يضم العديد من الآثار التاريخية الهامة.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سفارة",
+        "hint": "بعثة دبلوماسية تمثل دولة في بلد آخر لتنظيم العلاقات.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قنصل",
+        "hint": "لقب لأعلى مسؤولين منتخبين في روما القديمة أو ممثل دبلوماسي حالي.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ايوبية",
+        "hint": "السلالة التي أسسها صلاح الدين الأيوبي في مصر والشام.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ياباني",
+        "hint": "الساموراي هو المحارب النبيل الذي خدم الإقطاعيين في هذا البلد الآسيوي القديم.",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "إقطاع",
+        "hint": "نظام اجتماعي وسياسي ساد أوروبا في العصور الوسطى، قائم على الأرض.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جفاف",
+        "hint": "ظاهرة طبيعية تسببت في انهيار العديد من الحضارات الزراعية القديمة.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جدار",
+        "hint": "بناء ضخم استخدمه الصينيون لحماية حدودهم الشمالية من الغزاة (سور ضخم).",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مغارة",
+        "hint": "كهف طبيعي استخدمه الإنسان الأول كمأوى لحمايته من الطبيعة.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جلجامش",
+        "hint": "البطل الأسطوري لملحمة سومرية تعد من أقدم الأعمال الأدبية المعروفة للبشر.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حجر",
+        "hint": "المادة الأساسية التي اعتمد عليها الإنسان في العصور الأولى لصنع أدواته وأسلحته.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مانيلا",
+        "hint": "عاصمة الفلبين التي كانت مركزا للتجارة الإسبانية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ديانة",
+        "hint": "المصطلح الذي يشير إلى المعتقدات الروحية التي شكلت تاريخ العديد من الشعوب؟",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رمح",
+        "hint": "سلاح قديم يستخدم في القتال اليدوي، يتكون من عصا طويلة ورأس حاد.",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حربان",
+        "hint": "مجموعتا النزاعات العالمية الكبرى اللتان وقعتا في النصف الأول من القرن العشرين.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "طروادة",
+        "hint": "المدينة الأسطورية التي حوصرت لمدة عشر سنوات بسبب حصان خشبي كبير.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "كاهن",
+        "hint": "شخص ذو سلطة دينية يقوم بالعبادات في المعابد القديمة ويشرف عليها.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "طائفة",
+        "hint": "مجموعة دينية أو اجتماعية تنفصل عن المجموعة الكبرى ولها معتقدات خاصة.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "فتح",
+        "hint": "عملية ضم أرض جديدة إلى الدولة الإسلامية سلمًا أو حربًا.",
+        "startx": 11,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "بلال",
+        "hint": "مؤذن الرسول وصحابي صبر على تعذيب قريش",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "بواتييه",
+        "hint": "موقع معركة بلاط الشهداء في فرنسا",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "طقوس",
+        "hint": "مجموعة من الممارسات الدينية أو الاجتماعية القديمة ذات الطابع الاحتفالي.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كولومبس",
+        "hint": "المستكشف الذي يُنسب إليه الوصول إلى الأمريكتين عام 1492، وبداية عصر جديد.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أكسوم",
+        "hint": "مملكة قديمة قامت في إثيوبيا وإريتريا",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "معاوية",
+        "hint": "مؤسس الدولة الأموية في دمشق",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مأدبة",
+        "hint": "حفل عشاء كبير يقيمه الملك أو القيصر احتفالاً بانتصار أو معاهدة سلام.",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "يافا",
+        "hint": "مدينة فلسطينية تاريخية تعد من أقدم مدن العالم",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "كنز",
+        "hint": "مجموعة من الأشياء الثمينة أو العملات القديمة المدفونة والمكتشفة صدفة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ازتك",
+        "hint": "إمبراطورية سيطرت على وسط المكسيك قبل الغزو الإسباني في القرن السادس عشر.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "توت",
+        "hint": "فرعون مصري شاب اشتهر بكنزه المذهل الذي اكتشف عام 1922م.",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "فيكينج",
+        "hint": "المستكشفون والمحاربون الإسكندنافيون الذين أغاروا على أوروبا في العصور الوسطى.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رومان",
+        "hint": "الشعب الذي أسس إمبراطورية شاسعة عاصمتها إيطاليا الحالية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "اثار",
+        "hint": "بقايا مبانٍ أو أدوات من حضارات قديمة تكشف عن نمط حياتهم.",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "عثمان",
+        "hint": "مؤسس السلالة التي حملت اسمه وحكمت لعدة قرون بعد سقوط السلاجقة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وثيقة",
+        "hint": "ورقة رسمية أو سجل يحوي معلومات هامة تثبت حدثًا تاريخيًا أو حقًا.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تاريخ",
+        "hint": "الدراسة المنهجية للماضي البشري بناءً على الأدلة والوثائق المكتوبة.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حقبة",
+        "hint": "مدة طويلة من الزمن في سياق زمني أو حضاري.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "خالد",
+        "hint": "سيف الله المسلول والقائد الذي لم يهزم في معركة",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "محو",
+        "hint": "إزالة أو إخفاء السجلات التاريخية أو الهوية الثقافية لشعب ما.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "أكاد",
+        "hint": "أول إمبراطورية في التاريخ معروفة تقع في منطقة بلاد الرافدين.",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "باريس",
+        "hint": "المدينة التي اندلعت فيها الثورة الفرنسية عام 1789.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "سقراط",
+        "hint": "الفيلسوف اليوناني الذي اشتهر بمنهج التساؤل وتم إعدامه بالسم.",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "فاروق",
+        "hint": "آخر ملوك مصر قبل قيام ثورة يوليو عام 1952م.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "آياصوفيا",
+        "hint": "المبنى التاريخي الضخم في إسطنبول الذي كان كنيسة ثم مسجداً ثم متحفاً.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صليب",
+        "hint": "الرمز الذي ارتبط بالحروب التي شنتها الممالك الأوروبية على الشرق في العصور الوسطى.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تيمور",
+        "hint": "قائد مغولي تركية أسس إمبراطورية واسعة في القرن الرابع عشر.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "لويس",
+        "hint": "اسم حمله العديد من ملوك فرنسا",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "صلب",
+        "hint": "طريقة إعدام قديمة ومهينة اشتهر بها الرومان.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "بابل",
+        "hint": "مدينة عراقية قديمة اشتهرت بحدائقها المعلقة التي كانت إحدى عجائب الدنيا.",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "خنادق",
+        "hint": "الحفر الطويلة التي استخدمت كخطوط دفاع ثابتة في الحرب العالمية الأولى.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "منارة",
+        "hint": "برج عالٍ بني لإرشاد السفن في البحر، وأشهرها كان في الإسكندرية.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أموية",
+        "hint": "السلالة التي أسست الخلافة الإسلامية في دمشق وحكمت بعد الخلفاء الراشدين.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ماري",
+        "hint": "ملكة اسكتلندا التي واجهت صراعات سياسية مريرة",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ترحال",
+        "hint": "الحركة المستمرة للقبائل والجماعات بحثًا عن الموارد، وهي سمة للعصور البدوية.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بيعة",
+        "hint": "طريقة تقليدية في الإسلام لتنصيب الخليفة أو الحاكم بناءً على الإجماع والرضا.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "باردة",
+        "hint": "الصراع الجيوسياسي الذي لم يشهد قتالًا مباشرًا بين الولايات المتحدة والاتحاد السوفيتي.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "شاهد",
+        "hint": "شخص عاصر حدثًا تاريخيًا مهمًا ويقدم روايته الشخصية عنه.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فرنسا",
+        "hint": "الدولة الأوروبية التي قامت فيها ثورة كبرى عام 1789م ضد الحكم الملكي المطلق؟",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تفتت",
+        "hint": "العملية التي أدت إلى تفكك الإمبراطورية الرومانية الغربية بسبب الغزوات الجرمانية؟",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هيروغليفي",
+        "hint": "نظام الكتابة التصويرية الذي استخدمه المصريون القدماء.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سلالة",
+        "hint": "مجموعة من الحكام المتعاقبين ينتمون إلى عائلة واحدة، مثل السلالة الفاطمية.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "عزل",
+        "hint": "الاسم الذي يطلق على فترة حكم شوغونية توكوغاوا في اليابان، التي تميزت بالانغلاق؟",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حامية",
+        "hint": "مجموعة من الجنود مكلفة بالدفاع عن موقع استراتيجي أو قلعة معينة.",
+        "startx": 9,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "آلهة",
+        "hint": "الكائنات التي كانت تعبد في الديانات المتعددة قبل ظهور التوحيد.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قرطبة",
+        "hint": "عاصمة الخلافة الأموية في الأندلس، وازدهرت كمركز ثقافي وعلمي في أوروبا.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جاهلية",
+        "hint": "الفترة التي سبقت ظهور الإسلام في الجزيرة العربية.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "أثرية",
+        "hint": "صفة تطلق على الأشياء القديمة التي خلفها لنا الأجداد والتي تدرسها العلوم الإنسانية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قنبلة",
+        "hint": "النوع من السلاح الذي ألقي على مدينتي هيروشيما وناغازاكي اليابانيتين.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بلقيس",
+        "hint": "ملكة سبأ التي ورد ذكرها في القصص التاريخية والدينية.",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "إرث",
+        "hint": "ما تخلفه الحضارات السابقة للأجيال اللاحقة من قيم وممتلكات.",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "أفلاطون",
+        "hint": "فيلسوف يوناني تلميذ سقراط ومؤسس الأكاديمية",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "روما",
+        "hint": "عاصمة الإمبراطورية التي سيطرت على حوض البحر الأبيض المتوسط لقرون طويلة.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "نازية",
+        "hint": "النظام الشمولي الذي قاده أدولف هتلر في ألمانيا.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "كوديكس",
+        "hint": "مخطوطة قديمة مكتوبة بخط اليد، غالبًا ما تكون ذات أهمية تاريخية أو دينية.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حكمة",
+        "hint": "خلاصة التجارب التاريخية التي يستفيد منها البشر في اتخاذ القرارات.",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قناة",
+        "hint": "ممر مائي اصطناعي مشهور يربط البحر الأحمر بالمتوسط.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "أرسطو",
+        "hint": "فيلسوف يوناني لقب بالمعلم الأول وتلميذ أفلاطون",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ميلاد",
+        "hint": "بداية تقويم زمني يستخدم على نطاق واسع في العالم المسيحي.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مغارة",
+        "hint": "كهف طبيعي استخدمه الإنسان الأول كمأوى لحمايته من الطبيعة.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لويس",
+        "hint": "اسم حمله العديد من ملوك فرنسا",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "بيعة",
+        "hint": "طريقة تقليدية في الإسلام لتنصيب الخليفة أو الحاكم بناءً على الإجماع والرضا.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سلالة",
+        "hint": "مجموعة من الحكام المتعاقبين ينتمون إلى عائلة واحدة، مثل السلالة الفاطمية.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جفاف",
+        "hint": "ظاهرة طبيعية تسببت في انهيار العديد من الحضارات الزراعية القديمة.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هوميروس",
+        "hint": "شاعر يوناني قديم صاحب ملحمتي الإلياذة والأوديسة",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "جوبلز",
+        "hint": "وزير الدعاية النازي في عهد هتلر",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ياباني",
+        "hint": "الساموراي هو المحارب النبيل الذي خدم الإقطاعيين في هذا البلد الآسيوي القديم.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "حكمة",
+        "hint": "خلاصة التجارب التاريخية التي يستفيد منها البشر في اتخاذ القرارات.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أهلية",
+        "hint": "الصراع المسلح الذي يحدث داخل حدود الدولة الواحدة وغالبًا ما يكون بين فصائلها.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حنبعل",
+        "hint": "القائد القرطاجي الشهير الذي قاد جيشه وفيلته عبر جبال الألب لمهاجمة روما.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "باريس",
+        "hint": "المدينة التي اندلعت فيها الثورة الفرنسية عام 1789.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بوسطن",
+        "hint": "المدينة الأمريكية التي شهدت حادثة رمي الشاي الشهيرة عام 1773م كاحتجاج؟",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صفويون",
+        "hint": "الدولة التي حكمت إيران في القرن السادس عشر وجعلت المذهب الشيعي رسمياً.",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سجين",
+        "hint": "شخص احتجز لمعارضته النظام السياسي أو لسبب آخر تاريخي.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "قتيبة",
+        "hint": "فاتح بلاد ما وراء النهر في العصر الأموي",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "محاور",
+        "hint": "التحالف العسكري الذي ضم ألمانيا وإيطاليا واليابان في الحرب العالمية الثانية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قناة",
+        "hint": "ممر مائي اصطناعي مشهور يربط البحر الأحمر بالمتوسط.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ماركو",
+        "hint": "المستكشف البندقي الشهير الذي سافر إلى الصين وبلاد فارس في القرن الثالث عشر.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نقوش",
+        "hint": "كتابات أو رسوم محفورة على الصخور أو جدران المعابد والآثار القديمة.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "كنوز",
+        "hint": "مقتنيات ثمينة مدفونة أو مفقودة ذات قيمة تاريخية وأثرية.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رعية",
+        "hint": "مصطلح يطلق على الشعب الذي يخضع لسلطة الحاكم أو الملك في النظام القديم.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "أتاتورك",
+        "hint": "مؤسس الجمهورية التركية الحديثة وأول رئيس لها بعد سقوط الخلافة العثمانية.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حضارة",
+        "hint": "مجموعة من التطورات الثقافية والعلمية والمادية التي تميز شعبًا معينًا.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هرقل",
+        "hint": "إمبراطور بيزنطي عاصر بزوغ فجر الإسلام",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "هزيمة",
+        "hint": "الفشل في القتال أو الخسارة أمام العدو في مواجهة عسكرية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "زنكية",
+        "hint": "الدولة التي تأسست في الشام على يد عماد الدين وقادت أولى جبهات الجهاد ضد الصليبيين.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كاتب",
+        "hint": "الشخص المسؤول عن تدوين السجلات والرسائل الرسمية في البلاط الملكي.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "صلبة",
+        "hint": "طبيعة الأرض القاسية التي كانت مسرحًا لمعارك تاريخية كبرى.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تاريخ",
+        "hint": "الدراسة المنهجية للماضي البشري بناءً على الأدلة والوثائق المكتوبة.",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "بطلمية",
+        "hint": "السلالة التي حكمت مصر بعد وفاة الإسكندر الأكبر وانتهت بكليوباترا.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بابوية",
+        "hint": "منصب السلطة الروحية والدنيوية لحاكم الكنيسة الكاثوليكية في روما.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ماركس",
+        "hint": "فيلسوف ألماني ومؤسس الفكر الشيوعي",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جندي",
+        "hint": "الفرد الذي يخدم في الجيش ويشارك في القتال دفاعاً عن الدولة.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "كنيسة",
+        "hint": "مكان العبادة الرئيسي للمسيحيين منذ العصور القديمة، وغالباً ما تكون ذات طابع تاريخي.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "وثنية",
+        "hint": "الاعتقاد بتعدد الآلهة وعبادتها، وهي الديانة السائدة قبل الأديان التوحيدية.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "أموية",
+        "hint": "السلالة التي أسست الخلافة الإسلامية في دمشق وحكمت بعد الخلفاء الراشدين.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "استباق",
+        "hint": "حدث يقع قبل الموعد المقرر له أو قبل أن تتخذ الأحداث مسارها المعتاد.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "سليم",
+        "hint": "السلطان العثماني الذي ضم مصر والشام للدولة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أفلاطون",
+        "hint": "فيلسوف يوناني تلميذ سقراط ومؤسس الأكاديمية",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سليمان",
+        "hint": "ملك نبي عرف بحكمته وبناء الهيكل",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سور",
+        "hint": "بناء ضخم استخدم قديماً لحماية المدن أو الحدود (مثل الصين العظيم).",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "اغريق",
+        "hint": "الشعب الذي وضع أسس الفلسفة والديمقراطية في أوروبا القديمة.",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "عباسيون",
+        "hint": "الدولة التي أطاحت بالأموية وجعلت بغداد مركزاً للعلم والثقافة.",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "باردة",
+        "hint": "الصراع الجيوسياسي الذي لم يشهد قتالًا مباشرًا بين الولايات المتحدة والاتحاد السوفيتي.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فكتوريا",
+        "hint": "ملكة بريطانيا التي حكمت في أوج العصر الإمبراطوري",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ذروة",
+        "hint": "أعلى نقطة وصلتها حضارة ما من الازدهار والقوة والتقدم.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "فتوحات",
+        "hint": "التوسعات العسكرية التي قام بها المسلمون الأوائل لنشر الإسلام.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تشرشل",
+        "hint": "رئيس وزراء بريطانيا خلال الحرب العالمية الثانية",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أرخنة",
+        "hint": "تسجيل الأحداث وفق تسلسلها الزمني الدقيق.",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "أسرة",
+        "hint": "مجموعة من الحكام ينتمون إلى نفس السلالة، يحكمون بالتتابع.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "يثرب",
+        "hint": "الاسم القديم للمدينة التي هاجر إليها الرسول محمد وأصبحت مقر الدولة الإسلامية الأولى.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مماليك",
+        "hint": "الطبقة العسكرية التي حكمت مصر والشام وصدت هجمات المغول.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ازتك",
+        "hint": "إمبراطورية سيطرت على وسط المكسيك قبل الغزو الإسباني في القرن السادس عشر.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "هولاكو",
+        "hint": "القائد المغولي الذي قام بغزو و تدمير بغداد والقضاء على الخلافة العباسية.",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ملحمة",
+        "hint": "قصيدة شعرية طويلة تحكي بطولات تاريخية أو أسطورية كبرى.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "روما",
+        "hint": "عاصمة الإمبراطورية التي سيطرت على حوض البحر الأبيض المتوسط لقرون طويلة.",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ماركو",
+        "hint": "المستكشف البندقي الشهير الذي سافر إلى الصين وبلاد فارس في القرن الثالث عشر.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "أوديسة",
+        "hint": "الملحمة الشعرية اليونانية التي تصف عودة البطل أوديسيوس إلى وطنه بعد الحرب.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "يهودا",
+        "hint": "المملكة القديمة التي ظهرت في الشام وعاصمتها أورشليم بعد انقسام مملكة إسرائيل؟",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "داروين",
+        "hint": "العالم البريطاني الذي وضع نظرية التطور والانتخاب الطبيعي.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "امبراطور",
+        "hint": "اللقب الذي كان يطلق على حاكم الإمبراطورية الرومانية المقدسة؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مسماري",
+        "hint": "نوع الكتابة القديمة التي استخدمها السومريون والبابليون على الألواح الطينية؟",
+        "startx": 12,
+        "starty": 14,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "صفويون",
+        "hint": "الدولة التي حكمت إيران في القرن السادس عشر وجعلت المذهب الشيعي رسمياً.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "بيزنطة",
+        "hint": "الاسم التاريخي لمدينة القسطنطينية قبل الفتح العثماني، وكانت عاصمة الإمبراطورية الشرقية.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تنقيب",
+        "hint": "عملية حفر وبحث منظمة يقوم بها علماء الآثار للكشف عن بقايا الماضي المدفونة.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نفي",
+        "hint": "إبعاد شخص مهم أو سياسي قسراً عن وطنه كنوع من العقاب أو الإبعاد.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تدمير",
+        "hint": "الفعل الذي يلحق بالمدن والمباني أثناء الحروب العنيفة والاحتلالات.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "جهاد",
+        "hint": "المفهوم الإسلامي للكفاح أو القتال في سبيل الدفاع عن الدين.",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "سبارتا",
+        "hint": "مدينة إغريقية اشتهرت بقوتها العسكرية والانضباط الشديد، وكانت منافسة لأثينا.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "قنبلة",
+        "hint": "النوع من السلاح الذي ألقي على مدينتي هيروشيما وناغازاكي اليابانيتين.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بومبي",
+        "hint": "مدينة رومانية دفنت بالكامل تحت رماد بركان فيزوف عام 79 م.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سقوط",
+        "hint": "اللحظة التي تنهار فيها إمبراطورية أو دولة قوية بعد فترة طويلة من الازدهار.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "أوديسة",
+        "hint": "الملحمة الشعرية اليونانية التي تصف عودة البطل أوديسيوس إلى وطنه بعد الحرب.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سقراط",
+        "hint": "الفيلسوف اليوناني الذي اشتهر بمنهج التساؤل وتم إعدامه بالسم.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سفير",
+        "hint": "ممثل سياسي يرسل من دولة لأخرى لإجراء مفاوضات أو تمثيل بلاده.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "اغريق",
+        "hint": "الشعب الذي وضع أسس الفلسفة والديمقراطية في أوروبا القديمة.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ثوري",
+        "hint": "شخص يدعو أو يشارك في تغيير جذري لنظام الحكم أو الدولة.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "قنصل",
+        "hint": "لقب لأعلى مسؤولين منتخبين في روما القديمة أو ممثل دبلوماسي حالي.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "الفاتح",
+        "hint": "لقب السلطان العثماني محمد الثاني الذي قام بفتح القسطنطينية.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "انتداب",
+        "hint": "شكل من أشكال السيطرة الاستعمارية وضعته عصبة الأمم على بعض مناطق الشرق الأوسط.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فارس",
+        "hint": "اسم الإمبراطورية القديمة التي كانت منافسة دائمة للإمبراطورية الرومانية في الشرق.",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "متحف",
+        "hint": "مكان مخصص لحفظ وعرض الآثار والمقتنيات التاريخية القديمة.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "قبور",
+        "hint": "الموقع الذي يوضع فيه جسد الميت، ويستخدم كدليل تاريخي لتحديد العصور.",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "محارب",
+        "hint": "الشخص المتخصص في القتال والحروب والذي يدافع عن بلاده.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بومبي",
+        "hint": "مدينة رومانية دفنت بالكامل تحت رماد بركان فيزوف عام 79 م.",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مماليك",
+        "hint": "الطبقة العسكرية التي حكمت مصر والشام وصدت هجمات المغول.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "اموية",
+        "hint": "الدولة الإسلامية التي اتخذت دمشق عاصمة لها وامتدت حتى الأندلس.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "سلطان",
+        "hint": "لقب استخدمه العديد من حكام الدول الإسلامية، لا سيما العثمانيين.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ميناء",
+        "hint": "المكان الساحلي الذي كان مركزاً تجارياً حيوياً في الحضارات القديمة.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كولوسيوم",
+        "hint": "المدرج الروماني الضخم الذي كان يستضيف قتال المصارعين والاحتفالات العامة.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "طقوس",
+        "hint": "مجموعة من الممارسات الدينية أو الاجتماعية القديمة ذات الطابع الاحتفالي.",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سقوط",
+        "hint": "اللحظة التي تنهار فيها إمبراطورية أو دولة قوية بعد فترة طويلة من الازدهار.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "محو",
+        "hint": "إزالة أو إخفاء السجلات التاريخية أو الهوية الثقافية لشعب ما.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مخطوطة",
+        "hint": "وثيقة قديمة مكتوبة بخط اليد قبل اختراع الطباعة.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "آرام",
+        "hint": "جد الشعوب الآرامية التي سكنت بلاد الشام",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تمثال",
+        "hint": "مجسم ثلاثي الأبعاد يمثل شخصية تاريخية أو إله أو حيوان.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "هارون",
+        "hint": "الخليفة العباسي الذي اشتهر بعهده الزاهر والرشيد",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "جوبلز",
+        "hint": "وزير الدعاية النازي في عهد هتلر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سومر",
+        "hint": "أول حضارة معروفة في جنوب بلاد الرافدين، ابتكرت الكتابة المسمارية.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ذروة",
+        "hint": "أعلى نقطة وصلتها حضارة ما من الازدهار والقوة والتقدم.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هانيبال",
+        "hint": "القائد القرطاجي الشهير الذي عبر جبال الألب بجيشه وفيلته.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "هولاكو",
+        "hint": "القائد المغولي الذي قام بغزو و تدمير بغداد والقضاء على الخلافة العباسية.",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "وادي",
+        "hint": "منخفض جغرافي شهد نشأة العديد من الحضارات الكبرى كالفرعونية.",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ياباني",
+        "hint": "الساموراي هو المحارب النبيل الذي خدم الإقطاعيين في هذا البلد الآسيوي القديم.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قوطي",
+        "hint": "نمط معماري أوروبي ظهر في العصور الوسطى، يتميز بالأقواس المدببة والارتفاع.",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "كليوباترا",
+        "hint": "آخر ملوك الأسرة البطلمية التي حكمت مصر قبل السيطرة الرومانية.",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حمورابي",
+        "hint": "الملك البابلي الذي وضع مجموعة من القوانين المنقوشة على مسلة شهيرة.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حضارة",
+        "hint": "مجموعة من التطورات الثقافية والعلمية والمادية التي تميز شعبًا معينًا.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سجين",
+        "hint": "شخص احتجز لمعارضته النظام السياسي أو لسبب آخر تاريخي.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ماركو",
+        "hint": "المستكشف البندقي الشهير الذي سافر إلى الصين وبلاد فارس في القرن الثالث عشر.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حصن",
+        "hint": "بناء عسكري قوي يستخدم للدفاع والحماية من هجمات العدو.",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سفنكس",
+        "hint": "تمثال ضخم بجسم أسد ورأس إنسان يحرس أهرامات الجيزة في مصر.",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ماركس",
+        "hint": "فيلسوف ألماني ومؤسس الفكر الشيوعي",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سومر",
+        "hint": "أول حضارة معروفة في جنوب بلاد الرافدين، ابتكرت الكتابة المسمارية.",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "آشور",
+        "hint": "إمبراطورية قديمة اشتهرت بقسوتها العسكرية في بلاد الرافدين.",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "طروادة",
+        "hint": "المدينة الأسطورية التي حوصرت لمدة عشر سنوات بسبب حصان خشبي كبير.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاهن",
+        "hint": "شخص ذو سلطة دينية يقوم بالعبادات في المعابد القديمة ويشرف عليها.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "آلهة",
+        "hint": "الكائنات التي كانت تعبد في الديانات المتعددة قبل ظهور التوحيد.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تحرير",
+        "hint": "الفعل التاريخي الذي قام به طارق بن زياد عندما دخل شبه الجزيرة الأيبيرية عام 711م؟",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "بلال",
+        "hint": "مؤذن الرسول وصحابي صبر على تعذيب قريش",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ثورة",
+        "hint": "تغيير جذري ومفاجئ في نظام الحكم أو البنية الاجتماعية يؤدي إلى قلب الموازين.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "هيرقليس",
+        "hint": "البطل الأسطوري اليوناني الذي اشتهر بقوته وقيامه باثني عشر عملاً.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نازية",
+        "hint": "النظام الشمولي الذي قاده أدولف هتلر في ألمانيا.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "مؤتمر",
+        "hint": "اجتماع رسمي يضم ممثلين عن دول لمناقشة قضية دولية أو تاريخية.",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "طارق",
+        "hint": "القائد المسلم الذي سمي مضيق جبل طارق باسمه عند فتح الأندلس.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كنعان",
+        "hint": "الاسم القديم لمنطقة الشام الساحلية التي سكنها الفينيقيون والعبرانيون.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كسرى",
+        "hint": "لقب كان يطلق على ملوك الإمبراطورية الفارسية الساسانية.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مدائن",
+        "hint": "العاصمة الساسانية التي تضم طاق كسرى وفتحها المسلمون.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مواب",
+        "hint": "مملكة قديمة تقع في الهضبة الشرقية للبحر الميت في الأردن حالياً.",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أطلس",
+        "hint": "مجموعة من الخرائط التاريخية أو الجغرافية المجمعة في كتاب.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "يوميات",
+        "hint": "سجلات شخصية يومية تعتبر مصدر تاريخي غير رسمي لحياة الأفراد.",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "سليم",
+        "hint": "السلطان العثماني الذي ضم مصر والشام للدولة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فاشية",
+        "hint": "النظام السياسي الشمولي الذي ظهر في إيطاليا تحت قيادة موسوليني.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ساساني",
+        "hint": "الإمبراطورية الفارسية التي سقطت على يد المسلمين في القرن السابع الميلادي؟",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سفينة",
+        "hint": "وسيلة نقل مائية استخدمها الفينيقيون بكثرة للتجارة والاستكشاف عبر البحار.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نفي",
+        "hint": "إبعاد شخص مهم أو سياسي قسراً عن وطنه كنوع من العقاب أو الإبعاد.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "غاندي",
+        "hint": "الزعيم الروحي والسياسي الهندي الذي قاد حركة الاستقلال باللاعنف.",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "لويس",
+        "hint": "اسم حمله العديد من ملوك فرنسا",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "فينقيا",
+        "hint": "الحضارة الساحلية التي اشتهرت بالتجارة وصناعة الأبجدية.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "قنصل",
+        "hint": "لقب لأعلى مسؤولين منتخبين في روما القديمة أو ممثل دبلوماسي حالي.",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ماو",
+        "hint": "الزعيم الذي أسس جمهورية الصين الشعبية عام 1949م وقاد الثورة الثقافية؟",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وثنية",
+        "hint": "الاعتقاد بتعدد الآلهة وعبادتها، وهي الديانة السائدة قبل الأديان التوحيدية.",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "غزوة",
+        "hint": "حملة عسكرية قام بها المسلمون الأوائل بقيادة الرسول محمد (صلى الله عليه وسلم).",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "معتصم",
+        "hint": "خليفة عباسي اشتهر بصرخة وامعتصماه",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نفي",
+        "hint": "إبعاد شخص مهم أو سياسي قسراً عن وطنه كنوع من العقاب أو الإبعاد.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "شهيد",
+        "hint": "من يموت دفاعاً عن قضية أو وطنه أو دينه في معركة.",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حنبعل",
+        "hint": "القائد القرطاجي الشهير الذي قاد جيشه وفيلته عبر جبال الألب لمهاجمة روما.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "اثينا",
+        "hint": "مدينة إغريقية اشتهرت بكونها مهد الديمقراطية والفلسفة والمسرح القديم.",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "أكاد",
+        "hint": "أول إمبراطورية في التاريخ معروفة تقع في منطقة بلاد الرافدين.",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مغول",
+        "hint": "الغزاة الذين اجتاحوا العالم الإسلامي ودمروا بغداد عام 1258م.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "معبد",
+        "hint": "بناء مخصص لعبادة الآلهة وتقديم القرابين في الحضارات القديمة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تدوين",
+        "hint": "عملية تسجيل وكتابة الأحداث التاريخية وحفظها للأجيال القادمة.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دوقية",
+        "hint": "إقليم يحكمه دوق أو دوقة، وهي مرتبة أقل من الملكية في أوروبا.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تمرد",
+        "hint": "عصيان مسلح ضد سلطة الدولة أو الحاكم الشرعي.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ترحال",
+        "hint": "الحركة المستمرة للقبائل والجماعات بحثًا عن الموارد، وهي سمة للعصور البدوية.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ماري",
+        "hint": "ملكة اسكتلندا التي واجهت صراعات سياسية مريرة",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حصار",
+        "hint": "عملية عسكرية تهدف لعزل مدينة أو قلعة وقطع الإمدادات عنها لإجبارها على الاستسلام.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "سلطان",
+        "hint": "لقب استخدمه العديد من حكام الدول الإسلامية، لا سيما العثمانيين.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "زنكية",
+        "hint": "الدولة التي تأسست في الشام على يد عماد الدين وقادت أولى جبهات الجهاد ضد الصليبيين.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كربلاء",
+        "hint": "الموقع الذي شهد معركة استشهاد الحسين بن علي وأهل بيته.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إرث",
+        "hint": "ما تخلفه الحضارات السابقة للأجيال اللاحقة من قيم وممتلكات.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "هيكل",
+        "hint": "المبنى المقدس الذي بناه اليهود في القدس وتم تدميره مرتين عبر التاريخ.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "واترلو",
+        "hint": "المعركة التي شهدت الهزيمة النهائية لنابليون بونابرت عام 1815م.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مومياء",
+        "hint": "الجسد المحنط للمتوفى للحفاظ عليه في مصر القديمة كطقس ديني.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "غيلة",
+        "hint": "عملية اغتيال تتم خفية وبطريقة مفاجئة ودون إعلان مسبق.",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "فتوحات",
+        "hint": "التوسعات العسكرية التي قام بها المسلمون الأوائل لنشر الإسلام.",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "غوطة",
+        "hint": "اسم يطلق على الأراضي الزراعية المحيطة بمدينة دمشق تاريخياً وكانت مصدر غنى لها.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نقوش",
+        "hint": "كتابات أو رسوم محفورة على الصخور أو جدران المعابد والآثار القديمة.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "منجم",
+        "hint": "الشخص الذي كان يعتقد أنه يتنبأ بالمستقبل أو يقرأ الطالع قديماً.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حاكم",
+        "hint": "الشخص المسؤول عن إدارة منطقة أو دولة في فترة زمنية.",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ميلاد",
+        "hint": "بداية تقويم زمني يستخدم على نطاق واسع في العالم المسيحي.",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ميناء",
+        "hint": "المكان الساحلي الذي كان مركزاً تجارياً حيوياً في الحضارات القديمة.",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "معتصم",
+        "hint": "خليفة عباسي اشتهر بصرخة وامعتصماه",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تمثال",
+        "hint": "مجسم ثلاثي الأبعاد يمثل شخصية تاريخية أو إله أو حيوان.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "اغريق",
+        "hint": "الشعب الذي وضع أسس الفلسفة والديمقراطية في أوروبا القديمة.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "تشرشل",
+        "hint": "رئيس وزراء بريطانيا خلال الحرب العالمية الثانية",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "شيوعية",
+        "hint": "الأيديولوجية السياسية التي أسسها كارل ماركس وتدعو لإلغاء الملكية الخاصة.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مانيلا",
+        "hint": "عاصمة الفلبين التي كانت مركزا للتجارة الإسبانية",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قوطي",
+        "hint": "نمط معماري أوروبي ظهر في العصور الوسطى، يتميز بالأقواس المدببة والارتفاع.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "محاور",
+        "hint": "التحالف العسكري الذي ضم ألمانيا وإيطاليا واليابان في الحرب العالمية الثانية.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تيمور",
+        "hint": "قائد مغولي تركية أسس إمبراطورية واسعة في القرن الرابع عشر.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بلقيس",
+        "hint": "ملكة سبأ التي ورد ذكرها في القصص التاريخية والدينية.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "جاهلي",
+        "hint": "مصطلح يشير إلى الفترة التي سبقت ظهور الإسلام في شبه الجزيرة العربية.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قرش",
+        "hint": "وحدة عملة فضية كانت شائعة في العديد من الدول العربية والأوروبية القديمة.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نصر",
+        "hint": "تحقيق الفوز الحاسم في معركة أو حرب ضد العدو.",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ميتاني",
+        "hint": "مملكة قديمة ازدهرت في شمال سوريا واشتهرت باستخدامها للخيول والعربات.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حتشبسوت",
+        "hint": "أشهر ملكات مصر القديمة التي حكمت البلاد كفرعون ذكر.",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لينكولن",
+        "hint": "الرئيس الأمريكي الذي قاد الاتحاد خلال الحرب الأهلية وألغى العبودية.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ماركو",
+        "hint": "المستكشف البندقي الشهير الذي سافر إلى الصين وبلاد فارس في القرن الثالث عشر.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سفارة",
+        "hint": "بعثة دبلوماسية تمثل دولة في بلد آخر لتنظيم العلاقات.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "يالطا",
+        "hint": "المؤتمر الذي عقده الحلفاء الكبار في عام 1945م لمناقشة إعادة تشكيل أوروبا.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "وادي",
+        "hint": "منخفض جغرافي شهد نشأة العديد من الحضارات الكبرى كالفرعونية.",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مجاعة",
+        "hint": "نقص شديد وممتد في الغذاء يؤدي إلى هلاك جماعي للسكان وتغيير ديموغرافي.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جاهلية",
+        "hint": "الفترة التي سبقت ظهور الإسلام في الجزيرة العربية.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "منجنيق",
+        "hint": "آلة حصار ضخمة كانت تستخدم لقذف المقذوفات الثقيلة على أسوار المدن.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "غيلة",
+        "hint": "عملية اغتيال تتم خفية وبطريقة مفاجئة ودون إعلان مسبق.",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ياباني",
+        "hint": "الساموراي هو المحارب النبيل الذي خدم الإقطاعيين في هذا البلد الآسيوي القديم.",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بيزنطة",
+        "hint": "الاسم التاريخي لمدينة القسطنطينية قبل الفتح العثماني، وكانت عاصمة الإمبراطورية الشرقية.",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "بومبي",
+        "hint": "مدينة رومانية دفنت بالكامل تحت رماد بركان فيزوف عام 79 م.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "خلافة",
+        "hint": "نظام حكم إسلامي ظهر بعد وفاة الرسول، اشتهر ببني العباس والأمويين.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "أطلس",
+        "hint": "مجموعة من الخرائط التاريخية أو الجغرافية المجمعة في كتاب.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "صليب",
+        "hint": "الرمز الذي ارتبط بالحروب التي شنتها الممالك الأوروبية على الشرق في العصور الوسطى.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كولومبس",
+        "hint": "المستكشف الذي يُنسب إليه الوصول إلى الأمريكتين عام 1492، وبداية عصر جديد.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "زنوبيا",
+        "hint": "ملكة تدمر التي تمردت على الإمبراطورية الرومانية",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "يهودا",
+        "hint": "المملكة القديمة التي ظهرت في الشام وعاصمتها أورشليم بعد انقسام مملكة إسرائيل؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "زكاة",
+        "hint": "فريضة مالية سنوية كانت جزءاً من النظام الاقتصادي الإسلامي.",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "استعمار",
+        "hint": "سيطرة دولة قوية على أراضي وشعوب دولة أخرى واستغلال مواردها.",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "هرم",
+        "hint": "بناء ضخم مثلث الشكل بناه قدماء المصريين لدفن ملوكهم.",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مؤتمر",
+        "hint": "اجتماع رسمي يضم ممثلين عن دول لمناقشة قضية دولية أو تاريخية.",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "منجم",
+        "hint": "الشخص الذي كان يعتقد أنه يتنبأ بالمستقبل أو يقرأ الطالع قديماً.",
+        "startx": 5,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مصدر",
+        "hint": "أي وثيقة أو أثر مادي يعتمد عليه المؤرخ لاستخلاص المعلومات عن الماضي.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "حجر",
+        "hint": "المادة الأساسية التي اعتمد عليها الإنسان في العصور الأولى لصنع أدواته وأسلحته.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دارا",
+        "hint": "ملك فارسي خاض حروبا ضد اليونانيين",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مدائن",
+        "hint": "العاصمة الساسانية التي تضم طاق كسرى وفتحها المسلمون.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "أنوبيس",
+        "hint": "إله التحنيط والموتى عند قدماء المصريين",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "معتصم",
+        "hint": "خليفة عباسي اشتهر بصرخة وامعتصماه",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سبارتا",
+        "hint": "مدينة إغريقية اشتهرت بقوتها العسكرية والانضباط الشديد، وكانت منافسة لأثينا.",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "جوبلز",
+        "hint": "وزير الدعاية النازي في عهد هتلر",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مواب",
+        "hint": "مملكة قديمة تقع في الهضبة الشرقية للبحر الميت في الأردن حالياً.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حامية",
+        "hint": "مجموعة من الجنود مكلفة بالدفاع عن موقع استراتيجي أو قلعة معينة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ميريت",
+        "hint": "أول ملكة في التاريخ حكمت مصر القديمة",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "سلالة",
+        "hint": "مجموعة من الحكام المتعاقبين ينتمون إلى عائلة واحدة، مثل السلالة الفاطمية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إيزيس",
+        "hint": "إلهة مصرية قديمة في أسطورة إيزيس وأوزوريس",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "وزير",
+        "hint": "منصب رفيع يساعد الحاكم أو الخليفة في إدارة شؤون الدولة.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حمزة",
+        "hint": "عم الرسول ولقب بسيد الشهداء",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تحرير",
+        "hint": "الفعل التاريخي الذي قام به طارق بن زياد عندما دخل شبه الجزيرة الأيبيرية عام 711م؟",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مسلة",
+        "hint": "عمود حجري طويل ونحيف استخدمه قدماء المصريين لتخليد الإنجازات.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سلطان",
+        "hint": "لقب استخدمه العديد من حكام الدول الإسلامية، لا سيما العثمانيين.",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ازتك",
+        "hint": "إمبراطورية سيطرت على وسط المكسيك قبل الغزو الإسباني في القرن السادس عشر.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "جند",
+        "hint": "مصطلح يطلق على الجنود والجيش في العصور القديمة الذين يحمون الدولة.",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "جدارية",
+        "hint": "لوحة فنية كبيرة مرسومة مباشرة على جدار مبنى تاريخي أو ديني.",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "إليزابيث",
+        "hint": "ملكة إنجلترا التي شهد عهدها العصر الذهبي",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معاهدة",
+        "hint": "اتفاق رسمي ملزم يتم توقيعه بين طرفين أو أكثر من الدول.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "اموية",
+        "hint": "الدولة الإسلامية التي اتخذت دمشق عاصمة لها وامتدت حتى الأندلس.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "يوليوس",
+        "hint": "القائد الروماني الذي أنهى الجمهورية واغتيل في مجلس الشيوخ عام 44 ق.م.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سجين",
+        "hint": "شخص احتجز لمعارضته النظام السياسي أو لسبب آخر تاريخي.",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "الفاتح",
+        "hint": "لقب السلطان العثماني محمد الثاني الذي قام بفتح القسطنطينية.",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جاهلي",
+        "hint": "مصطلح يشير إلى الفترة التي سبقت ظهور الإسلام في شبه الجزيرة العربية.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "خندق",
+        "hint": "حفرة عميقة تحيط بالمدينة للدفاع عنها، اشتهرت في غزوة بالمدينة المنورة.",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "استباق",
+        "hint": "حدث يقع قبل الموعد المقرر له أو قبل أن تتخذ الأحداث مسارها المعتاد.",
+        "startx": 6,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "جندي",
+        "hint": "الفرد الذي يخدم في الجيش ويشارك في القتال دفاعاً عن الدولة.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "أكاد",
+        "hint": "أول إمبراطورية في التاريخ معروفة تقع في منطقة بلاد الرافدين.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مماليك",
+        "hint": "الطبقة العسكرية التي حكمت مصر والشام وصدت هجمات المغول.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بلقيس",
+        "hint": "ملكة سبأ التي ورد ذكرها في القصص التاريخية والدينية.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مصر",
+        "hint": "الدولة التي حكمها الفراعنة وازدهرت على ضفاف نهر النيل.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بطليموس",
+        "hint": "سلالة يونانية حكمت مصر بعد وفاة الإسكندر الأكبر.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أرسطو",
+        "hint": "فيلسوف يوناني لقب بالمعلم الأول وتلميذ أفلاطون",
+        "startx": 11,
+        "starty": 15,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "دينار",
+        "hint": "عملة ذهبية تاريخية كانت تستخدم في الدولة الإسلامية كأداة للتبادل التجاري.",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ماو",
+        "hint": "الزعيم الذي أسس جمهورية الصين الشعبية عام 1949م وقاد الثورة الثقافية؟",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "هيكل",
+        "hint": "المبنى المقدس الذي بناه اليهود في القدس وتم تدميره مرتين عبر التاريخ.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نجاشي",
+        "hint": "لقب ملك الحبشة الذي استقبل المهاجرين المسلمين",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حجرية",
+        "hint": "الفترة الزمنية الطويلة في التاريخ البشري التي كان فيها الإنسان يستخدم الأدوات الصخرية.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "بردي",
+        "hint": "مادة ورقية كانت تستخدم للكتابة في مصر القديمة قبل اكتشاف الورق الحديث.",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "هرم",
+        "hint": "بناء ضخم مثلث الشكل بناه قدماء المصريين لدفن ملوكهم.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "هانيبال",
+        "hint": "القائد القرطاجي الشهير الذي عبر جبال الألب بجيشه وفيلته.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "معركة",
+        "hint": "قتال كبير ومنظم بين جيشين لتحديد مصير منطقة أو صراع.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سبارتا",
+        "hint": "مدينة إغريقية اشتهرت بقوتها العسكرية والانضباط الشديد، وكانت منافسة لأثينا.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مينا",
+        "hint": "الملك الذي وحد القطرين في مصر القديمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مومياء",
+        "hint": "الجسد المحنط للمتوفى للحفاظ عليه في مصر القديمة كطقس ديني.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "زمن",
+        "hint": "البعد الذي تُقاس به الأحداث التاريخية المتتابعة والماضية.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "طليطلة",
+        "hint": "المدينة الأندلسية التي سقطت في أيدي المسيحيين وكانت مركزاً مهماً للترجمة.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قديم",
+        "hint": "صفة تطلق على العصور التي سبقت العصور الوسطى، مثل الحضارة المصرية؟",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "سويسرا",
+        "hint": "الدولة الأوروبية التي حافظت على حيادها التام في معظم الصراعات العالمية الكبرى؟",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "داروين",
+        "hint": "العالم البريطاني الذي وضع نظرية التطور والانتخاب الطبيعي.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مراد",
+        "hint": "اسم لعدة سلاطين في الدولة العثمانية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "آياصوفيا",
+        "hint": "المبنى التاريخي الضخم في إسطنبول الذي كان كنيسة ثم مسجداً ثم متحفاً.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ميناء",
+        "hint": "المكان الساحلي الذي كان مركزاً تجارياً حيوياً في الحضارات القديمة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جاهلية",
+        "hint": "الفترة التي سبقت ظهور الإسلام في الجزيرة العربية.",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إنكا",
+        "hint": "إمبراطورية واسعة ازدهرت في جبال الأنديز بأمريكا الجنوبية قبل الغزو الإسباني.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "طباعة",
+        "hint": "الاختراع الذي يُنسب إلى جوتنبرج وساهم في نشر المعرفة وقيام الإصلاح الديني؟",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "هكسوس",
+        "hint": "جماعة احتلت شمال مصر في فترة ضعف الدولة الوسطى قبل طردهم على يد أحمس.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "اهرامات",
+        "hint": "اسم المجموعة الكبرى من البنايات الضخمة في منطقة الجيزة بمصر.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "موحدون",
+        "hint": "دولة إسلامية كبرى نشأت في المغرب الأقصى وسيطرت على الأندلس.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نجاشي",
+        "hint": "لقب ملك الحبشة الذي استقبل المهاجرين المسلمين",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سفينة",
+        "hint": "وسيلة نقل مائية استخدمها الفينيقيون بكثرة للتجارة والاستكشاف عبر البحار.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "داوود",
+        "hint": "ملك نبي اشتهر بقتل جالوت وحكم بني إسرائيل",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "داروين",
+        "hint": "العالم البريطاني الذي وضع نظرية التطور والانتخاب الطبيعي.",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "يرموك",
+        "hint": "المعركة الفاصلة التي أدت لسيطرة المسلمين على بلاد الشام في عهد عمر.",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "لينكولن",
+        "hint": "الرئيس الأمريكي الذي قاد الاتحاد خلال الحرب الأهلية وألغى العبودية.",
+        "startx": 8,
+        "starty": 15,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "راشدة",
+        "hint": "أول فترة حكم إسلامي بعد وفاة النبي محمد، وشملت الخلفاء الأربعة الأوائل.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أديسون",
+        "hint": "المخترع الأمريكي الذي اشتهر بتطوير المصباح الكهربائي.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خوفو",
+        "hint": "فرعون مصري بنى الهرم الأكبر في الجيزة",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "إقطاع",
+        "hint": "نظام اجتماعي وسياسي ساد أوروبا في العصور الوسطى، قائم على الأرض.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سبأ",
+        "hint": "مملكة عربية قديمة ازدهرت في جنوب شبه الجزيرة العربية (اليمن).",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أتاتورك",
+        "hint": "مؤسس الجمهورية التركية الحديثة وأول رئيس لها بعد سقوط الخلافة العثمانية.",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "أكسوم",
+        "hint": "مملكة قديمة قامت في إثيوبيا وإريتريا",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "معركة",
+        "hint": "قتال كبير ومنظم بين جيشين لتحديد مصير منطقة أو صراع.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مومياء",
+        "hint": "الجسد المحنط للمتوفى للحفاظ عليه في مصر القديمة كطقس ديني.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بلال",
+        "hint": "مؤذن الرسول وصحابي صبر على تعذيب قريش",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "طليطلة",
+        "hint": "المدينة الأندلسية التي سقطت في أيدي المسيحيين وكانت مركزاً مهماً للترجمة.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "بواتييه",
+        "hint": "موقع معركة بلاط الشهداء في فرنسا",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بطليموس",
+        "hint": "سلالة يونانية حكمت مصر بعد وفاة الإسكندر الأكبر.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "جهاد",
+        "hint": "المفهوم الإسلامي للكفاح أو القتال في سبيل الدفاع عن الدين.",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "بيبرس",
+        "hint": "سلطان مملوكي لقب بالظاهر وهزم الصليبيين والمغول",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "برلين",
+        "hint": "المدينة الألمانية التي تم تقسيمها بجدار شهير بعد الحرب العالمية الثانية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عشرون",
+        "hint": "القرن الميلادي الذي شهد اندلاع الحربين العالميتين وسقوط العديد من الإمبراطوريات.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ميريت",
+        "hint": "أول ملكة في التاريخ حكمت مصر القديمة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "راشدون",
+        "hint": "الخلفاء الأربعة الأوائل الذين حكموا الأمة الإسلامية بالشورى.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مئوية",
+        "hint": "فترة زمنية تساوي مئة عام وتستخدم لقياس التاريخ وتسلسل الأحداث؟",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مؤامرة",
+        "hint": "خطة سرية تهدف للإطاحة بشخص أو نظام حاكم أو تغيير مجرى الأحداث.",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قلعة",
+        "hint": "حصن كبير ومحكم البناء استخدم للحماية والدفاع عن المدن في العصور الوسطى.",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "طارق",
+        "hint": "القائد المسلم الذي سمي مضيق جبل طارق باسمه عند فتح الأندلس.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تاريخ",
+        "hint": "الدراسة المنهجية للماضي البشري بناءً على الأدلة والوثائق المكتوبة.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "فرعون",
+        "hint": "اللقب الذي كان يحمله ملوك مصر القديمة الذين بنوا الأهرامات.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ماري",
+        "hint": "ملكة اسكتلندا التي واجهت صراعات سياسية مريرة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ماو",
+        "hint": "الزعيم الذي أسس جمهورية الصين الشعبية عام 1949م وقاد الثورة الثقافية؟",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مملوكي",
+        "hint": "الدولة التي حكمت مصر والشام وتصدت لغزو المغول في معركة عين جالوت؟",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هتلر",
+        "hint": "زعيم الحزب النازي ومستشار ألمانيا الذي أشعل فتيل الحرب العالمية الثانية.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مؤرخ",
+        "hint": "الشخص الذي يدرس ويسجل الأحداث الماضية ويسعى لتفسيرها وتحليلها.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "يرموك",
+        "hint": "المعركة الفاصلة التي أدت لسيطرة المسلمين على بلاد الشام في عهد عمر.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تحرير",
+        "hint": "الفعل التاريخي الذي قام به طارق بن زياد عندما دخل شبه الجزيرة الأيبيرية عام 711م؟",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "رشيد",
+        "hint": "الحجر الذي اكتشف في مصر ومكّن العلماء من فك رموز الكتابة المصرية القديمة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نبوي",
+        "hint": "العصر الذي يضم الفترة التي عاشها النبي محمد وبدايات الإسلام.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ايوبية",
+        "hint": "السلالة التي أسسها صلاح الدين الأيوبي في مصر والشام.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قيصر",
+        "hint": "لقب كان يطلق على حكام الإمبراطورية الرومانية.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حجرية",
+        "hint": "الفترة الزمنية الطويلة في التاريخ البشري التي كان فيها الإنسان يستخدم الأدوات الصخرية.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "فرعون",
+        "hint": "اللقب الذي كان يحمله ملوك مصر القديمة الذين بنوا الأهرامات.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حجر",
+        "hint": "المادة الأساسية التي اعتمد عليها الإنسان في العصور الأولى لصنع أدواته وأسلحته.",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "هجرة",
+        "hint": "انتقال النبي محمد من مكة إلى المدينة المنورة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فكتوريا",
+        "hint": "ملكة بريطانيا التي حكمت في أوج العصر الإمبراطوري",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مومياء",
+        "hint": "الجسد المحنط للمتوفى للحفاظ عليه في مصر القديمة كطقس ديني.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مؤامرة",
+        "hint": "خطة سرية تهدف للإطاحة بشخص أو نظام حاكم أو تغيير مجرى الأحداث.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نفي",
+        "hint": "إبعاد شخص مهم أو سياسي قسراً عن وطنه كنوع من العقاب أو الإبعاد.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أحمس",
+        "hint": "الملك المصري الذي طرد الهكسوس من مصر",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "معاهدة",
+        "hint": "اتفاق رسمي ملزم يتم توقيعه بين طرفين أو أكثر من الدول.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تقويم",
+        "hint": "نظام لترتيب وتسمية أيام وشهور وسنوات متتالية لتسجيل الأحداث وتأريخها.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "تمثال",
+        "hint": "مجسم ثلاثي الأبعاد يمثل شخصية تاريخية أو إله أو حيوان.",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "عصرنة",
+        "hint": "مصطلح يشير إلى التحول نحو الأساليب الحديثة والتكنولوجية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ميتاني",
+        "hint": "مملكة قديمة ازدهرت في شمال سوريا واشتهرت باستخدامها للخيول والعربات.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "انتداب",
+        "hint": "شكل من أشكال السيطرة الاستعمارية وضعته عصبة الأمم على بعض مناطق الشرق الأوسط.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "محارب",
+        "hint": "الشخص المتخصص في القتال والحروب والذي يدافع عن بلاده.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بطليموس",
+        "hint": "سلالة يونانية حكمت مصر بعد وفاة الإسكندر الأكبر.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مينا",
+        "hint": "الملك الذي وحد القطرين في مصر القديمة",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "كنوز",
+        "hint": "مقتنيات ثمينة مدفونة أو مفقودة ذات قيمة تاريخية وأثرية.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "يالطا",
+        "hint": "المؤتمر الذي عقده الحلفاء الكبار في عام 1945م لمناقشة إعادة تشكيل أوروبا.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "خوارزم",
+        "hint": "الإمبراطورية التي دمرها جنكيز خان وكانت سبباً في اجتياح المغول للعالم الإسلامي؟",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خليفة",
+        "hint": "لقب استخدمه الخلفاء الراشدون ومن تبعهم كرمز للقيادة الروحية والسياسية.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "استعمار",
+        "hint": "سيطرة دولة قوية على أراضي وشعوب دولة أخرى واستغلال مواردها.",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تدمير",
+        "hint": "الفعل الذي يلحق بالمدن والمباني أثناء الحروب العنيفة والاحتلالات.",
+        "startx": 8,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "معركة",
+        "hint": "قتال كبير ومنظم بين جيشين لتحديد مصير منطقة أو صراع.",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "لوفر",
+        "hint": "المتحف الباريسي الشهير الذي يضم العديد من الآثار التاريخية الهامة.",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تتابع",
+        "hint": "السرد التاريخي المتسلسل للأحداث وفق ترتيبها الزمني.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "هولاكو",
+        "hint": "القائد المغولي الذي قام بغزو و تدمير بغداد والقضاء على الخلافة العباسية.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هيرودت",
+        "hint": "المؤرخ اليوناني الذي عاش في القرن الخامس قبل الميلاد ويُلقب بأبي التاريخ.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ألفونسو",
+        "hint": "اسم مشترك لعدد من ملوك إسبانيا المسيحيين الذين حاربوا في فترة الاسترداد.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سليم",
+        "hint": "السلطان العثماني الذي ضم مصر والشام للدولة",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "فخار",
+        "hint": "أدوات مصنوعة من الطين المحروق، وتدل على تاريخ الحضارات القديمة.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "عباسيون",
+        "hint": "الدولة التي أطاحت بالأموية وجعلت بغداد مركزاً للعلم والثقافة.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "إليزابيث",
+        "hint": "ملكة إنجلترا التي شهد عهدها العصر الذهبي",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صلب",
+        "hint": "طريقة إعدام قديمة ومهينة اشتهر بها الرومان.",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مصدر",
+        "hint": "أي وثيقة أو أثر مادي يعتمد عليه المؤرخ لاستخلاص المعلومات عن الماضي.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دستور",
+        "hint": "مجموعة القواعد والمبادئ الأساسية التي تحكم الدولة وتنظم السلطات.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملحمة",
+        "hint": "قصيدة شعرية طويلة تحكي بطولات تاريخية أو أسطورية كبرى.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "وثني",
+        "hint": "صفة تطلق على من يعبدون آلهة متعددة أو أصناماً قبل ظهور الديانات السماوية؟",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "جند",
+        "hint": "مصطلح يطلق على الجنود والجيش في العصور القديمة الذين يحمون الدولة.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ترعة",
+        "hint": "مجرى مائي صناعي قام بحفره القدماء لتسهيل الري والنقل، مثل قناة سيزوستريس؟",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "امبراطور",
+        "hint": "اللقب الذي كان يطلق على حاكم الإمبراطورية الرومانية المقدسة؟",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "طباعة",
+        "hint": "الاختراع الذي يُنسب إلى جوتنبرج وساهم في نشر المعرفة وقيام الإصلاح الديني؟",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "تدوين",
+        "hint": "عملية تسجيل وكتابة الأحداث التاريخية وحفظها للأجيال القادمة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قتيبة",
+        "hint": "فاتح بلاد ما وراء النهر في العصر الأموي",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سقوط",
+        "hint": "اللحظة التي تنهار فيها إمبراطورية أو دولة قوية بعد فترة طويلة من الازدهار.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مسلة",
+        "hint": "عمود حجري طويل ونحيف استخدمه قدماء المصريين لتخليد الإنجازات.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ماركو",
+        "hint": "المستكشف البندقي الشهير الذي سافر إلى الصين وبلاد فارس في القرن الثالث عشر.",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كنيسة",
+        "hint": "مكان العبادة الرئيسي للمسيحيين منذ العصور القديمة، وغالباً ما تكون ذات طابع تاريخي.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "بومبي",
+        "hint": "مدينة رومانية دفنت بالكامل تحت رماد بركان فيزوف عام 79 م.",
+        "startx": 12,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حربان",
+        "hint": "مجموعتا النزاعات العالمية الكبرى اللتان وقعتا في النصف الأول من القرن العشرين.",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "كنعان",
+        "hint": "الاسم القديم لمنطقة الشام الساحلية التي سكنها الفينيقيون والعبرانيون.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هكسوس",
+        "hint": "جماعة احتلت شمال مصر في فترة ضعف الدولة الوسطى قبل طردهم على يد أحمس.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بونيقية",
+        "hint": "اسم الحروب الطاحنة التي دارت بين روما ومدينة قرطاجة للسيطرة على غرب المتوسط.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "عقبة",
+        "hint": "الفاتح الإسلامي الذي بنى مدينة القيروان",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قيصر",
+        "hint": "لقب كان يطلق على حكام الإمبراطورية الرومانية.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تروي",
+        "hint": "مدينة أسطورية شهدت حرب طروادة الشهيرة",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "بلقيس",
+        "hint": "ملكة سبأ التي ورد ذكرها في القصص التاريخية والدينية.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كولوسيوم",
+        "hint": "المدرج الروماني الضخم الذي كان يستضيف قتال المصارعين والاحتفالات العامة.",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "حجرية",
+        "hint": "الفترة الزمنية الطويلة في التاريخ البشري التي كان فيها الإنسان يستخدم الأدوات الصخرية.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صلبة",
+        "hint": "طبيعة الأرض القاسية التي كانت مسرحًا لمعارك تاريخية كبرى.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قرون",
+        "hint": "وحدة زمنية تعادل مئة عام وتستخدم في حساب فترات التاريخ الطويلة.",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سفينة",
+        "hint": "وسيلة نقل مائية استخدمها الفينيقيون بكثرة للتجارة والاستكشاف عبر البحار.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ساساني",
+        "hint": "الإمبراطورية الفارسية التي سقطت على يد المسلمين في القرن السابع الميلادي؟",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ملكة",
+        "hint": "الحاكمة الأنثى أو زوجة الملك في النظام الملكي.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "جفاف",
+        "hint": "ظاهرة طبيعية تسببت في انهيار العديد من الحضارات الزراعية القديمة.",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مسلة",
+        "hint": "عمود حجري طويل ونحيف استخدمه قدماء المصريين لتخليد الإنجازات.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "هيرودوت",
+        "hint": "لقب بأبي التاريخ ويعد أول مؤرخ يوناني معروف.",
+        "startx": 10,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "حكمة",
+        "hint": "خلاصة التجارب التاريخية التي يستفيد منها البشر في اتخاذ القرارات.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "دين",
+        "hint": "نظام اعتقادي أثر بعمق في تشكيل القوانين والأخلاق في الحضارات القديمة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ترميم",
+        "hint": "عملية إصلاح وصيانة الآثار والمباني القديمة للحفاظ عليها من التلف.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "توت",
+        "hint": "فرعون مصري شاب اشتهر بكنزه المذهل الذي اكتشف عام 1922م.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "فتح",
+        "hint": "عملية ضم أرض جديدة إلى الدولة الإسلامية سلمًا أو حربًا.",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "صلاح",
+        "hint": "القائد الأيوبي الذي استرد القدس من الصليبيين بعد معركة حطين الشهيرة.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "فلك",
+        "hint": "العلم الذي استخدمه القدماء لتحديد الأوقات والمواسم الزراعية والاتجاهات؟",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رفات",
+        "hint": "بقايا العظام أو الجسد بعد الموت، مهمة في علم الآثار ودراسة الهجرات.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حربان",
+        "hint": "مجموعتا النزاعات العالمية الكبرى اللتان وقعتا في النصف الأول من القرن العشرين.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "أرشيف",
+        "hint": "مكان حفظ السجلات والوثائق التاريخية الهامة التي تشكل المصادر الأساسية للتاريخ.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "لويس",
+        "hint": "اسم حمله العديد من ملوك فرنسا",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "حجر",
+        "hint": "المادة الأساسية التي اعتمد عليها الإنسان في العصور الأولى لصنع أدواته وأسلحته.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تحرير",
+        "hint": "الفعل التاريخي الذي قام به طارق بن زياد عندما دخل شبه الجزيرة الأيبيرية عام 711م؟",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مصدر",
+        "hint": "أي وثيقة أو أثر مادي يعتمد عليه المؤرخ لاستخلاص المعلومات عن الماضي.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حامية",
+        "hint": "مجموعة من الجنود مكلفة بالدفاع عن موقع استراتيجي أو قلعة معينة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "أرخنة",
+        "hint": "تسجيل الأحداث وفق تسلسلها الزمني الدقيق.",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بواتييه",
+        "hint": "موقع معركة بلاط الشهداء في فرنسا",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ثوري",
+        "hint": "شخص يدعو أو يشارك في تغيير جذري لنظام الحكم أو الدولة.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "يافا",
+        "hint": "مدينة فلسطينية تاريخية تعد من أقدم مدن العالم",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تمرد",
+        "hint": "عصيان مسلح ضد سلطة الدولة أو الحاكم الشرعي.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ]
+  ]
+}
