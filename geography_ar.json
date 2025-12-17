@@ -1,0 +1,6908 @@
+{
+  "levels": [
+    [
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية للمعلومات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ازدهار",
+        "hint": "نمو وازدياد",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر الهواء",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ترسيب",
+        "hint": "سقوط مادة من سائل أو غاز",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مغناطيسية",
+        "hint": "طاقة مرتبطة بالمجالات المغناطيسية",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "جليد",
+        "hint": "ماء متجمد على شكل طبقات",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "درجة",
+        "hint": "مقياس لشدة شيء ما",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مسرحية",
+        "hint": "عمل أدبي يمثل على المسرح",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ولادة",
+        "hint": "بدء الحياة",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جذر",
+        "hint": "أساس الشيء",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "فحم",
+        "hint": "صخور رسوبية سوداء قابلة للاشتعال",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "لون",
+        "hint": "خاصية بصرية للجسم",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تردد",
+        "hint": "عدد الاهتزازات في الثانية",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مثلث",
+        "hint": "مضلع له ثلاثة أضلاع وثلاث زوايا.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "برودة",
+        "hint": "مقياس لدرجة برودة الجسم",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "حلم",
+        "hint": "صور ذهنية أثناء النوم",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ماضي",
+        "hint": "الأحداث التي وقعت",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تجارة",
+        "hint": "بيع وشراء السلع",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شدة",
+        "hint": "مقدار طاقة الموجة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تجربة",
+        "hint": "اختبار لفرضية",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سحب",
+        "hint": "قوة تجذب جسمًا",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كأس",
+        "hint": "جائزة للفائز",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "رعي",
+        "hint": " تربية الحيوانات",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "شغل",
+        "hint": "القوة المؤثرة مضروبة في المسافة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "رمل",
+        "hint": "حبيبات دقيقة من الصخور والمعادن",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مركب",
+        "hint": "مادة تتكون من عنصرين أو أكثر",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تسارع",
+        "hint": "معدل تغير السرعة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صراخ",
+        "hint": "صوت عالٍ",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تربة",
+        "hint": "الطبقة السطحية من الأرض",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مراقبة",
+        "hint": "ملاحظة دقيقة",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "خشية",
+        "hint": "خوف من الله",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "شجاعة",
+        "hint": "جرأة وعدم خوف",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "تكثف",
+        "hint": "تحول الغاز إلى سائل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جفاف",
+        "hint": "نقص طويل الأمد في المياه.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "متغير",
+        "hint": "قيمة يمكن أن تتغير",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "قارة",
+        "hint": "كتلة أرضية كبيرة جدًا، تتكون من عدة دول.",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تقدم",
+        "hint": "المضي قدمًا",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نماء",
+        "hint": "زيادة ونمو",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "رسم",
+        "hint": "تمثيل بياني",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "خارج",
+        "hint": "في ظاهر الشيء",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة أجزاء مترابطة",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تركيبة",
+        "hint": "مكونات الشيء",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تذبذب",
+        "hint": "حركة متكررة ذهابًا وإيابًا",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بحر",
+        "hint": "مسطح مائي مالح كبير",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "غابة",
+        "hint": "منطقة كثيفة الأشجار والنباتات",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "صناعة",
+        "hint": "إنتاج السلع",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تفسير",
+        "hint": "شرح معنى شيء",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "بلازما",
+        "hint": "غاز متأين",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "قسوة",
+        "hint": "شدة وعدم رحمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استدامة",
+        "hint": "الحفاظ على الموارد للأجيال القادمة",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عقد",
+        "hint": "عشر سنوات",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "دقيقة",
+        "hint": "جزء من ستين جزءًا من الساعة",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "دفع",
+        "hint": "قوة تحرك جسمًا بعيدًا",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قرية",
+        "hint": "تجمع سكاني صغير",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ماس",
+        "hint": "حجر كريم شديد الصلابة",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "رعي",
+        "hint": " تربية الحيوانات",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "سهل",
+        "hint": "أرض منبسطة واسعة",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ديناميكية",
+        "hint": "حركة وتغير مستمر",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني تنافسي",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ترابط",
+        "hint": "اتصال قوي",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ثمرة",
+        "hint": "جزء من النبات يحتوي على البذور",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "وحدة",
+        "hint": "شيء واحد",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "جفاف",
+        "hint": "نقص طويل الأمد في المياه.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "كهربائية",
+        "hint": "طاقة ناتجة عن الشحنات الكهربائية",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نقاء",
+        "hint": "صفاء وخلو من الشوائب",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "جزيء",
+        "hint": "اتحاد ذرات",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أوروبا",
+        "hint": "قارة تمتاز بتاريخها العريق وتنوع ثقافاتها",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طرف",
+        "hint": "نهاية الشيء",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تقطير",
+        "hint": "فصل السوائل بناءً على نقاط غليانها",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قارة",
+        "hint": "أكبر تجمعات اليابسة على سطح الأرض",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خيانة",
+        "hint": "غدر ونقض عهد",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صداقة",
+        "hint": "علاقة ود بين شخصين",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رائحة",
+        "hint": "ما تدركه حاسة الشم",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سقف",
+        "hint": "غطاء الجزء العلوي من المبنى",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "سماء",
+        "hint": "الفضاء المرئي من سطح الأرض.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "مغناطيس",
+        "hint": "مادة تجذب الحديد",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مجلد",
+        "hint": "مكان لتنظيم الملفات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تسارع",
+        "hint": "تغير السرعة بمرور الزمن",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تخفيف",
+        "hint": "تقليل تركيز مادة",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جبال",
+        "hint": "مرتفعات طبيعية في الأرض",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "كوكب",
+        "hint": "جرم سماوي يدور حول نجم.",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "خيال",
+        "hint": "تصورات غير واقعية",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صلاح",
+        "hint": "استقامة وخير",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "نجم",
+        "hint": "جرم سماوي مضيء بذاته",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تجديد",
+        "hint": "إدخال شيء جديد",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تعادل",
+        "hint": "نتيجة متساوية",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "اهتزاز",
+        "hint": "حركة متكررة",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "فرع",
+        "hint": "جزء ممتد من الأصل",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قارة",
+        "hint": "أكبر تجمعات اليابسة على سطح الأرض",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "لتر",
+        "hint": "وحدة قياس الحجم",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "طيف",
+        "hint": "مجموعة الألوان المكونة للضوء الأبيض",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "كرسي",
+        "hint": "مقعد",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "فوسفات",
+        "hint": "مركب مع مجموعة الفوسفات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سحاب",
+        "hint": "كتلة من قطرات الماء أو بلورات الثلج",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صورة",
+        "hint": "تمثيل بصري ثابت",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إدارة",
+        "hint": "تنظيم وتوجيه الموارد",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إرسال",
+        "hint": "توجيه شيء إلى وجهة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بخل",
+        "hint": "امساك وعدم عطاء",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عدل",
+        "hint": "إنصاف ومساواة",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تتابع",
+        "hint": "تتالي الأشياء",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ريح",
+        "hint": "حركة الهواء",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تفاعل",
+        "hint": "تغير كيميائي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حذف",
+        "hint": "إزالة شيء",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ثلوج",
+        "hint": "بلورات جليدية متساقطة",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رياح",
+        "hint": "حركة الهواء",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تطور",
+        "hint": "تغير تدريجي نحو الأفضل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تحسين",
+        "hint": "جعل الشيء أفضل",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "شعر",
+        "hint": "كلام موزون ومقفى",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تيار",
+        "hint": "تدفق الشحنات الكهربائية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حديقة",
+        "hint": "مكان مزروع للنباتات الزينة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "برودة",
+        "hint": "درجة انخفاض الحرارة",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نقطة",
+        "hint": "موقع بدون أبعاد",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "منطقة",
+        "hint": "جزء محدد من مساحة",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "موقع",
+        "hint": "مكان وجود شيء ما.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "منحنى",
+        "hint": "خط متعرج",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "زخم",
+        "hint": "حاصل ضرب الكتلة في السرعة",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "برودة",
+        "hint": "درجة انخفاض حرارة الجسم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كهرباء",
+        "hint": "شكل من أشكال الطاقة",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "جذر",
+        "hint": "أساس الشيء",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "باب",
+        "hint": "مدخل ومخرج",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بركان",
+        "hint": "جبل ينفث حممًا وغازات",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "درجة",
+        "hint": "مقياس لشدة شيء ما",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نقل",
+        "hint": "تحريك الأشخاص أو البضائع",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "لون",
+        "hint": "خاصية ناتجة عن امتصاص وانعكاس الضوء",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "سوق",
+        "hint": "مكان لتبادل السلع",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استقبال",
+        "hint": "تلقي شيء مرسل",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مثال",
+        "hint": "نموذج أو قدوة",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "توصيل",
+        "hint": "انتقال الحرارة عبر التلامس",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فيضان",
+        "hint": "زيادة مفرطة في المياه",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رسم",
+        "hint": "تمثيل مرئي بالألوان أو الخطوط",
+        "startx": 8,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "الصين",
+        "hint": "أكبر دولة في آسيا من حيث عدد السكان",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تبخر",
+        "hint": "تحول الماء من سائل إلى غاز",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "تعريف",
+        "hint": "تحديد معنى كلمة أو شيء",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "واحة",
+        "hint": "منطقة خصبة وسط الصحراء، غالبًا ما توجد حول مصدر ماء.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كربونات",
+        "hint": "مركب مع مجموعة الكربونات",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "استقطاب",
+        "hint": "حصر اهتزازات الموجة في اتجاه واحد",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تسارع",
+        "hint": "تغير السرعة بمرور الزمن",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قوة",
+        "hint": "دفعة أو سحبة",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "وادي",
+        "hint": "منطقة منخفضة بين جبلين أو تلين، غالبًا ما يجري بها نهر.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "همس",
+        "hint": "صوت خافت",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صورة",
+        "hint": "تمثيل بصري ثابت",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "جرام",
+        "hint": "وحدة قياس الكتلة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نجم",
+        "hint": "جرم سماوي مضيء بذاته",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بناء",
+        "hint": "إنشاء المباني",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حرب",
+        "hint": "صراع مسلح",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مركب",
+        "hint": "مادة تتكون من عنصرين أو أكثر",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رفع",
+        "hint": "نقل ملف من جهازك إلى الإنترنت",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "سلم",
+        "hint": "درج للصعود والهبوط",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "رمز",
+        "hint": "علامة تمثل شيئًا آخر",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "موسيقى",
+        "hint": "أصوات منظمة",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صخر",
+        "hint": "مادة صلبة طبيعية",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نتيجة",
+        "hint": "ما ينتج عن تجربة أو حدث",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قوة",
+        "hint": "دفعة أو سحبة",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نسبة",
+        "hint": "مقارنة بين كميتين",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "وادي",
+        "hint": "منطقة منخفضة بين جبلين أو تلين، غالبًا ما يجري بها نهر.",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ذرة",
+        "hint": "أصغر وحدة في العنصر",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "وسط",
+        "hint": "المركز",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تطوير",
+        "hint": "نمو وتحسن",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "موسيقى",
+        "hint": "أصوات منظمة",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ترابط",
+        "hint": "اتصال قوي",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "لعبة",
+        "hint": "نشاط ترفيهي",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "وادي",
+        "hint": "منطقة منخفضة بين جبلين أو تلين، غالبًا ما يجري بها نهر.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "دولة",
+        "hint": "كيان سياسي له حدود",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سيليكات",
+        "hint": "مركب مع السيليكون والأكسجين",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ديناميكية",
+        "hint": "حركة وتغير مستمر",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كون",
+        "hint": "كل شيء موجود في الوجود",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تردد",
+        "hint": "عدد الاهتزازات في الثانية",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حماية",
+        "hint": "الحفاظ على الشيء من الأذى",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مولد",
+        "hint": "جهاز يحول الطاقة الحركية إلى كهربائية",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "لغة",
+        "hint": "نظام للتواصل",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "احتكاك",
+        "hint": "قوة تعيق الحركة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "آثار",
+        "hint": "علامات أو بصمات",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سلام",
+        "hint": "وئام وعدم حرب",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر وسط",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جمال",
+        "hint": "حسن وروعة",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مصر",
+        "hint": "بلد الأهرامات ونهر النيل",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "خليج",
+        "hint": "امتداد واسع للبحر أو المحيط يتغلغل في اليابسة.",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "لمس",
+        "hint": "الإحساس الناتج عن ملامسة شيء",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "شحنة",
+        "hint": "خاصية فيزيائية للجسيمات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "الهند",
+        "hint": "دولة ذات كثافة سكانية عالية، وتشتهر بسبايس",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تشابه",
+        "hint": "تماثل",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "موت",
+        "hint": "نهاية الحياة",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "راديو",
+        "hint": "جهاز لاستقبال الموجات الصوتية",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تفاعل",
+        "hint": "تأثير متبادل",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "غرب",
+        "hint": "أحد الاتجاهات الأربعة الرئيسية، حيث تغرب الشمس.",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "قاعدة",
+        "hint": "أساس أو مبدأ",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "برد",
+        "hint": "حبات جليد تتساقط",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "انتظام",
+        "hint": "ترتيب وهدوء",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إشعاع",
+        "hint": "انتقال الحرارة عبر الموجات الكهرومغناطيسية",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ابتكار",
+        "hint": "إيجاد شيء جديد",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رياح",
+        "hint": "حركة الهواء",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جبل",
+        "hint": "كتلة أرضية مرتفعة عن سطح الأرض",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "شهاب",
+        "hint": "جسم صخري صغير يحترق عند دخوله الغلاف الجوي",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "طول",
+        "hint": "المسافة بين قمتين متتاليتين للموجة",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "انتشار",
+        "hint": "توزع في الفضاء",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بناء",
+        "hint": "إنشاء المباني",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شغل",
+        "hint": "القوة المؤثرة مضروبة في المسافة",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جبل",
+        "hint": "تضاريس طبيعية ترتفع بشكل ملحوظ عن المنطقة المحيطة.",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل شفاف عديم اللون والرائحة",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صبر",
+        "hint": "تحمل المصاعب",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تأثير",
+        "hint": "أثر فعل ما",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ألب",
+        "hint": "سلسلة جبال في وسط أوروبا.",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "عنصر",
+        "hint": "مادة نقية لا يمكن تحليلها",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كهربائية",
+        "hint": "طاقة ناتجة عن الشحنات الكهربائية",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مذنبات",
+        "hint": "كرات جليدية وغبار تدور حول الشمس وتترك ذيلاً",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رطوبة",
+        "hint": "كمية بخار الماء في الهواء",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تيار",
+        "hint": "تدفق الشحنات الكهربائية",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كوكب",
+        "hint": "جرم سماوي يدور حول نجم.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حجم",
+        "hint": "المقدار الذي يشغله الجسم من الفراغ",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تداخل",
+        "hint": "تراكب موجتين أو أكثر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر وسط مادي",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "غابات",
+        "hint": "مناطق الأشجار الكثيفة",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "اهتزاز",
+        "hint": "حركة متكررة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ضباب",
+        "hint": "غيوم قريبة من سطح الأرض.",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نترات",
+        "hint": "مركب مع مجموعة النترات",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نقطة",
+        "hint": "موقع بدون أبعاد",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "لهجة",
+        "hint": "شكل محلي من اللغة",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "معدن",
+        "hint": "مادة طبيعية غير عضوية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جليد",
+        "hint": "ماء متجمد",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملبس",
+        "hint": "ما يرتديه الإنسان",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جزيء",
+        "hint": "اتحاد ذرات",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ضوئية",
+        "hint": "طاقة ناتجة عن الضوء",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ثلوج",
+        "hint": "بلورات جليدية تتساقط",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "رمل",
+        "hint": "حبيبات دقيقة من الصخور والمعادن",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "كوكب",
+        "hint": "جرم سماوي يدور حول نجم.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نبتون",
+        "hint": "أبعد كوكب عن الشمس في مجموعتنا",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تسارع",
+        "hint": "تغير السرعة بمرور الزمن",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صحراء",
+        "hint": "منطقة قاحلة قليلة الأمطار والنبات",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رعد",
+        "hint": "صوت ناتج عن البرق",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مصر",
+        "hint": "بلد يقع في شمال شرق أفريقيا، عاصمته القاهرة.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سكون",
+        "hint": "ثبات في الموضع",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "سقف",
+        "hint": "غطاء الجزء العلوي من المبنى",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فريق",
+        "hint": "مجموعة تلعب معًا",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "طيف",
+        "hint": "مجموعة الألوان التي يتكون منها الضوء الأبيض",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "عمق",
+        "hint": "المسافة من السطح إلى الأسفل",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رعد",
+        "hint": "صوت ناتج عن البرق",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تكرار",
+        "hint": "إعادة الشيء",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "ترتيب جهود مشتركة",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "أستراليا",
+        "hint": "أصغر قارات العالم، وتعرف بكونها جزيرة ضخمة",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "أصل",
+        "hint": "بداية أو منشأ",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "سكون",
+        "hint": "ثبات موضع الجسم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طاولة",
+        "hint": "سطح مستو للعمل أو الأكل",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رأس",
+        "hint": "نتوء صخري بارز على الساحل",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "وحدة",
+        "hint": "مقدار مرجعي للقياس",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "موجة",
+        "hint": "اضطراب ينتقل",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نهار",
+        "hint": "فترة الضوء خلال اليوم",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "شهاب",
+        "hint": "جسم صخري صغير يحترق عند دخوله الغلاف الجوي",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مجرة",
+        "hint": "نظام ضخم من النجوم والغبار والغازات، مرتبطة ببعضها بفعل الجاذبية.",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "رياح",
+        "hint": "حركة الهواء",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "جذر",
+        "hint": "أساس الشيء",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استجابة",
+        "hint": "قبول الدعاء",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سحب",
+        "hint": "قوة تجذب جسمًا نحو الآخر",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كفاءة",
+        "hint": "القدرة على أداء العمل بكفاءة",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فوسفات",
+        "hint": "مركب مع مجموعة الفوسفات",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "طرف",
+        "hint": "نهاية الشيء",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "انتشار",
+        "hint": "توزع في الفضاء",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تضاريس",
+        "hint": "السمات الطبيعية لسطح الأرض",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "طيف",
+        "hint": "مجموعة الألوان التي يتكون منها الضوء الأبيض",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "زاوية",
+        "hint": "نقطة التقاء خطين",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "موسيقى",
+        "hint": "أصوات منظمة",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "استهلاك",
+        "hint": "استخدام السلع والخدمات",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "وادي",
+        "hint": "منخفض بين الجبال أو التلال تسيل فيه المياه",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مقياس",
+        "hint": "نسبة بين مسافة على الخريطة وما يقابلها على الطبيعة",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إشعاع",
+        "hint": "انتقال الحرارة عبر الموجات الكهرومغناطيسية",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "اتجاه",
+        "hint": "جهة معينة",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "اختلاف",
+        "hint": "عدم تشابه",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "أغنية",
+        "hint": "مقطوعة موسيقية مع كلمات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فضة",
+        "hint": "معدن ثمين أبيض",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أطلس",
+        "hint": "مجموعة خرائط",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "معادلة",
+        "hint": "تعبير رياضي يتضمن علامة يساوي",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "علم",
+        "hint": "معرفة منظمة",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "منخفض",
+        "hint": "منطقة أقل ارتفاعًا من محيطها",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "دوران",
+        "hint": "حركة حول محور",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "بيانات",
+        "hint": "معلومات رقمية أو نصية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "موت",
+        "hint": "نهاية الحياة",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مسرحية",
+        "hint": "عمل أدبي يمثل على المسرح",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "انعكاس",
+        "hint": "ارتداد",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كون",
+        "hint": "كل شيء موجود في الوجود",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حرارة",
+        "hint": "مقياس لدرجة سخونة الجسم",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مشتري",
+        "hint": "أكبر كوكب في المجموعة الشمسية",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كرم",
+        "hint": "سخاء وعطاء",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "حرارة",
+        "hint": "مقياس لدرجة سخونة الجسم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سافانا",
+        "hint": "مراعي طبيعية واسعة مع أشجار متناثرة",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تندرا",
+        "hint": "منطقة باردة تتميز بتربة متجمدة",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مسؤولية",
+        "hint": "التزام بأداء واجب",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "بيت",
+        "hint": "مكان للسكن",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "لون",
+        "hint": "خاصية بصرية للجسم",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نهر",
+        "hint": "مجرى مائي طبيعي عذب يتدفق باتجاه محيط أو بحيرة.",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "همس",
+        "hint": "صوت خافت",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حركة",
+        "hint": "تغير في موضع الجسم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ماضي",
+        "hint": "الأحداث التي وقعت",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "سيليكات",
+        "hint": "مركب مع السيليكون والأكسجين",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مرتفع",
+        "hint": "تضاريس جغرافية بارزة",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تعقيد",
+        "hint": "صعوبة وصعوبة",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تكامل",
+        "hint": "دمج العناصر لتكوين كل واحد",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تجارة",
+        "hint": "بيع وشراء السلع",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حقل",
+        "hint": "منطقة تأثير قوة ما",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حمام",
+        "hint": "مكان الاغتسال",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مولد",
+        "hint": "جهاز يحول الطاقة الحركية إلى كهربائية",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ساعة",
+        "hint": "وحدة قياس الزمن",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "قسوة",
+        "hint": "شدة وعدم رحمة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "ثقافة",
+        "hint": "مجموعة المعتقدات والعادات والتقاليد",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "فوز",
+        "hint": "تحقيق النصر",
+        "startx": 7,
+        "starty": 8,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "يسار",
+        "hint": "الجانب الأيسر",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أمريكا",
+        "hint": "قارة تتكون من جزأين رئيسيين: الشمالية والجنوبية",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أفريقيا",
+        "hint": "ثاني أكبر قارات العالم، وتلقب بـ 'القارة السمراء'",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ملح",
+        "hint": "ناتج تفاعل الحمض والقاعدة",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كرم",
+        "hint": "سخاء وعطاء",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "تأهل",
+        "hint": "اجتياز مرحلة إلى أخرى",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تجارة",
+        "hint": "بيع وشراء السلع",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "برد",
+        "hint": "حبات جليد تتساقط",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر وسط",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نمو",
+        "hint": "زيادة في الحجم أو العدد",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "توازن",
+        "hint": "حالة استقرار",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كون",
+        "hint": "كل شيء موجود في الوجود",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "جزيء",
+        "hint": "اتحاد ذرتين أو أكثر",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ترسيب",
+        "hint": "سقوط مادة من سائل أو غاز",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حرارة",
+        "hint": "شكل من أشكال الطاقة",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "شجر",
+        "hint": "نبات خشبي طويل",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "نتيجة",
+        "hint": "ما يترتب على سبب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تجميع",
+        "hint": "ضم الأشياء معًا",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أمن",
+        "hint": "طمانينة وعدم خوف",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مريخ",
+        "hint": "رابع كوكب في المجموعة الشمسية، الكوكب الأحمر",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "شبكة",
+        "hint": "خطوط متقاطعة على الخريطة",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "معبر",
+        "hint": "نقطة عبور حدودية",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "شمس",
+        "hint": "النجم المركزي للنظام الشمسي.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "حجم",
+        "hint": "مقدار الفراغ الذي يشغله جسم ما",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حمل",
+        "hint": "انتقال الحرارة عبر حركة الموائع",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "حرب",
+        "hint": "صراع مسلح",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دائرة",
+        "hint": "شكل هندسي مستدير",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صناعة",
+        "hint": "إنتاج السلع",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تجارة",
+        "hint": "بيع وشراء السلع",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "غاز",
+        "hint": "مادة في حالة غير صلبة أو سائلة",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تآكل",
+        "hint": "تلف تدريجي للمادة",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مصر",
+        "hint": "بلد الأهرامات ونهر النيل",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "عنصر",
+        "hint": "مادة نقية لا يمكن تحليلها",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "رعد",
+        "hint": "صوت ناتج عن البرق",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "صوتية",
+        "hint": "طاقة تنتقل مع الصوت",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "قوة",
+        "hint": "تأثير يغير حركة الجسم",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فوضى",
+        "hint": "غياب النظام",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صدى",
+        "hint": "ارتداد الصوت عن سطح",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "صمت",
+        "hint": "غياب الصوت",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ظلام",
+        "hint": "غياب الضوء",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ليل",
+        "hint": "فترة الظلام خلال اليوم",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تداخل",
+        "hint": "تراكب موجتين أو أكثر",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تخفيف",
+        "hint": "تقليل تركيز مادة",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ماس",
+        "hint": "حجر كريم شديد الصلابة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سائل",
+        "hint": "مادة لها حجم ثابت وليس لها شكل ثابت",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لهجة",
+        "hint": "شكل محلي من اللغة",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "هيكل",
+        "hint": "بنية الشيء",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حضارة",
+        "hint": "مستوى متقدم من التطور الاجتماعي والثقافي",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بصمة",
+        "hint": "علامة مميزة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حرارة",
+        "hint": "شكل من أشكال الطاقة",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "قصة",
+        "hint": "سرد أحداث خيالية أو واقعية",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طاولة",
+        "hint": "سطح مستو للعمل أو الأكل",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قاعدة",
+        "hint": "مادة لها طعم مر",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تطور",
+        "hint": "تغير تدريجي نحو الأفضل",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "برودة",
+        "hint": "مقياس لدرجة برودة الجسم",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "طعم",
+        "hint": "ما تدركه حاسة التذوق",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نغمة",
+        "hint": "صفة تميز الصوت",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "احتباس",
+        "hint": "حبس الحرارة في الغلاف الجوي",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استقطاب",
+        "hint": "حصر اهتزازات الموجة في اتجاه واحد",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مهارة",
+        "hint": "قدرة مكتسبة",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "انكسار",
+        "hint": "انحراف",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ابتكار",
+        "hint": "إيجاد شيء جديد",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تكيف",
+        "hint": "تغير لتناسب البيئة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ضباب",
+        "hint": "قطرات ماء دقيقة في الهواء",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "طعام",
+        "hint": "ما يأكله الإنسان",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مسح",
+        "hint": "قياس منطقة معينة",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بحر",
+        "hint": "مسطح مائي مالح كبير.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رفع",
+        "hint": "نقل ملف من جهازك إلى الإنترنت",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مستنقع",
+        "hint": "أرض مشبعة بالماء",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رعد",
+        "hint": "صوت ناتج عن البرق",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مجال",
+        "hint": "منطقة تأثير قوة ما",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طعم",
+        "hint": "ما تدركه حاسة التذوق",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جفاف",
+        "hint": "نقص طويل الأمد في المياه.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جنوب",
+        "hint": "أحد الاتجاهات الأربعة الرئيسية، مقابلة للشمال.",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تقوى",
+        "hint": "خوف من الله مع طاعته",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "زرع",
+        "hint": "عملية وضع البذور في الأرض",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "صوت",
+        "hint": "موجات ميكانيكية",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صخر",
+        "hint": "كتلة صلبة من المعادن",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مرآة",
+        "hint": "سطح عاكس للضوء",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "منطقة",
+        "hint": "جزء محدد من مساحة",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "أرضية",
+        "hint": "الجزء السفلي من الغرفة",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بلور",
+        "hint": "جسم صلب ذو أسطح مستوية هندسية",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قرن",
+        "hint": "مائة سنة",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حلم",
+        "hint": "صور ذهنية أثناء النوم",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "نقطة",
+        "hint": "موقع محدد على الخريطة",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "أطلس",
+        "hint": "مجموعة خرائط",
+        "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "غاز",
+        "hint": "مادة في حالة غير صلبة أو سائلة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "دعاء",
+        "hint": "طلب من الله",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تجميد",
+        "hint": "وقف مؤقت للحركة",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تحديث",
+        "hint": "جعل الشيء معاصرًا",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "همس",
+        "hint": "صوت خافت",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حدس",
+        "hint": "فهم مباشر بدون تفكير",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "بحث",
+        "hint": "تقصي الحقائق",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ظلم",
+        "hint": "جور وتعدي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مشروع",
+        "hint": "عمل مخطط له",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هطول",
+        "hint": "سقوط الماء من الغلاف الجوي",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مجرة",
+        "hint": "نظام ضخم من النجوم والغبار والغازات، مرتبطة ببعضها بفعل الجاذبية.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "علاج",
+        "hint": "شفاء من مرض أو إصابة",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "خط طول",
+        "hint": "خط وهمي رأسي على الخريطة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "كامنة",
+        "hint": "طاقة مخزنة",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "صوتية",
+        "hint": "طاقة ناتجة عن الموجات الصوتية",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نبتون",
+        "hint": "أبعد كوكب عن الشمس في مجموعتنا",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "النيل",
+        "hint": "أطول نهر في العالم",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تركيب",
+        "hint": "تجميع الأجزاء",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طين",
+        "hint": "خليط من التربة والماء",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سرعة",
+        "hint": "المسافة المقطوعة في وحدة الزمن",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كامنة",
+        "hint": "طاقة مخزنة",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إحداثيات",
+        "hint": "موقع نقطة على شبكة",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حياة",
+        "hint": "وجود وكائن",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نهر",
+        "hint": "مجرى مائي طبيعي دائم الجريان",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "برق",
+        "hint": "شرارة كهربائية في الجو",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مستقبل",
+        "hint": "الأحداث التي ستقع",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قارة",
+        "hint": "كتلة أرضية كبيرة جدًا، تتكون من عدة دول.",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سديم",
+        "hint": "سحابة من الغبار والغاز في الفضاء",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ملح",
+        "hint": "مركب كيميائي يوجد في البحر",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مريخ",
+        "hint": "رابع كوكب في المجموعة الشمسية، الكوكب الأحمر",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أرضية",
+        "hint": "الجزء السفلي من الغرفة",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "حركة",
+        "hint": "تغير موضع الجسم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملح",
+        "hint": "مركب كيميائي يوجد في البحر",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مطر",
+        "hint": "هطول الماء من السحاب",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رافد",
+        "hint": "نهر يصب في نهر أكبر",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "واد",
+        "hint": "ممر ضيق بين الجبال",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "اهتزاز",
+        "hint": "حركة ذهاب وإياب سريعة",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قانون",
+        "hint": "قاعدة ثابتة في الطبيعة",
+        "startx": 9,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تردد",
+        "hint": "عدد الاهتزازات في الثانية",
+        "startx": 8,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "رصد",
+        "hint": "ملاحظة وتسجيل الظواهر",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "رواية",
+        "hint": "قصة طويلة",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "رضا",
+        "hint": "قبول وقناعة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كرسي",
+        "hint": "مقعد",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "صحراء",
+        "hint": "منطقة جغرافية قاحلة ذات أمطار قليلة جدًا.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تخفيف",
+        "hint": "تقليل تركيز مادة",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مناخ",
+        "hint": "متوسط حالة الجو في منطقة",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ظلم",
+        "hint": "جور وتعدي",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تسارع",
+        "hint": "معدل تغير السرعة",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "سرير",
+        "hint": "مكان للنوم",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "إعصار",
+        "hint": "عاصفة دوارة شديدة",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "هطول",
+        "hint": "سقوط الماء من الغلاف الجوي",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ميناء",
+        "hint": "موقع لتوقف السفن",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "منخفض",
+        "hint": "منطقة أعمق من محيطها",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مطر",
+        "hint": "هطول الماء من السحاب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ضغط",
+        "hint": "القوة المؤثرة على وحدة المساحة",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "لصق",
+        "hint": "وضع شيء تم نسخه",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "هواء",
+        "hint": "غازات تحيط بالأرض",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "إبداع",
+        "hint": "القدرة على الخلق",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هضبة",
+        "hint": "أرض مرتفعة مستوية السطح",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ضباب",
+        "hint": "قطرات ماء دقيقة في الهواء",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ضغط",
+        "hint": "القوة المؤثرة على وحدة المساحة",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نقطة",
+        "hint": "أقصى امتداد لليابسة في البحر",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أيون",
+        "hint": "ذرة أو جزيء مشحون كهربائيًا",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "يأس",
+        "hint": "فقدان الأمل",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تسامي",
+        "hint": "تحول المادة من صلب إلى غاز مباشرة",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "واحة",
+        "hint": "منطقة خصبة وسط الصحراء، غالبًا ما توجد حول مصدر ماء.",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ورقة",
+        "hint": "جزء من النبات يقوم بالتمثيل الضوئي",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "امتداد",
+        "hint": "مساحة واسعة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وحدة",
+        "hint": "مقدار مرجعي للقياس",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تعادل",
+        "hint": "نتيجة متساوية",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إعادة",
+        "hint": "فعل الشيء مرة أخرى",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "لون",
+        "hint": "خاصية بصرية للجسم",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نسيج",
+        "hint": "تراكيب متشابكة",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جزيرة",
+        "hint": "قطعة أرض محاطة بالماء من جميع الجهات.",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قوة",
+        "hint": "تأثير يغير حركة الجسم",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "زمن",
+        "hint": "استمرار الوجود",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "فوسفات",
+        "hint": "مركب مع مجموعة الفوسفات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هواء",
+        "hint": "غازات تحيط بالأرض",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ضباب",
+        "hint": "غيوم قريبة من سطح الأرض.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ضوضاء",
+        "hint": "أصوات غير منظمة",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ثلوج",
+        "hint": "بلورات جليدية متساقطة",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ضغط",
+        "hint": "القوة المؤثرة على وحدة المساحة",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مخلوط",
+        "hint": "مزيج من مادتين أو أكثر",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ثقب",
+        "hint": "منطقة في الزمكان ذات جاذبية قوية جداً",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مستقبل",
+        "hint": "الأحداث التي ستقع",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نمو",
+        "hint": "زيادة في الحجم أو العدد",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "طيف",
+        "hint": "مجموعة الألوان المكونة للضوء الأبيض",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ثلوج",
+        "hint": "هطول بلورات جليدية",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "خيال",
+        "hint": "تصورات غير واقعية",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "خضار",
+        "hint": "جزء نباتي يؤكل",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "دوران",
+        "hint": "حركة حول محور",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "شدة",
+        "hint": "مقدار طاقة الموجة الصوتية",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تركيب",
+        "hint": "تجميع الأجزاء",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استرجاع",
+        "hint": "إعادة الحصول على بيانات محفوظة",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جنوب",
+        "hint": "الاتجاه نحو القطب الجنوبي",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كثافة",
+        "hint": "الكتلة لكل وحدة حجم",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نسبة",
+        "hint": "مقارنة بين كميتين",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نتيجة",
+        "hint": "ما يترتب على سبب",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سكون",
+        "hint": "ثبات موضع الجسم",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كهف",
+        "hint": "تجويف طبيعي في الأرض",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "إعصار",
+        "hint": "عاصفة مدارية عنيفة تتميز برياح دوارة قوية جدًا.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "النيل",
+        "hint": "أطول نهر في العالم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نيتروجين",
+        "hint": "غاز يشكل الجزء الأكبر من الهواء",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كيلو",
+        "hint": "بادئة تعني ألف",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تسونامي",
+        "hint": "موجة بحرية عملاقة غالبًا ما تسببها الزلازل تحت الماء.",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "اهتزاز",
+        "hint": "حركة متكررة",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "صوتية",
+        "hint": "طاقة ناتجة عن الموجات الصوتية",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "كوكب",
+        "hint": "جرم سماوي يدور حول نجم",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "هضبة",
+        "hint": "أرض مرتفعة مستوية السطح",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "مثلث",
+        "hint": "مضلع له ثلاثة أضلاع وثلاث زوايا.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "هواء",
+        "hint": "غازات تحيط بالأرض",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "منطقة",
+        "hint": "جزء محدد من مساحة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رطوبة",
+        "hint": "كمية بخار الماء في الهواء",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قوة",
+        "hint": "تأثير يغير حركة الجسم",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "موسيقى",
+        "hint": "أصوات منظمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مرتفع",
+        "hint": "تضاريس جغرافية بارزة",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مراقبة",
+        "hint": "ملاحظة دقيقة",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "يمين",
+        "hint": "الجانب الأيمن",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني تنافسي",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "جليد",
+        "hint": "ماء متجمد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ديناميكية",
+        "hint": "حركة وتغير مستمر",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حضارة",
+        "hint": "مستوى متقدم من التطور الاجتماعي والثقافي",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حاسوب",
+        "hint": "آلة لحساب ومعالجة البيانات",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "آسيا",
+        "hint": "أكبر قارات العالم من حيث المساحة والسكان",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "علاج",
+        "hint": "شفاء من مرض أو إصابة",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تعدين",
+        "hint": "استخراج المعادن من الأرض",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "آثار",
+        "hint": "علامات أو بصمات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جرام",
+        "hint": "وحدة قياس الكتلة",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بصمة",
+        "hint": "علامة مميزة",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ثلث",
+        "hint": "جزء من ثلاثة أجزاء",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "صمت",
+        "hint": "غياب الصوت",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تخطيط",
+        "hint": "وضع الخطط المستقبلية",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "جمال",
+        "hint": "حسن وروعة",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "طرف",
+        "hint": "نهاية الشيء",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "شهاب",
+        "hint": "جسم صخري صغير يحترق عند دخوله الغلاف الجوي",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "دفع",
+        "hint": "قوة تحرك جسمًا بعيدًا",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ثلوج",
+        "hint": "هطول بلورات جليدية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حجر",
+        "hint": "مادة صلبة طبيعية غير معدنية",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "زلزال",
+        "hint": "اهتزاز مفاجئ في قشرة الأرض",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "انكسار",
+        "hint": "انحراف الضوء عند مروره بين وسطين",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "كيميائي",
+        "hint": "يتعلق بالتركيب الداخلي",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رفع",
+        "hint": "نقل ملف من جهازك إلى الإنترنت",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "دين",
+        "hint": "نظام عقائد وممارسات",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "طيف",
+        "hint": "مجموعة الألوان المكونة للضوء الأبيض",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "لاعب",
+        "hint": "شخص يمارس رياضة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تسارع",
+        "hint": "معدل تغير السرعة",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خيانة",
+        "hint": "غدر ونقض عهد",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ثابت",
+        "hint": "قيمة لا تتغير",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "توبة",
+        "hint": "رجوع عن الذنب",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "متغير",
+        "hint": "قيمة يمكن أن تتغير",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "علاقة",
+        "hint": "ارتباط بين شيئين",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معدل",
+        "hint": "متوسط الكمية لكل وحدة",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دائرة",
+        "hint": "مسار مغلق لتدفق التيار الكهربائي",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "برد",
+        "hint": "حبات جليد تتساقط",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بصيرة",
+        "hint": "فهم عميق",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "برهان",
+        "hint": "دليل قاطع",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جفاف",
+        "hint": "نقص حاد في المياه",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "عاصفة",
+        "hint": "رياح قوية مصحوبة بأمطار أو ثلوج",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "وحدة",
+        "hint": "مقدار مرجعي للقياس",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "خوف",
+        "hint": "شعور بالقلق",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "احتكاك",
+        "hint": "قوة تعيق الحركة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شحنة",
+        "hint": "خاصية فيزيائية للجسيمات",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شدة",
+        "hint": "مقدار طاقة الموجة",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مجال",
+        "hint": "منطقة تأثير قوة ما",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حلم",
+        "hint": "صور ذهنية أثناء النوم",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تعديل",
+        "hint": "تغيير طفيف",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تكثيف",
+        "hint": "تحويل الغاز إلى سائل",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فاكهة",
+        "hint": "ناتج نباتي حلو",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نهر",
+        "hint": "مجرى مائي طبيعي دائم الجريان",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "درجة",
+        "hint": "مقياس لشدة شيء ما",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تطوير",
+        "hint": "تحسين شيء ما",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لون",
+        "hint": "خاصية ناتجة عن امتصاص وانعكاس الضوء",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تغير",
+        "hint": "تحول من حالة إلى أخرى",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "صبر",
+        "hint": "تحمل المصاعب",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "برق",
+        "hint": "شرارة كهربائية في الجو",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "فيضان",
+        "hint": "زيادة مفرطة في المياه",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "روسيا",
+        "hint": "أكبر دولة في العالم من حيث المساحة",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كفر",
+        "hint": "إنكار وجحود",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نيتروجين",
+        "hint": "غاز يشكل الجزء الأكبر من الهواء",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أغنية",
+        "hint": "مقطوعة موسيقية مع كلمات",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "غرب",
+        "hint": "الاتجاه نحو غروب الشمس",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "شعر",
+        "hint": "كلام موزون ومقفى",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نحاس",
+        "hint": "معدن أحمر اللون يستخدم في الأسلاك",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "سخط",
+        "hint": "عدم رضا",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "عقد",
+        "hint": "عشر سنوات",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "استهلاك",
+        "hint": "استخدام السلع والخدمات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تواضع",
+        "hint": "عدم تكبر",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "برنامج",
+        "hint": "مجموعة تعليمات للحاسوب",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صمت",
+        "hint": "غياب الصوت",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تقدم",
+        "hint": "المضي قدمًا",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قوة",
+        "hint": "تأثير يسبب تغيرًا في الحركة",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صبر",
+        "hint": "تحمل المصاعب",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "جفاف",
+        "hint": "نقص طويل الأمد في المياه.",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "تآكل",
+        "hint": "تلف تدريجي للمادة",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر وسط",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر الهواء",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إنتاج",
+        "hint": "خلق السلع والخدمات",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نقاء",
+        "hint": "صفاء وخلو من الشوائب",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "صبر",
+        "hint": "تحمل المصاعب",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نحاس",
+        "hint": "معدن يستخدم في الأسلاك الكهربائية",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "جزيرة",
+        "hint": "قطعة أرض محاطة بالماء من جميع الجهات.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عنصر",
+        "hint": "مادة نقية لا يمكن تحليلها",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "منطقة",
+        "hint": "جزء محدد من مساحة",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "صحة",
+        "hint": "حالة عافية",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "عقد",
+        "hint": "عشر سنوات",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "شكل",
+        "hint": "الهيئة الخارجية للشيء",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ألب",
+        "hint": "سلسلة جبال في وسط أوروبا.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مشتري",
+        "hint": "أكبر كوكب في المجموعة الشمسية",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ميناء",
+        "hint": "موقع لتوقف السفن",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مبادرة",
+        "hint": "بدء عمل جديد",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أغنية",
+        "hint": "مقطوعة موسيقية مع كلمات",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "استدامة",
+        "hint": "الحفاظ على الموارد للأجيال القادمة",
+        "startx": 11,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "مسح",
+        "hint": "قياس منطقة معينة",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "درجة",
+        "hint": "مقياس لشدة شيء ما",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "رسم",
+        "hint": "تمثيل بياني",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "هطول",
+        "hint": "سقوط الماء من الغلاف الجوي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "لمس",
+        "hint": "الإحساس الناتج عن ملامسة شيء",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تسجيل",
+        "hint": "حفظ صوت أو صورة",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مستقبل",
+        "hint": "الأحداث التي ستقع",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جزيء",
+        "hint": "اتحاد ذرتين أو أكثر",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مهارة",
+        "hint": "قدرة مكتسبة",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حركة",
+        "hint": "تغير موضع الجسم",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "إدارة",
+        "hint": "تنظيم وتوجيه الموارد",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "حديقة",
+        "hint": "مكان مزروع للنباتات الزينة",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "رعد",
+        "hint": "صوت ناتج عن البرق",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "مخلوط",
+        "hint": "مزيج من مادتين أو أكثر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تلوث",
+        "hint": "وجود مواد ضارة في البيئة",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رمز",
+        "hint": "علامة تمثل شيئًا آخر",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حفاز",
+        "hint": "مادة تسرع التفاعل دون أن تستهلك",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "شفق",
+        "hint": "ظاهرة ضوئية في السماء",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قطعة",
+        "hint": "جزء صغير من شيء أكبر",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "شعور",
+        "hint": "إحساس",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "برق",
+        "hint": "شرارة كهربائية في الجو",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تكرار",
+        "hint": "إعادة الشيء",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تطوير",
+        "hint": "تحسين شيء ما",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حرارة",
+        "hint": "درجة سخونة الجسم أو البيئة",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سحب",
+        "hint": "قوة تجذب جسمًا",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تردد",
+        "hint": "عدد الاهتزازات في الثانية",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نفط",
+        "hint": "سائل أسود قابل للاشتعال يوجد تحت الأرض",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نحاس",
+        "hint": "معدن يستخدم في الأسلاك الكهربائية",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "كوكب",
+        "hint": "جرم سماوي يدور حول نجم",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "بيانات",
+        "hint": "معلومات رقمية أو نصية",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "طيف",
+        "hint": "مجموعة الألوان المكونة للضوء الأبيض",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جفاف",
+        "hint": "نقص حاد في المياه",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شفق",
+        "hint": "ظاهرة ضوئية في السماء",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "أطلس",
+        "hint": "مجموعة خرائط",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حساب",
+        "hint": "عمليات رياضية",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "برنامج",
+        "hint": "مجموعة تعليمات للحاسوب",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "نيل",
+        "hint": "أطول نهر في العالم يمر بأفريقيا",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مستقيم",
+        "hint": "خط لا ينحني",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مغناطيسية",
+        "hint": "طاقة ناتجة عن المجالات المغناطيسية",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "شاهد",
+        "hint": "دليل أو دليل",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مرض",
+        "hint": "حالة غير صحية",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سعة",
+        "hint": "أقصى إزاحة عن موضع الاتزان",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "سرعة",
+        "hint": "المسافة المقطوعة في وحدة الزمن",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "طعام",
+        "hint": "ما يأكله الإنسان",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "عدل",
+        "hint": "إنصاف ومساواة",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مرتفع",
+        "hint": "منطقة أعلى ارتفاعًا من محيطها",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "توسع",
+        "hint": "زيادة المساحة أو الحجم",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ماء",
+        "hint": "سائل شفاف عديم اللون والرائحة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حجر",
+        "hint": "قطعة من الصخر",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تنوع",
+        "hint": "اختلاف بين الأفراد أو الأنواع",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مدود",
+        "hint": "ارتفاع في مستوى الماء",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "هزيمة",
+        "hint": "خسارة المباراة",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تخصص",
+        "hint": "مجال دراسة أو عمل محدد",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "فحص",
+        "hint": "مراقبة دقيقة",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "طرف",
+        "hint": "نهاية الشيء",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تنفيذ",
+        "hint": "تطبيق الخطط",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "لتر",
+        "hint": "وحدة قياس الحجم",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "خيال",
+        "hint": "تصورات غير واقعية",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "توصيل",
+        "hint": "انتقال الحرارة عبر التلامس",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نترات",
+        "hint": "مركب مع مجموعة النترات",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صخر",
+        "hint": "مادة صلبة طبيعية",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "نموذج",
+        "hint": "تمثيل مبسط لشيء معقد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مجتمع",
+        "hint": "مجموعة من الناس يعيشون معًا",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تجزئة",
+        "hint": "تقسيم الشيء إلى أجزاء",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مجموعة",
+        "hint": "عدة أشياء مجتمعة",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تنفيذ",
+        "hint": "تطبيق الخطط",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ألوان",
+        "hint": "ما تدركه العين من الضوء",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "فاكهة",
+        "hint": "ناتج نباتي حلو",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تقدم",
+        "hint": "المضي قدمًا",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "نحاس",
+        "hint": "معدن أحمر اللون يستخدم في الأسلاك",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معلومات",
+        "hint": "بيانات تم معالجتها",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "وسط",
+        "hint": "المركز",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "أيون",
+        "hint": "ذرة أو جزيء مشحون كهربائيًا",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "همس",
+        "hint": "صوت خافت",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "عفو",
+        "hint": "مسامحة",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "إبداع",
+        "hint": "قدرة على الخلق",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "عقد",
+        "hint": "عشر سنوات",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سرعة",
+        "hint": "المسافة المقطوعة في وحدة الزمن",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ضغط",
+        "hint": "القوة المؤثرة على وحدة المساحة",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تأهل",
+        "hint": "اجتياز مرحلة إلى أخرى",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ذهب",
+        "hint": "معدن ثمين أصفر",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تجديد",
+        "hint": "إدخال شيء جديد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مدينة",
+        "hint": "تجمع سكاني كبير",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نموذج",
+        "hint": "تمثيل مبسط",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ديناميكية",
+        "hint": "حركة وتغير مستمر",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "منطقة",
+        "hint": "جزء محدد من مساحة",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "معدن",
+        "hint": "مادة طبيعية غير عضوية ذات تركيب كيميائي محدد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وحدة",
+        "hint": "شيء واحد",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تمييز",
+        "hint": "تحديد الفروق",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رمز",
+        "hint": "علامة تمثل شيئًا آخر",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فوهة",
+        "hint": "حفرة دائرية في سطح الأرض، غالبًا ناتجة عن اصطدام نيزك أو انفجار بركاني.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مثلث",
+        "hint": "شكل ثلاثي الأضلاع",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "فضة",
+        "hint": "معدن ثمين أبيض اللون",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "أصل",
+        "hint": "بداية أو منشأ",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "آثار",
+        "hint": "علامات أو بصمات",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "كهرباء",
+        "hint": "تدفق الشحنات الكهربائية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محرك",
+        "hint": "جهاز يحول الطاقة الكهربائية إلى حركية",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيانات",
+        "hint": "معلومات رقمية أو نصية",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بصمة",
+        "hint": "علامة مميزة",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "براكين",
+        "hint": "فتحات في القشرة الأرضية تخرج منها الصهارة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "خشية",
+        "hint": "خوف من الله",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "كبر",
+        "hint": "غطرسة وتعال",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مصر",
+        "hint": "بلد الأهرامات ونهر النيل",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ظلام",
+        "hint": "غياب الضوء",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كامنة",
+        "hint": "طاقة مخزنة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "دائرة",
+        "hint": "مسار مغلق لتدفق التيار الكهربائي",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مطر",
+        "hint": "تساقط مائي من السحاب",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر وسط مادي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صمت",
+        "hint": "غياب الصوت",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مسكن",
+        "hint": "مكان للسكن",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نفط",
+        "hint": "سائل أسود وقود",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "عاصمة",
+        "hint": "مركز الحكم في الدولة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خشية",
+        "hint": "خوف من الله",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مركب",
+        "hint": "مادة تتكون من عنصرين أو أكثر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "همس",
+        "hint": "صوت خافت",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "برد",
+        "hint": "حبات جليد تتساقط",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "شبه",
+        "hint": "أرض متصلة باليابسة من جهة",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رياضة",
+        "hint": "نشاط بدني تنافسي",
+        "startx": 5,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "حرب",
+        "hint": "صراع مسلح",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حمم",
+        "hint": "صخور منصهرة تخرج من البركان",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تعاقب",
+        "hint": "حدوث الأشياء بالترتيب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مشروع",
+        "hint": "عمل مخطط له",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "زراعة",
+        "hint": "إنتاج الغذاء من الأرض",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حمض",
+        "hint": "مادة لها طعم حامض",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تسارع",
+        "hint": "معدل تغير السرعة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تعادل",
+        "hint": "نتيجة متساوية",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مسافة",
+        "hint": "مقدار البعد بين نقطتين.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حرارة",
+        "hint": "درجة سخونة الجسم أو البيئة",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "تجزئة",
+        "hint": "تقسيم الشيء إلى أجزاء",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "منحنى",
+        "hint": "خط متعرج",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "خيانة",
+        "hint": "غدر ونقض عهد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محيط",
+        "hint": "مسطح مائي مالح شاسع يحيط بالقارات",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كربون",
+        "hint": "عنصر أساسي في المركبات العضوية",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "انكسار",
+        "hint": "انحراف",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رعد",
+        "hint": "صوت ناتج عن البرق",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "زمن",
+        "hint": "استمرار الوجود",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تقييم",
+        "hint": "تقدير القيمة أو الأداء",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "قاعدة",
+        "hint": "أساس أو مبدأ",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "علم",
+        "hint": "معرفة منظمة",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سعة",
+        "hint": "أقصى إزاحة عن موضع الاتزان",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "احتباس",
+        "hint": "حبس الحرارة في الغلاف الجوي",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مقارنة",
+        "hint": "وضع شيئين جنبًا إلى جنب",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "اختلاف",
+        "hint": "عدم تشابه",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مدار",
+        "hint": "المسار الذي يسلكه جسم سماوي حول آخر",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "جملة",
+        "hint": "مجموعة كلمات تعبر عن فكرة كاملة",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "جزيرة",
+        "hint": "قطعة أرض محاطة بالماء من جميع الجهات.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ميناء",
+        "hint": "موقع لتوقف السفن",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "انتقام",
+        "hint": "رد الأذى بمثله",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عنصر",
+        "hint": "مادة نقية لا يمكن تحليلها",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أرض",
+        "hint": "الكوكب الذي نعيش عليه",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "وادي",
+        "hint": "منخفض بين الجبال أو التلال تسيل فيه المياه",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "أكسدة",
+        "hint": "فقدان إلكترونات",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قطعة",
+        "hint": "جزء صغير من شيء أكبر",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عواقب",
+        "hint": "نتائج غالبا ما تكون سلبية",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ساعة",
+        "hint": "وحدة قياس الزمن",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "عائلة",
+        "hint": "أفراد مترابطون بالدم أو الزواج",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "برهان",
+        "hint": "دليل قاطع",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طاقة",
+        "hint": "القدرة على بذل شغل",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تطوير",
+        "hint": "نمو وتحسن",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "أطلس",
+        "hint": "سلسلة جبال في شمال غرب أفريقيا.",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أمة",
+        "hint": "مجموعة من الناس تشترك في اللغة والثقافة",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مغناطيس",
+        "hint": "مادة تجذب الحديد",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صحراء",
+        "hint": "منطقة قاحلة قليلة الأمطار والنبات",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حياة",
+        "hint": "وجود الكائنات الحية",
+        "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "سرعة",
+        "hint": "المسافة المقطوعة في وحدة الزمن",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كرم",
+        "hint": "سخاء وعطاء",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أرضية",
+        "hint": "الجزء السفلي من الغرفة",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "خبرة",
+        "hint": "معرفة مكتسبة من التجربة",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "صراخ",
+        "hint": "صوت عالٍ",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حرارة",
+        "hint": "شكل من أشكال الطاقة",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نحاس",
+        "hint": "معدن يستخدم في الأسلاك الكهربائية",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "كون",
+        "hint": "كل شيء موجود في الوجود",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "كلمة",
+        "hint": "وحدة لغوية ذات معنى",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "بحيرة",
+        "hint": "مسطح مائي داخلي غالبًا عذب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فيزيائي",
+        "hint": "يتعلق بالخصائص الظاهرية",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ألماس",
+        "hint": "معدن صلب شفاف يستخدم في المجوهرات",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "حدس",
+        "hint": "فهم مباشر بدون تفكير",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جزع",
+        "hint": "فقدان الصبر",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "رطوبة",
+        "hint": "كمية بخار الماء في الهواء",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "شفق",
+        "hint": "ظاهرة ضوئية في السماء",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "قرية",
+        "hint": "تجمع سكاني صغير",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ضغط",
+        "hint": "القوة المؤثرة على وحدة المساحة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "استقطاب",
+        "hint": "حصر اهتزازات الموجة في اتجاه واحد",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "غرب",
+        "hint": "الاتجاه نحو غروب الشمس",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كأس",
+        "hint": "جائزة للفائز",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "كوكب",
+        "hint": "جرم سماوي يدور حول نجم",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ذهب",
+        "hint": "معدن ثمين أصفر",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "قمر",
+        "hint": "جرم سماوي يدور حول كوكب.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "حكم",
+        "hint": "مسؤول عن تطبيق القواعد",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "جدار",
+        "hint": "حائط يبني",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "ذرة",
+        "hint": "أصغر جزء من العنصر",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "حرارية",
+        "hint": "طاقة ناتجة عن حركة الجزيئات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رمال",
+        "hint": "جزيئات دقيقة من الصخور والمعادن، توجد غالبًا في الصحاري والشواطئ.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تفاعل",
+        "hint": "تأثير متبادل",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "فرضية",
+        "hint": "تخمين علمي قابل للاختبار",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "خريطة",
+        "hint": "تمثيل مصغر لسطح الأرض",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نترات",
+        "hint": "مركب مع مجموعة النترات",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مناخ",
+        "hint": "متوسط حالة الطقس في منطقة ما على مدى فترة طويلة.",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ديناميكية",
+        "hint": "حركة وتغير مستمر",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حكم",
+        "hint": "مسؤول عن تطبيق القواعد",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "رسم",
+        "hint": "تمثيل مرئي بالألوان أو الخطوط",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "وحدة",
+        "hint": "شيء واحد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ضوئية",
+        "hint": "طاقة ناتجة عن الضوء",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حدس",
+        "hint": "فهم مباشر بدون تفكير",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "لون",
+        "hint": "خاصية ناتجة عن امتصاص وانعكاس الضوء",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أطلس",
+        "hint": "سلسلة جبال في شمال غرب أفريقيا.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أنهار",
+        "hint": "مجارٍ مائية دائمة",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "أمام",
+        "hint": "في المقدمة",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "صدأ",
+        "hint": "تآكل الحديد",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "يقين",
+        "hint": "ثبات وعدم شك",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "راديو",
+        "hint": "جهاز لاستقبال الموجات الصوتية",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "معادن",
+        "hint": "مواد غير عضوية طبيعية لها تركيب كيميائي محدد.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ديناميكية",
+        "hint": "حركة وتغير مستمر",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نحاس",
+        "hint": "معدن أحمر اللون يستخدم في الأسلاك",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "أمل",
+        "hint": "توقع خير",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قسوة",
+        "hint": "شدة وعدم رحمة",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تقييم",
+        "hint": "تقدير القيمة أو الأداء",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة تعليمات للحاسوب",
+        "startx": 11,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "معدن",
+        "hint": "مادة طبيعية غير عضوية ذات تركيب كيميائي محدد",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "هيكل",
+        "hint": "بنية الشيء",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "نهر",
+        "hint": "مجرى مائي طبيعي عذب يتدفق باتجاه محيط أو بحيرة.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أستراليا",
+        "hint": "أصغر قارات العالم، وتعرف بكونها جزيرة ضخمة",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جاذبية",
+        "hint": "قوة تجذب الأجسام نحو بعضها",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تبخر",
+        "hint": "تحول السائل إلى غاز",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "حرارة",
+        "hint": "شكل من أشكال الطاقة",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قارة",
+        "hint": "كتلة أرضية كبيرة جدًا، تتكون من عدة دول.",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "أكسيد",
+        "hint": "مركب مع الأكسجين",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "شغل",
+        "hint": "القوة المؤثرة مضروبة في المسافة",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "جليدات",
+        "hint": "مساحات واسعة مغطاة بالجليد",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ]
+  ]
+}
