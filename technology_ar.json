@@ -1,1 +1,6636 @@
-
+{
+  "levels": [
+    [
+      {
+        "answer": "لغة",
+        "hint": "وسيلة للتواصل مع الحاسوب",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محول",
+        "hint": "تغيير صيغة",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دالة",
+        "hint": "جزء من كود",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حساب",
+        "hint": "ملف شخصي للمستخدم",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "حجم",
+        "hint": "قياس كبير صغير",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عملية",
+        "hint": "برنامج قيد التنفيذ",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "بايثون",
+        "hint": "لغة برمجة متعددة الاستخدامات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ابتكار",
+        "hint": "إيجاد جديد",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نسخ",
+        "hint": "احتياطي بيانات",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "أمان",
+        "hint": "حماية المعلومات",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تمثيل",
+        "hint": "عرض البيانات",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "شبكات",
+        "hint": "مجموعة من الأجهزة المتصلة ببعضها",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ترميز",
+        "hint": "تحويل المعلومات إلى صيغة رقمية",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "شاحن",
+        "hint": "جهاز لتزويد الأجهزة بالطاقة الكهربائية.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة بين متغيرات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "توزيع",
+        "hint": "انتشار بيانات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تشويش",
+        "hint": "إشارة ضعيفة",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "أذونات",
+        "hint": "تحديد الحقوق",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "واجهة",
+        "hint": "وسيط تفاعل",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تحكم",
+        "hint": "التحكم بالجهاز",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "شبكة",
+        "hint": "وصلة بين أجهزة",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نطاق",
+        "hint": "تردد لاسلكي",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "لون",
+        "hint": "لمسة جمالية",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مجلد",
+        "hint": "لتنظيم الملفات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قوائم",
+        "hint": "خيارات متعددة",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رقم",
+        "hint": "رمز رياضي",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "عشوائي",
+        "hint": "بلا نمط محدد",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "دقة",
+        "hint": "مدى القرب",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "شاحن",
+        "hint": "جهاز لتزويد الأجهزة بالطاقة الكهربائية.",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "وراثة",
+        "hint": "خصائص مشتركة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مستشعر",
+        "hint": "جهاز يكتشف ويتفاعل مع تغيرات البيئة.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محاكاة",
+        "hint": "تقليد عملية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عارض",
+        "hint": "يظهر الملف",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تبادل",
+        "hint": "إرسال واستقبال",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية تربط الحواسيب",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ملفات",
+        "hint": "تخزين المعلومات",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بلوتوث",
+        "hint": "تقنية اتصال لاسلكي قصير المدى.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مكثف",
+        "hint": "مكون إلكتروني يخزن الشحنات الكهربائية.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "وراثة",
+        "hint": "خصائص مشتركة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تصميم",
+        "hint": "عملية إبداع الأشكال والوظائف",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "خصوصية",
+        "hint": "سرية البيانات",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تطوير",
+        "hint": "تحسين وتنمية",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رموز",
+        "hint": "صور مختصرة",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "استرجاع",
+        "hint": "جلب معلومات",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "هجوم",
+        "hint": "محاولة اختراق",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "هوية",
+        "hint": "معلومات شخصية",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تشغيل",
+        "hint": "بدء عمل برنامج",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حسابات",
+        "hint": "مداخل للمستخدمين",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مكتب",
+        "hint": "مكان العمل الافتراضي",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "محاذاة",
+        "hint": "ترتيب النصوص",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مدونة",
+        "hint": "يوميات إلكترونية",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تبديل",
+        "hint": "بين النوافذ",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نسخ",
+        "hint": "إنشاء نسخة احتياطية من البيانات لحمايتها",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "خوارزم",
+        "hint": "مجموعة خطوات لحل مشكلة",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "استقبال",
+        "hint": "تلقي معلومات",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "قرص",
+        "hint": "وحدة تخزين لتسجيل وحفظ الملفات.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تعليق",
+        "hint": "رد مكتوب على محتوى",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "شكل البيانات",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "لمس",
+        "hint": "استجابة باليد",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كيبل",
+        "hint": "سلك توصيل",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "معدل",
+        "hint": "نسبة تغير",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "استعادة",
+        "hint": "إعادة البيانات أو البرامج إلى حالتها السابقة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "توزيع",
+        "hint": "انتشار بيانات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جافا",
+        "hint": "لغة برمجة شائعة",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "قوائم",
+        "hint": "خيارات متعددة",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مسار",
+        "hint": "مكان وجود ملف",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إبداع",
+        "hint": "خلق مميز",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل برنامج",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "فيروس",
+        "hint": "برنامج ضار يهدف إلى إلحاق الأذى بالحاسوب.",
+        "startx": 11,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة برامج تشغيل",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "تصميم",
+        "hint": "عملية إبداع الأشكال والوظائف",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "كيبل",
+        "hint": "سلك لنقل البيانات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تبادل",
+        "hint": "إرسال واستقبال",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تلميح",
+        "hint": "معلومة سريعة",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قياسي",
+        "hint": "وفق معايير",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "فيديو",
+        "hint": "محتوى مرئي صوتي",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ترانزست",
+        "hint": "مفتاح إلكتروني",
+        "startx": 11,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تابلت",
+        "hint": "جهاز لوحي بشاشة تعمل باللمس.",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "سحابة",
+        "hint": "تخزين بيانات عن بعد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بحث",
+        "hint": "استقصاء عن معلومات",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دالة",
+        "hint": "جزء من كود",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تحسين",
+        "hint": "رفع الكفاءة",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "لصق",
+        "hint": "وضع المحتوى المنسوخ",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تحديث",
+        "hint": "تطوير البرامج والأنظمة",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "صلاحية",
+        "hint": "إذن بالوصول",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تطبيق",
+        "hint": "برنامج مصمم لغرض معين",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رادار",
+        "hint": "يكشف عن بعد",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مؤشر",
+        "hint": "علامة الفأرة",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "خدمة",
+        "hint": "وظيفة تقدم للمستخدم",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مخطط",
+        "hint": "تصوير علاقات",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تفويض",
+        "hint": "منح صلاحية",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "عميل",
+        "hint": "جهاز يطلب خدمة",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "حذف",
+        "hint": "إزالة البيانات",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "قاعدة",
+        "hint": "مجموعة بيانات منظمة بطريقة معينة.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تفاعل",
+        "hint": "تبادل التأثير",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تفويض",
+        "hint": "منح صلاحية",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "إبلاغ",
+        "hint": "شكوى على محتوى",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "افتراضي",
+        "hint": "غير حقيقي",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مؤتمر",
+        "hint": "اجتماع عبر النت",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بايثون",
+        "hint": "لغة برمجة متعددة الاستخدامات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "واي فاي",
+        "hint": "تقنية شبكة لاسلكية شائعة.",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أداء",
+        "hint": "كفاءة عمل",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "فيروس",
+        "hint": "برنامج خبيث",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "فيديو",
+        "hint": "محتوى مرئي صوتي",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صورة",
+        "hint": "مرئية",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تحديث",
+        "hint": "تحسين برنامج",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "كلمات",
+        "hint": "سرية للدخول",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "أمان",
+        "hint": "حماية المعلومات",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "طريقة تنظيم البيانات",
+        "startx": 11,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة بين متغيرات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محرر",
+        "hint": "يعدل الملف",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "محاذاة",
+        "hint": "ترتيب النصوص",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نسخة",
+        "hint": "تكرار لبيانات",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نسخ",
+        "hint": "احتياطي آمن",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تخصيص",
+        "hint": "تغيير المظهر",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مشاركة",
+        "hint": "إتاحة محتوى للآخرين",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملف",
+        "hint": "مجموعة بيانات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر لتعليم الحاسوب ما يجب فعله.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بروتوكول",
+        "hint": "اتفاقيات اتصال",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ماسح",
+        "hint": "يحول لورق",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مودم",
+        "hint": "اتصال بالنت",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "مستودع",
+        "hint": "ملفات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تفويض",
+        "hint": "منح صلاحية",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تجميع",
+        "hint": "دمج بيانات",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مؤشر",
+        "hint": "علامة الفأرة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "استعادة",
+        "hint": "إعادة البيانات أو البرامج إلى حالتها السابقة",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مشاركة",
+        "hint": "تقاسم شيء",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "محرر",
+        "hint": "يعدل الملف",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "احتمال",
+        "hint": "فرصة حدوث",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "صوت",
+        "hint": "موجات سمعية",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بروتوكول",
+        "hint": "قواعد اتصال",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "موقع",
+        "hint": "مكان على الويب",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تشويش",
+        "hint": "إشارة ضعيفة",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بطارية",
+        "hint": "مصدر طاقة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سطر",
+        "hint": "أوامر للنظام",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "لوحة",
+        "hint": "مجموعة مفاتيح",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نمط",
+        "hint": "تكرار في بيانات",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مخدم",
+        "hint": "يقدم خدمات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قمر",
+        "hint": "جسم يدور حول كوكب ويستخدم للاتصالات.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مزامنة",
+        "hint": "توحيد بيانات",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "دائرة",
+        "hint": "مجموعة من المكونات الإلكترونية المتصلة.",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إعدادات",
+        "hint": "ضبط خيارات",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تصميم",
+        "hint": "وضع خطة",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مترجم",
+        "hint": "يحول لغة",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مودم",
+        "hint": "جهاز يحول الإشارات الرقمية إلى تناظرية والعكس.",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "رقمي",
+        "hint": "يعتمد على أرقام",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تنزيل",
+        "hint": "نقل ملف من الإنترنت إلى جهاز",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "برامج",
+        "hint": "تطبيقات وعمليات",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "واجهة",
+        "hint": "شكل البرنامج",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ابتكار",
+        "hint": "إيجاد جديد",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "معلومات",
+        "hint": "بيانات معالجة",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "هاتف",
+        "hint": "جهاز للاتصال الصوتي عبر مسافات.",
+        "startx": 10,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "بايثون",
+        "hint": "لغة برمجة متعددة الاستخدامات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إشارة",
+        "hint": "موجة اتصال",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "دومين",
+        "hint": "اسم موقع على الإنترنت",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "جدار",
+        "hint": "حماية شبكة",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "دقة",
+        "hint": "عدد البكسلات في صورة",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أدوات",
+        "hint": "برامج مساعدة",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تحليل",
+        "hint": "فهم البيانات",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "عميل",
+        "hint": "جهاز أو برنامج يطلب خدمة من الخادم.",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "عناصر",
+        "hint": "مكونات الواجهة",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "ملحق",
+        "hint": "قطعة إضافية",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "إعادة",
+        "hint": "تشغيل جهاز",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة برامج تشغيل",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "طريقة تنظيم البيانات",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "إعجاب",
+        "hint": "تعبير عن الاستحسان",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نقطة",
+        "hint": "وحدة قياس دقة الشاشة (بكسل)",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "منصة",
+        "hint": "بيئة لتشغيل التطبيقات",
+        "startx": 12,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "محاكي",
+        "hint": "يحاكي نظامًا آخر",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ميكروفون",
+        "hint": "يلتقط الصوت",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "افتراضي",
+        "hint": "غير موجود في الواقع المادي",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مشاركة",
+        "hint": "تقاسم شيء",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سونار",
+        "hint": "صوت تحت الماء",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جدول",
+        "hint": "بيانات صفوف وأعمدة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تشويش",
+        "hint": "إشارة ضعيفة",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تكوين",
+        "hint": "ضبط إعدادات",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فيديو",
+        "hint": "صور متحركة مع صوت",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "حجم",
+        "hint": "قياس كبير صغير",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معايرة",
+        "hint": "ضبط دقيق",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مستشعر",
+        "hint": "يقيس فيزيائي",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ذكاء",
+        "hint": "قدرة الآلة على محاكاة القدرات الذهنية البشرية.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مصدر",
+        "hint": "بداية البيانات",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قياس",
+        "hint": "تقييم الكمية",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "فتح",
+        "hint": "استدعاء ملف",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ملف",
+        "hint": "وحدة لتخزين المعلومات المنظمة.",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "سجل",
+        "hint": "تاريخ أحداث",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "أداء",
+        "hint": "كفاءة عمل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معايرة",
+        "hint": "ضبط دقيق",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أزرار",
+        "hint": "لتنفيذ أوامر",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "سماعة",
+        "hint": "تخرج الصوت",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تجميع",
+        "hint": "دمج بيانات",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "نمذجة",
+        "hint": "إنشاء نموذج",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عرض",
+        "hint": "تنسيق المستند",
+        "startx": 4,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "أدوات",
+        "hint": "برامج مساعدة",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "طائرة",
+        "hint": "مركبة جوية ذاتية التحكم",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "كلمات",
+        "hint": "سرية للدخول",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إبداع",
+        "hint": "خلق مميز",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر للحاسوب",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نقل",
+        "hint": "بيانات عبر شبكة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "شبكة",
+        "hint": "وصلة بين أجهزة",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خادم",
+        "hint": "جهاز أو برنامج يوفر خدمة للأجهزة الأخرى.",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تعدين",
+        "hint": "إنتاج عملات",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "نطاق",
+        "hint": "اسم فريد لموقع على الإنترنت",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تبادل",
+        "hint": "إرسال واستقبال",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملف",
+        "hint": "مجموعة بيانات",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تصميم",
+        "hint": "وضع خطة",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تصنيف",
+        "hint": "وضع في مجموعات",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "محول",
+        "hint": "جهاز يغير شكل أو مستوى الإشارة الكهربائية.",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "يوتيوب",
+        "hint": "منصة فيديوهات",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "أدوات",
+        "hint": "برامج مساعدة",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "راوتر",
+        "hint": "توزيع نت",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مستخدم",
+        "hint": "شخص يستخدم جهاز",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "اختراق",
+        "hint": "دخول غير مصرح",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مدونة",
+        "hint": "يوميات إلكترونية",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "منتدى",
+        "hint": "موقع لمناقشة مواضيع محددة",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "دائرة",
+        "hint": "مجموعة من المكونات الإلكترونية المتصلة.",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قارئ",
+        "hint": "يقرأ الملف",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نمذجة",
+        "hint": "إنشاء نموذج",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "سمعي",
+        "hint": "يمكن سماعه",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "خدمة",
+        "hint": "وظيفة تقدم للمستخدم",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مودم",
+        "hint": "اتصال بالنت",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مصدر",
+        "hint": "بداية البيانات",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تشفير",
+        "hint": "حماية البيانات",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "أذونات",
+        "hint": "تحديد الحقوق",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "دقة",
+        "hint": "مدى القرب",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "هاتف",
+        "hint": "جهاز للاتصال الصوتي عبر مسافات.",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تطوير",
+        "hint": "تحسين وتنمية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بروتوكول",
+        "hint": "قواعد اتصال",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شبكات",
+        "hint": "اتصال الأجهزة",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "دالة",
+        "hint": "مقطع برمجي يؤدي مهمة محددة.",
+        "startx": 10,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بيانات",
+        "hint": "معلومات بصيغة رقمية يمكن معالجتها.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "إلغاء",
+        "hint": "إزالة برنامج",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "كاتب",
+        "hint": "يكتب الملف",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "انستجرام",
+        "hint": "مشاركة صور",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جدول",
+        "hint": "هيكل لتنظيم البيانات في قاعدة",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "سناب",
+        "hint": "صور وفيديوهات",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "كائن",
+        "hint": "عناصر متعددة",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نبضة",
+        "hint": "إشارة",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر لتعليم الحاسوب ما يجب فعله.",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نظارة",
+        "hint": "للرؤية الافتراضية",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تكرار",
+        "hint": "عدد مرات الظهور",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إغلاق",
+        "hint": "إنهاء النافذة",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "متغير",
+        "hint": "قيمة تتغير",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مطور",
+        "hint": "شخص يصنع البرامج",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كود",
+        "hint": "تمثيل مكتوب للتعليمات البرمجية.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خادم",
+        "hint": "جهاز يقدم خدمة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "دعم",
+        "hint": "مساعدة المستخدمين",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "خوارزم",
+        "hint": "مجموعة خطوات لحل مشكلة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "سطر",
+        "hint": "أوامر للنظام",
+        "startx": 11,
+        "starty": 12,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "نموذج",
+        "hint": "محاكاة واقع",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مفسر",
+        "hint": "برنامج ينفذ الأكواد سطراً بسطر",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ناسخ",
+        "hint": "ينسخ الملف",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "كائن",
+        "hint": "عناصر متعددة",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "لاسلكي",
+        "hint": "تقنية نقل الإشارات عبر الهواء بدون أسلاك.",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سببية",
+        "hint": "تأثير مباشر",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مجموعة",
+        "hint": "بيانات",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "عقد",
+        "hint": "نقاط شبكة",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "طباعة",
+        "hint": "نسخ ورقي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "واقع",
+        "hint": "محاكاة افتراضية",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "إعدادات",
+        "hint": "ضبط النظام",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ألياف",
+        "hint": "خيوط رفيعة لنقل الضوء والبيانات.",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة الجهاز",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بحث",
+        "hint": "استقصاء عن معلومات",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "صورة",
+        "hint": "تمثيل بصري",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "استعادة",
+        "hint": "إعادة بيانات",
+        "startx": 9,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "وراثة",
+        "hint": "خصائص مشتركة",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر لتعليم الحاسوب ما يجب فعله.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جيجابايت",
+        "hint": "وحدة قياس لحجم البيانات (مليار بايت)",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "أزرار",
+        "hint": "لتنفيذ أوامر",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "استعلام",
+        "hint": "طلب معلومات من قاعدة بيانات",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ذاكرة",
+        "hint": "مكان لتخزين المعلومات",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ترميز",
+        "hint": "تمثيل رموز",
+        "startx": 8,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تكرار",
+        "hint": "عدد مرات الظهور",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تيرابايت",
+        "hint": "وحدة قياس لحجم البيانات (تريليون بايت)",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "تنزيل",
+        "hint": "تحميل من النت",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "سجل",
+        "hint": "قاعدة بيانات رقمية",
+        "startx": 11,
+        "starty": 13,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "شاحن",
+        "hint": "لإعادة الشحن",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معايرة",
+        "hint": "ضبط دقيق",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيئة",
+        "hint": "وسط افتراضي",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ويبينار",
+        "hint": "ندوة عبر الويب",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "صوت",
+        "hint": "محتوى سمعي",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تويتر",
+        "hint": "شبكة تغريدات",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "روبوت",
+        "hint": "آلة قابلة للبرمجة يمكنها أداء مهام.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "موقع",
+        "hint": "صفحة على شبكة الويب",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "بحث",
+        "hint": "البحث عن معلومة",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "إشارة",
+        "hint": "موجة اتصال",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ذاكرة",
+        "hint": "مساحة لتخزين البيانات مؤقتًا أو بشكل دائم.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شاحن",
+        "hint": "لإعادة الشحن",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة الجهاز",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نقطة",
+        "hint": "وحدة قياس دقة الشاشة (بكسل)",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مسح",
+        "hint": "عملية إزالة البيانات أو البرامج غير المرغوب فيها",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "محطة",
+        "hint": "نقطة عمل",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "بيئة",
+        "hint": "وسط افتراضي",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "استرجاع",
+        "hint": "جلب معلومات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إعادة",
+        "hint": "تشغيل جهاز الحاسوب",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "محرر",
+        "hint": "يعدل الملف",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "بصمة",
+        "hint": "تعرف بالوجه",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مجموعة",
+        "hint": "بيانات",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "فيديو",
+        "hint": "صور متحركة مع صوت",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نوافذ",
+        "hint": "مساحات عرض",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "طابعة",
+        "hint": "جهاز يخرج النصوص والصور على ورق.",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "رادار",
+        "hint": "يكشف عن بعد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تطوير",
+        "hint": "تحسين وتنمية",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شذوذ",
+        "hint": "خروج عن نمط",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "برنامج",
+        "hint": "مجموعة تعليمات لتشغيل جهاز",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "جهاز",
+        "hint": "أداة تقنية",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إبلاغ",
+        "hint": "شكوى على محتوى",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "نتائج",
+        "hint": "ما تم العثور عليه",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تشفير",
+        "hint": "تحويل البيانات إلى صيغة غير قابلة للقراءة بدون مفتاح.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "شبكات",
+        "hint": "اتصال الأجهزة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مفتاح",
+        "hint": "جهاز للتحكم في تدفق الكهرباء أو البيانات.",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "استعلام",
+        "hint": "طلب معلومات من قاعدة بيانات",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ماسح",
+        "hint": "يحول لورق",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "محول",
+        "hint": "للتوصيل",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ليزر",
+        "hint": "حزمة ضوء مركزة ذات طاقة عالية.",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "نبضة",
+        "hint": "إشارة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "واجهة",
+        "hint": "شكل البرنامج",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نطاق",
+        "hint": "تردد لاسلكي",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "شبكة",
+        "hint": "نظام من الأشياء المتصلة ببعضها.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "صورة",
+        "hint": "تمثيل بصري",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "كائن",
+        "hint": "عناصر متعددة",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "فيديو",
+        "hint": "تسجيل مرئي صوتي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "موجة",
+        "hint": "كهربائية",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملف",
+        "hint": "وحدة لتخزين المعلومات المنظمة.",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تصدير",
+        "hint": "حفظ بصيغة أخرى",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مطور",
+        "hint": "ينشئ برامج",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "كيبل",
+        "hint": "سلك توصيل",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "حذف",
+        "hint": "إزالة البيانات",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تويتر",
+        "hint": "شبكة تغريدات",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "منتدى",
+        "hint": "موقع لمناقشة مواضيع محددة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "نقل",
+        "hint": "بيانات عبر شبكة",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تقرير",
+        "hint": "عرض منظم للمعلومات",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مؤشر",
+        "hint": "علامة الفأرة",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "موقع",
+        "hint": "مكان على الويب",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "استعادة",
+        "hint": "استرجاع بيانات",
+        "startx": 12,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إعدادات",
+        "hint": "ضبط النظام",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جدول",
+        "hint": "هيكل لتنظيم البيانات في قاعدة",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "واجهة",
+        "hint": "وسيط تفاعل",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 1
+      },
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة بين متغيرات",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "across",
+        "position": 2
+      },
+      {
+        "answer": "فيسبوك",
+        "hint": "شبكة تواصل اجتماعي",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "برامج",
+        "hint": "تطبيقات وعمليات",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "محاذاة",
+        "hint": "ترتيب النصوص",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "شريط",
+        "hint": "أدوات أو مهام",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "موجة",
+        "hint": "كهربائية",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "بطارية",
+        "hint": "مصدر للطاقة الكهربائية المحمولة.",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "شبكة",
+        "hint": "اتصال بين أجهزة",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "واجهة",
+        "hint": "وسيط تفاعل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل برنامج",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "إعجاب",
+        "hint": "تقدير للمحتوى",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مترجم",
+        "hint": "يحول لغة",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مكبر",
+        "hint": "يزيد الصوت",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "خدمة",
+        "hint": "عمليات خلفية",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "بروتوكول",
+        "hint": "قواعد اتصال",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ذكاء",
+        "hint": "محاكاة العقل",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شبكة",
+        "hint": "مجموعة من الأجهزة المتصلة لنقل البيانات.",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "شذوذ",
+        "hint": "خروج عن نمط",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سمة",
+        "hint": "مجموعة إعدادات",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ناسخ",
+        "hint": "ينسخ الملف",
+        "startx": 12,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "قناة",
+        "hint": "تردد مخصص",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أداء",
+        "hint": "كفاءة عمل",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تقرير",
+        "hint": "عرض منظم للمعلومات",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "روابط",
+        "hint": "عناوين تشعبية",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سببية",
+        "hint": "تأثير مباشر",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "صيغة",
+        "hint": "شكل الملف",
+        "startx": 8,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "روبوت",
+        "hint": "آلة قابلة للبرمجة يمكنها أداء مهام.",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "فأرة",
+        "hint": "جهاز تحكم",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "كيبل",
+        "hint": "سلك توصيل",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "مستشعر",
+        "hint": "جهاز يكتشف ويتفاعل مع تغيرات البيئة.",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "نوافذ",
+        "hint": "مساحات عرض",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "انستجرام",
+        "hint": "مشاركة صور",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مصدر",
+        "hint": "بداية البيانات",
+        "startx": 8,
+        "starty": 13,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "متغير",
+        "hint": "موقع في الذاكرة يحمل قيمة قابلة للتغيير.",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مكتبة",
+        "hint": "برامج",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل برنامج",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "مفسر",
+        "hint": "برنامج ينفذ الأكواد سطراً بسطر",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "خصوصية",
+        "hint": "سرية البيانات",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "مترجم",
+        "hint": "يحول لغة",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "إشارة",
+        "hint": "موجة اتصال",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "حساس",
+        "hint": "يكشف المحيط",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حسابات",
+        "hint": "مداخل للمستخدمين",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "واقع",
+        "hint": "محاكاة افتراضية",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سماعة",
+        "hint": "جهاز يخرج الصوت من الإشارة الرقمية.",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل برنامج",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "تخطيط",
+        "hint": "ترتيب العناصر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سمعي",
+        "hint": "يمكن سماعه",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيتكوين",
+        "hint": "عملة رقمية",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "حساب",
+        "hint": "معلومات المستخدم",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تحليل",
+        "hint": "فهم البيانات",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ترميز",
+        "hint": "تحويل المعلومات إلى صيغة رقمية",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مسبار",
+        "hint": "مركبة فضائية ترسل لدراسة الأجرام السماوية.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة الجهاز",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تبادل",
+        "hint": "إرسال واستقبال",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نود",
+        "hint": "شبكة أقران",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تشفير",
+        "hint": "تأمين اتصال",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ميكروف",
+        "hint": "لالتقاط الصوت",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أمان",
+        "hint": "حماية الأنظمة والمعلومات",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مترجم",
+        "hint": "برنامج يحول لغة لأخرى",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "أذونات",
+        "hint": "تحديد الحقوق",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "سناب",
+        "hint": "صور وفيديوهات",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مصفوفة",
+        "hint": "بيانات مرتبة",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "سحابة",
+        "hint": "تخزين بيانات عن بعد",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أزرار",
+        "hint": "لتنفيذ أوامر",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "صورة",
+        "hint": "تمثيل بصري",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "صوت",
+        "hint": "موجات تنتقل عبر الهواء",
+        "startx": 11,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "أذونات",
+        "hint": "تحديد الحقوق",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "إلغاء",
+        "hint": "حذف برنامج",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "إشارة",
+        "hint": "موجة اتصال",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "وحدة",
+        "hint": "مكون رئيسي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "بطارية",
+        "hint": "مصدر طاقة",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "نطاق",
+        "hint": "تردد لاسلكي",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رفع",
+        "hint": "تحميل إلى النت",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "طابعة",
+        "hint": "جهاز يخرج النصوص والصور على ورق.",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نقل",
+        "hint": "بيانات عبر شبكة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "عنوان",
+        "hint": "معرف فريد",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "راوتر",
+        "hint": "جهاز يوجه حركة مرور البيانات بين الشبكات.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "شرط",
+        "hint": "اختيار مسار",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رسم",
+        "hint": "بياني مرئي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ملحق",
+        "hint": "قطعة إضافية",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قناة",
+        "hint": "مسار بث محتوى معين",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "محاكي",
+        "hint": "يحاكي نظامًا آخر",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "محرر",
+        "hint": "يعدل الملف",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل برنامج",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "قناة",
+        "hint": "تردد مخصص",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مقاومة",
+        "hint": "تعيق التيار",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "محطة",
+        "hint": "نقطة عمل",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مشاركة",
+        "hint": "إرسال للآخرين",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كيبل",
+        "hint": "سلك لنقل البيانات",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "صيغة",
+        "hint": "شكل الملف",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تفاعل",
+        "hint": "تبادل التأثير",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "قناع",
+        "hint": "للوجه الافتراضي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مسار",
+        "hint": "مكان وجود ملف",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تلميح",
+        "hint": "معلومة سريعة",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "قوائم",
+        "hint": "خيارات متعددة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "محول",
+        "hint": "للتوصيل",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "تسجيل",
+        "hint": "الدخول إلى حساب أو نظام باستخدام بيانات الاعتماد",
+        "startx": 11,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "موجة",
+        "hint": "كهربائية",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "كيبل",
+        "hint": "سلك لنقل البيانات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "صوتي",
+        "hint": "عن طريق الصوت",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خصوصية",
+        "hint": "حماية البيانات",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "شبكة",
+        "hint": "وصلة بين أجهزة",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تخزين",
+        "hint": "حفظ البيانات",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "صوت",
+        "hint": "محتوى سمعي",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "واتساب",
+        "hint": "مراسلة فورية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تعليق",
+        "hint": "رد مكتوب على محتوى",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رابط",
+        "hint": "عنوان صفحة",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تصميم",
+        "hint": "وضع خطة",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "متصفح",
+        "hint": "لاستعراض الويب",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "روبوت",
+        "hint": "جهاز آلي",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "عرض",
+        "hint": "تنسيق المستند",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ميجاهرتز",
+        "hint": "وحدة قياس لسرعة المعالج (مليون دورة في الثانية)",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مفتاح",
+        "hint": "جهاز للتحكم في تدفق الكهرباء أو البيانات.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حجم",
+        "hint": "قياس كبير صغير",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "أزرار",
+        "hint": "لتنفيذ أوامر",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ترانزست",
+        "hint": "مفتاح إلكتروني",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مساعد",
+        "hint": "شخص أو برنامج يساعد",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ساعة",
+        "hint": "جهاز لقياس الوقت يمكن توصيله",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "بطارية",
+        "hint": "مصدر طاقة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تويتر",
+        "hint": "شبكة تغريدات",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "آيفون",
+        "hint": "هاتف ذكي من شركة آبل",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "بايت",
+        "hint": "مجموعة من 8 بتات، تشكل حرفًا أو رمزًا",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "احتمال",
+        "hint": "فرصة حدوث",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "كلمات",
+        "hint": "سرية للدخول",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تصميم",
+        "hint": "عملية إبداع الأشكال والوظائف",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مبرد",
+        "hint": "للتبريد",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "درون",
+        "hint": "طائرة بدون طيار",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مستودع",
+        "hint": "ملفات",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ناسخ",
+        "hint": "ينسخ الملف",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "خوذة",
+        "hint": "للرأس الافتراضي",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تجميع",
+        "hint": "دمج بيانات",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تطبيق",
+        "hint": "برنامج مصمم لغرض معين",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "محاذاة",
+        "hint": "ترتيب النصوص",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "قفاز",
+        "hint": "لليد الافتراضية",
+        "startx": 12,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "دقة",
+        "hint": "مدى القرب",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كلمة",
+        "hint": "سر للامان",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مفتاح",
+        "hint": "جهاز للتحكم في تدفق الكهرباء أو البيانات.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة من البرامج الأساسية لإدارة الحاسوب.",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مجلد",
+        "hint": "لتنظيم الملفات",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مستخدم",
+        "hint": "شخص يستخدم جهاز",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تشفير",
+        "hint": "تأمين اتصال",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "احتمال",
+        "hint": "فرصة حدوث",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية تربط ملايين الحواسيب ببعضها.",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تلسكوب",
+        "hint": "جهاز لرؤية الأجسام البعيدة بوضوح.",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مودم",
+        "hint": "اتصال بالنت",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مجلد",
+        "hint": "لتنظيم الملفات",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "مدونة",
+        "hint": "يوميات إلكترونية",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "جدول",
+        "hint": "بيانات منظمة",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "هوية",
+        "hint": "معلومات شخصية",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حساب",
+        "hint": "معلومات المستخدم",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إبداع",
+        "hint": "خلق مميز",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "نظارة",
+        "hint": "جهاز يلبس للرؤية مع وظائف إضافية",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رادار",
+        "hint": "نظام يستخدم الموجات لتحديد المواقع والمسافات.",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ذكاء",
+        "hint": "قدرة الآلة على محاكاة القدرات الذهنية البشرية.",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نوافذ",
+        "hint": "مساحات عرض",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "جي بي اس",
+        "hint": "نظام لتحديد المواقع على الأرض.",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "بلوكتشين",
+        "hint": "سجل لامركزي",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "كاتب",
+        "hint": "يكتب الملف",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "جدول",
+        "hint": "بيانات منظمة",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نظارة",
+        "hint": "جهاز يلبس للرؤية مع وظائف إضافية",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "قناة",
+        "hint": "مسار بث محتوى معين",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "راوتر",
+        "hint": "جهاز يوجه حركة مرور البيانات بين الشبكات.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "منفذ",
+        "hint": "نقطة اتصال بين جهاز وشبكة أو جهاز آخر.",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "جيجابايت",
+        "hint": "وحدة قياس لحجم البيانات (مليار بايت)",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "اختراق",
+        "hint": "دخول غير مصرح",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "نقل",
+        "hint": "بيانات عبر شبكة",
+        "startx": 10,
+        "starty": 14,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "إشارة",
+        "hint": "موجة اتصال",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مفسر",
+        "hint": "برنامج ينفذ الأكواد سطراً بسطر",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نسخ",
+        "hint": "احتياطي بيانات",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر لتعليم الحاسوب ما يجب فعله.",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "درون",
+        "hint": "طائرة بدون طيار",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مكبر",
+        "hint": "يزيد الصوت",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "منصة",
+        "hint": "بيئة لتشغيل التطبيقات",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "مزامنة",
+        "hint": "توحيد بيانات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عارض",
+        "hint": "يظهر الملف",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بيئة",
+        "hint": "وسط افتراضي",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "إعجاب",
+        "hint": "تعبير عن الاستحسان",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "بصمة",
+        "hint": "تعرف بالوجه",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ناسخ",
+        "hint": "ينسخ الملف",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "موجة",
+        "hint": "كهربائية",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "لغة",
+        "hint": "وسيلة للتواصل مع الحاسوب",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "مجلد",
+        "hint": "لتنظيم الملفات",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "تلميح",
+        "hint": "معلومة سريعة",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تجريد",
+        "hint": "إخفاء تفاصيل",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رسم",
+        "hint": "بياني مرئي",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نقل",
+        "hint": "بيانات عبر شبكة",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ماسح",
+        "hint": "يحول لورق",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "سطر",
+        "hint": "أوامر للنظام",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تحليل",
+        "hint": "فهم البيانات",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "أمان",
+        "hint": "حماية المعلومات",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "برج",
+        "hint": "هيكل طويل يستخدم لدعم الهوائيات.",
+        "startx": 1,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "مخطط",
+        "hint": "تصوير علاقات",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "أزرار",
+        "hint": "لتنفيذ أوامر",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تطبيقات",
+        "hint": "برامج مصممة لمهام محددة",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كابل",
+        "hint": "للتوصيل",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نتائج",
+        "hint": "ما تم العثور عليه",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "حجم",
+        "hint": "قياس كبير صغير",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "أرضي",
+        "hint": "على سطح كوكب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تكرار",
+        "hint": "عدد مرات الظهور",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "بطارية",
+        "hint": "مصدر للطاقة الكهربائية المحمولة.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "بحث",
+        "hint": "استقصاء عن معلومات",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "تشفير",
+        "hint": "تأمين اتصال",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ألياف",
+        "hint": "خيوط رفيعة لنقل الضوء والبيانات.",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "هاشتاغ",
+        "hint": "كلمة مفتاحية لتصنيف المحتوى",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نظام",
+        "hint": "برامج أساسية",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "لون",
+        "hint": "لمسة جمالية",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "فيروس",
+        "hint": "برنامج خبيث",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "صلاحية",
+        "hint": "إذن بالوصول",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رقمي",
+        "hint": "يعتمد على أرقام",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "رادار",
+        "hint": "يكشف عن بعد",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "برامج",
+        "hint": "تطبيقات وعمليات",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "وصول",
+        "hint": "الدخول للنظام",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "معالج",
+        "hint": "العقل المدبر للحاسوب الذي ينفذ التعليمات.",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نقل",
+        "hint": "بيانات عبر شبكة",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية تربط ملايين الحواسيب ببعضها.",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "نظم",
+        "hint": "تشغيل الحواسيب",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "جافا",
+        "hint": "لغة برمجة شائعة",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تطبيقات",
+        "hint": "برامج خدمة",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فيديو",
+        "hint": "تسجيل مرئي صوتي",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نطاق",
+        "hint": "تردد لاسلكي",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "واتساب",
+        "hint": "مراسلة فورية",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "شكل البيانات",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ملف",
+        "hint": "مجموعة بيانات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "فيديو",
+        "hint": "محتوى مرئي صوتي",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "محول",
+        "hint": "للتوصيل",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "صوتي",
+        "hint": "عن طريق الصوت",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل جهاز الحاسوب بشكل كامل",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "وصول",
+        "hint": "الدخول للنظام",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "قناة",
+        "hint": "تردد مخصص",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "هجوم",
+        "hint": "محاولة اختراق",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "تحويل",
+        "hint": "تغيير شكل",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل جهاز الحاسوب بشكل كامل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "عميل",
+        "hint": "جهاز يطلب خدمة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "موقع",
+        "hint": "مكان على الويب",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر لتعليم الحاسوب ما يجب فعله.",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رابط",
+        "hint": "عنوان صفحة",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "أرضي",
+        "hint": "على سطح كوكب",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "دالة",
+        "hint": "جزء من كود",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ملف",
+        "hint": "مجموعة بيانات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معلومات",
+        "hint": "بيانات معالجة",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خوارزم",
+        "hint": "مجموعة خطوات لحل مشكلة",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رموز",
+        "hint": "صور مختصرة",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "نافذة",
+        "hint": "مساحة عرض",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "قارئ",
+        "hint": "يقرأ الملف",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تثبيت",
+        "hint": "تركيب برنامج",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "خادم",
+        "hint": "جهاز أو برنامج يوفر خدمة للأجهزة الأخرى.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "طابعة",
+        "hint": "جهاز يخرج النصوص والصور على ورق.",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "معايرة",
+        "hint": "ضبط دقيق",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "رسم",
+        "hint": "بياني مرئي",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "كلمة",
+        "hint": "سر الدخول",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "صلاحية",
+        "hint": "إذن بالوصول",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تصميم",
+        "hint": "عملية إبداع الأشكال والوظائف",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "إعدادات",
+        "hint": "ضبط النظام",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ناسخ",
+        "hint": "ينسخ الملف",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "أدوات",
+        "hint": "برامج مساعدة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "جدول",
+        "hint": "هيكل لتنظيم البيانات في قاعدة",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ملف",
+        "hint": "تخزين معلومات",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "برتوكول",
+        "hint": "اتفاقيات اتصال",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة الجهاز",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إلغاء",
+        "hint": "إزالة برنامج",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "حساب",
+        "hint": "ملف شخصي للمستخدم",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "إعادة",
+        "hint": "تشغيل جهاز",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "نقاط",
+        "hint": "وصول شبكة",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "كلمات",
+        "hint": "سرية للدخول",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تعلم",
+        "hint": "اكتساب معرفة",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "نمذجة",
+        "hint": "إنشاء نموذج",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "محول",
+        "hint": "للتوصيل",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فأرة",
+        "hint": "جهاز إدخال يستخدم للتأشير والنقر.",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مجلدات",
+        "hint": "لترتيب الملفات",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "بودكاست",
+        "hint": "ملف صوتي أو مرئي للنشر",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "كاتب",
+        "hint": "يكتب الملف",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "شاشة",
+        "hint": "واجهة مرئية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ترانزستور",
+        "hint": "مكون شبه موصل يستخدم لتضخيم أو تبديل الإشارات.",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مقاوم",
+        "hint": "مكون إلكتروني يحد من تدفق التيار.",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "توزيع",
+        "hint": "انتشار بيانات",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مستند",
+        "hint": "نص مكتوب أو مطبوع",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "مقاومة",
+        "hint": "تعيق التيار",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ساعة",
+        "hint": "جهاز لقياس الوقت يمكن توصيله",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "إعجاب",
+        "hint": "تعبير عن الاستحسان",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نظارة",
+        "hint": "للرؤية الافتراضية",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بصمة",
+        "hint": "تعرف بالوجه",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "بيانات",
+        "hint": "معلومات خام",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "أدوات",
+        "hint": "برامج مساعدة",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "وصول",
+        "hint": "الدخول للنظام",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مدونة",
+        "hint": "يوميات إلكترونية",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "ذكاء",
+        "hint": "محاكاة العقل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محاذاة",
+        "hint": "ترتيب النصوص",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "حاسوب",
+        "hint": "جهاز إلكتروني يقوم بمعالجة البيانات وتخزينها.",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تطبيق",
+        "hint": "برنامج مصمم لغرض معين",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "موقع",
+        "hint": "عنوان على الويب",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "استعلام",
+        "hint": "طلب معلومات من قاعدة بيانات",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "إسبات",
+        "hint": "حفظ حالة",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "واقع",
+        "hint": "بيئة محاكاة بواسطة الحاسوب",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "حساس",
+        "hint": "يكشف المحيط",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "برتوكول",
+        "hint": "اتفاقيات اتصال",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تصنيف",
+        "hint": "وضع في مجموعات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عميل",
+        "hint": "جهاز يطلب خدمة",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نطاق",
+        "hint": "تردد لاسلكي",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "شبكة",
+        "hint": "مجموعة من الأجهزة المتصلة لنقل البيانات.",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "دقة",
+        "hint": "عدد البكسلات في صورة",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مساعد",
+        "hint": "شخص أو برنامج يساعد",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "هدف",
+        "hint": "نهاية البيانات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "رفع",
+        "hint": "تحميل إلى النت",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "شبيه",
+        "hint": "جهاز يحاكي الطبيعة",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تشغيل",
+        "hint": "بدء عمل برنامج",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "رقم",
+        "hint": "رمز رياضي",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "سماعة",
+        "hint": "تخرج الصوت",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "جدول",
+        "hint": "بيانات منظمة",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "نمذجة",
+        "hint": "إنشاء نموذج",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نظارة",
+        "hint": "للرؤية الافتراضية",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مزامنة",
+        "hint": "توحيد بيانات",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "لمس",
+        "hint": "استجابة باليد",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تصنيف",
+        "hint": "وضع في مجموعات",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "فيديو",
+        "hint": "صور متحركة مع صوت",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "وصول",
+        "hint": "الدخول للنظام",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "مسار",
+        "hint": "مكان وجود ملف",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "معايرة",
+        "hint": "ضبط دقيق",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ملف",
+        "hint": "وحدة لتخزين المعلومات المنظمة.",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "سجل",
+        "hint": "تاريخ أحداث",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رفع",
+        "hint": "تحميل إلى النت",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تنزيل",
+        "hint": "تحميل من النت",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "طباعة",
+        "hint": "نسخ ورقي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بحث",
+        "hint": "استقصاء عن معلومات",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "بطارية",
+        "hint": "مصدر للطاقة الكهربائية المحمولة.",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "أمان",
+        "hint": "حماية الأنظمة والمعلومات",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تخطيط",
+        "hint": "ترتيب العناصر",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة بين متغيرات",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "عميل",
+        "hint": "جهاز يطلب خدمة",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ضغط",
+        "hint": "تقليل حجم",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "ضغط",
+        "hint": "تقليل حجم",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "وضع",
+        "hint": "حالة خاصة للجهاز لاستهلاك طاقة أقل",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تطبيق",
+        "hint": "برنامج مصمم لأداء وظيفة محددة على جهاز.",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "تلميح",
+        "hint": "معلومة سريعة",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "قمر",
+        "hint": "صناعي في فلك",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "شريحة",
+        "hint": "شريحة صغيرة تحتوي على دوائر إلكترونية.",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ليزر",
+        "hint": "حزمة ضوء مركزة ذات طاقة عالية.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "راوتر",
+        "hint": "توزيع نت",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "إشعار",
+        "hint": "تنبيه بحدث جديد",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "سحابة",
+        "hint": "تخزين بيانات عن بعد",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مكتبة",
+        "hint": "برامج",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قياسي",
+        "hint": "وفق معايير",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "رقمي",
+        "hint": "يعتمد على أرقام",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "فأرة",
+        "hint": "جهاز تحكم",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "مرئي",
+        "hint": "يمكن رؤيته",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مستند",
+        "hint": "نص مكتوب أو مطبوع",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "نواة",
+        "hint": "قلب نظام التشغيل",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "معايرة",
+        "hint": "ضبط دقيق",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "لمس",
+        "hint": "استجابة باليد",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "تحديث",
+        "hint": "تحسين برنامج",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "أداء",
+        "hint": "كفاءة عمل",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "شاحن",
+        "hint": "لإعادة الشحن",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مشاركة",
+        "hint": "إتاحة محتوى للآخرين",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "رقمي",
+        "hint": "يعتمد على أرقام",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مشترك",
+        "hint": "شخص يتابع محتوى معين",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "استعادة",
+        "hint": "إعادة بيانات",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ويبينار",
+        "hint": "ندوة عبر الويب",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ميكروفون",
+        "hint": "يلتقط الصوت",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "برمجة",
+        "hint": "كتابة أوامر لتعليم الحاسوب ما يجب فعله.",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "منفذ",
+        "hint": "نقطة دخول",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "حساب",
+        "hint": "معلومات المستخدم",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "روبوت",
+        "hint": "آلة قابلة للبرمجة يمكنها أداء مهام.",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "شرط",
+        "hint": "اختيار مسار",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ضغط",
+        "hint": "تقليل حجم الملفات",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "تعلم",
+        "hint": "اكتساب معرفة أو مهارة",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "خوارزمية",
+        "hint": "خطوات حل مشكلة",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مساعدة",
+        "hint": "دعم فني",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "اختبار",
+        "hint": "تحقق من صحة",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "تنظيم",
+        "hint": "ترتيب فعال",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "استرجاع",
+        "hint": "جلب معلومات",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "واجهة",
+        "hint": "للتفاعل مع النظام",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "تعدين",
+        "hint": "إنتاج عملات",
+        "startx": 10,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "إبداع",
+        "hint": "خلق مميز",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ثابت",
+        "hint": "قيمة لا تتغير",
+        "startx": 12,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "مكتب",
+        "hint": "مكان العمل الافتراضي",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "واجهة",
+        "hint": "للتفاعل مع النظام",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نقطة",
+        "hint": "وحدة قياس دقة الشاشة (بكسل)",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "إنترنت",
+        "hint": "شبكة عالمية",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ساعة",
+        "hint": "جهاز لقياس الوقت يمكن توصيله",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "محاذاة",
+        "hint": "ترتيب النصوص",
+        "startx": 12,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "بيانات",
+        "hint": "معلومات أولية",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "ارتباط",
+        "hint": "علاقة بين متغيرات",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "تكوين",
+        "hint": "ضبط إعدادات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نطاق",
+        "hint": "اسم فريد لموقع على الإنترنت",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "خوارزمية",
+        "hint": "خطوات حل مشكلة",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "طباعة",
+        "hint": "نسخ ورقي",
+        "startx": 10,
+        "starty": 13,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "تفويض",
+        "hint": "منح صلاحية",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تطوير",
+        "hint": "تحسين وتنمية",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "مبرد",
+        "hint": "للتبريد",
+        "startx": 9,
+        "starty": 12,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "مخدم",
+        "hint": "يقدم خدمات",
+        "startx": 11,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "اختراق",
+        "hint": "دخول غير مصرح",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ملحق",
+        "hint": "قطعة إضافية",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "مستشعر",
+        "hint": "يقيس فيزيائي",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مستخدم",
+        "hint": "شخص يستخدم جهاز",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "مسار",
+        "hint": "بيانات",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تنبؤ",
+        "hint": "توقع مستقبلي",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "شريحة",
+        "hint": "شريحة صغيرة تحتوي على دوائر إلكترونية.",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "شاشة",
+        "hint": "واجهة مرئية",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "حاسوب",
+        "hint": "جهاز إلكتروني يقوم بمعالجة البيانات وتخزينها.",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "حجم",
+        "hint": "قياس كبير صغير",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "مهندس",
+        "hint": "يصمم تقنيات",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "عنوان",
+        "hint": "معرف فريد",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نسخ",
+        "hint": "احتياطي بيانات",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "بلوكتشين",
+        "hint": "سجل لامركزي",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تنسيق",
+        "hint": "شكل البيانات",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "إبلاغ",
+        "hint": "شكوى على محتوى",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "محول",
+        "hint": "تغيير صيغة",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تمثيل",
+        "hint": "عرض البيانات",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "مجلد",
+        "hint": "لتنظيم الملفات",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "رسم",
+        "hint": "بياني مرئي",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إيقاف",
+        "hint": "إنهاء عمل جهاز الحاسوب بشكل كامل",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "نظام",
+        "hint": "مجموعة برامج تشغيل",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "لينكد",
+        "hint": "تواصل مهني",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ثابت",
+        "hint": "قيمة لا تتغير",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "قياس",
+        "hint": "تحديد قيمة",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "نوافذ",
+        "hint": "مساحات عرض",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "قناة",
+        "hint": "تردد مخصص",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "نسخ",
+        "hint": "احتياطي بيانات",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "دائرة",
+        "hint": "مجموعة من المكونات الإلكترونية المتصلة.",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "إرسال",
+        "hint": "نقل معلومات",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "رفع",
+        "hint": "تحميل ملف",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ذاكرة",
+        "hint": "مساحة لتخزين البيانات مؤقتًا أو بشكل دائم.",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "أرشيف",
+        "hint": "حفظ بيانات",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "تيرابايت",
+        "hint": "وحدة قياس لحجم البيانات (تريليون بايت)",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "استعلام",
+        "hint": "طلب معلومات من قاعدة بيانات",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "استعادة",
+        "hint": "استرجاع بيانات",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "سمة",
+        "hint": "مجموعة إعدادات",
+        "startx": 12,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "جيجاهرتز",
+        "hint": "وحدة قياس لسرعة المعالج (مليار دورة في الثانية)",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "لوحي",
+        "hint": "جهاز بحجم كبير بين الهاتف والحاسوب",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ميكروفون",
+        "hint": "يلتقط الصوت",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "تصنيف",
+        "hint": "وضع في مجموعات",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "مهندس",
+        "hint": "يصمم تقنيات",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "هدف",
+        "hint": "نهاية البيانات",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "تحميل",
+        "hint": "تنزيل ملف",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "تشفير",
+        "hint": "تأمين اتصال",
+        "startx": 10,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "تطوير",
+        "hint": "تحسين وتنمية",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "فتح",
+        "hint": "استدعاء ملف",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "مفتاح",
+        "hint": "جهاز للتحكم في تدفق الكهرباء أو البيانات.",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "بلوكتشين",
+        "hint": "سجل لامركزي",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "كلمة",
+        "hint": "سر للامان",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "نقطة",
+        "hint": "وصلة اتصال لاسلكي بالإنترنت",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "تغريدة",
+        "hint": "رسالة قصيرة على منصة تويتر",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "تمثيل",
+        "hint": "عرض البيانات",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ]
+  ]
+}
