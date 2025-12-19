@@ -2,1597 +2,1675 @@
   "levels": [
     [
       {
-        "answer": "TANNER",
-        "hint": "Who cures animal hides to make leather?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "CONGRESS",
+        "hint": "What 1815 meeting redrew Europe's political map?",
+        "startx": 2,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "EGYPT",
-        "hint": "Which desert kingdom built pyramids along the Nile?",
-        "startx": 8,
-        "starty": 8,
+        "answer": "URBAN",
+        "hint": "What term describes the growth of cities in the 1800s?",
+        "startx": 6,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "TRIREME",
-        "hint": "What Greek warship had three rows of oars?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "HUMANISM",
+        "hint": "What Renaissance focus emphasized human potential?",
+        "startx": 8,
+        "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "TEPEE",
-        "hint": "What tall cone tent is made of poles and buffalo hides?",
+        "answer": "WHEEL",
+        "hint": "What invention revolutionized transport and pottery?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SWORD",
+        "hint": "What weapon was used by warriors for thousands of years?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SAIL",
+        "hint": "What part of a ship catches wind for propulsion?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "EDO",
+        "hint": "Which city became Tokyo and was the Tokugawa capital?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "INDIA",
+        "hint": "Which ancient land gave us the concept of zero?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "CASTRO",
+        "hint": "Who led the Cuban Revolution in 1959?",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "GENEVA",
+        "hint": "Which city hosts many international organizations?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MANDELA",
+        "hint": "Who became South Africa's first Black president?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "QURAN",
+        "hint": "What is the central religious text of Islam?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PAUL",
+        "hint": "Which apostle spread Christianity across the Roman Empire?",
         "startx": 6,
-        "starty": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SPICE",
+        "hint": "What valuable goods came from India and the Moluccas?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MAYA",
+        "hint": "Which civilization had cities like Tikal and Chichen Itza?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SLAVERY",
+        "hint": "What system treated humans as property in many societies?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "CRIMEA",
+        "hint": "Which peninsula was annexed by Russia in 2014?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "CARACAS",
+        "hint": "Which South American capital has faced economic crisis?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ARCHIMEDES",
+        "hint": "Who discovered principles of buoyancy and levers?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FACTORY",
+        "hint": "What workplace replaced farms during industrialization?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FORUM",
+        "hint": "What public space was the center of Roman political life?",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "AZTEC",
+        "hint": "Which empire had its capital at Tenochtitlan?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MARATHON",
+        "hint": "Which battle gave its name to a long race?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "FRANCE",
+        "hint": "Which country had a revolution in 1789?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "HITLER",
+        "hint": "Who led Nazi Germany and started World War II?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "LEAGUE",
+        "hint": "What earlier organization failed to prevent World War II?",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "TRENT",
+        "hint": "Which council reformed the Catholic Church in the 1500s?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "CUBA",
+        "hint": "What 1962 crisis nearly caused nuclear war?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COLDWAR",
+        "hint": "What tensions existed between the US and USSR after 1945?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DOHA",
+        "hint": "Which city hosted the 2022 FIFA World Cup?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "LEONIDAS",
+        "hint": "Who led 300 Spartans at Thermopylae?",
+        "startx": 5,
+        "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
         "answer": "CHINA",
-        "hint": "Which ancient country built the Great Wall for safety?",
+        "hint": "Which civilization invented paper and silk?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "AMMAN",
+        "hint": "Which Jordanian city is the country's capital?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "STALIN",
+        "hint": "Who ruled the Soviet Union during World War II?",
+        "startx": 12,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "MARSHALL",
+        "hint": "Who proposed a plan to rebuild Europe after WWII?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MONTESQ",
+        "hint": "Who argued for separation of powers in government?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STEAM",
+        "hint": "What engine powered factories and trains in the 1800s?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BIBLE",
+        "hint": "What is the sacred scripture of Christianity?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MOSQUE",
+        "hint": "What building is used for Islamic prayer?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SUMER",
+        "hint": "Which civilization developed cuneiform writing?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "TITO",
+        "hint": "Who led communist Yugoslavia independently from Stalin?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "RAIL",
+        "hint": "What transport system connected cities in the Industrial Age?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "MARX",
+        "hint": "Which thinker critiqued capitalism and inspired socialism?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RENAISS",
+        "hint": "What cultural rebirth began in Italy in the 1300s?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ALEPPO",
+        "hint": "Which Syrian city suffered heavy damage in the civil war?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SPEAR",
+        "hint": "What simple but effective weapon was used in ancient warfare?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SADAT",
+        "hint": "Which Egyptian president made peace with Israel?",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PRINT",
+        "hint": "What invention by Gutenberg spread knowledge rapidly?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "PAGAN",
+        "hint": "What term described Roman polytheistic religion?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VESPUCCI",
+        "hint": "Who realized the Americas were a new continent?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WATERLOO",
+        "hint": "Which 1815 battle ended Napoleon's rule?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TRADE",
+        "hint": "What connected ancient empires through goods and ideas?",
         "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CUETZ",
+        "hint": "Which Aztec ruler faced Cortés in 1519?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ISRAEL",
+        "hint": "What state was created in 1948 in the Middle East?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HOLOCAUST",
+        "hint": "What genocide killed six million Jews during WWII?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "BOGOTA",
+        "hint": "Which Andean city is Colombia's capital?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SANA",
+        "hint": "Which city is the capital of Yemen?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SILK",
+        "hint": "What luxury fabric came from China along long routes?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "HAVANA",
+        "hint": "Which Caribbean capital is known for vintage cars?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TUNISIA",
+        "hint": "Which country started the Arab Spring in 2010?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "NORMAN",
+        "hint": "Which people conquered England in 1066?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "KOCH",
+        "hint": "Who identified the bacteria causing tuberculosis?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "CANNON",
+        "hint": "What gunpowder weapon revolutionized siege warfare?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ABUDHABI",
+        "hint": "Which city is the capital of the United Arab Emirates?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PTOLEMY",
+        "hint": "Which scholar proposed the geocentric model of the universe?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FASCISM",
+        "hint": "What far-right ideology rose in Italy under Mussolini?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GOLD",
+        "hint": "What metal drove conquest and colonization?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "NEWTON",
+        "hint": "Who formulated the laws of motion and gravity?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "REVOLT",
+        "hint": "What term describes a rebellion against authority?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "MARY",
+        "hint": "Which queen tried to restore Catholicism in England?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "NAPOLEON",
+        "hint": "Who rose to power after the French Revolution?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DRESDEN",
+        "hint": "Which German city was firebombed in 1945?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NERVA",
+        "hint": "Which emperor began the era of the Five Good Emperors?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "COLUMBUS",
+        "hint": "Who sailed to the Americas under Spain's flag?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SCRAMBLE",
+        "hint": "What rush divided Africa among European powers in 1884?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MEDINA",
+        "hint": "What city did Prophet Muhammad migrate to in 622?",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "KINGSTON",
+        "hint": "Which Caribbean city is Jamaica's capital?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "WTO",
+        "hint": "Which body regulates international trade since 1995?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SANTIAGO",
+        "hint": "Which South American capital is near the Andes?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RAJ",
+        "hint": "What term described British rule in India?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOHR",
+        "hint": "Who developed a model of the atom with quantized orbits?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LIMA",
+        "hint": "Which South American capital faces the Pacific Ocean?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DRAKE",
+        "hint": "Which English sea captain raided Spanish ships?",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SINGAPORE",
+        "hint": "Which city-state is a major financial and shipping center?",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "FLEMING",
+        "hint": "Who discovered penicillin in 1928?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "YEMEN",
+        "hint": "Which country has faced a humanitarian crisis since 2015?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "NILE",
+        "hint": "Which river was the life source of ancient Egypt?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SEPOY",
+        "hint": "Which Indian soldiers rebelled against British rule in 1857?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CLOVIS",
+        "hint": "Which Frankish king converted to Christianity in 496?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "INDUSTRY",
+        "hint": "What revolution began in Britain with textile machines?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "AFGHAN",
+        "hint": "Which war began in 2001 to dismantle al-Qaeda?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "TANG",
+        "hint": "Which Chinese dynasty was a golden age of poetry?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "GANDHI",
+        "hint": "Who led India's nonviolent independence movement?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "TORAH",
+        "hint": "What is the foundational text of Judaism?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "CHURCH",
+        "hint": "What building is used for Christian worship?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COLISEUM",
+        "hint": "What Roman amphitheater hosted gladiatorial contests?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MING",
+        "hint": "Which dynasty ruled China from 1368 to 1644?",
+        "startx": 3,
+        "starty": 14,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DUBAI",
+        "hint": "Which city became a global hub in the Persian Gulf?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CAESAR",
+        "hint": "Who was the Roman general assassinated in 44 BC?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PHARAOH",
+        "hint": "What title did rulers of ancient Egypt hold?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "TRUMAN",
+        "hint": "Which US president ordered the atomic bombs dropped?",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "REFORM",
+        "hint": "What movement changed Christianity in the 16th century?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "COLONIAL",
+        "hint": "What system saw European powers rule foreign lands?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POITIERS",
+        "hint": "Which 1356 battle was a major English victory in France?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NAZI",
+        "hint": "What German party promoted racism and expansion?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "OPEC",
+        "hint": "What organization controls oil production among member states?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BYZANT",
+        "hint": "Which Christian empire was based in Constantinople?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "QUITO",
+        "hint": "Which South American capital is near the equator?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "HUDSON",
+        "hint": "Which explorer searched for a northern passage to Asia?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "NORMANDY",
+        "hint": "Which 1944 invasion began the liberation of Western Europe?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SLAVE",
+        "hint": "What person was treated as property in many societies?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MAURYA",
+        "hint": "Which empire united much of ancient India under Ashoka?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "IRAQ",
+        "hint": "Which 2003 war was based on claims of weapons of mass destruction?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MANAMA",
+        "hint": "Which city is the capital of Bahrain?",
+        "startx": 2,
         "starty": 5,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "SCOTS",
-        "hint": "Which northern people lived among foggy highlands?",
+        "answer": "NERO",
+        "hint": "Which Roman emperor ruled during the Great Fire of Rome?",
         "startx": 5,
-        "starty": 5,
+        "starty": 9,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "GENOA",
-        "hint": "Which Italian port sent explorers like Columbus?",
+        "answer": "KAMAKURA",
+        "hint": "Which city was the seat of the first shogunate in Japan?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "VIKING",
+        "hint": "Which Norse seafarers explored and raided Europe?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "BREXIT",
+        "hint": "What 2016 vote led the UK to leave the European Union?",
         "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PERSIA",
+        "hint": "Which empire ruled from modern Iran before Islam?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BERLIN",
+        "hint": "Which conference divided Africa among European nations?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "UNESCO",
+        "hint": "Which UN agency promotes education and culture?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RIYADH",
+        "hint": "Which city is the capital of Saudi Arabia?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "GREECE",
+        "hint": "Which civilization invented democracy?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HIROSHIMA",
+        "hint": "Which Japanese city was hit by the first atomic bomb?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "XERXES",
+        "hint": "Which Persian king invaded Greece with a huge army?",
+        "startx": 1,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "JEDDAH",
+        "hint": "Which Saudi city is a gateway for Hajj pilgrims?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RABIN",
+        "hint": "Which Israeli leader was assassinated after peace efforts?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PYRAMID",
+        "hint": "What massive tomb was built for Egyptian pharaohs?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "YONGLE",
+        "hint": "Which Ming emperor sponsored Zheng He’s voyages?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ROUSSEAU",
+        "hint": "Who wrote about the social contract and inequality?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ANTWERP",
+        "hint": "Which Belgian city is a major diamond trading center?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "LIBERTY",
+        "hint": "What ideal motivated revolutions in the 18th century?",
+        "startx": 1,
         "starty": 14,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "HERALD",
-        "hint": "Who announces guests and reads rules at tournaments?",
-        "startx": 10,
-        "starty": 10,
+        "answer": "ZULU",
+        "hint": "Which African kingdom resisted British colonization?",
+        "startx": 1,
+        "starty": 12,
         "orientation": "down",
         "position": 8
-      },
-      {
-        "answer": "DAY",
-        "hint": "What time passes between one sunrise and the next?",
-        "startx": 10,
-        "starty": 15,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "HISTORY",
-        "hint": "What word means stories about real events in the past?",
-        "startx": 12,
-        "starty": 9,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "IRISH",
-        "hint": "Which island people saved books in cold stone monasteries?",
-        "startx": 9,
-        "starty": 2,
-        "orientation": "down",
-        "position": 11
       }
     ],
     [
       {
-        "answer": "IRISH",
-        "hint": "Which island people saved books in cold stone monasteries?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "SAMURAI",
+        "hint": "Which Japanese warriors followed the bushido code?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SADDLE",
-        "hint": "What seat straps to a horse so riders can stay balanced?",
-        "startx": 8,
-        "starty": 8,
+        "answer": "SENATE",
+        "hint": "What Roman council advised and governed the republic?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "EDICT",
-        "hint": "What posted order tells citizens what to do?",
+        "answer": "ROME",
+        "hint": "Which empire had emperors like Augustus?",
         "startx": 5,
-        "starty": 6,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "PARTHEN",
-        "hint": "What famous temple honored the goddess Athena?",
+        "answer": "MAP",
+        "hint": "What tool represents geographical areas?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ATHENS",
+        "hint": "Which Greek city was the birthplace of democracy?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CHE",
+        "hint": "Which revolutionary fought in Cuba and Bolivia?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "UNITED",
+        "hint": "What international organization was founded in 1945?",
         "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CASTLE",
+        "hint": "What fortified residence protected nobles in medieval times?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHURCHILL",
+        "hint": "Who led Britain during World War II?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SALT",
+        "hint": "What mineral was once used as money in Africa?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "KHAN",
+        "hint": "What title was used by Mongol and Turkic leaders?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CABOT",
+        "hint": "Which explorer sailed for England to North America?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "COMPASS",
+        "hint": "What navigational tool enabled global sea exploration?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "GALILEO",
+        "hint": "Who improved the telescope and supported heliocentrism?",
+        "startx": 1,
         "starty": 13,
         "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "JAPAN",
-        "hint": "Which island nation had emperors and samurai?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "INCANS",
-        "hint": "Which Andean empire built roads high in the mountains?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "DATE",
-        "hint": "What calendar number tells when something happened?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "EGYPT",
-        "hint": "Which desert kingdom built pyramids along the Nile?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
         "position": 8
-      },
-      {
-        "answer": "ESCORT",
-        "hint": "Who safely walks important people through crowds?",
-        "startx": 11,
-        "starty": 10,
-        "orientation": "down",
-        "position": 9
       }
     ],
     [
       {
-        "answer": "JUSTICE",
-        "hint": "What word means fair treatment under the law?",
+        "answer": "EGYPT",
+        "hint": "Which ancient civilization built the pyramids?",
         "startx": 4,
-        "starty": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "QUILL",
-        "hint": "What feather pen writes laws, letters, and poems?",
-        "startx": 8,
-        "starty": 6,
+        "answer": "LIBYA",
+        "hint": "Which country's leader Gaddafi was overthrown in 2011?",
+        "startx": 6,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "QIN",
-        "hint": "Which Chinese dynasty first united the warring states?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
+        "answer": "ROTTERDAM",
+        "hint": "Which Dutch port is one of the world's busiest?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "FUTURE",
-        "hint": "What word means the time that has not come yet?",
-        "startx": 5,
-        "starty": 5,
+        "answer": "HASTINGS",
+        "hint": "Which 1066 battle gave England to the Normans?",
+        "startx": 8,
+        "starty": 4,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "TEMPLE",
-        "hint": "What building holds statues and offerings to gods?",
-        "startx": 4,
+        "answer": "ARMADA",
+        "hint": "What Spanish fleet failed to invade England in 1588?",
+        "startx": 1,
         "starty": 10,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "HOGAN",
-        "hint": "What Navajo home is built from logs and packed earth?",
-        "startx": 10,
-        "starty": 2,
+        "answer": "KUBLAI",
+        "hint": "Who established the Yuan Dynasty in China?",
+        "startx": 1,
+        "starty": 6,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "PROPHET",
-        "hint": "What person says they hear messages from a god?",
-        "startx": 6,
-        "starty": 2,
+        "answer": "UNION",
+        "hint": "What worker group fought for better wages and conditions?",
+        "startx": 7,
+        "starty": 9,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "TEACHER",
-        "hint": "Who explains lessons to children in class?",
-        "startx": 12,
-        "starty": 2,
+        "answer": "CORTES",
+        "hint": "Who conquered the Aztec Empire for Spain?",
+        "startx": 10,
+        "starty": 8,
         "orientation": "down",
         "position": 8
       },
       {
-        "answer": "WHARF",
-        "hint": "What wooden platform lets sailors load cargo?",
-        "startx": 1,
-        "starty": 5,
+        "answer": "HERODOTUS",
+        "hint": "Who is called the 'Father of History'?",
+        "startx": 2,
+        "starty": 13,
         "orientation": "across",
         "position": 9
       },
       {
-        "answer": "PARTHEN",
-        "hint": "What famous temple honored the goddess Athena?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "HAITI",
+        "hint": "Which nation was the first to abolish slavery in 1804?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "across",
         "position": 10
       }
     ],
     [
       {
-        "answer": "COOK",
-        "hint": "Who makes meals in a busy kitchen?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "CRUSADE",
+        "hint": "What series of religious wars targeted the Holy Land?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CLAN",
-        "hint": "What word means a big family group in early societies?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "HUSSEIN",
+        "hint": "Which Iraqi leader invaded Kuwait in 1990?",
+        "startx": 6,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RUNNER",
-        "hint": "Who carries news on foot between towns?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
+        "answer": "KEPLER",
+        "hint": "Who discovered planets move in elliptical orbits?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "BORDER",
-        "hint": "What line marks where one country ends?",
-        "startx": 2,
-        "starty": 6,
+        "answer": "PHOENICI",
+        "hint": "Which civilization created an early alphabet used by Greeks?",
+        "startx": 3,
+        "starty": 1,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "FREEDOM",
-        "hint": "What word means living without being controlled?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
+        "answer": "YELTSIN",
+        "hint": "Who became Russia's first president after the USSR fell?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "TRACKER",
-        "hint": "Who follows footprints to find people or animals?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "LANCER",
-        "hint": "What rider charges with a lance toward foes?",
-        "startx": 9,
-        "starty": 1,
+        "answer": "DAIMYO",
+        "hint": "Which feudal lords controlled provinces in Japan?",
+        "startx": 1,
+        "starty": 6,
         "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "COBBLER",
-        "hint": "Who makes and fixes leather shoes?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 8
+        "position": 6
       }
     ],
     [
       {
-        "answer": "MOAT",
-        "hint": "What watery ditch surrounds a castle for safety?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "PORTAU",
+        "hint": "Which Caribbean port is Haiti's capital?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "LONDON",
-        "hint": "Which English city grew powerful on the River Thames?",
+        "answer": "STALINGRAD",
+        "hint": "Which battle marked a turning point on the Eastern Front?",
         "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SHOGUN",
+        "hint": "Which military ruler held real power in feudal Japan?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BEGIN",
+        "hint": "Which Israeli prime minister signed peace with Egypt?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BABYLON",
+        "hint": "Which Mesopotamian city had the Hanging Gardens?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "KOREA",
+        "hint": "Which war began in 1950 between North and South?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "NAGASAKI",
+        "hint": "Which Japanese city was hit by the second atomic bomb?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DAVINCI",
+        "hint": "Who painted the Mona Lisa and studied human anatomy?",
+        "startx": 9,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MINER",
-        "hint": "Who digs deep tunnels for metal or salt?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
+        "answer": "MESOPOT",
+        "hint": "Which region between two rivers is called the cradle of civilization?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "TOLTEC",
-        "hint": "Which central Mexican artisans carved columns and jaguars?",
-        "startx": 8,
-        "starty": 8,
+        "answer": "HANNIBAL",
+        "hint": "Who led Carthage against Rome with elephants?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "INDUS",
+        "hint": "Which river valley hosted one of the world’s earliest civilizations?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ZHENGE",
+        "hint": "Who commanded China’s grand naval expeditions?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "IMF",
+        "hint": "Which institution provides financial assistance to countries?",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "WARSAW",
+        "hint": "What pact united communist Eastern European countries?",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "MONGOL",
+        "hint": "Which empire created the largest contiguous land empire?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "BUENOS",
+        "hint": "Which South American capital is known for tango?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ARAFAT",
+        "hint": "Who led the Palestine Liberation Organization?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "IMPERIAL",
+        "hint": "What policy extended a nation's power over other territories?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MUSCAT",
+        "hint": "Which city is the capital of Oman?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "PAPER",
+        "hint": "What Chinese invention changed record-keeping forever?",
+        "startx": 7,
+        "starty": 6,
         "orientation": "down",
         "position": 4
       },
       {
         "answer": "SPARTA",
-        "hint": "Which Greek city trained boys to be strong soldiers?",
+        "hint": "Which Greek city was known for its military society?",
         "startx": 4,
-        "starty": 11,
+        "starty": 10,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "BUTCHER",
-        "hint": "Who cuts meat to sell in the market?",
-        "startx": 5,
-        "starty": 13,
+        "answer": "KNIGHT",
+        "hint": "What armored warrior followed the code of chivalry?",
+        "startx": 3,
+        "starty": 1,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "TEMPLE",
-        "hint": "What building holds statues and offerings to gods?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
+        "answer": "TIGRIS",
+        "hint": "Which river flows through modern Iraq and Turkey?",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
         "position": 7
-      },
-      {
-        "answer": "ATHENS",
-        "hint": "Which Greek city loved art, math, and democracy?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "CARTER",
-        "hint": "Who drives wagons full of grain down the road?",
-        "startx": 11,
-        "starty": 8,
-        "orientation": "down",
-        "position": 9
       }
     ],
     [
       {
-        "answer": "EXPLORER",
-        "hint": "Who sails to map and discover new lands?",
+        "answer": "PASTEUR",
+        "hint": "Who developed pasteurization and vaccines?",
         "startx": 3,
-        "starty": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SETTLER",
-        "hint": "Who moves to live on new frontiers or colonies?",
-        "startx": 3,
-        "starty": 3,
+        "answer": "ZAPATA",
+        "hint": "Which Mexican revolutionary fought for land reform?",
+        "startx": 4,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "YEAR",
-        "hint": "What time unit counts twelve months together?",
-        "startx": 9,
-        "starty": 7,
+        "answer": "BOER",
+        "hint": "Which war was fought between Britain and Dutch settlers in South Africa?",
+        "startx": 7,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "SIGNAL",
-        "hint": "What torch or flag warns people from far away?",
-        "startx": 6,
-        "starty": 3,
+        "answer": "ARISTOTLE",
+        "hint": "Which thinker tutored Alexander the Great?",
+        "startx": 9,
+        "starty": 6,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "SADDLE",
-        "hint": "What seat straps to a horse so riders can stay balanced?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MALI",
-        "hint": "Which West African empire grew rich from gold and salt?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "HUT",
-        "hint": "What tiny shelter is made of mud, straw, or wood?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "MONTH",
-        "hint": "What smaller time unit splits a year into parts?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "EPOCH",
-        "hint": "What fancy word means a major period in history?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SCIENTST",
-        "hint": "Who runs experiments to learn how the world works?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TIMBUKTU",
-        "hint": "Which Saharan city held famous libraries and gold?",
-        "startx": 5,
+        "answer": "CHRIST",
+        "hint": "Who is the central religious figure of Christianity?",
+        "startx": 4,
         "starty": 12,
         "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GOTHS",
-        "hint": "Which Germanic people invaded Rome seeking homes?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "COLONY",
-        "hint": "What do you call land ruled by a far-away country?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
         "position": 5
       },
       {
-        "answer": "SQUIRE",
-        "hint": "What teen helps a knight polish armor and train?",
-        "startx": 12,
+        "answer": "SHINTO",
+        "hint": "What indigenous Japanese belief centers on kami spirits?",
+        "startx": 5,
         "starty": 10,
-        "orientation": "down",
+        "orientation": "across",
         "position": 6
       },
       {
-        "answer": "CHARGE",
-        "hint": "What fast run do soldiers make toward the enemy?",
-        "startx": 7,
-        "starty": 15,
+        "answer": "YUAN",
+        "hint": "Which dynasty ruled China under Mongol rule?",
+        "startx": 2,
+        "starty": 5,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "EDICT",
-        "hint": "What posted order tells citizens what to do?",
-        "startx": 1,
-        "starty": 10,
+        "answer": "CURIE",
+        "hint": "Which scientist pioneered research on radioactivity?",
+        "startx": 5,
+        "starty": 14,
         "orientation": "across",
         "position": 8
       },
       {
-        "answer": "JAILER",
-        "hint": "Who locks and unlocks the heavy cell doors?",
-        "startx": 1,
-        "starty": 6,
+        "answer": "MUMMY",
+        "hint": "What preserved body was placed in ancient Egyptian tombs?",
+        "startx": 2,
+        "starty": 1,
         "orientation": "down",
         "position": 9
       },
       {
-        "answer": "RENAISS",
-        "hint": "Which age rebirthed art and science in Europe?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
+        "answer": "MUSKET",
+        "hint": "What firearm was common in armies from the 1500s to 1800s?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
         "position": 10
       }
     ],
     [
       {
-        "answer": "MODERN",
-        "hint": "What word describes more recent times with machines?",
+        "answer": "NATO",
+        "hint": "What military alliance opposed the Soviet bloc?",
         "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LANCER",
-        "hint": "What rider charges with a lance toward foes?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INFANTRY",
-        "hint": "What foot soldiers march together with shields?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "DATE",
-        "hint": "What calendar number tells when something happened?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PARIS",
-        "hint": "Which French city saw kings crowned at Notre Dame?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "HUNS",
-        "hint": "Which fast riders frightened Rome in late times?",
-        "startx": 3,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SAMIZD",
-        "hint": "What secret books were copied by hand in strict times?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "SCOTS",
-        "hint": "Which northern people lived among foggy highlands?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "INUIT",
-        "hint": "Which Arctic people built igloos from packed snow?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "PLEDGE",
-        "hint": "What solemn promise shows loyalty to a flag?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SAILOR",
-        "hint": "Who works on a ship and ties the ropes?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TIBET",
-        "hint": "Which high plateau land is home to monks and yaks?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LYDIA",
-        "hint": "Which rich kingdom first made gold coins for trade?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ERA",
-        "hint": "What word means a long period like the Ice Age?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "DATE",
-        "hint": "What calendar number tells when something happened?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "TRIBE",
-        "hint": "What word describes a small group sharing language and land?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LODGE",
-        "hint": "What log house keeps trappers warm in winter?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "STORY",
-        "hint": "What do you call a tale about events long ago?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FORGE",
-        "hint": "What smoky workshop heats metal for tools and swords?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "RANGER",
-        "hint": "What forest scout protects the borders?",
-        "startx": 12,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ORATOR",
-        "hint": "Who gives strong speeches to a crowd?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "POET",
-        "hint": "Who writes verses about heroes and love?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "PIONEER",
-        "hint": "Who travels west to build homes and farms?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "STRIKE",
-        "hint": "What action is workers refusing to do their jobs?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "YURT",
-        "hint": "What round felt tent is used by steppe nomads?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CLERK",
-        "hint": "Who copies letters and keeps official records?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CLAN",
-        "hint": "What word means a big family group in early societies?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HOGAN",
-        "hint": "What Navajo home is built from logs and packed earth?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "HIEROGL",
-        "hint": "What picture writing decorates Egyptian tomb walls?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "CARPENTR",
-        "hint": "Who cuts wood to build homes, ships, and carts?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GOTHS",
-        "hint": "Which Germanic people invaded Rome seeking homes?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TRACKER",
-        "hint": "Who follows footprints to find people or animals?",
-        "startx": 5,
         "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CHARIOT",
-        "hint": "What two-wheeled cart carried warriors into battle?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "GOLD",
-        "hint": "What shiny metal was used for coins and crowns?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TRIBUTE",
-        "hint": "What payment a weaker land sends to a ruler?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "SAMURAI",
-        "hint": "What Japanese warrior followed a strict honor code?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "BARD",
-        "hint": "Who sings stories of battles with a harp?",
-        "startx": 12,
-        "starty": 3,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "MAASAI",
-        "hint": "Which tall herders from East Africa wear bright beads?",
-        "startx": 4,
-        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SHEPHERD",
-        "hint": "Who watches sheep on windy hills?",
-        "startx": 7,
-        "starty": 8,
+        "answer": "BASTILLE",
+        "hint": "What fortress was stormed at the start of the French Revolution?",
+        "startx": 5,
+        "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DECREE",
-        "hint": "What written command is announced by a king?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "NAZARETH",
-        "hint": "Which town is known as the childhood home of Jesus?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HERDER",
-        "hint": "Who moves cows, goats, or yaks across fields?",
-        "startx": 4,
-        "starty": 15,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ATHENS",
-        "hint": "Which Greek city loved art, math, and democracy?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "TANG",
-        "hint": "Which golden Chinese dynasty loved art and poetry?",
+        "answer": "COUNTER",
+        "hint": "What Catholic response addressed Protestant challenges?",
         "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "MAORI",
-        "hint": "Which sailors settled New Zealand in carved canoes?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "ROME",
-        "hint": "Which capital city stood at the center of an empire?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "GREEKS",
-        "hint": "Which ancient people told myths about Zeus and Athena?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RENAISS",
-        "hint": "Which age rebirthed art and science in Europe?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SCOTS",
-        "hint": "Which northern people lived among foggy highlands?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PRESS",
-        "hint": "What machine squeezes pages against carved letters?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PARIS",
-        "hint": "Which French city saw kings crowned at Notre Dame?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "NEPAL",
-        "hint": "Which mountain kingdom sits near the Himalayas?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "NUN",
-        "hint": "What woman promises to serve and pray inside a convent?",
-        "startx": 1,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "TABLET",
-        "hint": "What clay slab holds wedge-shaped cuneiform writing?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SENTINEL",
-        "hint": "What guard watches a wall all night long?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "KILN",
-        "hint": "What hot oven hardens pottery so it will not leak?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SUMATRA",
-        "hint": "Which island kingdom traded spices in Indonesia?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DAY",
-        "hint": "What time passes between one sunrise and the next?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SLAVE",
-        "hint": "What person is forced to work with no freedom?",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SENATE",
-        "hint": "What group of elders meets to make laws?",
-        "startx": 12,
-        "starty": 7,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "SONG",
-        "hint": "Which Chinese dynasty invented paper money and compasses?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "APACHE",
-        "hint": "Which desert fighters rode swiftly across the southwest?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LEGEND",
-        "hint": "What old story mixes heroes with a bit of magic?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "WEEK",
-        "hint": "What time unit has seven days in a row?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MASON",
-        "hint": "Who cuts stone to build walls and cathedrals?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PLEDGE",
-        "hint": "What solemn promise shows loyalty to a flag?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PLOW",
-        "hint": "What tool digs long rows to plant seeds faster?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "REVOLT",
-        "hint": "What do you call people rising up against a ruler?",
-        "startx": 3,
-        "starty": 14,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "IRON",
-        "hint": "Which age forged hard swords and plows from iron?",
-        "startx": 1,
-        "starty": 11,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "RULER",
-        "hint": "Who makes the laws in a country or empire?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "OLMEC",
-        "hint": "Which early Mexican culture carved giant stone heads?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "DUNGEON",
-        "hint": "What dark underground prison sits below a castle?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "VELLUM",
-        "hint": "What stretched animal skin became smooth pages?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DETAIL",
-        "hint": "What small fact helps explain a bigger event?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GALLEY",
-        "hint": "What long ship uses rowers and sails together?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "RECORD",
-        "hint": "What written note keeps facts safe for later?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PARSON",
-        "hint": "What village priest teaches and guides people?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SCOUT",
-        "hint": "Who sneaks ahead to learn where the enemy is?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "TREATY",
-        "hint": "What signed paper ends a war between lands?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "KOREA",
-        "hint": "Which peninsula kingdom made turtle ships?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "JAVA",
-        "hint": "Which Indonesian island grew rice for sultans?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "ADMIRAL",
-        "hint": "Who commands an entire navy of ships?",
-        "startx": 12,
-        "starty": 4,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "ORAL",
-        "hint": "What word means stories told aloud without writing?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CAESAR",
-        "hint": "What title did Roman emperors use after Julius?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DYNASTY",
-        "hint": "What word means a family that rules for many years?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ORATOR",
-        "hint": "Who gives strong speeches to a crowd?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "STEEL",
-        "hint": "What metal made swords that stayed sharp in battle?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PERSIA",
-        "hint": "Which mighty empire stretched from India to the sea?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "TYRIANS",
-        "hint": "Which sailors from Tyre sailed purple ships for trade?",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "GOTHS",
-        "hint": "Which Germanic people invaded Rome seeking homes?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RENAISS",
-        "hint": "Which age rebirthed art and science in Europe?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NEPAL",
-        "hint": "Which mountain kingdom sits near the Himalayas?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HIEROGL",
-        "hint": "What picture writing decorates Egyptian tomb walls?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "LIGHTHSE",
-        "hint": "What tall tower shines a light to guide ships at night?",
-        "startx": 12,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "TRACKER",
-        "hint": "Who follows footprints to find people or animals?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "PHARAOH",
-        "hint": "What ancient Egyptian ruler wore a tall headdress?",
-        "startx": 4,
-        "starty": 14,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "RETREAT",
-        "hint": "What move means soldiers run back to safety?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TUTOR",
-        "hint": "Who teaches a prince lessons in private?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MONGOLS",
-        "hint": "Which horse people raced across Asia with Khans?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SLAVERY",
-        "hint": "What word means forcing people to work without pay?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CANAL",
-        "hint": "What man-made waterway lets boats pass between rivers?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "UPRISING",
-        "hint": "What large protest turns into a fight for change?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "AGRA",
-        "hint": "Which Indian city holds the Taj Mahal tomb?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "HISTORY",
-        "hint": "What word means stories about real events in the past?",
-        "startx": 12,
         "starty": 9,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "HUT",
-        "hint": "What tiny shelter is made of mud, straw, or wood?",
-        "startx": 3,
-        "starty": 6,
         "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "HUNS",
-        "hint": "Which fast riders frightened Rome in late times?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "SIEGE",
-        "hint": "What attack surrounds a castle so no food gets in?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PARSON",
-        "hint": "What village priest teaches and guides people?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NORSE",
-        "hint": "Which seafaring people from Scandinavia raided coasts?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "QIN",
-        "hint": "Which Chinese dynasty first united the warring states?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
+        "answer": "MUSSOLINI",
+        "hint": "Who ruled Italy as a dictator in the 1920s and 1930s?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "FLORENCE",
-        "hint": "Which Italian city bloomed with art in the Renaissance?",
-        "startx": 7,
-        "starty": 1,
-        "orientation": "down",
+        "answer": "EUROPEAN",
+        "hint": "What union of nations was formed to ensure peace after WWII?",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "CLERK",
-        "hint": "Who copies letters and keeps official records?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
+        "answer": "SYNAGOGUE",
+        "hint": "What place is used for Jewish communal worship?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
         "position": 6
       },
       {
-        "answer": "OATH",
-        "hint": "What serious promise leaders make before serving?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "APACHE",
-        "hint": "Which desert fighters rode swiftly across the southwest?",
+        "answer": "DARWIN",
+        "hint": "Who proposed the theory of evolution by natural selection?",
         "startx": 12,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "QUILL",
-        "hint": "What feather pen writes laws, letters, and poems?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "INFANTRY",
-        "hint": "What foot soldiers march together with shields?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "CHARIOT",
-        "hint": "What two-wheeled cart carried warriors into battle?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DIARY",
-        "hint": "What private book holds someone’s thoughts?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ENVOY",
-        "hint": "Who carries a ruler’s message to another land?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "APACHE",
-        "hint": "Which desert fighters rode swiftly across the southwest?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NUBIA",
-        "hint": "Which African kingdom traded gold along the Nile?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "HUNS",
-        "hint": "Which fast riders frightened Rome in late times?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "GALLEY",
-        "hint": "What long ship uses rowers and sails together?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "UPRISING",
-        "hint": "What large protest turns into a fight for change?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TIBET",
-        "hint": "Which high plateau land is home to monks and yaks?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "COURIER",
-        "hint": "Who rides fast horses to deliver important letters?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TROY",
-        "hint": "Which walled city faced a long war with a wooden horse?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "KYIV",
-        "hint": "Which Ukrainian city grew from river traders?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "LANCER",
-        "hint": "What rider charges with a lance toward foes?",
-        "startx": 6,
         "starty": 8,
         "orientation": "down",
         "position": 7
@@ -1600,1878 +1678,798 @@
     ],
     [
       {
-        "answer": "INVASION",
-        "hint": "What event is when one country enters another by force?",
+        "answer": "HEBREW",
+        "hint": "Which people developed monotheistic religion in the ancient Near East?",
         "startx": 3,
-        "starty": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "TRIBUTE",
-        "hint": "What payment a weaker land sends to a ruler?",
-        "startx": 8,
-        "starty": 6,
+        "answer": "AQUEDUCT",
+        "hint": "What Roman structure transported water over long distances?",
+        "startx": 7,
+        "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "KOREA",
-        "hint": "Which peninsula kingdom made turtle ships?",
-        "startx": 6,
-        "starty": 4,
+        "answer": "SHANGHAI",
+        "hint": "Which Chinese city is a global economic powerhouse?",
+        "startx": 3,
+        "starty": 6,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "NAZARETH",
-        "hint": "Which town is known as the childhood home of Jesus?",
+        "answer": "DAMASCUS",
+        "hint": "Which Syrian capital is one of the oldest continuously inhabited cities?",
         "startx": 4,
-        "starty": 8,
-        "orientation": "down",
+        "starty": 4,
+        "orientation": "across",
         "position": 4
-      },
-      {
-        "answer": "EGYPT",
-        "hint": "Which desert kingdom built pyramids along the Nile?",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "JAILER",
-        "hint": "Who locks and unlocks the heavy cell doors?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
       },
       {
         "answer": "CODE",
-        "hint": "What book of laws lists crimes and punishments?",
-        "startx": 1,
+        "hint": "What set of laws did Hammurabi establish in Babylon?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SILKROAD",
+        "hint": "What trade network linked Asia and Europe?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "EUCLID",
+        "hint": "Which Greek mathematician wrote 'Elements'?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BINLADEN",
+        "hint": "Who founded al-Qaeda and attacked the US in 2001?",
+        "startx": 2,
         "starty": 13,
         "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "TRUCE",
-        "hint": "What short peace stops fighting for a while?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LETTER",
-        "hint": "What written message can be sent far away?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CARAVEL",
-        "hint": "What fast sailing ship explored oceans in the 1400s?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "KYIV",
-        "hint": "Which Ukrainian city grew from river traders?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "REVOLT",
-        "hint": "What do you call people rising up against a ruler?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "LEDGER",
-        "hint": "What bound book lists trades, debts, and payments?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "NAZARETH",
-        "hint": "Which town is known as the childhood home of Jesus?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MAYANS",
-        "hint": "Which rainforest people built step pyramids in Yucatan?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DAY",
-        "hint": "What time passes between one sunrise and the next?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "JOURNAL",
-        "hint": "What daily book holds a traveler’s notes?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GHANA",
-        "hint": "Which early West African kingdom taxed the caravans?",
-        "startx": 10,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ALLIANCE",
-        "hint": "What agreement makes two kingdoms friends?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "DAMASCUS",
-        "hint": "Which ancient city was a trade stop for caravans?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TEACHER",
-        "hint": "Who explains lessons to children in class?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DETAIL",
-        "hint": "What small fact helps explain a bigger event?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HOGAN",
-        "hint": "What Navajo home is built from logs and packed earth?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RAID",
-        "hint": "What quick attack hits a town and leaves fast?",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TALE",
-        "hint": "What short story tells about people from the past?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "BUGLER",
-        "hint": "Who blows notes to signal orders in camp?",
-        "startx": 11,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "SPHINX",
-        "hint": "What stone statue has a lion body and pharaoh face?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
         "position": 8
       },
       {
-        "answer": "ROME",
-        "hint": "Which capital city stood at the center of an empire?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "INCANS",
-        "hint": "Which Andean empire built roads high in the mountains?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HOGAN",
-        "hint": "What Navajo home is built from logs and packed earth?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COLOSSE",
-        "hint": "What Roman arena hosted gladiators and chariot races?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HOMELAND",
-        "hint": "What land is the birthplace of a people?",
+        "answer": "PEARL",
+        "hint": "Which 1941 attack brought the US into World War II?",
         "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "OATH",
-        "hint": "What serious promise leaders make before serving?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "HITTITE",
-        "hint": "Which Anatolian kingdom learned to forge strong iron?",
-        "startx": 12,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "CHARIOT",
-        "hint": "What two-wheeled cart carried warriors into battle?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "FREEDOM",
-        "hint": "What word means living without being controlled?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SADDLE",
-        "hint": "What seat straps to a horse so riders can stay balanced?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PLEDGE",
-        "hint": "What solemn promise shows loyalty to a flag?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "DETAIL",
-        "hint": "What small fact helps explain a bigger event?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MONK",
-        "hint": "Who lives in a monastery to pray and write books?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PRINCE",
-        "hint": "What royal son may become the next king?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "DELHI",
-        "hint": "Which Indian capital saw many sultans and emperors?",
-        "startx": 12,
         "starty": 9,
         "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "RANGER",
-        "hint": "What forest scout protects the borders?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "POTTER",
-        "hint": "Who shapes clay bowls for storing grain?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
         "position": 9
       },
       {
-        "answer": "CITDEL",
-        "hint": "What fortified city center protects people in war?",
-        "startx": 3,
-        "starty": 10,
+        "answer": "CALVIN",
+        "hint": "Which reformer taught predestination in Geneva?",
+        "startx": 9,
+        "starty": 8,
         "orientation": "down",
         "position": 10
-      },
-      {
-        "answer": "RECORD",
-        "hint": "What written note keeps facts safe for later?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "down",
-        "position": 11
       }
     ],
     [
       {
-        "answer": "BABYLON",
-        "hint": "Which city had hanging gardens by the Euphrates River?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "EMPIRE",
+        "hint": "What large state is ruled by an emperor?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "TOLTEC",
-        "hint": "Which central Mexican artisans carved columns and jaguars?",
-        "startx": 9,
-        "starty": 7,
+        "answer": "VOLTAIRE",
+        "hint": "Which thinker championed free speech and reason?",
+        "startx": 7,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "VENICE",
-        "hint": "Which canal city traded glass and silk across seas?",
-        "startx": 5,
-        "starty": 12,
+        "answer": "SYRIA",
+        "hint": "Which civil war began in 2011 and caused a refugee crisis?",
+        "startx": 3,
+        "starty": 5,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "SAMURAI",
-        "hint": "What Japanese warrior followed a strict honor code?",
-        "startx": 5,
-        "starty": 3,
+        "answer": "MICHEL",
+        "hint": "Who created the statue of David and painted the Sistine Chapel?",
+        "startx": 4,
+        "starty": 7,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "IMAM",
-        "hint": "Who leads prayers inside a mosque?",
-        "startx": 4,
-        "starty": 5,
+        "answer": "ABOLISH",
+        "hint": "What movement ended the slave trade in the 1800s?",
+        "startx": 1,
+        "starty": 12,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "SQUIRE",
-        "hint": "What teen helps a knight polish armor and train?",
-        "startx": 5,
-        "starty": 3,
+        "answer": "MOGHUL",
+        "hint": "Which empire ruled India and built the Taj Mahal?",
+        "startx": 1,
+        "starty": 10,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "MING",
-        "hint": "Which Chinese dynasty sent treasure fleets across seas?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "down",
+        "answer": "YALTA",
+        "hint": "Which conference planned post-war Europe in 1945?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
         "position": 7
       },
       {
-        "answer": "ERA",
-        "hint": "What word means a long period like the Ice Age?",
-        "startx": 10,
-        "starty": 3,
+        "answer": "MAHDI",
+        "hint": "Which rebellion fought against British rule in Sudan?",
+        "startx": 9,
+        "starty": 2,
         "orientation": "down",
         "position": 8
       },
       {
-        "answer": "TALE",
-        "hint": "What short story tells about people from the past?",
-        "startx": 9,
-        "starty": 10,
-        "orientation": "across",
+        "answer": "VIETNAM",
+        "hint": "Which war saw the US fight communist forces in Southeast Asia?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "down",
         "position": 9
       }
     ],
     [
       {
-        "answer": "CHIEF",
-        "hint": "What leader guides a tribe or village?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "JERUSA",
+        "hint": "Which city is holy to Judaism, Christianity, and Islam?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SCHOLAR",
-        "hint": "Who studies and teaches at ancient libraries?",
-        "startx": 6,
-        "starty": 6,
+        "answer": "PARTITION",
+        "hint": "What 1947 event divided India and Pakistan?",
+        "startx": 5,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "JUSTICE",
-        "hint": "What word means fair treatment under the law?",
+        "answer": "EUPHRAT",
+        "hint": "Which river runs parallel to the Tigris in Mesopotamia?",
         "startx": 8,
         "starty": 2,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "IRON",
-        "hint": "Which age forged hard swords and plows from iron?",
-        "startx": 5,
+        "answer": "PROTESTANT",
+        "hint": "What movement broke from the Catholic Church in the 1500s?",
+        "startx": 3,
         "starty": 12,
         "orientation": "across",
         "position": 4
-      },
-      {
-        "answer": "JAILER",
-        "hint": "Who locks and unlocks the heavy cell doors?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SAILOR",
-        "hint": "Who works on a ship and ties the ropes?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "BAZAAR",
-        "hint": "What busy market sells spices, cloth, and jewelry?",
-        "startx": 11,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "MUSEUM",
-        "hint": "What building displays artifacts from long ago?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "SUMATRA",
-        "hint": "Which island kingdom traded spices in Indonesia?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
       },
       {
         "answer": "STRIKE",
-        "hint": "What action is workers refusing to do their jobs?",
+        "hint": "What action did workers take to demand change?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "VEDIC",
+        "hint": "What early Indian period produced the Vedas?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "PHILIP",
+        "hint": "Which king unified Greece before Alexander?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PARIS",
+        "hint": "Which 2015 agreement set climate change targets?",
         "startx": 8,
         "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "RECORD",
-        "hint": "What written note keeps facts safe for later?",
-        "startx": 7,
-        "starty": 12,
+        "answer": "LEGION",
+        "hint": "What was the basic unit of the Roman army?",
+        "startx": 5,
+        "starty": 10,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "SONGHAI",
-        "hint": "Which West African empire ruled from Gao on the Niger?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "ENGELS",
+        "hint": "Who co-wrote the Communist Manifesto with Marx?",
+        "startx": 6,
+        "starty": 10,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "GREATW",
-        "hint": "What massive wall winds across northern China?",
-        "startx": 10,
+        "answer": "ALPHABET",
+        "hint": "What writing system was spread by Phoenician traders?",
+        "startx": 3,
         "starty": 5,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "DAY",
-        "hint": "What time passes between one sunrise and the next?",
-        "startx": 12,
-        "starty": 12,
+        "answer": "GENOCIDE",
+        "hint": "What term describes the deliberate killing of a group?",
+        "startx": 10,
+        "starty": 8,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "COLONY",
-        "hint": "What do you call land ruled by a far-away country?",
-        "startx": 7,
-        "starty": 14,
+        "answer": "CARTHAGE",
+        "hint": "Which city was destroyed by Rome after the Punic Wars?",
+        "startx": 2,
+        "starty": 5,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "RUNES",
-        "hint": "What carved letters Vikings etched into stones?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
+        "answer": "PETER",
+        "hint": "Who is considered the first leader of the early Christian church?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
         "position": 8
       },
       {
-        "answer": "TREATY",
-        "hint": "What signed paper ends a war between lands?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "down",
+        "answer": "PIZARRO",
+        "hint": "Who conquered the Inca Empire for Spain?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
         "position": 9
       },
       {
-        "answer": "UPRISING",
-        "hint": "What large protest turns into a fight for change?",
-        "startx": 3,
-        "starty": 5,
+        "answer": "DARIUS",
+        "hint": "Which Persian king fought the Greeks at Marathon?",
+        "startx": 1,
+        "starty": 15,
         "orientation": "across",
         "position": 10
       }
     ],
     [
       {
-        "answer": "TOLTEC",
-        "hint": "Which central Mexican artisans carved columns and jaguars?",
+        "answer": "TOKYO",
+        "hint": "Which city is the modern capital of Japan?",
         "startx": 4,
-        "starty": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "VELLUM",
-        "hint": "What stretched animal skin became smooth pages?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DATE",
-        "hint": "What calendar number tells when something happened?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FORUM",
-        "hint": "What Roman marketplace hosted trade and debates?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PROTEST",
-        "hint": "What loud gathering shows people dislike a rule?",
-        "startx": 4,
+        "answer": "KINGDOM",
+        "hint": "What territory is ruled by a monarch?",
+        "startx": 5,
         "starty": 2,
         "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "UPRISING",
-        "hint": "What large protest turns into a fight for change?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SERF",
-        "hint": "What medieval worker is tied to a lord's land?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COPPER",
-        "hint": "What reddish metal was hammered into early coins?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PARIS",
-        "hint": "Which French city saw kings crowned at Notre Dame?",
-        "startx": 6,
-        "starty": 6,
+        "answer": "KUWAIT",
+        "hint": "Which city is the capital of Kuwait?",
+        "startx": 1,
+        "starty": 3,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "MINSTREL",
-        "hint": "Who travels singing stories in great halls?",
-        "startx": 10,
-        "starty": 3,
+        "answer": "MOHENJO",
+        "hint": "Which Indus city had a large public bath?",
+        "startx": 8,
+        "starty": 1,
         "orientation": "down",
         "position": 4
-      },
-      {
-        "answer": "KYIV",
-        "hint": "Which Ukrainian city grew from river traders?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TOLL",
-        "hint": "What fee travelers pay to cross a bridge?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "FUTURE",
-        "hint": "What word means the time that has not come yet?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "EPOCH",
-        "hint": "What fancy word means a major period in history?",
-        "startx": 8,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
       },
       {
         "answer": "HAN",
-        "hint": "Which Chinese dynasty opened silk trade routes?",
-        "startx": 12,
-        "starty": 13,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "ALPHABET",
-        "hint": "What set of letters spells names and ideas?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LYDIA",
-        "hint": "Which rich kingdom first made gold coins for trade?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NOBLE",
-        "hint": "What rich landowner helps the king rule?",
+        "hint": "Which dynasty expanded China’s territory and trade?",
         "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
       },
       {
-        "answer": "NEPAL",
-        "hint": "Which mountain kingdom sits near the Himalayas?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "MYTH",
-        "hint": "What ancient story explains how things began?",
+        "answer": "GENGHIS",
+        "hint": "Who founded the Mongol Empire in the 1200s?",
         "startx": 10,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PLEDGE",
-        "hint": "What solemn promise shows loyalty to a flag?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "PEOPLE",
-        "hint": "What word means all the citizens of one land?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "POET",
-        "hint": "Who writes verses about heroes and love?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "ESCORT",
-        "hint": "Who safely walks important people through crowds?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "TSAR",
-        "hint": "What Russian ruler had absolute power long ago?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "JUDAH",
-        "hint": "Which southern Hebrew kingdom kept Jerusalem holy?",
-        "startx": 3,
-        "starty": 14,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "ASTLAB",
-        "hint": "What armillary sphere helps chart stars and planets?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SAGE",
-        "hint": "What wise person gives careful advice?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CAESAR",
-        "hint": "What title did Roman emperors use after Julius?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HUNTER",
-        "hint": "Who tracks animals to feed the village?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HUNS",
-        "hint": "Which fast riders frightened Rome in late times?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "CODE",
-        "hint": "What book of laws lists crimes and punishments?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SCROLL",
-        "hint": "What rolled sheets of papyrus or parchment hold stories?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "PRESS",
-        "hint": "What machine squeezes pages against carved letters?",
-        "startx": 9,
         "starty": 1,
         "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "GUNPOWDER",
+        "hint": "What Chinese invention changed warfare in the Middle Ages?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BOW",
+        "hint": "What ranged weapon uses tension to launch arrows?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ROOSEVELT",
+        "hint": "Who was US president during most of World War II?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "EXODUS",
+        "hint": "What biblical event describes the Israelites leaving Egypt?",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "FEUDAL",
+        "hint": "What system defined medieval European society?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MECCA",
+        "hint": "What city is the holiest site in Islam?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DEGAULLE",
+        "hint": "Who led the Free French during World War II?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "INCA",
+        "hint": "Which empire built Machu Picchu in the Andes?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HENRY",
+        "hint": "Which English king created the Church of England?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TALIBAN",
+        "hint": "Which group ruled Afghanistan before 2001?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CARAVAN",
+        "hint": "What group transported goods across deserts?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "EINSTEIN",
+        "hint": "Who developed the theory of relativity?",
+        "startx": 1,
+        "starty": 14,
+        "orientation": "across",
         "position": 8
       }
     ],
     [
       {
-        "answer": "SAMURAI",
-        "hint": "What Japanese warrior followed a strict honor code?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "EMANCIP",
+        "hint": "What term means freeing people from legal bondage?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "GOVERNOR",
-        "hint": "Who leads a colony or state for the king?",
-        "startx": 8,
-        "starty": 4,
+        "answer": "SOCIALISM",
+        "hint": "What movement sought to reduce inequality in industrial societies?",
+        "startx": 5,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "TRACKER",
-        "hint": "Who follows footprints to find people or animals?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
+        "answer": "PLATO",
+        "hint": "Which philosopher founded the Academy in Athens?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "PAST",
-        "hint": "What do you call the time that already happened?",
-        "startx": 2,
+        "answer": "APARTHEID",
+        "hint": "What system of racial segregation existed in South Africa?",
+        "startx": 9,
         "starty": 6,
-        "orientation": "across",
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "SOLDIER",
-        "hint": "Who wears a uniform and fights for their land?",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "down",
+        "answer": "ASHOKA",
+        "hint": "Which Mauryan king promoted non-violence and Buddhism?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "TIBET",
-        "hint": "Which high plateau land is home to monks and yaks?",
-        "startx": 2,
+        "answer": "KYOTO",
+        "hint": "Which 1997 protocol aimed to reduce greenhouse gas emissions?",
+        "startx": 11,
         "starty": 11,
-        "orientation": "across",
+        "orientation": "down",
         "position": 6
       },
       {
         "answer": "TEMPLE",
-        "hint": "What building holds statues and offerings to gods?",
-        "startx": 2,
-        "starty": 3,
+        "hint": "What sacred building stood on Mount Zion in ancient times?",
+        "startx": 3,
+        "starty": 6,
         "orientation": "down",
         "position": 7
-      },
-      {
-        "answer": "TALE",
-        "hint": "What short story tells about people from the past?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "DIARY",
-        "hint": "What private book holds someone’s thoughts?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 9
       }
     ],
     [
       {
-        "answer": "PRINCESS",
-        "hint": "What royal daughter lives inside the palace?",
-        "startx": 3,
-        "starty": 8,
+        "answer": "PALESTINE",
+        "hint": "What region became a focus of conflict after 1948?",
+        "startx": 2,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SIEGE",
-        "hint": "What attack surrounds a castle so no food gets in?",
+        "answer": "HONGKONG",
+        "hint": "Which former British colony is a financial center in Asia?",
         "startx": 9,
-        "starty": 8,
+        "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "ATHENS",
-        "hint": "Which Greek city loved art, math, and democracy?",
+        "answer": "LUTHER",
+        "hint": "Who started the Protestant Reformation in Germany?",
         "startx": 6,
-        "starty": 4,
-        "orientation": "down",
+        "starty": 5,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "OATH",
-        "hint": "What serious promise leaders make before serving?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
+        "answer": "NASSER",
+        "hint": "Who nationalized the Suez Canal in 1956?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "PRINCE",
-        "hint": "What royal son may become the next king?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MONAST",
-        "hint": "What building houses monks who study and pray?",
-        "startx": 1,
+        "answer": "CROWN",
+        "hint": "What symbol represents monarchy?",
+        "startx": 5,
         "starty": 11,
         "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "GHANA",
-        "hint": "Which early West African kingdom taxed the caravans?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "CLERK",
-        "hint": "Who copies letters and keeps official records?",
-        "startx": 1,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "SERF",
-        "hint": "What medieval worker is tied to a lord's land?",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "PROTEST",
-        "hint": "What loud gathering shows people dislike a rule?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SUMER",
-        "hint": "Which Mesopotamian land made the first cities?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EPOCH",
-        "hint": "What fancy word means a major period in history?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "WATCHMAN",
-        "hint": "Who walks the streets at night to keep them safe?",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DATE",
-        "hint": "What calendar number tells when something happened?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "DIARY",
-        "hint": "What private book holds someone’s thoughts?",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "PEOPLE",
-        "hint": "What word means all the citizens of one land?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "STIRRUP",
-        "hint": "What metal loop let riders steer and shoot arrows?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TYRIANS",
-        "hint": "Which sailors from Tyre sailed purple ships for trade?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BORDER",
-        "hint": "What line marks where one country ends?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "NUBIA",
-        "hint": "Which African kingdom traded gold along the Nile?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "GENERAL",
-        "hint": "What top commander leads soldiers into battle?",
+        "answer": "SHIP",
+        "hint": "What vessel enabled global exploration?",
         "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TSAR",
-        "hint": "What Russian ruler had absolute power long ago?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "STUDENT",
-        "hint": "Who listens and learns inside the schoolroom?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "STEEL",
-        "hint": "What metal made swords that stayed sharp in battle?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "CARTER",
-        "hint": "Who drives wagons full of grain down the road?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "WATCHMAN",
-        "hint": "Who walks the streets at night to keep them safe?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "RAID",
-        "hint": "What quick attack hits a town and leaves fast?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "NUN",
-        "hint": "What woman promises to serve and pray inside a convent?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ALLIANCE",
-        "hint": "What agreement makes two kingdoms friends?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MILLER",
-        "hint": "Who turns grain into flour at the mill?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CASTLE",
-        "hint": "What stone fortress has towers, walls, and moats?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ORAL",
-        "hint": "What word means stories told aloud without writing?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MEMORY",
-        "hint": "What helps people remember things that happened?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "DATE",
-        "hint": "What calendar number tells when something happened?",
-        "startx": 2,
         "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "LEGEND",
-        "hint": "What old story mixes heroes with a bit of magic?",
-        "startx": 1,
-        "starty": 12,
         "orientation": "across",
-        "position": 8
+        "position": 6
       },
       {
-        "answer": "LADY",
-        "hint": "What noble woman lives in a manor or castle?",
+        "answer": "AKKAD",
+        "hint": "Which empire was founded by Sargon the Great?",
         "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "KOREA",
-        "hint": "Which peninsula kingdom made turtle ships?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JAPAN",
-        "hint": "Which island nation had emperors and samurai?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SILVER",
-        "hint": "What bright metal became coins and jewelry?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CITDEL",
-        "hint": "What fortified city center protects people in war?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GUIDE",
-        "hint": "Who leads travelers along known paths?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "LIBRARY",
-        "hint": "What building stores scrolls and books for scholars?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "STEEL",
-        "hint": "What metal made swords that stayed sharp in battle?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "RULER",
-        "hint": "Who makes the laws in a country or empire?",
-        "startx": 11,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "TSAR",
-        "hint": "What Russian ruler had absolute power long ago?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "GOVERNOR",
-        "hint": "Who leads a colony or state for the king?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PRINTING",
-        "hint": "What invention presses ink onto paper with movable type?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "INVENTOR",
-        "hint": "Who creates new tools like the wheel or printing press?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PRESS",
-        "hint": "What machine squeezes pages against carved letters?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MONGOLS",
-        "hint": "Which horse people raced across Asia with Khans?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "CARVER",
-        "hint": "Who chips stone or wood into statues?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "GENERAL",
-        "hint": "What top commander leads soldiers into battle?",
-        "startx": 5,
-        "starty": 13,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "MILLER",
-        "hint": "Who turns grain into flour at the mill?",
-        "startx": 11,
-        "starty": 10,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "SAXONS",
-        "hint": "Which Germanic tribe settled in early England?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "TREATY",
-        "hint": "What signed paper ends a war between lands?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JAILER",
-        "hint": "Who locks and unlocks the heavy cell doors?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MAYOR",
-        "hint": "Who leads a town or city for the people?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SPICE",
-        "hint": "What fragrant plant made food tastier and more valuable?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PRIEST",
-        "hint": "Who leads services in a local church?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "IMAM",
-        "hint": "Who leads prayers inside a mosque?",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "TAX",
-        "hint": "What money people give leaders to build roads?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SONGHAI",
-        "hint": "Which West African empire ruled from Gao on the Niger?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ROMANS",
-        "hint": "Which ancient people built roads and ruled from Rome?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CUSTOM",
-        "hint": "What old habit a group follows every year?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PORT",
-        "hint": "What harbor loads ships with goods for trade voyages?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MARCH",
-        "hint": "What steady walk do soldiers make in rows?",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "CARAVAN",
-        "hint": "What line of camels carried trade goods across deserts?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BATTLE",
-        "hint": "What word means one big fight between armies?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DETAIL",
-        "hint": "What small fact helps explain a bigger event?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "QUILL",
-        "hint": "What feather pen writes laws, letters, and poems?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "YEAR",
-        "hint": "What time unit counts twelve months together?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "QUEEN",
-        "hint": "What female ruler leads a kingdom?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "MONAST",
-        "hint": "What building houses monks who study and pray?",
-        "startx": 1,
-        "starty": 15,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "AGE",
-        "hint": "What name do we give to big times like the Bronze Age?",
-        "startx": 1,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "MECCA",
-        "hint": "Which Arabian city is holy to Muslims around the world?",
-        "startx": 1,
         "starty": 9,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "ORATOR",
-        "hint": "Who gives strong speeches to a crowd?",
-        "startx": 4,
-        "starty": 8,
         "orientation": "across",
-        "position": 1
+        "position": 7
       },
       {
-        "answer": "ERA",
-        "hint": "What word means a long period like the Ice Age?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COUNCIL",
-        "hint": "What group of advisers meets inside the hall?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BERLIN",
-        "hint": "Which German city once stood divided by a wall?",
-        "startx": 4,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "AGE",
-        "hint": "What name do we give to big times like the Bronze Age?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TABLET",
-        "hint": "What clay slab holds wedge-shaped cuneiform writing?",
-        "startx": 4,
+        "answer": "HORSE",
+        "hint": "What animal transformed warfare and travel in ancient times?",
+        "startx": 7,
         "starty": 10,
         "orientation": "down",
-        "position": 6
+        "position": 8
       },
       {
-        "answer": "CODE",
-        "hint": "What book of laws lists crimes and punishments?",
-        "startx": 1,
+        "answer": "KAABA",
+        "hint": "What sacred structure in Mecca do Muslims face during prayer?",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "LOCKE",
+        "hint": "Which philosopher inspired democratic revolutions?",
+        "startx": 3,
         "starty": 14,
         "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "TAX",
-        "hint": "What money people give leaders to build roads?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "PLOW",
-        "hint": "What tool digs long rows to plant seeds faster?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "SENATE",
-        "hint": "What group of elders meets to make laws?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LABORER",
-        "hint": "Who digs, lifts, and builds with their hands?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "QUILL",
-        "hint": "What feather pen writes laws, letters, and poems?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HARNESS",
-        "hint": "What wide straps let horses pull carts and plows?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DECADE",
-        "hint": "What word means a group of ten years?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "TALE",
-        "hint": "What short story tells about people from the past?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "PRINTING",
-        "hint": "What invention presses ink onto paper with movable type?",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "NOBLE",
-        "hint": "What rich landowner helps the king rule?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "SCROLL",
-        "hint": "What rolled sheets of papyrus or parchment hold stories?",
-        "startx": 7,
-        "starty": 13,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "MOAT",
-        "hint": "What watery ditch surrounds a castle for safety?",
-        "startx": 10,
-        "starty": 12,
-        "orientation": "down",
         "position": 10
-      },
-      {
-        "answer": "BERLIN",
-        "hint": "Which German city once stood divided by a wall?",
-        "startx": 12,
-        "starty": 10,
-        "orientation": "down",
-        "position": 11
       }
     ],
     [
       {
-        "answer": "PALACE",
-        "hint": "What grand building houses kings and queens?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "JAVA",
-        "hint": "Which Indonesian island grew rice for sultans?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TRADER",
-        "hint": "Who buys and sells goods along caravan roads?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MALI",
-        "hint": "Which West African empire grew rich from gold and salt?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SERF",
-        "hint": "What medieval worker is tied to a lord's land?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "RABBI",
-        "hint": "Who teaches Jewish law inside a synagogue?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "APACHE",
-        "hint": "Which desert fighters rode swiftly across the southwest?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "WALL",
-        "hint": "What barrier of stone or brick keeps enemies out?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "MECCA",
-        "hint": "Which Arabian city is holy to Muslims around the world?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "KOREA",
-        "hint": "Which peninsula kingdom made turtle ships?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PORTER",
-        "hint": "Who lifts heavy bags at inns and docks?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BAZAAR",
-        "hint": "What busy market sells spices, cloth, and jewelry?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HERITAGE",
-        "hint": "What word means the history passed down by family?",
+        "answer": "THUCYDID",
+        "hint": "Which Greek historian wrote about the Peloponnesian War?",
         "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ALEXANDER",
+        "hint": "Who created a vast empire from Greece to India?",
+        "startx": 7,
         "starty": 1,
         "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SUEZ",
+        "hint": "Which 1956 crisis involved Egypt, Britain, and France?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BEIRUT",
+        "hint": "Which Levantine city is known as the 'Paris of the Middle East'?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "HARAPPA",
+        "hint": "Which ancient city was part of the Indus Valley Civilization?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "MEDIEVAL",
-        "hint": "Which age had castles, armor, and knights?",
-        "startx": 1,
-        "starty": 2,
+        "answer": "TROY",
+        "hint": "Which city was the setting of the Trojan War?",
+        "startx": 6,
+        "starty": 9,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "COOK",
-        "hint": "Who makes meals in a busy kitchen?",
-        "startx": 8,
+        "answer": "SAPPHO",
+        "hint": "Which ancient Greek poet wrote lyric poetry on Lesbos?",
+        "startx": 6,
         "starty": 5,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "KUSH",
-        "hint": "Which southern Nile kingdom shared pyramids and gods?",
+        "answer": "GORBACHEV",
+        "hint": "Who introduced glasnost and perestroika in the USSR?",
         "startx": 11,
-        "starty": 5,
+        "starty": 4,
         "orientation": "down",
         "position": 8
       },
       {
-        "answer": "ERA",
-        "hint": "What word means a long period like the Ice Age?",
+        "answer": "DELHI",
+        "hint": "Which city has been a capital for many Indian dynasties?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "UKRAINE",
+        "hint": "Which nation faced Russian annexation of Crimea in 2014?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MUMBAI",
+        "hint": "Which Indian city is a center of finance and film?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "OTTOMAN",
+        "hint": "Which Islamic empire lasted from 1299 to 1922?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MAGELLAN",
+        "hint": "Who led the first circumnavigation of the Earth?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "VIENNA",
+        "hint": "Which city hosted the 1815 peace conference?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PLAGUE",
+        "hint": "What pandemic killed up to half of Europe’s population?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "QIN",
+        "hint": "Which dynasty first unified China under one emperor?",
         "startx": 4,
+        "starty": 12,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "SULTAN",
+        "hint": "What title was used by Ottoman and other Muslim rulers?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SAOPAULO",
+        "hint": "Which South American city is the largest by population?",
+        "startx": 1,
         "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "LISTER",
+        "hint": "Who introduced antiseptic surgery?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CALIPH",
+        "hint": "What title was held by Islamic political and religious leaders?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COMMUNISM",
+        "hint": "What ideology called for a classless society?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "AUGUSTUS",
+        "hint": "Who was the first Roman emperor?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MONTEZUMA",
+        "hint": "Which Aztec emperor welcomed Cortés?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "GUPTA",
+        "hint": "Which empire is called India’s golden age?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ASSYRIA",
+        "hint": "Which ancient empire had a powerful army and library?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ATAHUALPA",
+        "hint": "Which Inca emperor was captured by Pizarro?",
+        "startx": 3,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "BUDDHA",
+        "hint": "Who taught the Four Noble Truths in ancient India?",
+        "startx": 11,
+        "starty": 10,
         "orientation": "down",
         "position": 9
       }
