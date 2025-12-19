@@ -2,3574 +2,3736 @@
   "levels": [
     [
       {
-        "answer": "NOSE",
-        "hint": "What do you use to smell flowers?",
+        "answer": "TEA",
+        "hint": "What warm drink can be calming and healthy?",
         "startx": 5,
-        "starty": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "CHEDDAR",
-        "hint": "Orange cheese you grate on soup?",
-        "startx": 8,
+        "answer": "APRICOT",
+        "hint": "What orange fruit is sweet, tart, and full of beta-carotene?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BLADDER",
+        "hint": "What stores urine before you go to the bathroom?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DRY",
+        "hint": "What mouth or skin can signal you need more water?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TICK",
+        "hint": "What tiny bug can carry Lyme disease in wooded areas?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ITCH",
+        "hint": "What sensation makes you want to scratch your skin?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HEALTHY",
+        "hint": "What word describes someone who feels well?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VESSEL",
+        "hint": "What tube carries blood through your body?",
+        "startx": 4,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "FIBERS",
-        "hint": "What plant bits feed the good gut bugs?",
-        "startx": 4,
-        "starty": 12,
+        "answer": "SLEEP",
+        "hint": "What do you need 7 to 9 hours of each night?",
+        "startx": 3,
+        "starty": 11,
         "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ROW",
-        "hint": "What do you call pulling oars in water?",
-        "startx": 6,
-        "starty": 7,
+        "answer": "OXYGEN",
+        "hint": "What gas do your cells need to live?",
+        "startx": 9,
+        "starty": 5,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "CALM",
-        "hint": "What feeling comes from slow breathing?",
-        "startx": 8,
-        "starty": 6,
+        "answer": "EYES",
+        "hint": "What should you protect with sunglasses in bright sun?",
+        "startx": 9,
+        "starty": 9,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "VITAMINB",
-        "hint": "Which vitamin group gives you steady energy?",
-        "startx": 11,
-        "starty": 2,
-        "orientation": "down",
+        "answer": "WASH",
+        "hint": "What should you do to all produce before eating or cooking?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
         "position": 6
-      },
-      {
-        "answer": "HIPS",
-        "hint": "What joints help you walk and run?",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "PLASMA",
-        "hint": "What clear part of blood holds nutrients?",
-        "startx": 2,
-        "starty": 14,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "BROTH",
-        "hint": "Warm savory drink made by simmering veggies?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "SLEEP",
-        "hint": "What rest do you need every night?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "GUAVA",
-        "hint": "Green tropical fruit with pink inside?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "across",
-        "position": 11
       }
     ],
     [
       {
-        "answer": "HALIBUT",
-        "hint": "Large flat fish with white flesh?",
+        "answer": "THIRST",
+        "hint": "What signal tells you to drink water?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PINEAPPLE",
+        "hint": "What spiky fruit contains bromelain, which reduces inflammation?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "WHOLE",
+        "hint": "What foods are close to their natural state, like apples or oats?",
+        "startx": 1,
+        "starty": 14,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "COFFEE",
+        "hint": "What hot drink can keep you awake?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ACTIVE",
+        "hint": "What word describes someone who moves a lot?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PREVENT",
+        "hint": "What can vaccines and clean habits do to disease?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "BAKE",
+        "hint": "What dry-heat method is healthier than deep frying?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "FISH",
+        "hint": "What food has omega-3 fats good for your brain?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "FROZEN",
+        "hint": "What fruits and vegetables are flash-frozen at peak ripeness?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LISTEN",
+        "hint": "What skill shows care and builds supportive relationships?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TRIGLYC",
+        "hint": "What blood fat rises with too much sugar or alcohol?",
         "startx": 4,
-        "starty": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SUNLIGHT",
+        "hint": "What natural light helps regulate sleep and mood?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SALIVA",
+        "hint": "What wet substance is in your mouth to help chew?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ORGANIC",
+        "hint": "What food is grown without synthetic pesticides or fertilizers?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "GERMS",
+        "hint": "What tiny things can make you sick?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ART",
+        "hint": "What creative expression can help process emotions?",
+        "startx": 1,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "MIND",
+        "hint": "What part of you thinks, feels, and remembers?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "REDNESS",
+        "hint": "What sign often shows inflammation or infection?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FROST",
+        "hint": "What bite occurs when skin is exposed to extreme cold?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "EGGS",
+        "hint": "What affordable food has high-quality protein and many nutrients?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FRUIT",
+        "hint": "What naturally sweet food is full of fiber and vitamins?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "AGILITY",
+        "hint": "What quickness in changing direction helps in sports and life?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "YOGURT",
+        "hint": "What fermented milk has good bacteria for digestion?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "HANDS",
+        "hint": "What do you use to hold and touch things?",
+        "startx": 4,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
         "answer": "GINGER",
-        "hint": "Spicy root used in tea and soups?",
+        "hint": "What root reduces nausea and inflammation?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FIBER",
+        "hint": "What plant matter keeps your digestion regular?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "FRY",
+        "hint": "What cooking style with lots of oil adds unhealthy fat?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DIGNITY",
+        "hint": "What respect for self and others supports mental health at any age?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "HABIT",
+        "hint": "What repeated behavior shapes your daily health?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "CRAMP",
+        "hint": "What muscle spasm can come from dehydration or low salt?",
         "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BED",
+        "hint": "What furniture is designed for sleeping?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "CARE",
+        "hint": "What do you show when you eat well, move, and rest?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "THRIVE",
+        "hint": "What do people do when they have purpose, connection, and care?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BROWN",
+        "hint": "What rice keeps its outer layer and more nutrients?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GARDEN",
+        "hint": "What outdoor activity combines light exercise and calm?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RAW",
+        "hint": "What way of eating preserves all natural enzymes and vitamins?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TOES",
+        "hint": "What help you balance and push off when walking?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GENE",
+        "hint": "What inherited unit can affect your health?",
+        "startx": 8,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SODA",
+        "hint": "What drink has no nutrients but lots of hidden sugar?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "CHOP",
+        "hint": "What preparation makes vegetables easier to cook or eat?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "STRETCH",
+        "hint": "What should you do daily to keep muscles flexible?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "VACCINE",
+        "hint": "What shot prevents serious diseases like tetanus or flu?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JUICE",
+        "hint": "What drink should be limited because of sugar?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MUMPS",
+        "hint": "What viral illness causes swollen salivary glands?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BONES",
+        "hint": "What give your body shape and support?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "YAWN",
+        "hint": "What do you do when you're sleepy?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ENDURANCE",
+        "hint": "What exercise like walking or swimming improves heart health?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "BEANS",
+        "hint": "What affordable legumes are full of fiber and protein?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "AGE",
+        "hint": "What factor affects how your body works over time?",
+        "startx": 7,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "FLUSHOT",
+        "hint": "What annual vaccine protects against influenza viruses?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LABEL",
+        "hint": "What information tells you what's in a packaged food?",
+        "startx": 4,
         "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "PEACH",
-        "hint": "Fuzzy fruit that is sweet and juicy?",
+        "answer": "TALK",
+        "hint": "What should you do when you feel sad or worried?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "WHITE",
+        "hint": "What cells fight germs in your body?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MOSQUITO",
+        "hint": "What insect can spread viruses like Zika or West Nile?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SUN",
+        "hint": "What protection is needed even on cloudy days?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "WATER",
+        "hint": "What essential drink flushes toxins and carries nutrients?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BRONCHI",
+        "hint": "What tubes carry air into your lungs?",
+        "startx": 1,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "BEDTIME",
+        "hint": "What regular hour helps you get enough sleep?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "BREATH",
+        "hint": "What do you take in through your nose or mouth?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SPIRIT",
+        "hint": "What inner sense of purpose or peace affects health?",
         "startx": 4,
         "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ALARM",
+        "hint": "What wakes you up in the morning?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NOSE",
+        "hint": "What filters, warms, and moistens the air you breathe?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HAT",
+        "hint": "What headwear protects your face from the sun?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "FAT",
+        "hint": "What nutrient is essential but should come mostly from plants?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "PAIN",
+        "hint": "What do you feel when you are hurt or sick?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ASK",
+        "hint": "What simple act gets you the help you need?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "FITNESS",
+        "hint": "What overall condition means you can do daily tasks without fatigue?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "TRUST",
+        "hint": "What feeling of safety improves relationships and health?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "VALVE",
+        "hint": "What flap in your heart keeps blood flowing one way?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RUBELLA",
+        "hint": "What infection can cause birth defects if caught during pregnancy?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HEAT",
+        "hint": "What rub makes muscles feel warm and relaxed?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LIFE",
+        "hint": "What precious gift health helps you enjoy fully?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SCRATCH",
+        "hint": "What small mark is made by a nail or thorn?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "HEIGHT",
+        "hint": "What measurement grows as you get older?",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "MILK",
+        "hint": "What drink has calcium for strong bones?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "FULLNESS",
+        "hint": "What feeling tells you to stop eating?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "OIL",
+        "hint": "What liquid fat from olives or avocados is heart-healthy?",
+        "startx": 9,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "SUGAR",
+        "hint": "What ingredient in many processed foods harms teeth and weight?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "HAIR",
+        "hint": "What grows on your head and helps regulate temperature?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BOIL",
+        "hint": "What should you do to water if it's not clean?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BLANKET",
+        "hint": "What covers you to keep warm at night?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "LUNGS",
+        "hint": "What organs help you breathe?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "RICE",
+        "hint": "What staple food is eaten by half the world?",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "THIRSTY",
+        "hint": "What do you feel when your body needs water?",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "DRUGS",
+        "hint": "What substances can be helpful as medicine or harmful if misused?",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "HEREDITY",
+        "hint": "What passes traits from parents to children?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "PURPOSE",
+        "hint": "What reason to get up in the morning boosts longevity?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "PEAR",
+        "hint": "What sweet, grainy fruit aids digestion and hydration?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "CITRUS",
+        "hint": "What group like oranges and grapefruit are high in vitamin C?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NOISE",
+        "hint": "What too much of can hurt your hearing?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "STAIRS",
+        "hint": "What should you take instead of the elevator for more movement?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "POISON",
+        "hint": "What harmful substance should be kept away from children?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "STRESS",
+        "hint": "What feeling can come from too much pressure?",
+        "startx": 1,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "AVOCADO",
+        "hint": "What creamy fruit is full of good fats and fiber?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "THERAPY",
+        "hint": "What treatment helps with emotional or mental health?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PITUITARY",
+        "hint": "What master gland controls other glands in your body?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SUPPORT",
+        "hint": "What do people need to overcome addiction or mental illness?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FULL",
+        "hint": "What feeling tells you to stop eating?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CARTILAGE",
+        "hint": "What soft tissue cushions your joints?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BRUISE",
+        "hint": "What purple mark appears after a bump?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "GUT",
+        "hint": "What part of your body digests food and houses bacteria?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "APNEA",
+        "hint": "What pause in breathing can happen during sleep?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ROAST",
+        "hint": "What oven method brings out natural sweetness in vegetables?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "FRESH",
+        "hint": "What air quality supports lung and brain health?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "APETITE",
+        "hint": "What desire makes you want to eat?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "REM",
+        "hint": "What sleep stage involves rapid eye movement and vivid dreams?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PLATELETS",
+        "hint": "What tiny parts help your blood clot?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BOOSTER",
+        "hint": "What extra dose strengthens your immune response over time?",
+        "startx": 12,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "STANDING",
+        "hint": "What position is better than sitting for long periods?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CORNEA",
+        "hint": "What clear front surface of your eye protects and focuses light?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "SOUL",
+        "hint": "What non-physical essence do many believe defines a person?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "FAMILY",
+        "hint": "Who usually cares for you when you're sick?",
+        "startx": 3,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "AIR",
+        "hint": "What do you breathe to stay alive?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "HOPE",
+        "hint": "What belief in a better future helps people through hard times?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FRIENDSHIP",
+        "hint": "What bond with others protects against loneliness?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TRACHEA",
+        "hint": "What windpipe connects your throat to your lungs?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "INSECT",
+        "hint": "What repellent keeps mosquitoes and ticks away?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "EARDRUM",
+        "hint": "What thin membrane vibrates when sound hits it?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PLAQUE",
+        "hint": "What sticky film on teeth causes decay?",
+        "startx": 10,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "COMMUNITY",
+        "hint": "What group belonging gives you a sense of purpose?",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "SELF",
+        "hint": "What whole person—mind, body, spirit—deserves care and kindness?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PROCESS",
+        "hint": "What foods often lose nutrients and gain unhealthy additives?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "REAL",
+        "hint": "What ingredient list should you look for on food labels?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MEAL",
+        "hint": "What regular eating occasion includes breakfast, lunch, or dinner?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SPINE",
+        "hint": "What central column supports your body and protects nerves?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MODERATION",
+        "hint": "What principle means not too much of anything?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HEAL",
+        "hint": "What does your body do after a cut or illness?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "PRESENT",
+        "hint": "What focus on now—not past or future—calms the mind?",
+        "startx": 4,
+        "starty": 15,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "VEIN",
+        "hint": "What blood vessel returns blood to the heart?",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "TETANUS",
+        "hint": "What vaccine prevents infection from dirty wounds?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "INSOMNIA",
+        "hint": "What condition makes it hard to fall or stay asleep?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SMOKING",
+        "hint": "What habit harms your lungs and heart?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CALM",
+        "hint": "What mental state makes it easier to fall asleep?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GARLIC",
+        "hint": "What pungent bulb has antimicrobial and heart benefits?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "EARS",
+        "hint": "What help you hear sounds?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BALANCE",
+        "hint": "What helps you stand and walk without falling?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NAILS",
+        "hint": "What hard coverings protect the tips of fingers and toes?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GLASSES",
+        "hint": "What eyewear blocks UV light and protects your eyes?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DRESSING",
+        "hint": "What topping should be used lightly and made with healthy oil?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "ENERGY",
+        "hint": "What do you get from food to move and think?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MEDICINE",
+        "hint": "What should you take only as directed by a doctor?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BODY",
+        "hint": "What physical home you live in every day?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "HEADACHE",
+        "hint": "What common pain can come from not drinking enough?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NURSE",
+        "hint": "Who cares for patients in a hospital or clinic?",
+        "startx": 2,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "LEMON",
+        "hint": "What fruit is high in vitamin C?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "FEVER",
+        "hint": "What is a high body temperature when you're sick?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SNORE",
+        "hint": "What sound do some people make while sleeping?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "URINE",
+        "hint": "What pale yellow fluid shows you're well hydrated?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BREATHE",
+        "hint": "What slow action can calm your mind when anxious?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "HUNGRY",
+        "hint": "What do you feel when your body needs food?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "TENDON",
+        "hint": "What connects muscle to bone?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SYMPTOM",
+        "hint": "What sign shows you might be sick?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SUNSCREEN",
+        "hint": "What lotion protects your skin from UV rays?",
+        "startx": 4,
+        "starty": 1,
         "orientation": "down",
         "position": 3
       },
       {
         "answer": "RUN",
-        "hint": "What fast move do you do with sneakers?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SOYBEAN",
-        "hint": "Bean used to make tofu and milk?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PILLOW",
-        "hint": "What soft item holds your head in bed?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "CALM",
-        "hint": "What feeling comes from slow breathing?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "OATMILK",
-        "hint": "Plant milk made from soaked oats?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "YOGURT",
-        "hint": "Creamy dairy snack with helpful bacteria?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "EDAMAME",
-        "hint": "Young soybeans you pop from pods?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HUG",
-        "hint": "What do you do when you wrap arms around someone?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "INHALE",
-        "hint": "What do you do when you take air in?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "BEETROOT",
-        "hint": "Another name for the beet veggie?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "CLIMBER",
-        "hint": "What do you call someone who climbs?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "RINSES",
-        "hint": "What do you call mouthwash swishes?",
-        "startx": 1,
-        "starty": 14,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "BREAK",
-        "hint": "What short rest do you take between tasks?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NECK",
-        "hint": "What holds your head and lets it turn?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DRINK",
-        "hint": "What do you do with water or juice?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MANGO",
-        "hint": "Sweet tropical fruit with orange flesh?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "COOLDOWN",
-        "hint": "What do you call slow moves after exercise?",
-        "startx": 11,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SKIN",
-        "hint": "What body covering keeps germs out?",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ENERGY",
-        "hint": "What do you need to play and think well?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "BURPEE",
-        "hint": "What move mixes jump, plank, and squat?",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "TURKEY",
-        "hint": "Lean bird meat used for sandwiches?",
-        "startx": 3,
-        "starty": 15,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "SWEAT",
-        "hint": "What drops leave your skin when you work hard?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "EGG",
-        "hint": "Food with yolk and white you scramble?",
-        "startx": 10,
-        "starty": 13,
-        "orientation": "down",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "CHAIR",
-        "hint": "What seat should match your height for posture?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FIG",
-        "hint": "Soft sweet fruit used in chewy bars?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HELP",
-        "hint": "What do you do when you support a friend?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SKIP",
-        "hint": "What do you call hopping with a rope?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GLASSES",
-        "hint": "What do you wear to protect your eyes from sun?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PEANUTS",
-        "hint": "Small nuts often ground into butter?",
-        "startx": 2,
-        "starty": 13,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "NAP",
-        "hint": "What short daytime sleep helps you rest?",
-        "startx": 5,
-        "starty": 13,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "PECANS",
-        "hint": "Brown nuts used in holiday pies?",
-        "startx": 5,
-        "starty": 15,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "BEANS",
-        "hint": "Protein packed seeds you cook in chili?",
-        "startx": 10,
-        "starty": 11,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "EGG",
-        "hint": "Food with yolk and white you scramble?",
-        "startx": 10,
-        "starty": 12,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "GRANOLA",
-        "hint": "Crunchy baked oats mixed with nuts?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EGG",
-        "hint": "Food with yolk and white you scramble?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ALMONDS",
-        "hint": "Crunchy nuts shaped like little teardrops?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "DANCING",
-        "hint": "What do you call moving to music for fun?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "VITAMINB",
-        "hint": "Which vitamin group gives you steady energy?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "KOMBUCHA",
-        "hint": "Fizzy tea drink full of good bacteria?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "CHICKEN",
-        "hint": "White meat you bake instead of fry?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "RAG",
-        "hint": "What small cloth do you carry to wipe sweat?",
-        "startx": 4,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "CLAM",
-        "hint": "Shellfish you steam for chowder?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "CLIMBER",
-        "hint": "What do you call someone who climbs?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "POPCORN",
-        "hint": "Whole grain snack that pops and puffs?",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NOSE",
-        "hint": "What do you use to smell flowers?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "LUNCHBOX",
-        "hint": "What do you pack healthy lunch inside?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DAWN",
-        "hint": "What early sky glow reminds you to stretch?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "POMELO",
-        "hint": "Large citrus fruit bigger than a grapefruit?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "MEDITATE",
-        "hint": "What quiet practice lets you notice your breath?",
-        "startx": 12,
-        "starty": 3,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "FIBER",
-        "hint": "What part of food keeps your tummy happy?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "JUMP",
-        "hint": "What do you do when both feet leave ground?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "BREAD",
-        "hint": "What you bake from flour, water, yeast?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "OKRA",
-        "hint": "Green veggie used in soups and stews?",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "SEEDS",
-        "hint": "Tiny plant parts like sunflower bits?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GRATEFUL",
-        "hint": "What feeling do you have when you thank someone?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NAP",
-        "hint": "What short daytime sleep helps you rest?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "PLUM",
-        "hint": "Small purple fruit with a pit inside?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "EGG",
-        "hint": "Food with yolk and white you scramble?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PEAS",
-        "hint": "Tiny green veggies you find in pods?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "PILLOW",
-        "hint": "What soft item holds your head in bed?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "WALKING",
-        "hint": "What movement gets steps on your tracker?",
-        "startx": 2,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "WRITE",
-        "hint": "What can you do in a journal to calm down?",
-        "startx": 4,
-        "starty": 15,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "SKIN",
-        "hint": "What body covering keeps germs out?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "YOGURTS",
-        "hint": "Which dairy snacks carry good bacteria?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PECANS",
-        "hint": "Brown nuts used in holiday pies?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "THYME",
-        "hint": "Tiny leaf herb used in soup?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "EGG",
-        "hint": "Food with yolk and white you scramble?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "YOGURT",
-        "hint": "Creamy dairy snack with helpful bacteria?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SOYMILK",
-        "hint": "Plant milk made from soybeans?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "YOGA",
-        "hint": "What slow exercise with poses helps you relax?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "RAG",
-        "hint": "What small cloth do you carry to wipe sweat?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VISOR",
-        "hint": "What brim keeps sun off your eyes?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "OLIVE",
-        "hint": "Small green fruit you put on salads?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TENDON",
-        "hint": "What tough band links muscles to bones?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "STANDUP",
-        "hint": "What do you do when you rise from a chair?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "HANDGEL",
-        "hint": "What gel keeps hands clean without water?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "HONEYDEW",
-        "hint": "Light green melon that tastes sweet?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "SQUAT",
-        "hint": "What move has you bend knees like sitting?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TROUT",
-        "hint": "Freshwater fish with tiny spots?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Where do you rest to avoid too much sun?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SCARF",
-        "hint": "What wrap keeps your neck warm in winter?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GARDEN",
-        "hint": "What hobby lets you grow veggies at home?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "HIKING",
-        "hint": "What hobby is walking in nature?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "PEPITAS",
-        "hint": "Flat orange seeds you roast?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PETS",
-        "hint": "Who keeps you company on walks?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SUNHAT",
-        "hint": "What do you wear to cover your head outside?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CHEST",
-        "hint": "What part holds your heart and lungs?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "STEW",
-        "hint": "Thick warm meal with veggies and beans?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "BOOT",
-        "hint": "What shoe you wear in rain or snow?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SOYBEAN",
-        "hint": "Bean used to make tofu and milk?",
-        "startx": 2,
-        "starty": 7,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "AGAVE",
-        "hint": "Plant syrup used to sweeten tea?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MAGNESIA",
-        "hint": "Which mineral helps muscles relax?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HONEYDEW",
-        "hint": "Light green melon that tastes sweet?",
-        "startx": 9,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HABITS",
-        "hint": "What good actions you repeat daily?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PASTA",
-        "hint": "Noodles you can make from whole wheat?",
-        "startx": 1,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PEPITAS",
-        "hint": "Flat orange seeds you roast?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "STRETCH",
-        "hint": "What do you do to lengthen tight muscles?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "CLIMBER",
-        "hint": "What do you call someone who climbs?",
-        "startx": 11,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "LATHER",
-        "hint": "What foamy mix do you make with soap and water?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "OKRA",
-        "hint": "Green veggie used in soups and stews?",
-        "startx": 9,
-        "starty": 11,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "STRETCH",
-        "hint": "What do you do to lengthen tight muscles?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HIKE",
-        "hint": "What do you call walking up a trail?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MEAL",
-        "hint": "What do you call breakfast, lunch, or dinner?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "POMELO",
-        "hint": "Large citrus fruit bigger than a grapefruit?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PAPAYA",
-        "hint": "Soft tropical fruit with many seeds?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ANORAK",
-        "hint": "What wind jacket keeps you warm outside?",
-        "startx": 3,
-        "starty": 15,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SPINACH",
-        "hint": "Dark leafy veggie that makes you strong?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "LOBES",
-        "hint": "What soft ear parts can hold earrings?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "DREAM",
-        "hint": "What stories play in your head at night?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LOBSTER",
-        "hint": "Red shellfish with large claws?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PLAY",
-        "hint": "What fun action helps you stay happy?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "PARSLEY",
-        "hint": "Herb you chop to top a dish?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MELON",
-        "hint": "Big round fruit you slice for picnics?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "CHICKEN",
-        "hint": "White meat you bake instead of fry?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "HAIRCOMB",
-        "hint": "What tool helps you smooth your hair?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BASIL",
-        "hint": "Green herb that smells like licorice?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LOBES",
-        "hint": "What soft ear parts can hold earrings?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ANORAK",
-        "hint": "What wind jacket keeps you warm outside?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CALM",
-        "hint": "What feeling comes from slow breathing?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "TENDON",
-        "hint": "What tough band links muscles to bones?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ENERGY",
-        "hint": "What do you need to play and think well?",
-        "startx": 12,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "MORNING",
-        "hint": "What time of day do you eat breakfast?",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "FARRO",
-        "hint": "Chewy wheat grain for bowls?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "POMELO",
-        "hint": "Large citrus fruit bigger than a grapefruit?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EDAMAME",
-        "hint": "Young soybeans you pop from pods?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "IODINE",
-        "hint": "Which mineral helps your thyroid work?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "TENDON",
-        "hint": "What tough band links muscles to bones?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PEACH",
-        "hint": "Fuzzy fruit that is sweet and juicy?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "WASH",
-        "hint": "What do you do to keep germs away?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "MASK",
-        "hint": "What cloth can you wear to cover your nose?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "RIBS",
-        "hint": "What curved bones protect your lungs?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "POPCORN",
-        "hint": "Whole grain snack that pops and puffs?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TEMPEH",
-        "hint": "Fermented soy cake sliced for meals?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "RAISIN",
-        "hint": "Dried grape you find in cereal?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BERRIES",
-        "hint": "What small fruits like strawberries are called?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "LATHER",
-        "hint": "What foamy mix do you make with soap and water?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SHAKES",
-        "hint": "Cold blended drinks with fruit and yogurt?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "BROWS",
-        "hint": "Hair above your eyes that block sweat?",
-        "startx": 12,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "RECYCLE",
-        "hint": "What do you do with bottles to help the planet?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FIBER",
-        "hint": "What part of food keeps your tummy happy?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ONION",
-        "hint": "Veggie that can make your eyes tear?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BROWN",
-        "hint": "What color rice keeps more fiber?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HONEY",
-        "hint": "Sticky sweet syrup made by bees?",
-        "startx": 12,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "LUNGE",
-        "hint": "What move has one foot forward and bent?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "MARKET",
-        "hint": "Where do farmers sell fruits and veggies?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PEPPER",
-        "hint": "Crisp veggie that can be red or green?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BUBBLES",
-        "hint": "What foamy fun fills a bubble bath?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SKATE",
-        "hint": "What do you do when you glide on wheels?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CHIA",
-        "hint": "Little black seeds that swell in water?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "CHAIR",
-        "hint": "What seat should match your height for posture?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SCRUB",
-        "hint": "What do you do to clean your hands well?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "BRUSH",
-        "hint": "What tool do you use on your teeth?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "STOMACH",
-        "hint": "Which organ churns food into mush?",
-        "startx": 11,
-        "starty": 5,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "SIP",
-        "hint": "What do you call taking a small drink?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "SPINACH",
-        "hint": "Dark leafy veggie that makes you strong?",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "TURNIP",
-        "hint": "White and purple root veggie to mash?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BURPEE",
-        "hint": "What move mixes jump, plank, and squat?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SUNCARE",
-        "hint": "What word means you protect your skin from sun?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "DATE",
-        "hint": "Sticky sweet fruit from palm trees?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PLANK",
-        "hint": "What core move keeps your body straight?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "HAZEL",
-        "hint": "Nut used to flavor chocolate spread?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "FLAX",
-        "hint": "Tiny brown seeds rich in fiber?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "NAP",
-        "hint": "What short daytime sleep helps you rest?",
-        "startx": 9,
-        "starty": 11,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "APPLE",
-        "hint": "Red crunchy fruit you munch for health?",
-        "startx": 11,
-        "starty": 10,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "RINSE",
-        "hint": "What do you do after scrubbing soap off?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SOYBEAN",
-        "hint": "Bean used to make tofu and milk?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PAPAYA",
-        "hint": "Soft tropical fruit with many seeds?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SCRUB",
-        "hint": "What do you do to clean your hands well?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "STOMACH",
-        "hint": "Which organ churns food into mush?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "EXHALE",
-        "hint": "What do you do when you blow air out?",
-        "startx": 11,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ORANGE",
-        "hint": "Citrus fruit full of vitamin C?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "CRAB",
-        "hint": "Shellfish that scuttles sideways on sand?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "SHARE",
-        "hint": "What do you do when you split snacks with pals?",
-        "startx": 3,
-        "starty": 7,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "DATE",
-        "hint": "Sticky sweet fruit from palm trees?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Where do you rest to avoid too much sun?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "TONGUE",
-        "hint": "What helps you taste and speak?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GRAPES",
-        "hint": "Little round fruits you eat in bunches?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MEALPLAN",
-        "hint": "What chore means planning healthy meals ahead?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SHARE",
-        "hint": "What do you do when you split snacks with pals?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ALARM",
-        "hint": "What sound wakes you up on school days?",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MASK",
-        "hint": "What cloth can you wear to cover your nose?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "SPRINT",
-        "hint": "What do you call a very fast run?",
-        "startx": 4,
-        "starty": 3,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "PLASMA",
-        "hint": "What clear part of blood holds nutrients?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LUNCHBOX",
-        "hint": "What do you pack healthy lunch inside?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HUMMUS",
-        "hint": "Creamy dip made from chickpeas?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RELAX",
-        "hint": "What do you do when you sit and breathe?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ONION",
-        "hint": "Veggie that can make your eyes tear?",
-        "startx": 5,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SCARF",
-        "hint": "What wrap keeps your neck warm in winter?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "BREATHE",
-        "hint": "What do you do deeply to stay calm?",
-        "startx": 2,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "FIBERS",
-        "hint": "What plant bits feed the good gut bugs?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "SKYR",
-        "hint": "Thick Icelandic yogurt packed with protein?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "FLAX",
-        "hint": "Tiny brown seeds rich in fiber?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "ROW",
-        "hint": "What do you call pulling oars in water?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "PLUM",
-        "hint": "Small purple fruit with a pit inside?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SPRINT",
-        "hint": "What do you call a very fast run?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "WHITES",
-        "hint": "Clear egg part that turns white when cooked?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ZUCCHINI",
-        "hint": "Green summer squash in stir fry?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SITUP",
-        "hint": "What move has you curl up to knees?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "VITAMINB",
-        "hint": "Which vitamin group gives you steady energy?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "JOG",
-        "hint": "What is slow running for exercise called?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LUNGS",
-        "hint": "Which organs fill with air when you breathe?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BALANCE",
-        "hint": "What do you keep between play and rest?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BRAIN",
-        "hint": "Which organ helps you think and learn?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "WRAPS",
-        "hint": "Soft flat breads used for rolled lunches?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SLEEP",
-        "hint": "What rest do you need every night?",
-        "startx": 12,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "BAG",
-        "hint": "What do you carry gym clothes in?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "NAP",
-        "hint": "What short daytime sleep helps you rest?",
-        "startx": 10,
-        "starty": 7,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "JOGGING",
-        "hint": "What gentle run keeps hearts strong?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "ROWING",
-        "hint": "What sport uses oars to move a boat?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "VITAMINK",
-        "hint": "Which vitamin helps your blood to clot?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "APRICOT",
-        "hint": "Orange fruit that is soft and sweet?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GARLIC",
-        "hint": "White cloves you chop for flavor?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SCALLOP",
-        "hint": "Round shellfish that sears to gold?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "HERRING",
-        "hint": "Fish often pickled with onions?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "RYE",
-        "hint": "Dark bread grain with strong taste?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "TOMATO",
-        "hint": "Red round fruit used in salads?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EARS",
-        "hint": "What lets you hear music and voices?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MINTTEA",
-        "hint": "Herbal tea made with mint leaves?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Where do you rest to avoid too much sun?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PETS",
-        "hint": "Who keeps you company on walks?",
-        "startx": 11,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "CARBS",
-        "hint": "What nutrient gives your body quick energy?",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SOYMILK",
-        "hint": "Plant milk made from soybeans?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "SWEAT",
-        "hint": "What drops leave your skin when you work hard?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HELP",
-        "hint": "What do you do when you support a friend?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PADDLE",
-        "hint": "What do you do with arms on a board?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CALCIUM",
-        "hint": "Which mineral keeps your bones strong?",
-        "startx": 11,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "RINSE",
-        "hint": "What do you do after scrubbing soap off?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "BURPEE",
-        "hint": "What move mixes jump, plank, and squat?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "CLIMBER",
-        "hint": "What do you call someone who climbs?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "MACKEREL",
-        "hint": "Striped fish rich in healthy oils?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "KNIFE",
-        "hint": "What utensil slices soft foods?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "BOOT",
-        "hint": "What shoe you wear in rain or snow?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "VITAMIND",
-        "hint": "Which vitamin comes from sunshine on skin?",
-        "startx": 5,
-        "starty": 9,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "VITAMINA",
-        "hint": "Which vitamin helps your eyes see in dim light?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PASTE",
-        "hint": "What do you squeeze on your toothbrush?",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "SEEDS",
-        "hint": "Tiny plant parts like sunflower bits?",
-        "startx": 12,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "TALK",
-        "hint": "What do you do to share your feelings?",
-        "startx": 11,
-        "starty": 12,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "BASIL",
-        "hint": "Green herb that smells like licorice?",
-        "startx": 7,
-        "starty": 14,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "ALOEVERA",
-        "hint": "What cool plant gel soothes sunburns?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "WATER",
-        "hint": "Clear drink that keeps you hydrated?",
-        "startx": 1,
-        "starty": 11,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "WAKEUP",
-        "hint": "What time do you open your eyes?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "PEAS",
-        "hint": "Tiny green veggies you find in pods?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "SUNBLOCK",
-        "hint": "What lotion protects your skin from sunburn?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "INSULIN",
-        "hint": "What hormone helps sugar enter cells?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HORMONE",
-        "hint": "What chemical messenger tells organs what to do?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LUNGE",
-        "hint": "What move has one foot forward and bent?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "DAWN",
-        "hint": "What early sky glow reminds you to stretch?",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MACKEREL",
-        "hint": "Striped fish rich in healthy oils?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ROW",
-        "hint": "What do you call pulling oars in water?",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "SKATE",
-        "hint": "What do you do when you glide on wheels?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PAPAYA",
-        "hint": "Soft tropical fruit with many seeds?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "WALK",
-        "hint": "What simple exercise uses comfy shoes?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ORANGE",
-        "hint": "Citrus fruit full of vitamin C?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "MEDULLA",
-        "hint": "Brain part that controls breathing?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "KOMBUCHA",
-        "hint": "Fizzy tea drink full of good bacteria?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "RAG",
-        "hint": "What small cloth do you carry to wipe sweat?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "GROCERY",
-        "hint": "Where do you shop for fresh produce?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SKIPPING",
-        "hint": "What rope exercise kids do in recess?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "FOCUS",
-        "hint": "What do you keep on homework to finish it?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CHIN",
-        "hint": "What sticks out below your mouth?",
+        "hint": "What fast movement helps build endurance?",
         "startx": 2,
         "starty": 3,
         "orientation": "across",
         "position": 4
-      },
-      {
-        "answer": "MARKET",
-        "hint": "Where do farmers sell fruits and veggies?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SUNSET",
-        "hint": "What evening event reminds you to rest soon?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "RICOTTA",
-        "hint": "Soft cheese spooned into pasta?",
-        "startx": 2,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "LIPS",
-        "hint": "What soft parts close your mouth?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "BEDTIME",
-        "hint": "What do you call the time you go to bed?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "GLUCOSE",
-        "hint": "What form of sugar travels in your blood?",
-        "startx": 10,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SPICES",
-        "hint": "What you add for flavor without salt?",
-        "startx": 8,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FLAX",
-        "hint": "Tiny brown seeds rich in fiber?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "STEW",
-        "hint": "Thick warm meal with veggies and beans?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "TENDON",
-        "hint": "What tough band links muscles to bones?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "CENTER",
-        "hint": "What do you do when you steady your thoughts?",
-        "startx": 12,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "CHEDDAR",
-        "hint": "Orange cheese you grate on soup?",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "PITAS",
-        "hint": "Flat breads you stuff with veggies?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "CHICKEN",
-        "hint": "White meat you bake instead of fry?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "CYCLE",
-        "hint": "What do you do when you ride a bike?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "PAPAYA",
-        "hint": "Soft tropical fruit with many seeds?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SOUP",
-        "hint": "Warm bowl filled with veggies and broth?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "WATER",
-        "hint": "Clear drink that keeps you hydrated?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SOAP",
-        "hint": "What do you use to wash your hands?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SQUAT",
-        "hint": "What move has you bend knees like sitting?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "OMELET",
-        "hint": "Egg dish folded around veggies?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ONION",
-        "hint": "Veggie that can make your eyes tear?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "SEEDS",
-        "hint": "Tiny plant parts like sunflower bits?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LIPS",
-        "hint": "What soft parts close your mouth?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "WALK",
-        "hint": "What simple exercise uses comfy shoes?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "SHAMPOO",
-        "hint": "What soap do you use for your hair?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "YOLK",
-        "hint": "Yellow part inside an egg?",
-        "startx": 4,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PISTACH",
-        "hint": "Green nuts you pop from shells?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "LUNGS",
-        "hint": "Which organs fill with air when you breathe?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "SOAP",
-        "hint": "What do you use to wash your hands?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "BROWN",
-        "hint": "What color rice keeps more fiber?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "CREAM",
-        "hint": "Thick dairy poured on berries?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "FLAX",
-        "hint": "Tiny brown seeds rich in fiber?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "BREAD",
-        "hint": "What you bake from flour, water, yeast?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FOLATE",
-        "hint": "Which vitamin helps build new cells?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HORMONE",
-        "hint": "What chemical messenger tells organs what to do?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HIKE",
-        "hint": "What do you call walking up a trail?",
-        "startx": 12,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SKATING",
-        "hint": "What workout uses roller or ice skates?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "AMARANTH",
-        "hint": "Ancient grain packed with protein?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "BOOTS",
-        "hint": "What shoes keep your feet dry outside?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "NAP",
-        "hint": "What short daytime sleep helps you rest?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PROTEIN",
-        "hint": "What nutrient helps you build muscles?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BERRIES",
-        "hint": "What small fruits like strawberries are called?",
-        "startx": 1,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "PECANS",
-        "hint": "Brown nuts used in holiday pies?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "PEPITAS",
-        "hint": "Flat orange seeds you roast?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MUSIC",
-        "hint": "What do you listen to when you dance in room?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "TOMATO",
-        "hint": "Red round fruit used in salads?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "SKYR",
-        "hint": "Thick Icelandic yogurt packed with protein?",
-        "startx": 8,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "COLOR",
-        "hint": "What do you do with crayons in a book?",
-        "startx": 11,
-        "starty": 9,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "TEETH",
-        "hint": "What do you use to bite crunchy food?",
-        "startx": 10,
-        "starty": 2,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "GUMS",
-        "hint": "Pink parts that hold your teeth?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "GUAVA",
-        "hint": "Green tropical fruit with pink inside?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HALIBUT",
-        "hint": "Large flat fish with white flesh?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PARSNIP",
-        "hint": "White root veggie that tastes sweet?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HIKING",
-        "hint": "What hobby is walking in nature?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SITUP",
-        "hint": "What move has you curl up to knees?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "EXHALE",
-        "hint": "What do you do when you blow air out?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "LIPS",
-        "hint": "What soft parts close your mouth?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "EARPLUG",
-        "hint": "What do you wear to block loud pool whistles?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PAUSE",
-        "hint": "What tiny stop lets you breathe deeply?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BOOTS",
-        "hint": "What shoes keep your feet dry outside?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GOGGLES",
-        "hint": "What do you wear to protect eyes while swimming?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SUNRISE",
-        "hint": "What morning event brings light to wake you?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ALARM",
-        "hint": "What sound wakes you up on school days?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "GARDEN",
-        "hint": "What hobby lets you grow veggies at home?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "BOOSTER",
-        "hint": "What extra shot reminds your body about germs?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "MELON",
-        "hint": "Big round fruit you slice for picnics?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "LOBES",
-        "hint": "What soft ear parts can hold earrings?",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "YOGURT",
-        "hint": "Creamy dairy snack with helpful bacteria?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "KOMBUCHA",
-        "hint": "Fizzy tea drink full of good bacteria?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "NECK",
-        "hint": "What holds your head and lets it turn?",
-        "startx": 4,
-        "starty": 4,
-        "orientation": "across",
-        "position": 3
       },
       {
         "answer": "FLOSS",
-        "hint": "What string cleans between your teeth?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
+        "hint": "What cleans between your teeth?",
+        "startx": 1,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
       },
       {
-        "answer": "APRICOT",
-        "hint": "Orange fruit that is soft and sweet?",
-        "startx": 9,
+        "answer": "SAUTE",
+        "hint": "What quick fry in a little oil is good for veggies and meat?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "TEETH",
+        "hint": "What help you chew food?",
+        "startx": 10,
         "starty": 2,
         "orientation": "down",
-        "position": 5
+        "position": 7
+      },
+      {
+        "answer": "RED",
+        "hint": "What cells carry oxygen in your blood?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "CLINIC",
+        "hint": "Where do you go for a check-up or vaccine?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "PEACH",
+        "hint": "What soft summer fruit is juicy and full of vitamin A?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "CHEEKS",
+        "hint": "What soft parts of your face puff out when you smile?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "WALKING",
+        "hint": "What low-impact activity is good for your heart and joints?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PEPPER",
+        "hint": "What common spice adds heat without sodium?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SHINGLES",
+        "hint": "What painful rash can occur in adults who had chickenpox?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
       },
       {
         "answer": "HIPS",
-        "hint": "What joints help you walk and run?",
-        "startx": 7,
-        "starty": 10,
+        "hint": "What large joints support your upper body weight?",
+        "startx": 3,
+        "starty": 3,
         "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ORANGE",
-        "hint": "Citrus fruit full of vitamin C?",
-        "startx": 7,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
+        "position": 5
       },
       {
         "answer": "SWEAT",
-        "hint": "What drops leave your skin when you work hard?",
+        "hint": "What fluid loss during exercise must be replaced with water?",
         "startx": 10,
         "starty": 10,
         "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "KOMBUCHA",
-        "hint": "Fizzy tea drink full of good bacteria?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SARDINE",
-        "hint": "Tiny fish packed in oily cans?",
-        "startx": 10,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SQUATS",
-        "hint": "What do you call doing many squat moves?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "VACCINE",
-        "hint": "What shot trains your body to fight germs?",
-        "startx": 4,
-        "starty": 13,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "OMEGAS",
-        "hint": "What healthy fats are found in fish?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "STANDUP",
-        "hint": "What do you do when you rise from a chair?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
         "position": 6
       },
       {
-        "answer": "TALK",
-        "hint": "What do you do to share your feelings?",
-        "startx": 5,
+        "answer": "PULSE",
+        "hint": "What can you feel in your wrist when your heart beats?",
+        "startx": 6,
         "starty": 12,
-        "orientation": "down",
+        "orientation": "across",
         "position": 7
       },
       {
-        "answer": "NAPKIN",
-        "hint": "What cloth do you wipe your mouth with?",
-        "startx": 12,
-        "starty": 8,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "IMMUNE",
-        "hint": "What body system fights off germs?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "MEDITATE",
-        "hint": "What quiet practice lets you notice your breath?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "SUNBURN",
-        "hint": "What red skin problem happens after too much sun?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "SLEEP",
-        "hint": "What rest do you need every night?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TOWEL",
-        "hint": "What do you dry your hands with?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "HAIRCOMB",
-        "hint": "What tool helps you smooth your hair?",
-        "startx": 1,
+        "answer": "APPLE",
+        "hint": "What fruit is said to keep the doctor away?",
+        "startx": 7,
         "starty": 5,
         "orientation": "across",
-        "position": 3
+        "position": 8
       },
       {
-        "answer": "CHAIR",
-        "hint": "What seat should match your height for posture?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SWIMMER",
-        "hint": "What do you call a person who swims?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SCRUB",
-        "hint": "What do you do to clean your hands well?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "GLASSES",
-        "hint": "What do you wear to protect your eyes from sun?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "SCOOTER",
-        "hint": "What two wheeled ride you push with a foot?",
+        "answer": "SMOKE",
+        "hint": "What from cigarettes or fires can hurt your lungs?",
         "startx": 11,
         "starty": 1,
         "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "JOG",
-        "hint": "What is slow running for exercise called?",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "across",
         "position": 9
-      },
-      {
-        "answer": "PARSLEY",
-        "hint": "Herb you chop to top a dish?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 10
       }
     ],
     [
       {
-        "answer": "CHEDDAR",
-        "hint": "Orange cheese you grate on soup?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HOPPING",
-        "hint": "What do you call many hops in a row?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VITAMINC",
-        "hint": "Which vitamin keeps you from catching colds?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SPOON",
-        "hint": "What utensil do you use for soup?",
-        "startx": 1,
-        "starty": 13,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BROWS",
-        "hint": "Hair above your eyes that block sweat?",
-        "startx": 1,
-        "starty": 9,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SALADS",
-        "hint": "Mix of raw veggies eaten cold?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "WALNUTS",
-        "hint": "Brain shaped nuts full of good fats?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "CRAB",
-        "hint": "Shellfish that scuttles sideways on sand?",
-        "startx": 9,
-        "starty": 12,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "SKULL",
-        "hint": "What bone protects your brain?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "IMMUNE",
-        "hint": "What body system fights off germs?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BRAIN",
-        "hint": "Which organ helps you think and learn?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CHERRY",
-        "hint": "Tiny red fruit that tops sundaes?",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CENTER",
-        "hint": "What do you do when you steady your thoughts?",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "EGG",
-        "hint": "Food with yolk and white you scramble?",
-        "startx": 5,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SPOON",
-        "hint": "What utensil do you use for soup?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "DIGEST",
-        "hint": "What do you call breaking food into energy?",
-        "startx": 1,
-        "starty": 8,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "ANTIBODY",
-        "hint": "What proteins chase germs away?",
+        "answer": "HORMONE",
+        "hint": "What chemical messenger regulates body functions?",
         "startx": 3,
         "starty": 7,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "ROW",
-        "hint": "What do you call pulling oars in water?",
-        "startx": 9,
-        "starty": 10,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "SCRUB",
-        "hint": "What do you do to clean your hands well?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "MASK",
-        "hint": "What cloth can you wear to cover your nose?",
-        "startx": 5,
-        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "LOBES",
-        "hint": "What soft ear parts can hold earrings?",
+        "answer": "SOY",
+        "hint": "What plant-based food can replace meat or dairy?",
         "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "OATMILK",
-        "hint": "Plant milk made from soaked oats?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SKATE",
-        "hint": "What do you do when you glide on wheels?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BANANA",
-        "hint": "Yellow fruit monkeys peel for a snack?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SUNBURN",
-        "hint": "What red skin problem happens after too much sun?",
-        "startx": 11,
-        "starty": 4,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "PECANS",
-        "hint": "Brown nuts used in holiday pies?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "HEMPSEED",
-        "hint": "Small green seeds you sprinkle on oats?",
-        "startx": 4,
-        "starty": 15,
-        "orientation": "across",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "HUMMUS",
-        "hint": "Creamy dip made from chickpeas?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SHEET",
-        "hint": "What thin cover lies on your bed?",
-        "startx": 4,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MAGNESIA",
-        "hint": "Which mineral helps muscles relax?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "FOCUS",
-        "hint": "What do you keep on homework to finish it?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "WASH",
-        "hint": "What do you do to keep germs away?",
-        "startx": 5,
-        "starty": 15,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "HABITS",
-        "hint": "What good actions you repeat daily?",
-        "startx": 1,
-        "starty": 13,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "MANGO",
-        "hint": "Sweet tropical fruit with orange flesh?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "PEDAL",
-        "hint": "What do your feet push on a bike?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "GHEE",
-        "hint": "Melted butter with milk solids removed?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "BROWS",
-        "hint": "Hair above your eyes that block sweat?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "WRAPS",
-        "hint": "Soft flat breads used for rolled lunches?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MANGO",
-        "hint": "Sweet tropical fruit with orange flesh?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HONEY",
-        "hint": "Sticky sweet syrup made by bees?",
-        "startx": 11,
-        "starty": 9,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CHEEKS",
-        "hint": "What do you puff out when you blow air?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "POPCORN",
-        "hint": "Whole grain snack that pops and puffs?",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "KNIFE",
-        "hint": "What utensil slices soft foods?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "GHEE",
-        "hint": "Melted butter with milk solids removed?",
-        "startx": 5,
-        "starty": 10,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "SCOOTER",
-        "hint": "What two wheeled ride you push with a foot?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "SLEEP",
-        "hint": "What rest do you need every night?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SUNSET",
-        "hint": "What evening event reminds you to rest soon?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LUNGES",
-        "hint": "What do you call repeating the lunge move?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BUTTER",
-        "hint": "Creamy spread made by churning milk?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "TOOTH",
-        "hint": "What needs brushing twice every day?",
-        "startx": 10,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SOYMILK",
-        "hint": "Plant milk made from soybeans?",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "INSULIN",
-        "hint": "What hormone helps sugar enter cells?",
-        "startx": 11,
-        "starty": 9,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "WRITE",
-        "hint": "What can you do in a journal to calm down?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ANTIBODY",
-        "hint": "What proteins chase germs away?",
-        "startx": 8,
         "starty": 6,
         "orientation": "down",
         "position": 2
       },
       {
         "answer": "BLOOD",
-        "hint": "What red liquid carries oxygen?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
+        "hint": "What carries oxygen and nutrients in your body?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
         "position": 3
       },
       {
-        "answer": "GARGLE",
-        "hint": "What do you do when rinsing salt water?",
+        "answer": "WASTE",
+        "hint": "What does your body get rid of after digestion?",
+        "startx": 9,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PEAS",
+        "hint": "What green legumes are sweet, soft, and full of nutrients?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PEEL",
+        "hint": "What optional step removes skin but also some nutrients?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SHADE",
+        "hint": "What should you stay in to avoid sunburn?",
+        "startx": 2,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "CHERRY",
+        "hint": "What red fruit may reduce muscle soreness after exercise?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SPINACH",
+        "hint": "What green leafy vegetable has lots of iron?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CAVITY",
+        "hint": "What hole in a tooth comes from sugar and bacteria?",
         "startx": 7,
         "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHEMICAL",
+        "hint": "What substance can be toxic if not handled safely?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "HEALTH",
+        "hint": "What is more important than wealth?",
+        "startx": 5,
+        "starty": 4,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "OMEGAS",
-        "hint": "What healthy fats are found in fish?",
-        "startx": 12,
-        "starty": 4,
+        "answer": "SILENCE",
+        "hint": "What absence of noise allows your mind to reset?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "YOLK",
-        "hint": "Yellow part inside an egg?",
-        "startx": 8,
+        "answer": "BREATHING",
+        "hint": "What automatic process brings oxygen into your body?",
+        "startx": 1,
         "starty": 13,
         "orientation": "across",
         "position": 6
       },
       {
-        "answer": "BOWL",
-        "hint": "What dish do you use for soup?",
+        "answer": "INJURY",
+        "hint": "What happens when you hurt yourself playing or falling?",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "VIRUS",
+        "hint": "What type of germ causes the flu and colds?",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "CALL",
+        "hint": "What should you do to get help in an emergency?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "BACK",
+        "hint": "What area often hurts from poor posture or heavy lifting?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "WARMUP",
+        "hint": "What light activity prepares your body for exercise?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CINNAMON",
+        "hint": "What sweet spice may help control blood sugar?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ANKLES",
+        "hint": "What joints connect your feet to your legs?",
         "startx": 5,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PAPAYA",
+        "hint": "What orange fruit has an enzyme that aids digestion?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PATIENCE",
+        "hint": "What quality helps you stick with healthy changes?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LICE",
+        "hint": "What tiny crawlers spread through close head contact in schools?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SITTING",
+        "hint": "What posture should be limited to avoid back pain?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "CUT",
+        "hint": "What minor injury happens when skin is broken?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SNACK",
+        "hint": "What small food helps keep energy steady between meals?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "CHICKEN",
+        "hint": "What common childhood illness causes an itchy rash?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RHYTHM",
+        "hint": "What regular pattern does a healthy heartbeat follow?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FEET",
+        "hint": "What do you use to walk and run?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MEASLES",
+        "hint": "What highly contagious disease the MMR vaccine prevents?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "LOCK",
+        "hint": "What should you do to cabinets with cleaning supplies?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "NUTS",
+        "hint": "What crunchy snack has protein, fat, and vitamins?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CRY",
+        "hint": "What emotional release can sometimes help you feel better?",
+        "startx": 8,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "NECK",
+        "hint": "What connects your head to your shoulders?",
+        "startx": 5,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SALT",
+        "hint": "What mineral should be limited to less than one teaspoon a day?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "PAUSE",
+        "hint": "What short break during work prevents burnout?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LARYNX",
+        "hint": "What voice box sits above your trachea?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BREAD",
+        "hint": "What basic food is best when made from whole grains?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "JOURNAL",
+        "hint": "What writing practice helps you understand your feelings?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "STOMACH",
+        "hint": "What organ digests the food you eat?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CLOTHING",
+        "hint": "What loose, light fabric keeps you cool and protected?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MIX",
+        "hint": "What salad base combines many colorful vegetables?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "FLU",
+        "hint": "What illness causes fever, aches, and fatigue?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CELLS",
+        "hint": "What are the tiny building blocks of your body?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LIVE",
+        "hint": "What verb means to exist, but also to enjoy and engage fully?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "BOWELS",
+        "hint": "What organs move waste out of your body?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "GROW",
+        "hint": "What do children do with good food and sleep?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "CRAVING",
+        "hint": "What strong desire for a food may not mean true hunger?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "WEAK",
+        "hint": "What word describes low energy or strength?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "LIVER",
+        "hint": "What organ cleans your blood and stores energy?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "JOY",
+        "hint": "What positive emotion boosts your immune system?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DOCTOR",
+        "hint": "Who helps you when you are sick?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PRESSURE",
+        "hint": "What bandage helps control bleeding from a cut?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ALVEOLI",
+        "hint": "What tiny air sacs in lungs exchange oxygen and carbon dioxide?",
+        "startx": 12,
+        "starty": 8,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "WELL",
+        "hint": "What word means not just the absence of illness but thriving?",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PREPARE",
+        "hint": "What should you do to avoid stress and rushing?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "PET",
+        "hint": "What animal companion can lower blood pressure and loneliness?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "MOVE",
+        "hint": "What gentle action prevents stiffness after a few days of rest?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "TEAR",
+        "hint": "What fluid keeps your eyes moist and clean?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BREATHER",
+        "hint": "What slow inhale and exhale calms your nervous system?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHEESE",
+        "hint": "What calcium-rich food should be eaten in small amounts?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CAUSE",
+        "hint": "What makes a disease or problem happen?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SWIM",
+        "hint": "What full-body exercise is easy on the joints?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "HYGIENE",
+        "hint": "What means keeping your body and surroundings clean?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "QUIET",
+        "hint": "What sound level helps you fall and stay asleep?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "RESPECT",
+        "hint": "What for your body leads to healthy choices?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "HUNGER",
+        "hint": "What signal tells you to eat food?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SINUSES",
+        "hint": "What air-filled spaces in your skull lighten your head?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "QUIT",
+        "hint": "What should you do if you smoke or use drugs?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "LIPS",
+        "hint": "What balm with SPF prevents chapping and sun damage?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "POTATO",
+        "hint": "What starchy vegetable can be boiled or baked?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "COUGH",
+        "hint": "What happens when your throat or lungs are irritated?",
+        "startx": 2,
+        "starty": 15,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "WALK",
+        "hint": "What movement in nature can lower stress hormones?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "SWELLING",
+        "hint": "What puffiness can follow an injury or sting?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "GLUCOSE",
+        "hint": "What simple sugar is your body's main energy source?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "EXERCISE",
+        "hint": "What helps your heart, muscles, and mood?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "FRIEND",
+        "hint": "Who can support you when you're feeling down?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TASTE",
+        "hint": "What sense detects sweet, salty, sour, bitter, and umami?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CAPILLARY",
+        "hint": "What tiny vessel connects arteries and veins?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "DIGEST",
+        "hint": "What process breaks down food in your stomach?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SPLEEN",
+        "hint": "What organ filters blood and fights infection?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ELBOW",
+        "hint": "What hinge lets you bend your arm?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POLLUTION",
+        "hint": "What dirty air or water can harm your body?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ICE",
+        "hint": "What cold pack reduces pain and swelling right after injury?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "SMELL",
+        "hint": "What sense works with taste to enjoy food?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CYCLING",
+        "hint": "What exercise uses a bike and builds leg strength?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MINDFUL",
+        "hint": "What awareness of the present moment reduces anxiety?",
+        "startx": 5,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "COPING",
+        "hint": "What skills help you manage stress and difficult emotions?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "DEEP",
+        "hint": "What sleep stage is hardest to wake from and repairs the body?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "RUNNY",
+        "hint": "What kind of nose do you get with a cold?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LENS",
+        "hint": "What part of your eye focuses light onto the retina?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "PLASMA",
+        "hint": "What liquid part of blood carries cells?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MEDITATE",
+        "hint": "What practice can reduce stress and improve focus?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SLOTH",
+        "hint": "What unhealthy habit means sitting too much?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DEPRESSION",
+        "hint": "What condition causes long sadness and low energy?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "PLAN",
+        "hint": "What helps you eat well and stay active?",
+        "startx": 8,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ORANGE",
+        "hint": "What citrus fruit helps prevent colds?",
+        "startx": 1,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "IRIS",
+        "hint": "What colored part of your eye controls the pupil size?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SEEDS",
+        "hint": "What tiny foods like chia or sunflower are nutrient powerhouses?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COOLDOWN",
+        "hint": "What helps your body return to normal after exercise?",
+        "startx": 3,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "WISDOM",
+        "hint": "What understanding often comes with years and reflection?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "STRENGTH",
+        "hint": "What training builds muscle to support joints and bones?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "RIBS",
+        "hint": "What bones protect your heart and lungs?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CORN",
+        "hint": "What yellow grain is eaten on the cob or in many dishes?",
+        "startx": 1,
         "starty": 6,
         "orientation": "down",
         "position": 7
       },
       {
-        "answer": "OREGANO",
-        "hint": "Herb that makes tomato sauce tasty?",
+        "answer": "LIGHT",
+        "hint": "What early sleep stage is between being awake and asleep?",
+        "startx": 7,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SAYNO",
+        "hint": "What healthy boundary protects your time and energy?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LOCAL",
+        "hint": "What produce travels less and may be fresher and tastier?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LIGAMENT",
+        "hint": "What connects bone to bone at a joint?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FLEXIBLE",
+        "hint": "What word describes someone who can bend easily?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "RESILIENCE",
+        "hint": "What ability to bounce back helps you handle health challenges?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "NATURE",
+        "hint": "What environment reduces stress and boosts mood?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "REST",
+        "hint": "What pause from activity is not laziness but necessity?",
+        "startx": 9,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BANANA",
+        "hint": "What fruit is high in potassium for muscles?",
         "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "ROUTINE",
+        "hint": "What consistent schedule helps regulate your body clock?",
+        "startx": 1,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "IRON",
+        "hint": "What mineral helps carry oxygen in your blood?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "SCREEN",
+        "hint": "What device light can interfere with sleep if used at night?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DREAM",
+        "hint": "What do you have while sleeping deeply?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SCHOOL",
+        "hint": "Where do you learn about health and hygiene?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CLEAN",
+        "hint": "What should your water and food be to stay safe?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FOOD",
+        "hint": "What gives your body energy and nutrients?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MELON",
+        "hint": "What watery fruit like watermelon hydrates and refreshes?",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "STRONG",
+        "hint": "What word describes healthy muscles?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "ANGER",
+        "hint": "What strong feeling can raise your blood pressure?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "FATIGUE",
+        "hint": "What tiredness can be caused by mild dehydration?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "ARTERY",
+        "hint": "What blood vessel carries oxygen-rich blood away from the heart?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BANDAGE",
+        "hint": "What covers a small cut to keep it clean?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VOCAL",
+        "hint": "What cords in your throat let you speak and sing?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TOFU",
+        "hint": "What soy food is soft, high in protein, and absorbs flavors?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MINDSET",
+        "hint": "What attitude can influence your health behaviors?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ANXIETY",
+        "hint": "What feeling involves worry or fear about the future?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "OBESITY",
+        "hint": "What health problem comes from too much body fat?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "AMBULANCE",
+        "hint": "What vehicle takes sick people to the hospital?",
+        "startx": 2,
+        "starty": 10,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "ACCIDENT",
+        "hint": "What unexpected event can cause injury?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "DIAGNOSE",
+        "hint": "What do doctors do to find out what's wrong?",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "DIABETES",
+        "hint": "What condition affects how your body uses sugar?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHICKPEAS",
+        "hint": "What round beans make hummus and are high in fiber?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HONEY",
+        "hint": "What natural sweetener can soothe a sore throat?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PORTION",
+        "hint": "What amount of food fits your hunger and needs?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "KIWI",
+        "hint": "What fuzzy fruit has more vitamin C than an orange?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "COOL",
+        "hint": "What room temperature is best for good sleep?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "STEAM",
+        "hint": "What cooking method preserves nutrients better than boiling?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "POSTURE",
+        "hint": "What alignment helps prevent neck and back strain?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BELLY",
+        "hint": "What informal word describes your abdomen?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "POWER",
+        "hint": "What mix of strength and speed is useful in many activities?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FUNGUS",
+        "hint": "What type of germ can cause athlete's foot?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "WRIST",
+        "hint": "What flexible joint connects your hand to your arm?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GALL",
+        "hint": "What small organ stores bile for digestion?",
+        "startx": 7,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "BURN",
+        "hint": "What injury comes from heat, sun, or fire?",
+        "startx": 9,
+        "starty": 6,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ANTIBODY",
+        "hint": "What protein helps your body attack viruses?",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "CURE",
+        "hint": "What medicine can do for some infections?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "RASH",
+        "hint": "What skin redness can signal allergy, infection, or irritation?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "VITAMIN",
+        "hint": "What substance helps your body fight sickness?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CALCIUM",
+        "hint": "What mineral makes your bones and teeth strong?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ELEVATE",
+        "hint": "What position for an injured limb reduces swelling?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "GRILL",
+        "hint": "What cooking style adds flavor without extra fat?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SNEEZE",
+        "hint": "What do you do when dust tickles your nose?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PASTA",
+        "hint": "What wheat-based food is popular but better as whole grain?",
+        "startx": 1,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SAFE",
+        "hint": "What kind of food won't make you sick?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "LAYER",
+        "hint": "What dressing strategy helps you adjust to changing temperatures?",
+        "startx": 8,
+        "starty": 9,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SPICES",
+        "hint": "What powders like cinnamon or turmeric add taste and health benefits?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "KNEES",
+        "hint": "What weight-bearing joints are prone to injury?",
+        "startx": 11,
+        "starty": 6,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "PEACE",
+        "hint": "What feeling of calm supports long-term health?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OVERDOSE",
+        "hint": "What dangerous event happens from too much medicine?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "THYROID",
+        "hint": "What gland in your neck controls metabolism?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MAPLE",
+        "hint": "What tree syrup is a less processed sweetener option?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PLUM",
+        "hint": "What small stone fruit comes in many colors and varieties?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "BEDBUG",
+        "hint": "What nighttime pest causes itchy bites but doesn’t spread disease?",
+        "startx": 7,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "PANCREAS",
+        "hint": "What organ makes insulin to control blood sugar?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "FINGERS",
+        "hint": "What help you grasp, type, and write?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LAUGH",
+        "hint": "What natural act boosts mood and immunity?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FEAR",
+        "hint": "What emotion can trigger a fast heartbeat and sweating?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "REACTION",
+        "hint": "What time it takes to respond to a signal affects driving and safety?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "VARIED",
+        "hint": "What eating pattern ensures you get many nutrients?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "LOVE",
+        "hint": "What deep connection is linked to better heart health?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "INHALE",
+        "hint": "What do you do to pull air into your lungs?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BERRIES",
+        "hint": "What small fruits like blueberries are rich in antioxidants?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "TONGUE",
+        "hint": "What muscle helps you taste, chew, and speak?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "SPEED",
+        "hint": "What how-fast-you-move quality declines with age but can be trained?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "PHONE",
+        "hint": "What handheld device should you avoid before bedtime?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SHOULDER",
+        "hint": "What joint allows you to lift and rotate your arm?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SOAP",
+        "hint": "What cleans your hands when you wash them?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "EMERGENCY",
+        "hint": "What serious situation needs quick medical help?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "GENDER",
+        "hint": "What biological difference can influence health risks?",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SUNBURN",
+        "hint": "What red skin results from too much sun?",
+        "startx": 5,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "HYDRATE",
+        "hint": "What should you do steadily throughout the day?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "PILLOW",
+        "hint": "What soft support holds your head while sleeping?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "SICK",
+        "hint": "What word describes someone who has an illness?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COCONUT",
+        "hint": "What tropical nut has water, milk, and oil used in many cuisines?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "COOKED",
+        "hint": "What should meat and eggs be to kill germs?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BOOK",
+        "hint": "What quiet activity can help you relax before bed?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "EXHALE",
+        "hint": "What do you do to push air out of your lungs?",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "HEART",
+        "hint": "What organ pumps blood through your body?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "GRATITUDE",
+        "hint": "What practice of thankfulness improves mental well-being?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "FOREHEAD",
+        "hint": "What part of your face is above your eyes?",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "MOUTH",
+        "hint": "What helps you eat, drink, and speak?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ABSORB",
+        "hint": "What do your intestines do with nutrients?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JOINTS",
+        "hint": "What parts of your body connect bones and allow movement?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "IMMUNE",
+        "hint": "What system fights off sickness and infection?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SNORING",
+        "hint": "What sound can signal breathing issues during sleep?",
+        "startx": 11,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "YOGA",
+        "hint": "What practice improves flexibility and calmness?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "SKIN",
+        "hint": "What is your body's largest organ?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "SCALP",
+        "hint": "What skin covers your skull and grows hair?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "DIAPHRAGM",
+        "hint": "What muscle helps you breathe by moving up and down?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "KIDNEY",
+        "hint": "What organ filters waste from your blood?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KINDNESS",
+        "hint": "What behavior toward others boosts your own mood?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DANCING",
+        "hint": "What fun activity improves coordination and mood?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "COCHLEA",
+        "hint": "What spiral organ in your ear turns sound into signals?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ASTHMA",
+        "hint": "What condition makes it hard to breathe sometimes?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "HOSPITAL",
+        "hint": "Where do doctors treat very sick people?",
+        "startx": 5,
+        "starty": 5,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ALCOHOL",
+        "hint": "What drink can damage your liver if used too much?",
+        "startx": 12,
+        "starty": 4,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "DARK",
+        "hint": "What lighting condition helps your brain make melatonin?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "RISK",
+        "hint": "What factor increases your chance of illness?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "ADDICTION",
+        "hint": "What condition involves being unable to stop a harmful habit?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "EARPLUGS",
+        "hint": "What protect your ears in noisy places?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COVER",
+        "hint": "What should you do to a cut to keep it clean?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "OATS",
+        "hint": "What whole grain lowers cholesterol and keeps you full?",
+        "startx": 9,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "KIND",
+        "hint": "What should you be to yourself when trying to improve?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "TEARS",
+        "hint": "What come from your eyes when you cry or cut onions?",
+        "startx": 5,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "DENTIST",
+        "hint": "Who checks your teeth for problems?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "RELAX",
+        "hint": "What should you do to reduce tension before bedtime?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "WORRY",
+        "hint": "What anxious thought can keep you awake at night?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POLIO",
+        "hint": "What disease that caused paralysis is now rare thanks to vaccines?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FIRSTAID",
+        "hint": "What immediate help is given before a doctor?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "FAITH",
+        "hint": "What trust in something greater can comfort and guide?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "TOOTHBRUSH",
+        "hint": "What do you use to clean your teeth?",
+        "startx": 11,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CANNED",
+        "hint": "What food can be healthy if packed in water or its own juice?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "PUPIL",
+        "hint": "What black circle in your eye gets bigger or smaller with light?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "FLEA",
+        "hint": "What small jumper lives on pets and can bite humans?",
+        "startx": 3,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "HELP",
+        "hint": "What should you ask for when you feel unwell?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "RECOVER",
+        "hint": "What do you do after being sick or injured?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COLD",
+        "hint": "What common illness gives you a runny nose and cough?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EMPATHY",
+        "hint": "What ability to understand others' feelings builds connection?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MANGO",
+        "hint": "What tropical fruit is sweet, creamy, and rich in vitamin A?",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CARROT",
+        "hint": "What orange vegetable is good for your eyes?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "COUNSEL",
+        "hint": "What talking help can improve mental well-being?",
+        "startx": 11,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SEASONAL",
+        "hint": "What fruits and vegetables are cheapest and best in their time?",
+        "startx": 4,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "INSULIN",
+        "hint": "What hormone helps your cells use sugar for energy?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHEST",
+        "hint": "What area holds your heart and lungs?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CHOICE",
+        "hint": "What healthy decisions affect your long-term health?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "RADIATION",
+        "hint": "What energy can be helpful in medicine or harmful in excess?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "HPV",
+        "hint": "What virus vaccine helps prevent cervical and other cancers?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "JUNK",
+        "hint": "What food is high in fat, sugar, and salt but low in nutrition?",
+        "startx": 1,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "FLEX",
+        "hint": "What do you improve by touching your toes regularly?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "PROGRESS",
+        "hint": "What small steps lead to better health?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "TURMERIC",
+        "hint": "What yellow spice contains curcumin, a powerful antioxidant?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GOAL",
+        "hint": "What healthy target can motivate you to change?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BRAIN",
+        "hint": "What organ controls your thoughts and movements?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HERBS",
+        "hint": "What fresh leaves like basil or cilantro add flavor without salt?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "TIRED",
+        "hint": "What do you feel when you need rest or sleep?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "ADRENAL",
+        "hint": "What glands on your kidneys make stress hormones?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BELIEF",
+        "hint": "What conviction can affect how you respond to treatment?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "LENTILS",
+        "hint": "What small legumes cook quickly and support heart health?",
+        "startx": 6,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TOOTHPASTE",
+        "hint": "What paste helps prevent cavities?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BROW",
+        "hint": "What above your eyes helps keep sweat out of them?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MUSCLES",
+        "hint": "What help you move your arms and legs?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HEARTBEAT",
+        "hint": "What is the sound of your heart pumping?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VEGETABLE",
+        "hint": "What food group includes carrots and broccoli?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EYELASH",
+        "hint": "What short hairs protect your eyes from dust?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CEREAL",
+        "hint": "What breakfast food should be low in sugar and high in fiber?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "HEPATITIS",
+        "hint": "What liver infection can be prevented with a vaccine?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "HEARING",
+        "hint": "What sense can be damaged by loud noises?",
+        "startx": 10,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "WEIGHT",
+        "hint": "What number changes when you gain or lose fat?",
+        "startx": 7,
+        "starty": 15,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "PROTEIN",
+        "hint": "What nutrient helps build and repair muscles?",
+        "startx": 2,
         "starty": 4,
         "orientation": "across",
         "position": 8
       },
       {
-        "answer": "BEANS",
-        "hint": "Protein packed seeds you cook in chili?",
-        "startx": 6,
-        "starty": 11,
+        "answer": "NAP",
+        "hint": "What short sleep during the day can boost alertness?",
+        "startx": 2,
+        "starty": 2,
         "orientation": "down",
         "position": 9
-      },
+      }
+    ],
+    [
       {
-        "answer": "SUNRISE",
-        "hint": "What morning event brings light to wake you?",
-        "startx": 6,
-        "starty": 15,
+        "answer": "BACTERIA",
+        "hint": "What type of germ can cause infections?",
+        "startx": 2,
+        "starty": 7,
         "orientation": "across",
-        "position": 10
+        "position": 1
       },
       {
-        "answer": "TUNA",
-        "hint": "Fish you mix with celery for lunch?",
-        "startx": 10,
-        "starty": 1,
+        "answer": "ALLERGY",
+        "hint": "What reaction can cause sneezing or itchy eyes?",
+        "startx": 7,
+        "starty": 3,
         "orientation": "down",
-        "position": 11
+        "position": 2
+      },
+      {
+        "answer": "BUTTER",
+        "hint": "What animal fat should be used sparingly?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "CHIN",
+        "hint": "What bony part is below your mouth?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "WHEAT",
+        "hint": "What grain is in bread, pasta, and cereal?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "GRAPE",
+        "hint": "What small fruit comes in red, green, or black varieties?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "RETINA",
+        "hint": "What light-sensitive layer in your eye sends images to your brain?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
       }
     ]
   ]
