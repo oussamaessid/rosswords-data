@@ -2,3390 +2,2512 @@
   "levels": [
     [
       {
-        "answer": "YANGTZE",
-        "hint": "Longest river in China?",
-        "startx": 4,
-        "starty": 8,
+        "answer": "NORWAY",
+        "hint": "Which country has fjords and borders Sweden?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "SOUTH",
-        "hint": "Direction toward the bottom of most maps?",
-        "startx": 8,
+        "answer": "GHANA",
+        "hint": "Which African country has Accra as its capital?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "HUNGARY",
+        "hint": "Which country has Budapest on the Danube River?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "IRAQ",
+        "hint": "Which country has Baghdad as its capital?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "THAILAND",
+        "hint": "Which country has Bangkok as its capital?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "PARAGUAY",
+        "hint": "Which landlocked South American country has Asunción?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MADISON",
+        "hint": "What is the capital of Wisconsin?",
+        "startx": 1,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "SAUDI",
+        "hint": "Which country occupies most of the Arabian Peninsula?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SASKAT",
+        "hint": "Which prairie province is between Alberta and Manitoba?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DES",
+        "hint": "What is the capital of Iowa?",
+        "startx": 5,
         "starty": 5,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "AZERBAI",
-        "hint": "Country on the Caspian Sea with Baku?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "CAPEVERD",
+        "hint": "Which island nation is off the coast of Senegal?",
+        "startx": 7,
+        "starty": 6,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "PERTH",
-        "hint": "Western Australian city by the Indian Ocean?",
+        "answer": "ARUBA",
+        "hint": "Which Dutch Caribbean island is known for beaches?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "BELIZE",
+        "hint": "Which Central American country has English as its official language?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SLOVENIA",
+        "hint": "Which small EU country is north of Croatia?",
         "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "LINCOLN",
+        "hint": "What is the capital of Nebraska?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "COMOROS",
+        "hint": "Which island nation is between Mozambique and Madagascar?",
+        "startx": 3,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "AMERICA",
+        "hint": "Which continent includes Brazil and Canada?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "OMAN",
+        "hint": "Which country is on the southeast coast of the Arabian Peninsula?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BANGLA",
+        "hint": "Which country has Dhaka as its capital?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TORONTO",
+        "hint": "What is Canada's most populous city?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ITALY",
+        "hint": "Which country is shaped like a boot?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MADAGAS",
+        "hint": "Which island lies off the east coast of Africa?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LATVIA",
+        "hint": "Which country has Riga as its capital?",
+        "startx": 4,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "FRANCE",
+        "hint": "Which European country is known for the Eiffel Tower?",
+        "startx": 3,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "CAMBODIA",
+        "hint": "Which country has the Angkor Wat temple?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "AFGHAN",
+        "hint": "Which landlocked country is west of Pakistan?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "GABON",
+        "hint": "Which equatorial country is on the Atlantic coast?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "LONDON",
+        "hint": "What is the capital of the United Kingdom?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "DOVER",
+        "hint": "What is the capital of Delaware?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "ANDORRA",
+        "hint": "Which tiny country is in the Pyrenees mountains?",
+        "startx": 5,
         "starty": 7,
         "orientation": "down",
         "position": 4
       },
       {
-        "answer": "TOUR",
-        "hint": "Trip to see new places?",
+        "answer": "AZERBAJ",
+        "hint": "Which country on the Caspian Sea has Baku as its capital?",
         "startx": 2,
         "starty": 11,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "BALTIC",
-        "hint": "Cold sea near Sweden and Finland?",
-        "startx": 1,
-        "starty": 14,
-        "orientation": "across",
+        "answer": "CURACAO",
+        "hint": "Which island has colorful colonial buildings?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
         "position": 6
       },
       {
-        "answer": "ISTHMUS",
-        "hint": "Narrow strip of land between two seas?",
+        "answer": "IRAN",
+        "hint": "Which country is east of Iraq and west of Afghanistan?",
         "startx": 2,
-        "starty": 5,
-        "orientation": "across",
+        "starty": 9,
+        "orientation": "down",
         "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "LEBANON",
-        "hint": "Small country with Beirut on the coast?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
       },
       {
-        "answer": "HILLS",
-        "hint": "Many small raised pieces of land?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AFGHAN",
-        "hint": "Landlocked country with Kabul capital?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GALE",
-        "hint": "Strong wind that bends trees?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "MELBOUR",
-        "hint": "Australian city known for trams and sports?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MALAYSIA",
-        "hint": "Country split between Borneo and the Malay Peninsula?",
+        "answer": "ANTARCT",
+        "hint": "What icy continent is at the South Pole?",
         "startx": 5,
-        "starty": 3,
+        "starty": 13,
         "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "RAIN",
-        "hint": "Water drops falling from clouds?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "NORTH",
-        "hint": "Direction toward the top of most maps?",
-        "startx": 9,
-        "starty": 11,
-        "orientation": "down",
         "position": 8
       },
       {
-        "answer": "PORT",
-        "hint": "City area where ships load goods?",
-        "startx": 7,
-        "starty": 13,
-        "orientation": "across",
+        "answer": "CRETE",
+        "hint": "Which Greek island is in the Mediterranean Sea?",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
         "position": 9
       },
       {
-        "answer": "SHADE",
-        "hint": "Cool dark area away from sun?",
-        "startx": 8,
-        "starty": 15,
+        "answer": "NOVA",
+        "hint": "Which Canadian province is on the Atlantic coast?",
+        "startx": 9,
+        "starty": 8,
         "orientation": "across",
         "position": 10
       }
     ],
     [
       {
-        "answer": "HULL",
-        "hint": "Body of a boat that sits in water?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "RUSSIA",
+        "hint": "What is the largest country by land area?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PLANET",
-        "hint": "Round world that moves around a star?",
-        "startx": 8,
+        "answer": "SALEM",
+        "hint": "What is the capital of Oregon?",
+        "startx": 6,
         "starty": 7,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "CUSTOMS",
-        "hint": "Airport desk where officers check bags?",
-        "startx": 6,
-        "starty": 7,
+        "answer": "KYRGYZ",
+        "hint": "Which mountainous Central Asian country has Bishkek? (6 letters)",
+        "startx": 3,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "WEST",
-        "hint": "Direction where the sun sets?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
+        "answer": "HONDURAS",
+        "hint": "Which Central American country is between Guatemala and Nicaragua?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
         "position": 4
       },
       {
-        "answer": "OASIS",
-        "hint": "Green water spot in a desert?",
-        "startx": 2,
-        "starty": 13,
+        "answer": "ESTONIA",
+        "hint": "Which Baltic country has Tallinn as its capital?",
+        "startx": 6,
+        "starty": 10,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "DAY",
-        "hint": "Time Earth takes to spin once?",
-        "startx": 3,
-        "starty": 12,
+        "answer": "AUSTRIA",
+        "hint": "Which landlocked European country has Vienna?",
+        "startx": 12,
+        "starty": 4,
         "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "YELLOW",
-        "hint": "River in China named for its color?",
+        "answer": "CZECH",
+        "hint": "Which country has Prague as its capital?",
         "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHILE",
+        "hint": "Which long, narrow country is on South America's west coast?",
+        "startx": 7,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SENEGAL",
+        "hint": "Which country has Dakar as its capital?",
+        "startx": 4,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SWEDEN",
+        "hint": "Which Scandinavian country is west of Finland?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "MALAYSIA",
+        "hint": "Which country includes Kuala Lumpur?",
+        "startx": 9,
         "starty": 8,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "LUXEMB",
+        "hint": "Which small country is between France and Germany? ",
+        "startx": 2,
+        "starty": 13,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "EGYPT",
+        "hint": "Which country has the Suez Canal?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "OCEAN",
+        "hint": "What is the largest body of salt water on Earth?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "NEPAL",
+        "hint": "Which country has Mount Everest on its border?",
+        "startx": 4,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "IVORY",
+        "hint": "Which country is also known as Côte d'Ivoire?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "OTTAWA",
+        "hint": "What is the capital of Canada?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ATLANTIC",
+        "hint": "Which ocean lies between Africa and South America?",
+        "startx": 11,
+        "starty": 5,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CHINA",
+        "hint": "Which country has the largest population in Asia?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DELHI",
+        "hint": "What is the capital of India?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TAJIK",
+        "hint": "Which Central Asian country has Dushanbe? (5 letters)",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "NETHERL",
+        "hint": "Which country is known for Amsterdam and tulips? ",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SINGAPORE",
+        "hint": "Which city-state is an island in Southeast Asia?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "BOISE",
+        "hint": "What is the capital of Idaho?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "COLOMBIA",
+        "hint": "Which South American country has Bogotá as its capital?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "UGANDA",
+        "hint": "Which landlocked country has Lake Victoria?",
+        "startx": 2,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "QATAR",
+        "hint": "Which peninsula country is in the Persian Gulf?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "DOMREP",
+        "hint": "What country shares Hispaniola with Haiti?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "SACRAM",
+        "hint": "What is the capital of California?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "DALLAS",
+        "hint": "Which Texas city is known for its Cowboys football team?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "MEXICO",
+        "hint": "What is the capital city of Mexico?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "MOSCOW",
+        "hint": "What is the capital of Russia?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BELARUS",
+        "hint": "Which country is west of Russia and east of Poland?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "KUWAIT",
+        "hint": "Which small country is between Iraq and Saudi Arabia?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "HOUSTON",
+        "hint": "Which Texas city is known for space missions?",
+        "startx": 10,
+        "starty": 1,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "SERBIA",
+        "hint": "Which Balkan country has Belgrade as its capital?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RHINE",
+        "hint": "Which river runs through Switzerland and the Netherlands?",
+        "startx": 5,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "EAST",
+        "hint": "What direction does the sun rise from?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "CHAD",
+        "hint": "Which African country borders Libya, Sudan, and Cameroon?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SEATTLE",
+        "hint": "Which U.S. city is known for rain and tech companies?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SUDAN",
+        "hint": "Which African country is south of Egypt?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "PIERRE",
+        "hint": "What is the capital of South Dakota?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ERIE",
+        "hint": "Which Great Lake is south of Lake Huron?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "SWITZER",
+        "hint": "Which neutral European country has Bern? ",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PARIS",
+        "hint": "What is the capital of France?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ISLAND",
+        "hint": "What is land completely surrounded by water?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TURKMEN",
+        "hint": "Which country borders Iran and has Ashgabat?",
+        "startx": 6,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "PUERTO",
+        "hint": "What U.S. territory is in the Caribbean?",
+        "startx": 4,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SPAIN",
+        "hint": "Which country shares the Iberian Peninsula with Portugal?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "CAIRO",
+        "hint": "What is the capital of Egypt?",
+        "startx": 11,
+        "starty": 3,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "MOROCCO",
+        "hint": "Which North African country has Rabat as its capital?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "MATTERH",
+        "hint": "What famous peak is in the Swiss Alps?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "NIAGARA",
+        "hint": "Which waterfalls are between the U.S. and Canada?",
+        "startx": 4,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CALGARY",
+        "hint": "Which Canadian city hosts the Stampede?",
+        "startx": 8,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LITHUAN",
+        "hint": "Which Baltic country has Vilnius?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CYPRUS",
+        "hint": "Which island country is in the eastern Mediterranean?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "NIGER",
+        "hint": "Which landlocked African country is north of Nigeria?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "FIJI",
+        "hint": "Which Pacific island nation is known for coral reefs?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "BRUNEI",
+        "hint": "Which small oil-rich country is on Borneo?",
+        "startx": 10,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "RIVER",
+        "hint": "What is a natural flowing watercourse?",
+        "startx": 7,
+        "starty": 14,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "REUNION",
+        "hint": "Which French island is in the Indian Ocean?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MOUNTAIN",
+        "hint": "What is a large landform rising above its surroundings?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GREENLAND",
+        "hint": "What is the world's largest island?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BULGARIA",
+        "hint": "Which Balkan country is on the Black Sea?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ARCTIC",
+        "hint": "Which ocean surrounds the North Pole?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "SAMOA",
+        "hint": "Which island nation is in the South Pacific?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "VANCOU",
+        "hint": "Which Canadian city is on the Pacific Ocean?",
+        "startx": 3,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ANNAP",
+        "hint": "What is the capital of Maryland?",
+        "startx": 8,
+        "starty": 11,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "SLOVAKIA",
+        "hint": "Which landlocked country has Bratislava as its capital?",
+        "startx": 11,
+        "starty": 7,
+        "orientation": "down",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "LEBANON",
+        "hint": "Which small country is north of Israel?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
         "answer": "LAKE",
-        "hint": "Large body of water in land?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Cool dark area away from sun?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HARBOR",
-        "hint": "Calm water area where boats rest?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ANCHOR",
-        "hint": "Heavy hook that keeps a boat in place?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "JAPAN",
-        "hint": "Island country known for Tokyo and sushi?",
+        "hint": "What is a large inland body of fresh water?",
         "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "ALPS",
-        "hint": "Snowy mountains across Switzerland and France?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MURRAY",
-        "hint": "River that brings water to southern Australia?",
-        "startx": 5,
         "starty": 4,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "MALAYSIA",
-        "hint": "Country split between Borneo and the Malay Peninsula?",
-        "startx": 8,
-        "starty": 3,
+        "answer": "DENMARK",
+        "hint": "Which country connects Scandinavia to mainland Europe?",
+        "startx": 7,
+        "starty": 5,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "MARINA",
-        "hint": "Small harbor for little boats?",
-        "startx": 3,
-        "starty": 6,
+        "answer": "AZORES",
+        "hint": "Which Portuguese islands are in the Atlantic?",
+        "startx": 7,
+        "starty": 9,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "JAMAICA",
-        "hint": "Island nation known for reggae music?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MAGMA",
-        "hint": "Melted rock deep underground?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "KAYAK",
-        "hint": "Small boat with a covered top?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "RHINE",
-        "hint": "River running along the border of Germany?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SLOVENI",
-        "hint": "Small Alpine country with Lake Bled?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CREEK",
-        "hint": "Small stream kids can jump?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RIO",
-        "hint": "Brazilian city famous for Carnival and beaches?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "GEYSER",
-        "hint": "Hot spring that shoots water up?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "WINTER",
-        "hint": "Coldest season with snow or frost?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "JUNGLE",
-        "hint": "Thick hot forest with vines?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FERRY",
-        "hint": "Boat that carries cars across water?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "RANGE",
-        "hint": "Line of mountains that connect?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "CHANNEL",
-        "hint": "Wide water path between lands?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "ICECAP",
-        "hint": "Thick ice that covers polar land?",
-        "startx": 1,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ALPS",
-        "hint": "Snowy mountains across Switzerland and France?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "SUPERIOR",
-        "hint": "Largest of the Great Lakes?",
-        "startx": 3,
-        "starty": 13,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "IRAN",
-        "hint": "Country known for Tehran and the Persian Gulf?",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "YUKON",
-        "hint": "River that flows through Alaska to the sea?",
-        "startx": 3,
-        "starty": 15,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "YEMEN",
-        "hint": "Country at the tip of the Arabian Peninsula?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MIST",
-        "hint": "Thin fog that makes air wet?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SWEDEN",
-        "hint": "Scandinavian country with Stockholm capital?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "REEF",
-        "hint": "Shallow ridge of coral under water?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "VALLEYS",
-        "hint": "Many low areas between hills?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MOJAVE",
-        "hint": "Desert in California with Joshua trees?",
-        "startx": 1,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SEOUL",
-        "hint": "Capital city of South Korea?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SAHARA",
-        "hint": "Huge hot desert in North Africa?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BOAT",
-        "hint": "Smaller craft that floats on water?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RAIN",
-        "hint": "Water drops falling from clouds?",
-        "startx": 4,
-        "starty": 13,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "DENALI",
-        "hint": "Highest mountain in North America?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MONTEVID",
-        "hint": "Capital city of Uruguay on the River Plate?",
-        "startx": 2,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ANDES",
-        "hint": "Long mountain chain along South America?",
-        "startx": 6,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "OSAKA",
-        "hint": "Large Japanese port city known for food?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ANDES",
-        "hint": "Long mountain chain along South America?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ANTARCT",
-        "hint": "Icy region around the South Pole?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SOURCE",
-        "hint": "Place where a river begins?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NETHERL",
-        "hint": "Country of canals, tulips, and windmills?",
-        "startx": 5,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "DUNE",
-        "hint": "Hill of sand shaped by wind?",
-        "startx": 9,
-        "starty": 10,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "EUROPE",
-        "hint": "Continent with France, Spain, and Germany?",
-        "startx": 12,
-        "starty": 5,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "WELL",
-        "hint": "Deep hole that brings cool water up?",
-        "startx": 11,
-        "starty": 12,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "GREECE",
-        "hint": "Country with many islands and ancient ruins?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "GALE",
-        "hint": "Strong wind that bends trees?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "KRAKATOA",
-        "hint": "Indonesian volcano that once boomed loudly?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "COMPASS",
-        "hint": "Tool whose needle points north?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "VISA",
-        "hint": "Stamp that lets you visit another country?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "RIVER",
-        "hint": "Large stream of water flowing to sea?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ATACAMA",
-        "hint": "Very dry desert along Chile's coast?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "NIGER",
-        "hint": "River that makes a big bend in West Africa?",
-        "startx": 11,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ATLAS",
-        "hint": "Book full of maps with countries?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "POLAND",
-        "hint": "Central European country with Warsaw capital?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "RIO",
-        "hint": "Brazilian city famous for Carnival and beaches?",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "LENA",
-        "hint": "Great river in Siberia that freezes in winter?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "EQUATOR",
-        "hint": "Imaginary line halfway between poles?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "GRENADA",
-        "hint": "Island called the Spice Isle in the Caribbean?",
-        "startx": 2,
-        "starty": 13,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "DARWIN",
-        "hint": "Tropical city in Australia's Northern Territory?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SWEDEN",
-        "hint": "Scandinavian country with Stockholm capital?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BORDER",
-        "hint": "Line that separates two places?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ARCTIC",
-        "hint": "Freezing region around the North Pole?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "VALLEYS",
-        "hint": "Many low areas between hills?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "IRAN",
-        "hint": "Country known for Tehran and the Persian Gulf?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "EARTH",
-        "hint": "Our home planet with land and water?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "AEGEAN",
-        "hint": "Sea with many Greek islands?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Cool dark area away from sun?",
-        "startx": 7,
-        "starty": 14,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "QUITO",
-        "hint": "High capital city of Ecuador near the equator?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CONGO",
-        "hint": "Major river that winds through central Africa?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AUTUMN",
-        "hint": "Season when leaves turn red?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "LODGE",
-        "hint": "Small inn near mountains or lakes?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "CANOE",
-        "hint": "Light boat paddled on lakes?",
-        "startx": 4,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "KYRGYZ",
-        "hint": "Mountainous Central Asian country with yurts?",
-        "startx": 11,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "ERIE",
-        "hint": "Great Lake near Buffalo and Cleveland?",
-        "startx": 8,
-        "starty": 12,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "AVENUE",
-        "hint": "Wide street that runs through a city?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "KOREA",
-        "hint": "Peninsula split into North and South nations?",
-        "startx": 5,
-        "starty": 15,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "MEADOW",
-        "hint": "Open field of grass and flowers?",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "OSAKA",
-        "hint": "Large Japanese port city known for food?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PLAIN",
-        "hint": "Flat land with few trees?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SPRING",
-        "hint": "Season with rain and blooming flowers?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "EVEREST",
-        "hint": "Tallest mountain in the world?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "ANDORRA",
-        "hint": "Mountain micro-country between France and Spain?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "AMERICA",
-        "hint": "Continent that holds the USA and Canada?",
-        "startx": 9,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "BELGIUM",
-        "hint": "Country known for waffles and Brussels?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "RAIN",
-        "hint": "Water drops falling from clouds?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "YANGTZE",
-        "hint": "Longest river in China?",
-        "startx": 12,
-        "starty": 3,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "DAY",
-        "hint": "Time Earth takes to spin once?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "PARAGUA",
-        "hint": "Country south of Brazil with Asuncion capital?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LEBANON",
-        "hint": "Small country with Beirut on the coast?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "GULF",
-        "hint": "Large bay that cuts deep into land?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "LIMA",
-        "hint": "Capital city of Peru near the Pacific Ocean?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "SAVANNAH",
-        "hint": "City in Georgia near the Atlantic coast?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "THAMES",
-        "hint": "River that flows through London, England?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "DEADSEA",
-        "hint": "Very salty lake where you can float easily?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COMPASS",
-        "hint": "Tool whose needle points north?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SPAIN",
-        "hint": "Country with Madrid and flamenco dancing?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ARCTIC",
-        "hint": "Freezing region around the North Pole?",
+        "answer": "CROATIA",
+        "hint": "Which country has Zagreb as its capital?",
         "startx": 10,
         "starty": 8,
         "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CARACAS",
-        "hint": "Capital city of Venezuela near the coast?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
         "position": 5
-      },
-      {
-        "answer": "DUSK",
-        "hint": "Time when the sky gets dark?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "RIO",
-        "hint": "Brazilian city famous for Carnival and beaches?",
-        "startx": 9,
-        "starty": 12,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "CLIMATE",
-        "hint": "Usual weather in a place?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "VICTORIA",
-        "hint": "Huge lake in East Africa shared by three nations?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "GALE",
-        "hint": "Strong wind that bends trees?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "OCEANIA",
-        "hint": "Region of islands like Australia and Fiji?",
-        "startx": 6,
-        "starty": 3,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SEINE",
-        "hint": "River that flows through Paris, France?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TICKET",
-        "hint": "Paper that lets you ride a plane?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "CHILE",
-        "hint": "Long skinny country along South America's west coast?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
       },
       {
         "answer": "VIETNAM",
-        "hint": "Country shaped like an S along the South China Sea?",
-        "startx": 2,
+        "hint": "Which country has Hanoi as its capital?",
+        "startx": 5,
+        "starty": 14,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "MYANMAR",
+        "hint": "Which country was formerly known as Burma?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "DENVER",
+        "hint": "What is the capital of Colorado?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MAURITIUS",
+        "hint": "Which island nation is east of Madagascar?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BHUTAN",
+        "hint": "Which Himalayan kingdom is between India and China?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "YEMEN",
+        "hint": "Which country is at the southern tip of the Arabian Peninsula?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "KILIMAN",
+        "hint": "What mountain stands alone in Tanzania?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "ALPS",
+        "hint": "Which mountains are shared by France, Italy, and Switzerland?",
+        "startx": 5,
         "starty": 12,
         "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "INDIA",
+        "hint": "Which country is home to the Taj Mahal?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "SRI",
+        "hint": "Which island nation is south of India?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "COSTAR",
+        "hint": "Which Central American country has San José as its capital?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MAURITAN",
+        "hint": "Which Islamic country is in Northwest Africa?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ICELAND",
+        "hint": "Which island nation is in the North Atlantic?",
+        "startx": 3,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ALASKA",
+        "hint": "Which U.S. state is closest to Russia?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ROME",
+        "hint": "What is the capital of Italy?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "HELENA",
+        "hint": "What is the capital of Montana?",
+        "startx": 2,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "NEVADA",
+        "hint": "Which U.S. state is home to Las Vegas?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "DANUBE",
+        "hint": "Which river flows through Vienna and Budapest?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "down",
         "position": 8
       },
       {
-        "answer": "STATE",
-        "hint": "Part of a country like Texas or Ohio?",
-        "startx": 2,
-        "starty": 1,
+        "answer": "NILE",
+        "hint": "What is the longest river in Africa?",
+        "startx": 6,
+        "starty": 11,
         "orientation": "across",
         "position": 9
       },
       {
-        "answer": "WALES",
-        "hint": "Western part of Britain with dragon flag?",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "down",
+        "answer": "BRAZIL",
+        "hint": "What is the largest country in South America?",
+        "startx": 6,
+        "starty": 13,
+        "orientation": "across",
         "position": 10
       }
     ],
     [
       {
-        "answer": "RANGE",
-        "hint": "Line of mountains that connect?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BEACH",
-        "hint": "Sandy edge where land meets sea?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MOJAVE",
-        "hint": "Desert in California with Joshua trees?",
-        "startx": 9,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HAIL",
-        "hint": "Hard balls of ice falling from clouds?",
-        "startx": 6,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "POLE",
-        "hint": "Tip of the Earth at north or south?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "WEST",
-        "hint": "Direction where the sun sets?",
-        "startx": 11,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "GOBI",
-        "hint": "Cold desert between China and Mongolia?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "BEIJING",
-        "hint": "Capital city of China with the Forbidden City?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "NEPAL",
-        "hint": "Mountain country where climbers visit Everest?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "CANOE",
-        "hint": "Light boat paddled on lakes?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "RAPIDS",
-        "hint": "Fast bubbly water in a river?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "WOODS",
-        "hint": "Small forest for camping?",
-        "startx": 12,
-        "starty": 6,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "ICELAND",
-        "hint": "Island nation between Greenland and Europe?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "MESA",
-        "hint": "Flat-topped hill with steep sides?",
-        "startx": 2,
-        "starty": 5,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "MARINA",
-        "hint": "Small harbor for little boats?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ASUNCION",
-        "hint": "Capital city of Paraguay on the Paraguay River?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DAY",
-        "hint": "Time Earth takes to spin once?",
-        "startx": 5,
+        "answer": "PANAMA",
+        "hint": "Which country connects North and South America?",
+        "startx": 3,
         "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HANOI",
-        "hint": "Capital city of Vietnam in the north?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "SAVANNAH",
-        "hint": "City in Georgia near the Atlantic coast?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "NEPAL",
-        "hint": "Mountain country where climbers visit Everest?",
-        "startx": 11,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "NETHERL",
-        "hint": "Country of canals, tulips, and windmills?",
-        "startx": 4,
-        "starty": 8,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "PATH",
-        "hint": "Narrow way between two places?",
-        "startx": 6,
-        "starty": 6,
+        "answer": "GEORGIA",
+        "hint": "Which country is on the Black Sea between Russia and Turkey?",
+        "startx": 8,
+        "starty": 1,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DESERT",
-        "hint": "Dry place with little rain?",
-        "startx": 8,
-        "starty": 5,
+        "answer": "NASHV",
+        "hint": "What is the capital of Tennessee?",
+        "startx": 4,
+        "starty": 6,
         "orientation": "down",
         "position": 3
       },
       {
-        "answer": "SINGAPO",
-        "hint": "Island city-country at the tip of Malaysia?",
+        "answer": "COLORADO",
+        "hint": "What river carved the Grand Canyon?",
         "startx": 4,
-        "starty": 6,
-        "orientation": "down",
+        "starty": 4,
+        "orientation": "across",
         "position": 4
       },
       {
         "answer": "ISRAEL",
-        "hint": "Country by the Mediterranean with Jerusalem?",
-        "startx": 10,
-        "starty": 3,
-        "orientation": "down",
+        "hint": "Which country has Jerusalem as its declared capital?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "STRAIT",
-        "hint": "Narrow water path between seas?",
+        "answer": "GAMBIA",
+        "hint": "Which small country surrounds the Gambia River?",
         "startx": 6,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "TAHOE",
-        "hint": "Blue lake in the Sierra mountains?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "REDSEA",
-        "hint": "Sea between Africa and Arabia?",
-        "startx": 12,
         "starty": 6,
         "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "PONDS",
-        "hint": "Many small pools of water?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "SHIP",
-        "hint": "Large boat that sails across oceans?",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "EUPHRAT",
-        "hint": "River that waters lands in Iraq and Syria?",
-        "startx": 5,
-        "starty": 15,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "DUNE",
-        "hint": "Hill of sand shaped by wind?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "INDUS",
-        "hint": "River that flows through Pakistan to the sea?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SHORE",
-        "hint": "Strip of land touching water?",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "CREW",
-        "hint": "Group of people who run a ship?",
-        "startx": 10,
-        "starty": 10,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SCOTLAND",
-        "hint": "Part of the UK known for bagpipes and lochs?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "NATION",
-        "hint": "Another word for a country?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "CHINA",
-        "hint": "Most populated country with Beijing capital?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "CANAL",
-        "hint": "Water passage people dig?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "OMAN",
-        "hint": "Country with Muscat along the Arabian Sea?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "KAYAK",
-        "hint": "Small boat with a covered top?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TAHOE",
-        "hint": "Blue lake in the Sierra mountains?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ETNA",
-        "hint": "Active volcano on the island of Sicily?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "DENMARK",
-        "hint": "Country of Lego bricks and Copenhagen?",
-        "startx": 1,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "DENALI",
-        "hint": "Highest mountain in North America?",
-        "startx": 3,
-        "starty": 9,
-        "orientation": "down",
         "position": 6
       }
     ],
     [
       {
-        "answer": "CYCLONE",
-        "hint": "Big spinning storm over ocean?",
+        "answer": "ASIA",
+        "hint": "What is the most populous continent?",
         "startx": 4,
-        "starty": 8,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "HIGHWAY",
-        "hint": "Wide road built for fast travel?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "COLORADO",
-        "hint": "River that carved the Grand Canyon?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "HAIL",
-        "hint": "Hard balls of ice falling from clouds?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Cool dark area away from sun?",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MEDSEA",
-        "hint": "Sea between Europe and Africa?",
+        "answer": "PHILIPP",
+        "hint": "Which island nation is east of Vietnam?",
         "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
       },
       {
-        "answer": "TAJIK",
-        "hint": "High mountain country near Afghanistan?",
+        "answer": "PENINSULA",
+        "hint": "What is land surrounded by water on three sides?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MANITOBA",
+        "hint": "Which central Canadian province has Winnipeg?",
         "startx": 11,
-        "starty": 10,
+        "starty": 4,
         "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "SRILANKA",
-        "hint": "Island nation shaped like a teardrop near India?",
-        "startx": 5,
-        "starty": 14,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "DAWN",
-        "hint": "Time when morning light first shows?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "ASH",
-        "hint": "Gray dust blown out of a volcano?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "GUST",
-        "hint": "Short strong burst of wind?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HOBART",
-        "hint": "Capital city on the island of Tasmania?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "KILIMAN",
-        "hint": "Mountain in Tanzania with white snow?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "KAZAKH",
-        "hint": "Huge Central Asian country with steppe land?",
-        "startx": 3,
-        "starty": 3,
-        "orientation": "across",
         "position": 4
       },
       {
-        "answer": "BOAT",
-        "hint": "Smaller craft that floats on water?",
-        "startx": 4,
-        "starty": 1,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "GANGES",
-        "hint": "River in India that many people visit to pray?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "DAWN",
-        "hint": "Time when morning light first shows?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ASH",
-        "hint": "Gray dust blown out of a volcano?",
+        "answer": "HIMALAY",
+        "hint": "What is the highest mountain range in the world?",
         "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "KALAHARI",
-        "hint": "Desert in southern Africa with sandy plains?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "BRISBAN",
-        "hint": "Sunny city in Queensland, Australia?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CUSTOMS",
-        "hint": "Airport desk where officers check bags?",
-        "startx": 2,
-        "starty": 5,
+        "starty": 11,
         "orientation": "across",
         "position": 5
       },
       {
-        "answer": "MOJAVE",
-        "hint": "Desert in California with Joshua trees?",
-        "startx": 3,
+        "answer": "ALGERIA",
+        "hint": "Which is the largest country in Africa by area?",
+        "startx": 4,
         "starty": 7,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "RAINS",
-        "hint": "Many times when water falls from clouds?",
-        "startx": 8,
-        "starty": 3,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "FERRY",
-        "hint": "Boat that carries cars across water?",
-        "startx": 2,
-        "starty": 12,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "MANILA",
-        "hint": "Capital city of the Philippines?",
-        "startx": 11,
-        "starty": 1,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "BOGOTA",
-        "hint": "Capital city of Colombia in the mountains?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "AFGHAN",
-        "hint": "Landlocked country with Kabul capital?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "USA",
-        "hint": "Country that has fifty states and Washington DC?",
-        "startx": 4,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PATH",
-        "hint": "Narrow way between two places?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "THAMES",
-        "hint": "River that flows through London, England?",
-        "startx": 7,
-        "starty": 10,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "STORM",
-        "hint": "Weather with strong wind and rain?",
-        "startx": 12,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "STREAM",
-        "hint": "Small moving line of water?",
-        "startx": 7,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "ROUTE",
-        "hint": "Way you follow to reach a place?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "RANGE",
-        "hint": "Line of mountains that connect?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "BUTTE",
-        "hint": "Tall narrow hill rising alone?",
-        "startx": 6,
-        "starty": 2,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "TOWN",
-        "hint": "Smaller city with fewer streets?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "HAITI",
-        "hint": "Country that shares the island of Hispaniola?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "DENMARK",
-        "hint": "Country of Lego bricks and Copenhagen?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "JAPAN",
-        "hint": "Island country known for Tokyo and sushi?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "JORDAN",
-        "hint": "Country with Petra carved into rose rock?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "YUKON",
-        "hint": "River that flows through Alaska to the sea?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "FRANCE",
-        "hint": "Country with the Eiffel Tower in Paris?",
-        "startx": 8,
-        "starty": 1,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "MIDDAY",
-        "hint": "Middle of the day when sun is high?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "EQUATOR",
-        "hint": "Imaginary line halfway between poles?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AUSTRIA",
-        "hint": "Country in the Alps with Vienna waltzes?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ANTARCT",
-        "hint": "Icy region around the South Pole?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "AIRPORT",
-        "hint": "Place where planes take off and land?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SEASON",
-        "hint": "Part of the year like summer?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "BOAT",
-        "hint": "Smaller craft that floats on water?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "MEXICO",
-        "hint": "Country south of the United States?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "TORONTO",
-        "hint": "Largest city in Canada?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "COLORADO",
-        "hint": "River that carved the Grand Canyon?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "DELTA",
-        "hint": "Triangle land at a river mouth?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "OLYMPUS",
-        "hint": "Greek mountain said to house the gods?",
-        "startx": 7,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "GEYSER",
-        "hint": "Hot spring that shoots water up?",
-        "startx": 4,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "SWEDEN",
-        "hint": "Scandinavian country with Stockholm capital?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SPRING",
-        "hint": "Season with rain and blooming flowers?",
-        "startx": 12,
-        "starty": 2,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "KOREA",
-        "hint": "Peninsula split into North and South nations?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "OMAN",
-        "hint": "Country with Muscat along the Arabian Sea?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "PONDS",
-        "hint": "Many small pools of water?",
-        "startx": 7,
-        "starty": 12,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "OUTBACK",
-        "hint": "Wide dry center of Australia?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TUNDRA",
-        "hint": "Frozen plain with no trees?",
-        "startx": 6,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "UZBEK",
-        "hint": "Country with Samarkand along the Silk Road?",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GEYSER",
-        "hint": "Hot spring that shoots water up?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BOLIVIA",
-        "hint": "Landlocked country with La Paz high in the Andes?",
-        "startx": 8,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MIST",
-        "hint": "Thin fog that makes air wet?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "VESSEL",
-        "hint": "Another word for a ship or boat?",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "TUNNEL",
-        "hint": "Passage dug through a hill or under water?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "RAIN",
-        "hint": "Water drops falling from clouds?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "OAR",
-        "hint": "Paddle you use to row a boat?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "BOG",
-        "hint": "Soft wetland full of moss?",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "EVEREST",
-        "hint": "Tallest mountain in the world?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FERRY",
-        "hint": "Boat that carries cars across water?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BAY",
-        "hint": "Water partly surrounded by land?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "ANDES",
-        "hint": "Long mountain chain along South America?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CENTER",
-        "hint": "Middle point of a map or town?",
-        "startx": 10,
-        "starty": 5,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "PATH",
-        "hint": "Narrow way between two places?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "BOAT",
-        "hint": "Smaller craft that floats on water?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "VOLGA",
-        "hint": "Longest river in Europe flowing through Russia?",
-        "startx": 2,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "MONTEVID",
-        "hint": "Capital city of Uruguay on the River Plate?",
-        "startx": 2,
-        "starty": 8,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "SOUTH",
-        "hint": "Direction toward the bottom of most maps?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "POND",
-        "hint": "Small still pool of water?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TORNADO",
-        "hint": "Spinning wind column touching ground?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SERBIA",
-        "hint": "Country in the Balkans with Belgrade capital?",
-        "startx": 3,
-        "starty": 12,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "PIER",
-        "hint": "Long dock that sticks into water?",
-        "startx": 4,
-        "starty": 10,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "POLAND",
-        "hint": "Central European country with Warsaw capital?",
-        "startx": 7,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "SRILANKA",
-        "hint": "Island nation shaped like a teardrop near India?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "TUNDRA",
-        "hint": "Frozen plain with no trees?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "MISSOURI",
-        "hint": "Long river that joins the Mississippi?",
-        "startx": 4,
-        "starty": 2,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "KRAKATOA",
-        "hint": "Indonesian volcano that once boomed loudly?",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "KYOTO",
-        "hint": "Japanese city famous for old temples?",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "TOKYO",
-        "hint": "Capital city of Japan full of neon lights?",
-        "startx": 7,
-        "starty": 3,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "RIO",
-        "hint": "Brazilian city famous for Carnival and beaches?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "DELTA",
-        "hint": "Triangle land at a river mouth?",
-        "startx": 6,
-        "starty": 13,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "ASH",
-        "hint": "Gray dust blown out of a volcano?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "EVEREST",
-        "hint": "Tallest mountain in the world?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FALLS",
-        "hint": "Water dropping over a cliff?",
-        "startx": 9,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "KRAKATOA",
-        "hint": "Indonesian volcano that once boomed loudly?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MICHIGAN",
-        "hint": "Great Lake shaped like a mitten?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "IRELAND",
-        "hint": "Green island west of Great Britain?",
-        "startx": 3,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "NILE",
-        "hint": "River that flows north through Egypt?",
-        "startx": 5,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "RAINS",
-        "hint": "Many times when water falls from clouds?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "BEIJING",
-        "hint": "Capital city of China with the Forbidden City?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "ASH",
-        "hint": "Gray dust blown out of a volcano?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "PLAINS",
-        "hint": "Wide flat lands with few trees?",
-        "startx": 3,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "LODGE",
-        "hint": "Small inn near mountains or lakes?",
-        "startx": 4,
-        "starty": 11,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "HUNGARY",
-        "hint": "Country with Budapest along the Danube?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "USA",
-        "hint": "Country that has fifty states and Washington DC?",
-        "startx": 5,
-        "starty": 4,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "STEPPE",
-        "hint": "Dry grassy plain in Asia?",
-        "startx": 2,
-        "starty": 15,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "FOG",
-        "hint": "Thick low cloud that hides roads?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "FUJI",
-        "hint": "Famous volcano mountain in Japan?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "ROAD",
-        "hint": "Path paved for cars between towns?",
+        "answer": "SUMATRA",
+        "hint": "Which large island is part of Indonesia?",
         "startx": 1,
         "starty": 13,
         "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "BOLIVIA",
-        "hint": "Landlocked country with La Paz high in the Andes?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 1
-      },
-      {
-        "answer": "FAULT",
-        "hint": "Crack in Earth where quakes occur?",
-        "startx": 6,
-        "starty": 11,
-        "orientation": "across",
-        "position": 2
-      },
-      {
-        "answer": "RAINS",
-        "hint": "Many times when water falls from clouds?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "UZBEK",
-        "hint": "Country with Samarkand along the Silk Road?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "USA",
-        "hint": "Country that has fifty states and Washington DC?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "TAHOE",
-        "hint": "Blue lake in the Sierra mountains?",
-        "startx": 10,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "HUDSON",
-        "hint": "River by New York City and Statue of Liberty?",
-        "startx": 6,
-        "starty": 14,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "INDUS",
-        "hint": "River that flows through Pakistan to the sea?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "PERSIAN",
-        "hint": "Gulf near Iran with warm blue water?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "CYCLONE",
-        "hint": "Big spinning storm over ocean?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "VICTORIA",
-        "hint": "Huge lake in East Africa shared by three nations?",
-        "startx": 8,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "MICHIGAN",
-        "hint": "Great Lake shaped like a mitten?",
-        "startx": 10,
-        "starty": 1,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "HOTEL",
-        "hint": "Place you sleep when traveling?",
-        "startx": 1,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "CANADA",
-        "hint": "Country north of the United States?",
-        "startx": 7,
-        "starty": 14,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "SPRING",
-        "hint": "Season with rain and blooming flowers?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "FRANCE",
-        "hint": "Country with the Eiffel Tower in Paris?",
-        "startx": 1,
-        "starty": 2,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "TAJIK",
-        "hint": "High mountain country near Afghanistan?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "SLOPE",
-        "hint": "Slanted side of a hill?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "HANOI",
-        "hint": "Capital city of Vietnam in the north?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "RUSSIA",
-        "hint": "Biggest country stretching across Europe and Asia?",
-        "startx": 5,
-        "starty": 5,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "ICELAND",
-        "hint": "Island nation between Greenland and Europe?",
-        "startx": 9,
-        "starty": 6,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SHADE",
-        "hint": "Cool dark area away from sun?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MARSH",
-        "hint": "Grassy wetland near lakes?",
-        "startx": 3,
-        "starty": 5,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "OMAN",
-        "hint": "Country with Muscat along the Arabian Sea?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "MAGMA",
-        "hint": "Melted rock deep underground?",
-        "startx": 1,
-        "starty": 10,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "TAHOE",
-        "hint": "Blue lake in the Sierra mountains?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "down",
-        "position": 9
-      },
-      {
-        "answer": "YEAR",
-        "hint": "Time Earth takes to orbit the sun?",
-        "startx": 1,
-        "starty": 13,
-        "orientation": "across",
-        "position": 10
-      },
-      {
-        "answer": "SAIL",
-        "hint": "Cloth that catches wind on a boat?",
-        "startx": 6,
-        "starty": 12,
-        "orientation": "down",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "FAULT",
-        "hint": "Crack in Earth where quakes occur?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MURRAY",
-        "hint": "River that brings water to southern Australia?",
-        "startx": 6,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LIMA",
-        "hint": "Capital city of Peru near the Pacific Ocean?",
-        "startx": 8,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "BAY",
-        "hint": "Water partly surrounded by land?",
-        "startx": 7,
-        "starty": 11,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "URUGUAY",
-        "hint": "Small country between Argentina and Brazil?",
-        "startx": 6,
-        "starty": 5,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "HOBART",
-        "hint": "Capital city on the island of Tasmania?",
-        "startx": 11,
-        "starty": 2,
-        "orientation": "down",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "VESSEL",
-        "hint": "Another word for a ship or boat?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "SEINE",
-        "hint": "River that flows through Paris, France?",
-        "startx": 5,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TUNNEL",
-        "hint": "Passage dug through a hill or under water?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "KRAKATOA",
-        "hint": "Indonesian volcano that once boomed loudly?",
-        "startx": 3,
-        "starty": 4,
-        "orientation": "across",
-        "position": 4
-      },
-      {
-        "answer": "BREEZE",
-        "hint": "Soft gentle wind on your face?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "LEBANON",
-        "hint": "Small country with Beirut on the coast?",
-        "startx": 2,
-        "starty": 9,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "BAIKAL",
-        "hint": "Deep lake in Siberia with clear water?",
-        "startx": 3,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "SOURCE",
-        "hint": "Place where a river begins?",
-        "startx": 1,
-        "starty": 14,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "BARBADO",
-        "hint": "Island country in the Caribbean Sea?",
-        "startx": 2,
-        "starty": 2,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "ANDES",
-        "hint": "Long mountain chain along South America?",
-        "startx": 7,
-        "starty": 6,
-        "orientation": "across",
-        "position": 10
-      }
-    ],
-    [
-      {
-        "answer": "SEOUL",
-        "hint": "Capital city of South Korea?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LEBANON",
-        "hint": "Small country with Beirut on the coast?",
-        "startx": 9,
-        "starty": 8,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "SWITZER",
-        "hint": "Mountain country known for chocolate and clocks?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SEASON",
-        "hint": "Part of the year like summer?",
-        "startx": 7,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "SUMMER",
-        "hint": "Hottest season with long days?",
-        "startx": 1,
-        "starty": 13,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "PORT",
-        "hint": "City area where ships load goods?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "DENMARK",
-        "hint": "Country of Lego bricks and Copenhagen?",
-        "startx": 3,
-        "starty": 6,
-        "orientation": "across",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "EAST",
-        "hint": "Direction where the sun rises?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MYANMAR",
-        "hint": "Country once called Burma with Yangon city?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BRUNEI",
-        "hint": "Small rich nation on the island of Borneo?",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "HAITI",
-        "hint": "Country that shares the island of Hispaniola?",
-        "startx": 8,
-        "starty": 5,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "KUWAIT",
-        "hint": "Small oil-rich country north of Saudi Arabia?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "MEADOW",
-        "hint": "Open field of grass and flowers?",
-        "startx": 6,
-        "starty": 6,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "USA",
-        "hint": "Country that has fifty states and Washington DC?",
-        "startx": 10,
-        "starty": 9,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "DAY",
-        "hint": "Time Earth takes to spin once?",
-        "startx": 12,
-        "starty": 8,
-        "orientation": "down",
-        "position": 8
-      },
-      {
-        "answer": "CREW",
-        "hint": "Group of people who run a ship?",
-        "startx": 11,
-        "starty": 3,
-        "orientation": "down",
-        "position": 9
-      }
-    ],
-    [
-      {
-        "answer": "SWITZER",
-        "hint": "Mountain country known for chocolate and clocks?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "MEKONG",
-        "hint": "River that flows through Laos, Thailand, and Vietnam?",
-        "startx": 9,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "AIRPORT",
-        "hint": "Place where planes take off and land?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "SCOTLAND",
-        "hint": "Part of the UK known for bagpipes and lochs?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "WEST",
-        "hint": "Direction where the sun sets?",
-        "startx": 1,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "ERIE",
-        "hint": "Great Lake near Buffalo and Cleveland?",
-        "startx": 2,
-        "starty": 11,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "COVE",
-        "hint": "Small sheltered bay for boats?",
-        "startx": 8,
-        "starty": 10,
-        "orientation": "across",
-        "position": 7
-      },
-      {
-        "answer": "EAST",
-        "hint": "Direction where the sun rises?",
-        "startx": 11,
-        "starty": 10,
-        "orientation": "down",
-        "position": 8
-      }
-    ],
-    [
-      {
-        "answer": "CUBA",
-        "hint": "Large island country south of Florida?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "FINLAND",
-        "hint": "Nordic country filled with lakes and saunas?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "LEBANON",
-        "hint": "Small country with Beirut on the coast?",
-        "startx": 2,
-        "starty": 6,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "MAGMA",
-        "hint": "Melted rock deep underground?",
-        "startx": 5,
-        "starty": 2,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "THAMES",
-        "hint": "River that flows through London, England?",
-        "startx": 3,
-        "starty": 2,
-        "orientation": "down",
-        "position": 5
-      },
-      {
-        "answer": "FUJI",
-        "hint": "Famous volcano mountain in Japan?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      }
-    ],
-    [
-      {
-        "answer": "TSUNAMI",
-        "hint": "Huge wave caused by undersea quake?",
-        "startx": 4,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "STRAIT",
-        "hint": "Narrow water path between seas?",
-        "startx": 10,
-        "starty": 4,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "PASSPORT",
-        "hint": "Book that lets you enter other countries?",
-        "startx": 5,
-        "starty": 6,
-        "orientation": "down",
-        "position": 3
-      },
-      {
-        "answer": "GRENADA",
-        "hint": "Island called the Spice Isle in the Caribbean?",
-        "startx": 8,
-        "starty": 4,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "REDSEA",
-        "hint": "Sea between Africa and Arabia?",
-        "startx": 5,
-        "starty": 12,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "HONGKONG",
-        "hint": "Busy Chinese city with a famous harbor?",
-        "startx": 1,
-        "starty": 4,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "HIGHWAY",
-        "hint": "Wide road built for fast travel?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "down",
-        "position": 7
-      },
-      {
-        "answer": "HIMALAYA",
-        "hint": "Huge mountain range in Nepal and Tibet?",
-        "startx": 1,
-        "starty": 1,
-        "orientation": "across",
-        "position": 8
-      },
-      {
-        "answer": "RIO",
-        "hint": "Brazilian city famous for Carnival and beaches?",
-        "startx": 10,
-        "starty": 6,
-        "orientation": "across",
-        "position": 9
-      },
-      {
-        "answer": "MONSOON",
-        "hint": "Season of heavy rain in Asia?",
-        "startx": 12,
-        "starty": 5,
-        "orientation": "down",
-        "position": 10
-      },
-      {
-        "answer": "SLOPE",
-        "hint": "Slanted side of a hill?",
-        "startx": 2,
-        "starty": 10,
-        "orientation": "across",
-        "position": 11
-      }
-    ],
-    [
-      {
-        "answer": "IRAQ",
-        "hint": "Country between the Tigris and Euphrates Rivers?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "LAKE",
-        "hint": "Large body of water in land?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "TURKEY",
-        "hint": "Country that bridges Europe and Asia?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "TUNNEL",
-        "hint": "Passage dug through a hill or under water?",
-        "startx": 3,
-        "starty": 10,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "BREEZE",
-        "hint": "Soft gentle wind on your face?",
-        "startx": 1,
-        "starty": 14,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "MONSOON",
-        "hint": "Season of heavy rain in Asia?",
-        "startx": 1,
-        "starty": 12,
-        "orientation": "across",
-        "position": 6
-      },
-      {
-        "answer": "DENALI",
-        "hint": "Highest mountain in North America?",
-        "startx": 5,
-        "starty": 3,
-        "orientation": "down",
-        "position": 7
-      }
-    ],
-    [
-      {
-        "answer": "SHORE",
-        "hint": "Strip of land touching water?",
-        "startx": 5,
-        "starty": 8,
-        "orientation": "across",
-        "position": 1
-      },
-      {
-        "answer": "ARMENIA",
-        "hint": "Mountain country south of the Caucasus?",
-        "startx": 9,
-        "starty": 5,
-        "orientation": "down",
-        "position": 2
-      },
-      {
-        "answer": "BLIZZARD",
-        "hint": "Snowstorm with cold strong winds?",
-        "startx": 4,
-        "starty": 5,
-        "orientation": "across",
-        "position": 3
-      },
-      {
-        "answer": "FOG",
-        "hint": "Thick low cloud that hides roads?",
-        "startx": 7,
-        "starty": 7,
-        "orientation": "down",
-        "position": 4
-      },
-      {
-        "answer": "CANOE",
-        "hint": "Light boat paddled on lakes?",
-        "startx": 8,
-        "starty": 11,
-        "orientation": "across",
-        "position": 5
-      },
-      {
-        "answer": "LAGOON",
-        "hint": "Quiet pool inside a reef?",
-        "startx": 11,
-        "starty": 7,
-        "orientation": "down",
-        "position": 6
-      },
-      {
-        "answer": "NEPAL",
-        "hint": "Mountain country where climbers visit Everest?",
-        "startx": 5,
-        "starty": 1,
-        "orientation": "down",
         "position": 7
       }
     ],
     [
       {
         "answer": "VALLEY",
-        "hint": "Low land between hills?",
-        "startx": 7,
-        "starty": 5,
-        "orientation": "down",
+        "hint": "What is a low area between hills or mountains?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
         "position": 1
       },
       {
-        "answer": "AUCKLAND",
-        "hint": "Largest city in New Zealand with two harbors?",
-        "startx": 3,
-        "starty": 8,
-        "orientation": "across",
+        "answer": "SEINE",
+        "hint": "Which river flows through Paris?",
+        "startx": 7,
+        "starty": 3,
+        "orientation": "down",
         "position": 2
       },
       {
-        "answer": "DUNES",
-        "hint": "Many hills of sand near beaches?",
-        "startx": 10,
-        "starty": 8,
-        "orientation": "down",
+        "answer": "GOBI",
+        "hint": "Which desert lies in northern China and Mongolia?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "ZAMBEZI",
-        "hint": "River with the mighty Victoria Falls?",
-        "startx": 6,
-        "starty": 6,
+        "answer": "KOSOVO",
+        "hint": "Which disputed territory is in southeastern Europe?",
+        "startx": 5,
+        "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "OASIS",
-        "hint": "Green water spot in a desert?",
-        "startx": 3,
-        "starty": 7,
+        "answer": "LAOS",
+        "hint": "Which landlocked country is in Southeast Asia?",
+        "startx": 10,
+        "starty": 1,
         "orientation": "down",
         "position": 5
       },
       {
-        "answer": "NIGER",
-        "hint": "River that makes a big bend in West Africa?",
-        "startx": 12,
-        "starty": 5,
+        "answer": "MONGOLIA",
+        "hint": "Which landlocked country is between China and Russia?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ATLANTA",
+        "hint": "What is the capital of Georgia?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "PACIFIC",
+        "hint": "What is the largest ocean on Earth?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      },
+      {
+        "answer": "INDONESIA",
+        "hint": "Which country has Jakarta as its capital?",
+        "startx": 3,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "EQUATOR",
+        "hint": "What imaginary line circles Earth at 0 degrees latitude?",
+        "startx": 11,
+        "starty": 8,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "LITTLE",
+        "hint": "What is the capital of Arkansas?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MONTPEL",
+        "hint": "What is the capital of Vermont?",
+        "startx": 5,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SYDNEY",
+        "hint": "Which Australian city has the famous Opera House?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "DOMINICA",
+        "hint": "Which island is called the 'Nature Isle'?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SWAZI",
+        "hint": "Which kingdom changed its name to Eswatini?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "BAHAMAS",
+        "hint": "Which island chain is north of Cuba?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "TOGO",
+        "hint": "Which narrow country lies between Ghana and Benin?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "RICHMOND",
+        "hint": "What is the capital of Virginia?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "URUGUAY",
+        "hint": "Which small South American country is west of Brazil?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PORTUGAL",
+        "hint": "Which country shares the Iberian Peninsula with Spain?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "CUBA",
+        "hint": "Which Caribbean island is south of Florida?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "AUGUSTA",
+        "hint": "What is the capital of Maine?",
+        "startx": 10,
+        "starty": 4,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "HAIL",
-        "hint": "Hard balls of ice falling from clouds?",
+        "answer": "CONGO",
+        "hint": "Which Central African country has Brazzaville as its capital?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "JORDAN",
+        "hint": "Which country shares the Dead Sea with Israel?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PAKISTAN",
+        "hint": "Which country is between India and Afghanistan?",
+        "startx": 7,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KARAKORAM",
+        "hint": "Which mountain range includes K2?",
+        "startx": 4,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BERMUDA",
+        "hint": "Which island is in the North Atlantic Ocean?",
         "startx": 1,
         "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CALIF",
+        "hint": "Which U.S. state has Los Angeles and San Francisco?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "WEST",
+        "hint": "What direction does the sun set in?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "HURON",
+        "hint": "Which Great Lake is between Michigan and Ontario?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "JACKSON",
+        "hint": "What is the capital of Mississippi?",
+        "startx": 7,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "YANGTZE",
+        "hint": "What is the longest river in Asia?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "TURKEY",
+        "hint": "Which country connects Europe and Asia?",
+        "startx": 10,
+        "starty": 3,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "YUKON",
+        "hint": "Which Canadian territory is in the northwest?",
+        "startx": 5,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PHOENIX",
+        "hint": "What is the capital of Arizona?",
+        "startx": 1,
+        "starty": 10,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "RALEIGH",
+        "hint": "What is the capital of North Carolina?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "NUNAVUT",
+        "hint": "Which Canadian territory has Iqaluit as its capital?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "COLUMBIA",
+        "hint": "What is the capital of South Carolina?",
+        "startx": 4,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "CANADA",
+        "hint": "Which country is north of the United States?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ECUADOR",
+        "hint": "Which country is on the equator in South America?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "SOMALIA",
+        "hint": "Which Horn of Africa country faces the Indian Ocean?",
+        "startx": 3,
+        "starty": 5,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ALBANIA",
+        "hint": "Which Balkan country borders the Adri‌atic Sea?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "CONCORD",
+        "hint": "What is the capital of New Hampshire?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ROCKIES",
+        "hint": "Which mountains stretch from Canada to New Mexico?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VICTORIA",
+        "hint": "What is the largest waterfall in Africa?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TUNISIA",
+        "hint": "Which small North African country is between Algeria and Libya?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "HARRIS",
+        "hint": "What is the capital of Pennsylvania?",
+        "startx": 3,
+        "starty": 13,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "SICILY",
+        "hint": "Which island is south of mainland Italy?",
+        "startx": 7,
+        "starty": 11,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ANTIGUA",
+        "hint": "Which island is part of a nation with Barbuda?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "UZBEK",
+        "hint": "Which country has Tashkent as its capital?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "ATHENS",
+        "hint": "What is the capital of Greece?",
+        "startx": 7,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "KENYA",
+        "hint": "Which East African country has Nairobi as its capital?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "GUYANA",
+        "hint": "Which South American country is part of the mainland Caribbean?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "JAMAICA",
+        "hint": "Which island is known for reggae music?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "TROPIC",
+        "hint": "What zone lies between the Tropic of Cancer and Capricorn?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "POLAND",
+        "hint": "Which country has Warsaw as its capital?",
+        "startx": 10,
+        "starty": 5,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "MALI",
+        "hint": "Which West African country has Bamako as its capital?",
+        "startx": 9,
+        "starty": 8,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "BAFFIN",
+        "hint": "Which Canadian island is near Greenland?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AZERBAIJ",
+        "hint": "Which country is on the Caspian Sea? ",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "VENEZUELA",
+        "hint": "Which country has Caracas as its capital?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "QUEBEC",
+        "hint": "Which Canadian province is primarily French-speaking?",
+        "startx": 6,
+        "starty": 11,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MONTREAL",
+        "hint": "Which Canadian city is in Quebec?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "HAWAII",
+        "hint": "Which U.S. state is an island chain in the Pacific?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ARMENIA",
+        "hint": "Which country is south of Georgia and north of Iran?",
+        "startx": 2,
+        "starty": 13,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "HOBART",
-        "hint": "Capital city on the island of Tasmania?",
-        "startx": 1,
+        "answer": "HAITI",
+        "hint": "Which country shares an island with the Dominican Republic?",
+        "startx": 6,
+        "starty": 1,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "NORTH",
+        "hint": "What direction is toward the top of most maps?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MOLDOVA",
+        "hint": "Which small country is between Romania and Ukraine?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SAHARA",
+        "hint": "What is the world's largest hot desert?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "KAZAKH",
+        "hint": "Which Central Asian country is the largest landlocked country?",
+        "startx": 7,
         "starty": 10,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "LIBERIA",
+        "hint": "Which African country was founded by freed slaves?",
+        "startx": 10,
+        "starty": 4,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MONGOL",
+        "hint": "Which country is between China and Russia?",
+        "startx": 1,
+        "starty": 4,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "LIECHTEN",
+        "hint": "Which microstate is between Switzerland and Austria?",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "HONSHU",
+        "hint": "What is Japan's main island?",
+        "startx": 2,
+        "starty": 3,
         "orientation": "down",
         "position": 8
       },
       {
-        "answer": "SUN",
-        "hint": "Star that lights our planet?",
-        "startx": 10,
-        "starty": 12,
+        "answer": "AMAZON",
+        "hint": "What is the world's largest river by volume?",
+        "startx": 7,
+        "starty": 13,
         "orientation": "across",
         "position": 9
       }
     ],
     [
       {
-        "answer": "KAYAK",
-        "hint": "Small boat with a covered top?",
-        "startx": 5,
-        "starty": 8,
+        "answer": "BOSTON",
+        "hint": "Which U.S. city is famous for its freedom trail?",
+        "startx": 3,
+        "starty": 7,
         "orientation": "across",
         "position": 1
       },
       {
-        "answer": "ASIA",
-        "hint": "Largest continent with China and India?",
+        "answer": "ROMANIA",
+        "hint": "Which country is north of Bulgaria and south of Ukraine?",
         "startx": 8,
-        "starty": 8,
+        "starty": 3,
         "orientation": "down",
         "position": 2
       },
       {
-        "answer": "QATAR",
-        "hint": "Tiny rich country on a Persian Gulf peninsula?",
-        "startx": 6,
-        "starty": 7,
-        "orientation": "down",
+        "answer": "COLUMB",
+        "hint": "What is the capital of Ohio?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
         "position": 3
       },
       {
-        "answer": "CENTER",
-        "hint": "Middle point of a map or town?",
-        "startx": 1,
-        "starty": 11,
+        "answer": "NEWBRUN",
+        "hint": "Which bilingual Canadian province borders Maine?",
+        "startx": 4,
+        "starty": 3,
         "orientation": "across",
         "position": 4
       },
       {
-        "answer": "TICKET",
-        "hint": "Paper that lets you ride a plane?",
-        "startx": 1,
+        "answer": "MIAMI",
+        "hint": "Which Florida city has beaches and Art Deco buildings?",
+        "startx": 6,
         "starty": 9,
-        "orientation": "down",
+        "orientation": "across",
         "position": 5
       },
       {
-        "answer": "MONSOON",
-        "hint": "Season of heavy rain in Asia?",
-        "startx": 3,
+        "answer": "MALTA",
+        "hint": "Which small island nation is south of Italy?",
+        "startx": 9,
         "starty": 9,
         "orientation": "down",
         "position": 6
       },
       {
-        "answer": "INDUS",
-        "hint": "River that flows through Pakistan to the sea?",
-        "startx": 8,
-        "starty": 10,
+        "answer": "BOLIVIA",
+        "hint": "Which landlocked South American country has La Paz?",
+        "startx": 3,
+        "starty": 13,
         "orientation": "across",
         "position": 7
       },
       {
-        "answer": "MOUTH",
-        "hint": "Place where a river ends?",
-        "startx": 11,
-        "starty": 8,
+        "answer": "ONTARIO",
+        "hint": "Which Great Lake is north of New York?",
+        "startx": 4,
+        "starty": 7,
         "orientation": "down",
         "position": 8
+      },
+      {
+        "answer": "BAHRAIN",
+        "hint": "Which island country is in the Persian Gulf?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 9
+      },
+      {
+        "answer": "CANBERRA",
+        "hint": "What is the capital of Australia?",
+        "startx": 1,
+        "starty": 8,
+        "orientation": "down",
+        "position": 10
+      }
+    ],
+    [
+      {
+        "answer": "GUINEA",
+        "hint": "Which West African country has Conakry as its capital?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MICHIGAN",
+        "hint": "Which Great Lake is entirely within the U.S.?",
+        "startx": 8,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ZAMBIA",
+        "hint": "Which landlocked country has Victoria Falls?",
+        "startx": 4,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "MACEDON",
+        "hint": "Which European country has Skopje as its capital?",
+        "startx": 6,
+        "starty": 3,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "MONTENEG",
+        "hint": "Which Balkan country has Podgorica?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "GRENADA",
+        "hint": "Which spice island is known for nutmeg?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "BRITCOL",
+        "hint": "Which Canadian province is on the Pacific Ocean?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "UKRAINE",
+        "hint": "Which European country has Kyiv as its capital?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "IRELAND",
+        "hint": "Which island country is west of the United Kingdom?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BELGIUM",
+        "hint": "Which European country has Brussels as its capital?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SURINAME",
+        "hint": "Which South American country has Paramaribo as its capital?",
+        "startx": 2,
+        "starty": 12,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "MADRID",
+        "hint": "What is the capital of Spain?",
+        "startx": 2,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "THAMES",
+        "hint": "Which river flows through London?",
+        "startx": 7,
+        "starty": 10,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BERLIN",
+        "hint": "What is the capital of Germany?",
+        "startx": 6,
+        "starty": 14,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "NEWFOUND",
+        "hint": "Which Canadian island is off the east coast?",
+        "startx": 2,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "MALDIVES",
+        "hint": "Which low-lying island nation is in the Indian Ocean?",
+        "startx": 9,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "GANGES",
+        "hint": "Which river is sacred in India?",
+        "startx": 3,
+        "starty": 3,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BATON",
+        "hint": "What is the capital of Louisiana?",
+        "startx": 8,
+        "starty": 5,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "ANDES",
+        "hint": "Which mountain range runs along western South America?",
+        "startx": 5,
+        "starty": 11,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ARGENTINA",
+        "hint": "Which South American country has Buenos Aires as its capital?",
+        "startx": 12,
+        "starty": 1,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "JAPAN",
+        "hint": "Which island nation is in East Asia?",
+        "startx": 2,
+        "starty": 4,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "ANGOLA",
+        "hint": "Which country is south of the Democratic Republic of the Congo?",
+        "startx": 6,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "SOUTH",
+        "hint": "What direction is opposite to north?",
+        "startx": 5,
+        "starty": 13,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "MISSIS",
+        "hint": "What major river flows from Minnesota to the Gulf of Mexico?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PROVID",
+        "hint": "What is the capital of Rhode Island?",
+        "startx": 4,
+        "starty": 3,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "ZIMBABWE",
+        "hint": "Which country has Harare as its capital?",
+        "startx": 7,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "LIBYA",
+        "hint": "Which North African country is south of the Mediterranean Sea?",
+        "startx": 5,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CAPITAL",
+        "hint": "What is the main city of a country or state?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "AUSTIN",
+        "hint": "What is the capital of Texas?",
+        "startx": 9,
+        "starty": 9,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "SUPERIOR",
+        "hint": "Which Great Lake is the largest by area?",
+        "startx": 4,
+        "starty": 13,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "TIGRIS",
+        "hint": "Which river flows through Baghdad?",
+        "startx": 11,
+        "starty": 10,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "EUROPE",
+        "hint": "Which continent includes Germany and Italy?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 9
+      }
+    ],
+    [
+      {
+        "answer": "MONTGOM",
+        "hint": "What is the capital of Alabama?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "POTOMAC",
+        "hint": "Which river flows through Washington DC?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "SEYCHEL",
+        "hint": "Which island country is in the Indian Ocean?",
+        "startx": 5,
+        "starty": 12,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "PLATEAU",
+        "hint": "What is a flat elevated landform?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "SYRIA",
+        "hint": "Which country has Damascus as its capital?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "EVEREST",
+        "hint": "What is the tallest mountain above sea level?",
+        "startx": 10,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "LESOTHO",
+        "hint": "Which country is entirely surrounded by South Africa?",
+        "startx": 6,
+        "starty": 14,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "SIERRA",
+        "hint": "Which West African country has Freetown as its capital?",
+        "startx": 2,
+        "starty": 9,
+        "orientation": "down",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "INDIAN",
+        "hint": "Which ocean is east of Africa and south of India?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "VATICAN",
+        "hint": "Which city-state is the smallest country in the world?",
+        "startx": 3,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "COUNTRY",
+        "hint": "What is a nation with its own government and borders?",
+        "startx": 8,
+        "starty": 4,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BURUNDI",
+        "hint": "Which country is south of Rwanda?",
+        "startx": 6,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "FLORIDA",
+        "hint": "Which U.S. state is a peninsula with Miami?",
+        "startx": 12,
+        "starty": 5,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "CONTINENT",
+        "hint": "What is one of Earth's seven large landmasses?",
+        "startx": 10,
+        "starty": 2,
+        "orientation": "down",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "STLUCIA",
+        "hint": "Which island has the Pitons?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "PERU",
+        "hint": "Which South American country has Lima as its capital?",
+        "startx": 6,
+        "starty": 4,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "TOPEKA",
+        "hint": "What is the capital of Kansas?",
+        "startx": 9,
+        "starty": 2,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "TRENTON",
+        "hint": "What is the capital of New Jersey?",
+        "startx": 5,
+        "starty": 2,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "NAMIBIA",
+        "hint": "Which country has the Namib Desert?",
+        "startx": 11,
+        "starty": 2,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "PRINCE",
+        "hint": "Which smallest Canadian province is shaped like a crescent?",
+        "startx": 1,
+        "starty": 5,
+        "orientation": "across",
+        "position": 6
+      }
+    ],
+    [
+      {
+        "answer": "RWANDA",
+        "hint": "Which small African country is known for mountain gorillas?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "BEIJING",
+        "hint": "What is the capital of China?",
+        "startx": 6,
+        "starty": 2,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "JAVA",
+        "hint": "Which Indonesian island has Jakarta?",
+        "startx": 6,
+        "starty": 5,
+        "orientation": "across",
+        "position": 3
+      },
+      {
+        "answer": "SANMARIN",
+        "hint": "Which country is surrounded by Italy?",
+        "startx": 3,
+        "starty": 2,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "TONGA",
+        "hint": "Which Polynesian kingdom is made of many islands?",
+        "startx": 9,
+        "starty": 1,
+        "orientation": "down",
+        "position": 5
+      },
+      {
+        "answer": "MEKONG",
+        "hint": "Which river flows through Cambodia and Vietnam?",
+        "startx": 5,
+        "starty": 3,
+        "orientation": "across",
+        "position": 6
+      },
+      {
+        "answer": "ALBERTA",
+        "hint": "Which western Canadian province has the Rockies?",
+        "startx": 8,
+        "starty": 7,
+        "orientation": "down",
+        "position": 7
+      },
+      {
+        "answer": "BRASILIA",
+        "hint": "What is the capital of Brazil?",
+        "startx": 1,
+        "starty": 13,
+        "orientation": "across",
+        "position": 8
+      }
+    ],
+    [
+      {
+        "answer": "EUPHRAT",
+        "hint": "Which river runs through Syria and Iraq?",
+        "startx": 3,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "AFRICA",
+        "hint": "What is the largest continent by area?",
+        "startx": 7,
+        "starty": 5,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "FUJI",
+        "hint": "What is Japan's tallest mountain?",
+        "startx": 4,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "ISTHMUS",
+        "hint": "What is a narrow strip of land connecting two larger areas?",
+        "startx": 9,
+        "starty": 5,
+        "orientation": "down",
+        "position": 4
+      },
+      {
+        "answer": "BENIN",
+        "hint": "Which West African country was once called Dahomey?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "DESERT",
+        "hint": "What type of dry, barren landscape covers one-third of Earth?",
+        "startx": 2,
+        "starty": 8,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "TEXAS",
+        "hint": "What is the second-largest U.S. state by area?",
+        "startx": 1,
+        "starty": 11,
+        "orientation": "across",
+        "position": 7
+      }
+    ],
+    [
+      {
+        "answer": "TOKYO",
+        "hint": "What is the capital of Japan?",
+        "startx": 4,
+        "starty": 7,
+        "orientation": "across",
+        "position": 1
+      },
+      {
+        "answer": "CHICAGO",
+        "hint": "Which U.S. city is on the shore of Lake Michigan?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "down",
+        "position": 2
+      },
+      {
+        "answer": "BOTSWANA",
+        "hint": "Which country has the Kalahari Desert?",
+        "startx": 8,
+        "starty": 6,
+        "orientation": "down",
+        "position": 3
+      },
+      {
+        "answer": "BARBADOS",
+        "hint": "Which small island is in the eastern Caribbean?",
+        "startx": 1,
+        "starty": 9,
+        "orientation": "across",
+        "position": 4
+      },
+      {
+        "answer": "CAMEROON",
+        "hint": "Which country is shaped like a 'hinge' in Africa?",
+        "startx": 5,
+        "starty": 1,
+        "orientation": "across",
+        "position": 5
+      },
+      {
+        "answer": "ALBANY",
+        "hint": "What is the capital of New York?",
+        "startx": 2,
+        "starty": 6,
+        "orientation": "down",
+        "position": 6
+      },
+      {
+        "answer": "FINLAND",
+        "hint": "Which country is east of Sweden and west of Russia?",
+        "startx": 6,
+        "starty": 12,
+        "orientation": "across",
+        "position": 7
+      },
+      {
+        "answer": "TRINIDAD",
+        "hint": "Which island is part of a twin-island Caribbean nation?",
+        "startx": 10,
+        "starty": 6,
+        "orientation": "down",
+        "position": 8
+      },
+      {
+        "answer": "GREENLD",
+        "hint": "Which world's largest island belongs to Denmark?",
+        "startx": 12,
+        "starty": 6,
+        "orientation": "down",
+        "position": 9
+      },
+      {
+        "answer": "MERIDIAN",
+        "hint": "What is a line of longitude on Earth?",
+        "startx": 2,
+        "starty": 3,
+        "orientation": "across",
+        "position": 10
       }
     ]
   ]
